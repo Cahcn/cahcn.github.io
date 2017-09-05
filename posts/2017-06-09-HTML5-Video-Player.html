@@ -16,6 +16,8 @@
     <title>国内视频网站HTML5 播放器 | Cahcn的自留地 | 广播收听、资讯</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     
+    <meta name="theme-color" content="#3F51B5">
+    
     
     <meta name="keywords" content="enjoy">
     <meta name="description" content="Bilibili浏览器打开 https://www.bilibili.com/blackboard/help.html#p ，点击【试用点我】 斗鱼TV替换斗鱼的Flash弹幕播放器： https://github.com/spacemeowx2/DouyuHTML5Playerhttps://chrome.google.com/webstore/detail/hbocinidadgpnbcamh">
@@ -32,8 +34,8 @@
     
         <link rel="alternate" type="application/atom+xml" title="Cahcn的自留地" href="/atom.xml">
     
-    <link rel="shortcut icon" href="/">
-    <link rel="stylesheet" href="/css/style.css?v=1.6.13">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="//unpkg.com/hexo-theme-material-indigo@latest/css/style.css">
     <script>window.lazyScripts=[]</script>
 
     <!-- custom head -->
@@ -44,24 +46,73 @@
 <body>
     <div id="loading" class="active"></div>
 
-    <aside id="menu"  >
+    <aside id="menu" class="hide" >
   <div class="inner flex-row-vertical">
     <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
         <i class="icon icon-lg icon-close"></i>
     </a>
-    <div class="brand-wrap" style="background-image:url(/)">
+    <div class="brand-wrap" style="background-image:url(/img/brand.jpg)">
       <div class="brand">
-        <a href="/" class="avatar waves-effect waves-circle waves-light">
-          <img src="/">
+        <a href="http://tva1.sinaimg.cn/crop.0.0.180.180.180/7ae04befjw8f1wtigkgdaj2050050dg4.jpg" class="avatar waves-effect waves-circle waves-light">
+          <img src="http://tva1.sinaimg.cn/crop.0.0.180.180.180/7ae04befjw8f1wtigkgdaj2050050dg4.jpg">
         </a>
         <hgroup class="introduce">
           <h5 class="nickname">Cahcn</h5>
-          <a href="mailto:undefined" class="mail">
+          <a href="mailto:gsradio081206@163.com" title="gsradio081206@163.com" class="mail">gsradio081206@163.com</a>
         </hgroup>
       </div>
     </div>
     <div class="scroll-wrap flex-col">
       <ul class="nav">
+        
+            <li class="waves-block waves-effect">
+              <a href="/"  >
+                <i class="icon icon-lg icon-home"></i>
+                主页
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/archives"  >
+                <i class="icon icon-lg icon-archives"></i>
+                归档
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/tags"  >
+                <i class="icon icon-lg icon-tags"></i>
+                标签
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/categories"  >
+                <i class="icon icon-lg icon-th-list"></i>
+                分类
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="http://www.weibo.com/gsr081206" target="_blank" >
+                <i class="icon icon-lg icon-weibo"></i>
+                微博
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/about" target="_blank" >
+                <i class="icon icon-lg icon-about"></i>
+                关于
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="http://blog.sina.com.cn/gsr081206" target="_blank" >
+                <i class="icon icon-lg icon-link"></i>
+                鉴河之声
+              </a>
+            </li>
         
       </ul>
     </div>
@@ -76,6 +127,20 @@
         </a>
         <div class="flex-col header-title ellipsis">国内视频网站HTML5 播放器</div>
         
+        <div class="search-wrap" id="search-wrap">
+            <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
+                <i class="icon icon-lg icon-chevron-left"></i>
+            </a>
+            <input type="text" id="key" class="search-input" autocomplete="off" placeholder="输入感兴趣的关键字">
+            <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="search">
+                <i class="icon icon-lg icon-search"></i>
+            </a>
+        </div>
+        
+        
+        <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menuShare">
+            <i class="icon icon-lg icon-share-alt"></i>
+        </a>
         
     </div>
 </header>
@@ -102,6 +167,13 @@
 
 <div class="container body-wrap">
     
+    <aside class="post-widget">
+        <nav class="post-toc-wrap" id="post-toc">
+            <h4>TOC</h4>
+            <ol class="post-toc"><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#Bilibili"><span class="post-toc-number">1.</span> <span class="post-toc-text">Bilibili</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#斗鱼TV"><span class="post-toc-number">2.</span> <span class="post-toc-text">斗鱼TV</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#熊猫TV"><span class="post-toc-number">3.</span> <span class="post-toc-text">熊猫TV</span></a></li><li class="post-toc-item post-toc-level-4"><a class="post-toc-link" href="#优酷（测试版）"><span class="post-toc-number">4.</span> <span class="post-toc-text">优酷（测试版）</span></a></li></ol>
+        </nav>
+    </aside>
+    
 <article id="post-2017-06-09-HTML5-Video-Player"
   class="post-article article-type-post fade" itemprop="blogPost">
 
@@ -114,6 +186,10 @@
 
 
             
+<span id="busuanzi_container_page_pv" title="文章总阅读量" style='display:none'>
+    <i class="icon icon-eye icon-pr"></i><span id="busuanzi_value_page_pv"></span>
+</span>
+
 
         </div>
         <div class="post-content" id="post-content" itemprop="postContent">
@@ -127,12 +203,18 @@
         <blockquote class="post-copyright">
     <div class="content">
         
+<span class="post-time">
+    最后更新时间：<time datetime="2017-06-18T14:57:51.771Z" itemprop="dateUpdated">2017-06-18 22:57:51</time>
+</span><br>
 
+
+        
+        这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用，示例：<a href="/posts/2017-06-09-HTML5-Video-Player.html" target="_blank" rel="external">https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html</a>
         
     </div>
     <footer>
         <a href="https://cahcn.github.io">
-            <img src="/" alt="Cahcn">
+            <img src="http://tva1.sinaimg.cn/crop.0.0.180.180.180/7ae04befjw8f1wtigkgdaj2050050dg4.jpg" alt="Cahcn">
             Cahcn
         </a>
     </footer>
@@ -147,6 +229,51 @@
 
 
             
+<div class="page-share-wrap">
+    
+
+<div class="page-share" id="pageShare">
+    <ul class="reset share-icons">
+      <li>
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html&title=《国内视频网站HTML5 播放器》 — Cahcn的自留地&pic=http://tva1.sinaimg.cn/crop.0.0.180.180.180/7ae04befjw8f1wtigkgdaj2050050dg4.jpg" data-title="微博">
+          <i class="icon icon-weibo"></i>
+        </a>
+      </li>
+      <li>
+        <a class="weixin share-sns wxFab" href="javascript:;" data-title="微信">
+          <i class="icon icon-weixin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html&title=《国内视频网站HTML5 播放器》 — Cahcn的自留地&source=Cahcn的自留地" data-title=" QQ">
+          <i class="icon icon-qq"></i>
+        </a>
+      </li>
+      <li>
+        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html" data-title=" Facebook">
+          <i class="icon icon-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=《国内视频网站HTML5 播放器》 — Cahcn的自留地&url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html&via=https://cahcn.github.io" data-title=" Twitter">
+          <i class="icon icon-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html" data-title=" Google+">
+          <i class="icon icon-google-plus"></i>
+        </a>
+      </li>
+    </ul>
+ </div>
+
+
+
+    <a href="javascript:;" id="shareFab" class="page-share-fab waves-effect waves-circle">
+        <i class="icon icon-share-alt icon-lg"></i>
+    </a>
+</div>
+
 
 
         </div>
@@ -199,6 +326,15 @@
         <footer class="footer">
     <div class="top">
         
+<p>
+    <span id="busuanzi_container_site_uv" style='display:none'>
+        站点总访客数：<span id="busuanzi_value_site_uv"></span>
+    </span>
+    <span id="busuanzi_container_site_pv" style='display:none'>
+        站点总访问量：<span id="busuanzi_value_site_pv"></span>
+    </span>
+</p>
+
 
         <p>
             
@@ -222,19 +358,87 @@
 <a href="javascript:;" id="gotop" class="waves-effect waves-circle waves-light"><span class="icon icon-lg icon-chevron-up"></span></a>
 
 
+
+<div class="global-share" id="globalShare">
+    <ul class="reset share-icons">
+      <li>
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html&title=《国内视频网站HTML5 播放器》 — Cahcn的自留地&pic=http://tva1.sinaimg.cn/crop.0.0.180.180.180/7ae04befjw8f1wtigkgdaj2050050dg4.jpg" data-title="微博">
+          <i class="icon icon-weibo"></i>
+        </a>
+      </li>
+      <li>
+        <a class="weixin share-sns wxFab" href="javascript:;" data-title="微信">
+          <i class="icon icon-weixin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html&title=《国内视频网站HTML5 播放器》 — Cahcn的自留地&source=Cahcn的自留地" data-title=" QQ">
+          <i class="icon icon-qq"></i>
+        </a>
+      </li>
+      <li>
+        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html" data-title=" Facebook">
+          <i class="icon icon-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=《国内视频网站HTML5 播放器》 — Cahcn的自留地&url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html&via=https://cahcn.github.io" data-title=" Twitter">
+          <i class="icon icon-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html" data-title=" Google+">
+          <i class="icon icon-google-plus"></i>
+        </a>
+      </li>
+    </ul>
+ </div>
+
+
+<div class="page-modal wx-share" id="wxShare">
+    <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAN4AAADeCAAAAAB3DOFrAAACvElEQVR42u3aQW7jMBAEQP//09nrAobk7iEpJ0DpZCSxxVIActwzr1d8/fx3vf/k6rr/y6vfvt/3/fXmCw8PD29h6cki7t+bP6CrRefU+zXj4eHhneZdLeh+Ee0+fPXg7mH5IYGHh4f3V3i7SuTkkeHh4eH9RV5eat+X18mnJa/x8PDwvsXLC9/8AFiJM76QteDh4eHFvLyL9HteH+nv4eHh4S131WfNrVkbbDZk8GG1eHh4eAd4+Yabl8h5+bseeUSPDw8PD+9x3uyQmLXNkniiDpHx8PDwtvJmIWxbfLcLzZtbH6IKPDw8vGO8ltQeA7PjZEPZjYeHh/cIb7YF51t5sa3H3wku74KHh4f3CC/ZlPNNfBYBrxTi0bmHh4eHt1oVv2a3nGXG7XvbI6TpjOHh4eGt8pK4drbd57FvG3+0gwV4eHh4e3mzIaf8MRXb92jU4MMhgYeHh7eJl2/Q62NY7b1WBg7w8PDwzvHajbgNbdtQeCXUKL4x4OHh4S3wkvB0pcXVFuvtRh8NXeHh4eEd5s0K5WSJxbBU0NxKHhAeHh7eOd6skF0JCPL2/6x5ViTTeHh4eMu8pESejW214wLrjwYPDw/vBC9f1nrjPy+R2+x5Q5iLh4eHF/OSTXnlAGhbYm3kURwJeHh4eJt4eftqVlKvtLJm+KINhoeHh3eAl3x0FAcEi24HuYriGw8PD+8Yr84w4jAi39xnsUiUteDh4eE9yMvHCNqoNy/TN6TUeHh4eJt4P+XVFrjJSGv+f8gHYfHw8PDO8WbF8WzYNI9rV17j4eHhPcNrB0Z3JaWzIYP2sMHDw8M7x5u182eBxd4rGh3Aw8PD+ypvxkiOnJVm2LaDAQ8PD+9LvFkc3LKjIwcPDw/vGC9fSruhty2xpMVVHwx4eHh4W3krA1LtbdqieRYr4+Hh4R3j/QOOV3OoQugmNAAAAABJRU5ErkJggg==" alt="微信分享二维码">
+</div>
+
+
+
+
     <script src="//cdn.bootcss.com/node-waves/0.7.4/waves.min.js"></script>
 <script>
-var BLOG = { ROOT: '/', SHARE: , REWARD: false };
+var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 </script>
 
-<script src="/js/main.min.js?v=1.6.13"></script>
+<script src="//unpkg.com/hexo-theme-material-indigo@latest/js/main.min.js"></script>
+
+
+<div class="search-panel" id="search-panel">
+    <ul class="search-result" id="search-result"></ul>
+</div>
+<template id="search-tpl">
+<li class="item">
+    <a href="{path}" class="waves-block waves-effect">
+        <div class="title ellipsis" title="{title}">{title}</div>
+        <div class="flex-row flex-middle">
+            <div class="tags ellipsis">
+                {tags}
+            </div>
+            <time class="flex-col time">{date}</time>
+        </div>
+    </a>
+</li>
+</template>
+
+<script src="//unpkg.com/hexo-theme-material-indigo@latest/js/search.min.js" async></script>
 
 
 
 
 
+
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 
 
