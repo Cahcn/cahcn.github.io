@@ -98,13 +98,7 @@
     <content type="html"><![CDATA[<p>据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。</p>
 <p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
 <p>因时差原因，汉语广播节目中提到的时间比北京时间晚11小时</p>
-<p>RAE公布的频率表：<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español" title="">
-                </div>
-                <div class="image-caption">Esquema-WRMI-Español</div>
-            </figure><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
+<p>RAE公布的频率表：<br><img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español"><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
 ]]></content>
     
     <summary type="html">
@@ -465,11 +459,10 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-08-21T16:14:40.131Z</updated>
+    <updated>2017-09-05T15:16:08.466Z</updated>
     
     <content type="html"><![CDATA[<p>2017.5.21建立，5.25正式上线，纪念一下</p>
-<h4 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h4><p>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数</p>
-<p>目前站点存在的问题有（2017.8.17更新）：<br>1.手机版的自适应问题<br>2.Archives页面超过10篇文章，底部右下方无下一页按钮翻页<br>3.LightOne主题无法使用表格展现内容<br>4.文章底部的评论去除不干净（不打算开放评论了…）<br>5.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示…</p>
+<h4 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h4><p>2017.5.21　5月20日筹备，熬夜调试好，5月21日早试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>1.手机版的自适应问题<br>2.Archives页面超过10篇文章，底部右下方无下一页按钮翻页<br>3.LightOne主题无法使用表格展现内容<br>4.文章底部的评论去除不干净（不打算开放评论了…）<br>5.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示…</p>
 <hr>
 <h3 id="有用的链接"><a href="#有用的链接" class="headerlink" title="有用的链接"></a>有用的链接</h3><p><a href="http://www.jianshu.com/p/701b1095da11" target="_blank" rel="external">http://www.jianshu.com/p/701b1095da11</a>  手把手教你建github技术博客<br><a href="http://www.jianshu.com/p/465830080ea9" target="_blank" rel="external">http://www.jianshu.com/p/465830080ea9</a>  HEXO+Github,搭建属于自己的博客<br><a href="https://yq.aliyun.com/articles/8607" target="_blank" rel="external">https://yq.aliyun.com/articles/8607</a>    Hexo折腾记——基本配置篇<br><a href="http://www.jianshu.com/p/b7886271e21a" target="_blank" rel="external">http://www.jianshu.com/p/b7886271e21a</a>  Hexo安装和配置<br><a href="http://www.jianshu.com/p/e99ed60390a8" target="_blank" rel="external">http://www.jianshu.com/p/e99ed60390a8</a>  20分钟教你使用hexo搭建github博客<br><a href="http://www.jianshu.com/p/db7e64d86067" target="_blank" rel="external">http://www.jianshu.com/p/db7e64d86067</a>  使用Hexo搭建博客（三），博客配置、主题和写作<br><a href="http://www.jianshu.com/p/70343b7c2fd3" target="_blank" rel="external">http://www.jianshu.com/p/70343b7c2fd3</a>  Hexo主题 Light 修改教程<br><a href="http://www.jianshu.com/p/abaff828100d" target="_blank" rel="external">http://www.jianshu.com/p/abaff828100d</a>  Markdown 快速生成表格</p>
 <p><a href="http://blog.csdn.net/jiluben/article/details/40868981" target="_blank" rel="external">http://blog.csdn.net/jiluben/article/details/40868981</a>  hexo禁用特定文章的评论（论做笔记的重要性）<br><a href="http://blog.csdn.net/xiongyangg/article/details/50756904" target="_blank" rel="external">http://blog.csdn.net/xiongyangg/article/details/50756904</a>  hexo 添加disqus评论系统<br><a href="http://blog.sina.com.cn/s/blog_631d3a630101md7u.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_631d3a630101md7u.html</a>  Markdown 插入连续空格</p>
@@ -482,7 +475,7 @@
     <summary type="html">
     
       &lt;p&gt;2017.5.21建立，5.25正式上线，纪念一下&lt;/p&gt;
-&lt;h4 id=&quot;历史&quot;&gt;&lt;a href=&quot;#历史&quot; class=&quot;headerlink&quot; title=&quot;历史&quot;&gt;&lt;/a&gt;历史&lt;/h4&gt;&lt;p&gt;2017.5.23　更换新首页模板，用Hexo的博客框架搭建&lt;br&gt;201
+&lt;h4 id=&quot;历史&quot;&gt;&lt;a href=&quot;#历史&quot; class=&quot;headerlink&quot; title=&quot;历史&quot;&gt;&lt;/a&gt;历史&lt;/h4&gt;&lt;p&gt;2017.5.21　5月20日筹备，熬夜调试好，5月21日早试运行&lt;br&gt;
     
     </summary>
     
