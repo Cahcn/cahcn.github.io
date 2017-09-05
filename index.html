@@ -1,496 +1,773 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  
-  <title>Cahcn的自留地</title>
-  <meta name="author" content="Cahcn">
-  
-  <meta name="description" content="Cahcn的自留地">
-  
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
 
-  
-  <meta property="og:site_name" content="Cahcn的自留地"/>
+    
 
-  
-    <meta property="og:image" content="undefined"/>
-  
+    
 
-  <link href="/favicon.png" rel="icon">
-  <link rel="alternate" href="/atom.xml" title="Cahcn的自留地" type="application/atom+xml">
-  <link rel="stylesheet" href="/css/style.css" media="screen" type="text/css">
-  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-  
+
+
+    <meta charset="utf-8">
+    
+    
+    
+    <title>Cahcn的自留地 | 广播收听、资讯</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <meta name="theme-color" content="#3F51B5">
+    
+    
+    <meta name="keywords" content="undefined">
+    <meta name="description" content="Cahcn的自留地">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Cahcn的自留地">
+<meta property="og:url" content="https://cahcn.github.io/index.html">
+<meta property="og:site_name" content="Cahcn的自留地">
+<meta property="og:description" content="Cahcn的自留地">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Cahcn的自留地">
+<meta name="twitter:description" content="Cahcn的自留地">
+    
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="//unpkg.com/hexo-theme-material-indigo@latest/css/style.css">
+    <script>window.lazyScripts=[]</script>
+
+    <!-- custom head -->
+    
 
 </head>
 
-
 <body>
-  <header id="header" class="inner"><div class="alignleft">
-  <h1><a href="/">Cahcn的自留地</a></h1>
-  <h2><a href="/">广播收听、资讯</a></h2>
-</div>
-<nav id="main-nav" class="alignright">
-  <ul>
-    
-      <li><a href="/">Home</a></li>
-    
-      <li><a href="/archives">Archives</a></li>
-    
-      <li><a href="/about">About</a></li>
-    
-  </ul>
-  <div class="clearfix"></div>
-</nav>
-<div class="clearfix"></div>
+    <div id="loading" class="active"></div>
+
+    <aside id="menu"  >
+  <div class="inner flex-row-vertical">
+    <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menu-off">
+        <i class="icon icon-lg icon-close"></i>
+    </a>
+    <div class="brand-wrap" style="background-image:url(/img/brand.jpg)">
+      <div class="brand">
+        <a href="/" class="avatar waves-effect waves-circle waves-light">
+          <img src="/img/avatar.jpg">
+        </a>
+        <hgroup class="introduce">
+          <h5 class="nickname">Cahcn</h5>
+          <a href="mailto:634206017@qq.com" title="634206017@qq.com" class="mail">634206017@qq.com</a>
+        </hgroup>
+      </div>
+    </div>
+    <div class="scroll-wrap flex-col">
+      <ul class="nav">
+        
+            <li class="waves-block waves-effect active">
+              <a href="/"  >
+                <i class="icon icon-lg icon-home"></i>
+                主页
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/archives"  >
+                <i class="icon icon-lg icon-archives"></i>
+                Archives
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/tags"  >
+                <i class="icon icon-lg icon-tags"></i>
+                Tags
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/categories"  >
+                <i class="icon icon-lg icon-th-list"></i>
+                Categories
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="https://github.com/yscoder" target="_blank" >
+                <i class="icon icon-lg icon-github"></i>
+                Github
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="http://www.weibo.com/ysweb" target="_blank" >
+                <i class="icon icon-lg icon-weibo"></i>
+                Weibo
+              </a>
+            </li>
+        
+            <li class="waves-block waves-effect">
+              <a href="/custom"  >
+                <i class="icon icon-lg icon-link"></i>
+                测试
+              </a>
+            </li>
+        
+      </ul>
+    </div>
+  </div>
+</aside>
+
+    <main id="main">
+        <header class="top-header" id="header">
+    <div class="flex-row">
+        <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light on" id="menu-toggle">
+          <i class="icon icon-lg icon-navicon"></i>
+        </a>
+        <div class="flex-col header-title ellipsis">Cahcn的自留地</div>
+        
+        <div class="search-wrap" id="search-wrap">
+            <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="back">
+                <i class="icon icon-lg icon-chevron-left"></i>
+            </a>
+            <input type="text" id="key" class="search-input" autocomplete="off" placeholder="输入感兴趣的关键字">
+            <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="search">
+                <i class="icon icon-lg icon-search"></i>
+            </a>
+        </div>
+        
+        
+        <a href="javascript:;" class="header-icon waves-effect waves-circle waves-light" id="menuShare">
+            <i class="icon icon-lg icon-share-alt"></i>
+        </a>
+        
+    </div>
 </header>
-  <div id="content" class="inner">
-    <div id="main-col" class="alignleft"><div id="wrapper">
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-09-05T11:38:36.000Z"><a href="/posts/2017-09-05-BBC-Korean.html">2017-09-05</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-09-05-BBC-Korean.html">BBC即将重启对朝广播</a></h1>
-  
+<header class="content-header index-header">
 
-    </header>
-    <div class="entry">
-      
-        <p>综合各方消息，BBC（BBC World Service，英国广播公司国际频道）将于2017年9月17日重启对朝广播</p>
-<p>根据HFCC 2017年9月4日更新的频率数据，BBC对朝广播的播出时间为（UTC+8:30，平壤时间）：<br>00:00-03:00　5810kHz（塔什干）、9940kHz（台湾）</p>
-<p>另有在蒙古乔巴山发射的1431kHz BBC测试信号，届时也将改为转播BBC对朝广播，<br>播出时间为：01:00-02:00（UTC+8:30）</p>
-
-      
+    <div class="container fade-scale">
+        <h1 class="title">Cahcn的自留地</h1>
+        <h5 class="subtitle">
+            
+                广播收听、资讯
+            
+        </h5>
     </div>
-    <footer>
-      
+
+    
+
+
+</header>
+
+<div class="container body-wrap">
+
+    <ul class="post-list">
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-09-05-BBC-Korean"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-09-05 19:38:36" datetime="2017-09-05T11:38:36.000Z"  itemprop="datePublished">2017-09-05</time>
+
         
+
+
+    </div>
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-09-05-BBC-Korean.html">BBC即将重启对朝广播</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        综合各方消息，BBC（BBC World Service，英国广播公司国际频道）将于2017年9月17日重启对朝广播
+根据HFCC 2017年9月4日更新的频率数据，BBC对朝广播的播出时间为（UTC+8:30，平壤时间）：00:00-03:00　5810kHz（塔什干）、9940kHz（台湾）
+另有在蒙古乔巴山发射的1431kHz BBC测试信号，届时也将改为转播BBC对朝广播，播出时间为...
+    
+
+        <a href="/posts/2017-09-05-BBC-Korean.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-09-01-CRI-Frequency"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-09-01 21:18:47" datetime="2017-09-01T13:18:47.000Z"  itemprop="datePublished">2017-09-01</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-09-01T13:18:47.000Z"><a href="/posts/2017-09-01-CRI-Frequency.html">2017-09-01</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-09-01-CRI-Frequency.html">CRI各语种官方频率表</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
-<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
-<p>很久未更新<br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a></p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-09-01-CRI-Frequency.html">CRI各语种官方频率表</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。
+下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：A17German 德语Hindi 印地语（9635应为9450）Japanese 日语（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）Korean 朝鲜语Russian 俄语Spani...
+    
+
+        <a href="/posts/2017-09-01-CRI-Frequency.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-08-28-CRI-Japanese"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-08-28 21:33:33" datetime="2017-08-28T13:33:33.000Z"  itemprop="datePublished">2017-08-28</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-08-28T13:33:33.000Z"><a href="/posts/2017-08-28-CRI-Japanese.html">2017-08-28</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-08-28-CRI-Japanese.html">CRI日语广播部分短波频率停机检修</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>中国国际广播电台日语广播网站发布公告，2017年9月6日8时至9月30日20时，将对部分发射设备进行维护，在此期间部分短波频率停播。</p>
-<p>停播的频率（北京时间）：<br>06:00-07:00　13640kHz<br>07:00-08:00　13640kHz<br>18:00-19:00　7325kHz<br>19:00-20:00　7325kHz<br>20:00-21:00　7325kHz<br>21:00-22:00　7410kHz<br>22:00-23:00　7410kHz<br>23:00-00:00　7410kHz<br>（停播的频率均在浙江金华发射）</p>
-<p>其它正常播出的频率（北京时间）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-19:00　11620kHz<br>19:00-20:00　1044、11620kHz<br>20:00-21:00　1044、11620kHz<br>21:00-22:00　1044、7325kHz<br>22:00-23:00　1044、7395kHz<br>23:00-00:00　1044、9585kHz</p>
-<p><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">http://japanese.cri.cn/782/2015/10/20/141s242461.htm</a></p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-08-28-CRI-Japanese.html">CRI日语广播部分短波频率停机检修</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        中国国际广播电台日语广播网站发布公告，2017年9月6日8时至9月30日20时，将对部分发射设备进行维护，在此期间部分短波频率停播。
+停播的频率（北京时间）：06:00-07:00　13640kHz07:00-08:00　13640kHz18:00-19:00　7325kHz19:00-20:00　7325kHz20:00-21:00　7325kHz21:00-22:00　7410kHz22...
+    
+
+        <a href="/posts/2017-08-28-CRI-Japanese.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-08-16-WRMI-relay-RAE"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-08-16 19:49:56" datetime="2017-08-16T11:49:56.000Z"  itemprop="datePublished">2017-08-16</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-08-16T11:49:56.000Z"><a href="/posts/2017-08-16-WRMI-relay-RAE.html">2017-08-16</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-08-16-WRMI-relay-RAE.html">RAE短波广播临时由WRMI代为发射</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。</p>
-<p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
-<p>因时差原因，汉语广播节目中提到的时间比北京时间晚11小时</p>
-<p>RAE公布的频率表：<br><img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español"><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-08-16-WRMI-relay-RAE.html">RAE短波广播临时由WRMI代为发射</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。
+由WRMI代为发射的节目安排（北京时间，频率默认为kHz...
+    
+
+        <a href="/posts/2017-08-16-WRMI-relay-RAE.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-08-11-RTHK"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-08-11 23:15:42" datetime="2017-08-11T15:15:42.000Z"  itemprop="datePublished">2017-08-11</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-08-11T15:15:42.000Z"><a href="/posts/2017-08-11-RTHK.html">2017-08-11</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-08-11-RTHK.html">中央人民广播电台香港之声将改由香港电台第六台675kHz转播</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>香港电台将于2017年9月3日午夜12时起，终止数码声音广播服务。<br>届时，中央人民广播电台香港之声将改由香港电台第六台675kHz转播。</p>
-<p>目前，675kHz为香港电台24小时转播“英国广播公司世界频道”（BBC World Service）的一套频率，<br>中央人民广播电台香港之声改由香港电台第六台转播后，“英国广播公司国际频道”将改由香港电台第四台每晚11时至早上7时转播。</p>
-<p><a href="http://app3.rthk.hk/press/main.php?id=1539" target="_blank" rel="external">http://app3.rthk.hk/press/main.php?id=1539</a></p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-08-11-RTHK.html">中央人民广播电台香港之声将改由香港电台第六台675kHz转播</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        香港电台将于2017年9月3日午夜12时起，终止数码声音广播服务。届时，中央人民广播电台香港之声将改由香港电台第六台675kHz转播。
+目前，675kHz为香港电台24小时转播“英国广播公司世界频道”（BBC World Service）的一套频率，中央人民广播电台香港之声改由香港电台第六台转播后，“英国广播公司国际频道”将改由香港电台第四台每晚11时至早上7时转播。
+http://app3...
+    
+
+        <a href="/posts/2017-08-11-RTHK.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-07-11-Voice-of-Strait-666kHz"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-07-11 01:51:55" datetime="2017-07-10T17:51:55.000Z"  itemprop="datePublished">2017-07-11</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-07-10T17:51:55.000Z"><a href="/posts/2017-07-11-Voice-of-Strait-666kHz.html">2017-07-11</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-07-11-Voice-of-Strait-666kHz.html">海峡之声新闻广播中波666kHz停机检修</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>海峡之声广播电台发布公告，因发射台天馈线大修，海峡之声新闻广播中波666kHz从2017年7月25日0时至9月29日24时期间暂停播出，9月30日0时后恢复播出。</p>
-<p>在此期间，海峡之声新闻广播短波频率4940、9505kHz将分时段转播全天节目，具体播出时间为：<br>（北京时间）</p>
-<h4 id="7月25日-8月31日"><a href="#7月25日-8月31日" class="headerlink" title="7月25日-8月31日"></a><strong>7月25日-8月31日</strong></h4><p>06:30-08:00　4940kHz<br>08:03-21:00　9505kHz<br>21:03-00:03　4940kHz</p>
-<h4 id="9月1日-9月29日"><a href="#9月1日-9月29日" class="headerlink" title="9月1日-9月29日"></a><strong>9月1日-9月29日</strong></h4><p>06:30-08:00　4940kHz<br>08:03-20:00　9505kHz<br>20:03-00:03　4940kHz</p>
-<p><a href="http://www.vos.com.cn/news/2017-07/10/cms890275article.shtml" target="_blank" rel="external">http://www.vos.com.cn/news/2017-07/10/cms890275article.shtml</a><br><a href="https://mp.weixin.qq.com/s/EbKPr15JVonCvutZ7qKI4g" target="_blank" rel="external">https://mp.weixin.qq.com/s/EbKPr15JVonCvutZ7qKI4g</a></p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-07-11-Voice-of-Strait-666kHz.html">海峡之声新闻广播中波666kHz停机检修</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        海峡之声广播电台发布公告，因发射台天馈线大修，海峡之声新闻广播中波666kHz从2017年7月25日0时至9月29日24时期间暂停播出，9月30日0时后恢复播出。
+在此期间，海峡之声新闻广播短波频率4940、9505kHz将分时段转播全天节目，具体播出时间为：（北京时间）
+7月25日-8月31日06:30-08:00　4940kHz08:03-21:00　9505kHz21:03-00:03...
+    
+
+        <a href="/posts/2017-07-11-Voice-of-Strait-666kHz.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-06-20-Hei-Guang-Bo"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-06-20 22:15:20" datetime="2017-06-20T14:15:20.000Z"  itemprop="datePublished">2017-06-20</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-06-20T14:15:20.000Z"><a href="/posts/2017-06-20-Hei-Guang-Bo.html">2017-06-20</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-06-20-Hei-Guang-Bo.html">关注本地黑广播</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>今天得知百色下面的田东、平果两县查处了3个黑广播，其中一个黑广播我曾于2016年7月10日在隆安火车东站、2016年12月27日在平果火车站接收过，为南宁江南区一家私人医院私自架设的非法电台，当时的频率为FM99.5、91.9，据说经过多次改频，以此逃避检查。</p>
-<p>而我在2016年7月末，就已经在广西新闻出版广电局网站进行了投诉，虽然收到了区广电局的电子邮件以及网站上的回复，但该黑广播并没有被查处…</p>
-<h4 id="一些有关的消息，我所听到的那个黑广播在查处前频率变成FM94-8"><a href="#一些有关的消息，我所听到的那个黑广播在查处前频率变成FM94-8" class="headerlink" title="一些有关的消息，我所听到的那个黑广播在查处前频率变成FM94.8"></a>一些有关的消息，我所听到的那个黑广播在查处前频率变成FM94.8</h4><p><a href="http://www.srrc.org.cn/NewsShow18046.aspx" target="_blank" rel="external">2017年6月12日，百色市无线电管理处根据投诉，联合百色市文化和新闻出版广电局执法大队与公安部门在平果县某小区查处了1起播放非法医疗广告的“黑广播”。据平果县文化和广电局的投诉，在平果县内发现1个不明广播信号，播出内容为非法医疗广告，频率为92.8MHz，疑似“黑广播”。根据打击治理“黑广播”工作方案，百色市无线电管理处高度重视，立即成立专项小组赶赴平果县进行查处。百色市无线电管理处技术小组到平果县对可疑频点进行监测监听，百色市文化和新闻出版广电局对其播出内容进行分析，确定其为“黑广播”。技术小组放弃休息时间，顶着高温酷暑展开定向，结合并结合设备徒步进行精确定位，最后在平果县某小区的高层建筑的内找到“黑广播”藏匿点，且无人值守。“黑广播”设备由发射机、天线和控制器组成，该发射机的发射功率为1000W，覆盖范围广。</a></p>
-<p><a href="http://www.srrc.org.cn/NewsShow18056.aspx" target="_blank" rel="external">2017年6月14日，百色市无线电管理处在平果县某居民楼取缔1个“黑广播”窝点。百色市无线电管理处在日常监测工作中发现，平果县调频广播频段出现一94.8MHz的电台，经过数据库比对和对该电台进行监听，确定为非法电台，播放内容为南宁某医院广告。技术人员经过测向定位，将目标锁定在平果县汽车站附近，通过便携测向设备进一步监测，最后确认“黑广播”藏匿在一居民楼。百色市无线电管理处与当地公安派出所、文化和新闻广电局联合行动，迅速出击，一举端掉了该“黑广播”。</a></p>
-<p><a href="http://xianqu.bsyjrb.cn/youjiangqu/content/2017-06/20/content_113812.htm" target="_blank" rel="external">（2017年6月20日新闻）近日，我市文化市场综合执法支队、市无线电管理处和公安部门本着加强协同，各尽其职，维护国家安全、社会维稳和人民群众切身利益，组成联合工作组开展打击治理“黑广播”行动。联合工作组利用移动监测车定向，结合设备徒步进行监测查找、精确定位，发现平果县有2处、田东县有1处“黑广播”藏匿点，在平果县、田东县文化市场综合执法大队的协助下成功端掉这3处“黑广播”，执法人员依法对非法设置的黑广播电台设备进行了查扣处理，目前，该案在进一步调查处理中。</a></p>
-<p>快一年时间才进行查处，这效率…</p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-06-20-Hei-Guang-Bo.html">关注本地黑广播</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        今天得知百色下面的田东、平果两县查处了3个黑广播，其中一个黑广播我曾于2016年7月10日在隆安火车东站、2016年12月27日在平果火车站接收过，为南宁江南区一家私人医院私自架设的非法电台，当时的频率为FM99.5、91.9，据说经过多次改频，以此逃避检查。
+而我在2016年7月末，就已经在广西新闻出版广电局网站进行了投诉，虽然收到了区广电局的电子邮件以及网站上的回复，但该黑广播并没有被查...
+    
+
+        <a href="/posts/2017-06-20-Hei-Guang-Bo.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-06-17-Unknown-Signal-in-China"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-06-17 21:59:03" datetime="2017-06-17T13:59:03.000Z"  itemprop="datePublished">2017-06-17</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-06-17T13:59:03.000Z"><a href="/posts/2017-06-17-Unknown-Signal-in-China.html">2017-06-17</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-06-17-Unknown-Signal-in-China.html">2017年收到的国内未知信号</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
-<li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　19:00　17800kHz</div><div class="line">5.19　23:00　13840kHz</div><div class="line">5.20　00:00　17500kHz</div><div class="line">5.20　01:00　15150kHz</div><div class="line">5.20　08:00　15200kHz</div><div class="line">5.20　10:00　11695kHz</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<h4 id="5-28"><a href="#5-28" class="headerlink" title="5.28"></a><strong>5.28</strong></h4><ul>
-<li>15:56-16:20　　11770kHz　　2017“总统府”音乐会，信号源由教育广播电台提供，覆盖大半个中国（确认为RTI的临时频率）<br>（16:30，该频率虽已无信号，但还是出现CNR 1干扰）<br>16:35-17:00　　11650kHz　　CNR 1（干扰对象未知），覆盖东北</li>
-</ul>
-<h4 id="6-17"><a href="#6-17" class="headerlink" title="6.17"></a><strong>6.17</strong></h4><ul>
-<li><strong>12:00-12:16　　15250kHz　　丰收锣鼓（用途未知）​​​​，覆盖华南、华东地区</strong></li>
-</ul>
-<h4 id="7-11"><a href="#7-11" class="headerlink" title="7.11"></a><strong>7.11</strong></h4><ul>
-<li>15:25-15:45　　15450kHz　　空白载波<br>15:38-15:40　　15250kHz　　空白载波，消失前出现1kHz正弦波<br>15:40　　　　　15470kHz　　1kHz正弦波<br>15:42　　　　　11560kHz　　不明音乐<br>15:52-16:14　　11965kHz　　消失前出现短暂轻音乐信号<br>16:30-17:03　　12070kHz　　CRI中文环球，16:56再听已成空载<br>16:33　　　　　15465kHz　　空白载波，16:57干扰RTI<br>中国之声短波频率周二中午检修，但有部分频率在停机期间短暂测试发射空白载波信号：<br>16:03-16:26　　15550kHz　　空白载波，信号时断时续<br>16:24-16:45　　15370kHz　　空白载波，信号时断时续<br>16:43-16:57　　15380kHz　　空白载波<br>16:45-16:57　　17550kHz　　空白载波<br>16:45-16:57　　17605kHz　　空白载波</li>
-</ul>
-<h4 id="7-12"><a href="#7-12" class="headerlink" title="7.12"></a><strong>7.12</strong></h4><ul>
-<li>15:36-15:37　　9845kHz　　空白载波，消失前出现1kHz正弦波<br>15:38-15:39　　15250kHz　　空白载波，消失前出现1kHz正弦波<br><strong>16:00-16:30　　15200kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:05-16:06　　7445kHz　　空白载波<br>16:15-16:16　　11825kHz　　空白载波<br>16:16-16:21　　17520kHz　　1kHz正弦波<br><strong>16:30-17:00　　13620kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:34-16:39　　11785kHz　　空白载波<br>16:45-16:46　　13755kHz　　空白载波<br>16:45-16:46　　17485kHz　　1kHz正弦波<br>22:00-23:00　　17580kHz　　CNR 1（用途未知），覆盖华南，22:35后信号开始衰弱</li>
-</ul>
-<h4 id="7-13"><a href="#7-13" class="headerlink" title="7.13"></a><strong>7.13</strong></h4><ul>
-<li>16:09-16:12　　9845kHz　　空白载波</li>
-</ul>
-<h4 id="7-15"><a href="#7-15" class="headerlink" title="7.15"></a><strong>7.15</strong></h4><ul>
-<li>16:00-16:01　　13730kHz　　空白载波<br>16:00-16:01　　13800kHz　　1kHz正弦波</li>
-</ul>
-<h4 id="7-17"><a href="#7-17" class="headerlink" title="7.17"></a><strong>7.17</strong></h4><ul>
-<li>15:00-15:02　　15465kHz　　空白载波<br>22:00-22:12　　9165kHz　　空白载波</li>
-</ul>
-<h4 id="7-18"><a href="#7-18" class="headerlink" title="7.18"></a><strong>7.18</strong></h4><ul>
-<li>15:00-15:02　　15465kHz　　空白载波，消失后可收CRI英语环球<br>15:15-15:19　　15250kHz　　空白载波<br>15:16-15:17　　15470kHz　　1kHz正弦波<br>16:00-16:02　　15388kHz　　空白载波<br>16:06-16:08　　15388kHz　　1kHz正弦波</li>
-</ul>
-<h4 id="7-27"><a href="#7-27" class="headerlink" title="7.27"></a><strong>7.27</strong></h4><ul>
-<li>16:00-16:01　　13730kHz　　空白载波<br>16:00-16:01　　13765kHz　　空白载波<br>16:00-16:01　　13800kHz　　空白载波<br>16:02-16:26　　11980kHz　　（16:02-16:04空白载波，16:05-16:25 1kHz正弦波，16:26空白载波）<br>16:06-16:08　　11780kHz　　空白载波<br>16:08-16:10　　15465kHz　　空白载波<br><strong>16:20-16:21　　13850kHz　　丰收锣鼓（用途未知），短暂出现二十几秒信号</strong><br>16:22　　　　　13790kHz　　空白载波</li>
-</ul>
-<h4 id="7-29"><a href="#7-29" class="headerlink" title="7.29"></a><strong>7.29</strong></h4><ul>
-<li>16:00-16:01　　13765kHz　　空白载波<br>16:00-16:01　　13800kHz　　空白载波<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">国内bcler接收到的测试信号（UTC+8）：</div><div class="line">21:30-22:00　　9900kHz　　古筝曲（中国民乐台？）</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<h4 id="7-30"><a href="#7-30" class="headerlink" title="7.30"></a><strong>7.30</strong></h4><ul>
-<li>19:04-19:06　　11980kHz　　（19:04-19:06空白载波，19:06 1kHz正弦波）</li>
-</ul>
-<h4 id="8-4"><a href="#8-4" class="headerlink" title="8.4"></a><strong>8.4</strong></h4><ul>
-<li>15:19-15:22　　15250kHz　　空白载波<br>15:22-15:24　　11965kHz　　空白载波</li>
-</ul>
-<h4 id="8-5"><a href="#8-5" class="headerlink" title="8.5"></a><strong>8.5</strong></h4><ul>
-<li>13:11-13:12　　15250kHz　　古筝曲（中国民乐台？）</li>
-</ul>
-<h4 id="8-11"><a href="#8-11" class="headerlink" title="8.11"></a><strong>8.11</strong></h4><ul>
-<li>15:25-15:34　　16360kHz　　空白载波，信号时断时续【带外频率】<br>15:39-15:40　　15470kHz　　空白载波，消失前出现1kHz正弦波</li>
-</ul>
-<h4 id="8-14"><a href="#8-14" class="headerlink" title="8.14"></a><strong>8.14</strong></h4><ul>
-<li>15:29-15:47　　17810kHz　　空白载波<br>15:33-15:36　　17520kHz　　空白载波<br>15:39-15:40　　15440kHz　　空白载波<br>15:40-15:41　　17670kHz　　空白载波，消失后可收CRI英语环球<br>15:46-15:48　　15465kHz　　空白载波，消失后可收CRI英语环球<br>15:49-15:50　　11965kHz　　空白载波，消失前20s出现1kHz正弦波<br>15:54-15:55　　11785kHz　　空白载波</li>
-</ul>
-<h4 id="8-15"><a href="#8-15" class="headerlink" title="8.15"></a><strong>8.15</strong></h4><ul>
-<li>16:04-16:05　　11000kHz　　1kHz正弦波<br>16:06-16:08　　15100kHz　　空白载波<br><strong>16:06-16:15　　15600kHz　　（16:06空白载波，16:09锣鼓，16:11 1kHz正弦波，16:13锣鼓，16:14空白载波）</strong><br>16:08　　　　　15250kHz　　10s空白载波<br><strong>16:18-16:25　　15650kHz　　（16:18空白载波，16:21锣鼓，16:23空白载波）</strong><br>16:19-16:21　　15300kHz　　空白载波<br>16:24-16:25　　15625kHz　　空白载波<br><strong>16:25-16:37　　15700kHz　　（16:25空白载波，16:30锣鼓，16:34空白载波）</strong><br>16:26　　　　　15250kHz　　20s空白载波<br>16:27　　　　　15800kHz　　20s空白载波<br>16:31　　　　　15580kHz　　20s空白载波<br>16:32-16:37　　15465kHz　　空白载波<br>16:37　　　　　15390kHz　　30s空白载波，CNR 13开播前测试？<br>16:37-16:47　　15750kHz　　空白载波<br>16:38　　　　　15540kHz　　20s空白载波，CNR 2开播前测试？<br>16:38　　　　　15625kHz　　10s空白载波<br>16:42　　　　　15680kHz　　10s空白载波</li>
-</ul>
-<h4 id="8-16"><a href="#8-16" class="headerlink" title="8.16"></a><strong>8.16</strong></h4><ul>
-<li>16:27-16:31　　17710   空白载波，时断时续，16:31短暂出现10s民乐（非干扰用的丰收锣鼓）<br>16:29　　　　　17490   30s空载，消失后可收CRI英语环球<br>16:32-16:38　　17490  空白载波，时断时续，16:32、16:38短暂出现10s民乐（非干扰用的丰收锣鼓），消失后可收CRI英语环球</li>
-</ul>
-<h4 id="8-27"><a href="#8-27" class="headerlink" title="8.27"></a><strong>8.27</strong></h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">内蒙古bcler接收到的测试信号（UTC+8）：</div><div class="line">15:30-16:00　　13600kHz　　丰收锣鼓（用途未知）</div></pre></td></tr></table></figure>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-06-17-Unknown-Signal-in-China.html">2017年收到的国内未知信号</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        5.19
+20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）1234567日本bcler接收到的测试信号（UTC+8）：5.19　19:00　17800kHz5.19　23:00　13840kHz5.20　00:00　17500kHz5.20　01:00　1515...
+    
+
+        <a href="/posts/2017-06-17-Unknown-Signal-in-China.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-06-11-CRI-NNN-11875kHz"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-06-11 14:57:19" datetime="2017-06-11T06:57:19.000Z"  itemprop="datePublished">2017-06-11</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-06-11T06:57:19.000Z"><a href="/posts/2017-06-11-CRI-NNN-11875kHz.html">2017-06-11</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-06-11-CRI-NNN-11875kHz.html">南宁发射的CRI中文环球11875kHz时间调整</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <p>2017年5月中旬实收确认，南宁发射的CRI中文环球11875kHz增加14:00-15:00一小时播出时间。<br>南宁发射的11875kHz目前播出时间、节目：<br>14:00-15:00　整点新闻+《人物访谈》<br>15:00-16:00　整点新闻+《直播中国》</p>
-<p>2017年7月12日消息，5月中旬新增的14:00-15:00时段已取消，11875kHz播出时间恢复为原有的15:00-16:00。<br>2017年7月13日消息，11875kHz约在14:40-15:00短暂出现信号，播出节目为《人物访谈》。</p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-06-11-CRI-NNN-11875kHz.html">南宁发射的CRI中文环球11875kHz时间调整</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        2017年5月中旬实收确认，南宁发射的CRI中文环球11875kHz增加14:00-15:00一小时播出时间。南宁发射的11875kHz目前播出时间、节目：14:00-15:00　整点新闻+《人物访谈》15:00-16:00　整点新闻+《直播中国》
+2017年7月12日消息，5月中旬新增的14:00-15:00时段已取消，11875kHz播出时间恢复为原有的15:00-16:00。2017年...
+    
+
+        <a href="/posts/2017-06-11-CRI-NNN-11875kHz.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/radio/">radio</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+        <li class="post-list-item fade">
+            <article id="post-2017-06-09-HTML5-Video-Player"
+  class="article-card article-type-post" itemprop="blogPost">
+
+    <div class="post-meta">
+        <time class="post-time" title="2017-06-09 22:14:18" datetime="2017-06-09T14:14:18.000Z"  itemprop="datePublished">2017-06-09</time>
+
+        
 
 
-
-  <article class="post">
-  
-  <div class="post-content">
-    <header>
-      
-        <div class="icon"></div>
-        <time datetime="2017-06-09T14:14:18.000Z"><a href="/posts/2017-06-09-HTML5-Video-Player.html">2017-06-09</a></time>
-      
-      
-  
-    <h1 class="title"><a href="/posts/2017-06-09-HTML5-Video-Player.html">国内视频网站HTML5 播放器</a></h1>
-  
-
-    </header>
-    <div class="entry">
-      
-        <h4 id="Bilibili"><a href="#Bilibili" class="headerlink" title="Bilibili"></a><strong>Bilibili</strong></h4><p>浏览器打开 <a href="https://www.bilibili.com/blackboard/help.html#p" target="_blank" rel="external">https://www.bilibili.com/blackboard/help.html#p</a> ，点击【试用点我】</p>
-<h4 id="斗鱼TV"><a href="#斗鱼TV" class="headerlink" title="斗鱼TV"></a><strong>斗鱼TV</strong></h4><p>替换斗鱼的Flash弹幕播放器： <a href="https://github.com/spacemeowx2/DouyuHTML5Player" target="_blank" rel="external">https://github.com/spacemeowx2/DouyuHTML5Player</a><br><a href="https://chrome.google.com/webstore/detail/hbocinidadgpnbcamhjgfbgiebhpnmfj" target="_blank" rel="external">https://chrome.google.com/webstore/detail/hbocinidadgpnbcamhjgfbgiebhpnmfj</a>  （Chrome扩展，支持Chrome 45+）<br><a href="https://greasyfork.org/zh-CN/scripts/26901" target="_blank" rel="external">https://greasyfork.org/zh-CN/scripts/26901</a> （Firefox 油猴脚本）</p>
-<h4 id="熊猫TV"><a href="#熊猫TV" class="headerlink" title="熊猫TV"></a><strong>熊猫TV</strong></h4><p>进入任意一个房间，视频开始播放后，右键，选择【试用h5播放器beta版】</p>
-<h4 id="优酷（测试版）"><a href="#优酷（测试版）" class="headerlink" title="优酷（测试版）"></a><strong>优酷（测试版）</strong></h4><p>Chrome 打开 Console 执行 <code>window.sessionStorage.setItem(&quot;P_l_h5&quot;, true)</code>; 然后刷新可以打开测试中的 html5 播放器<br><a href="https://www.v2ex.com/t/366702" target="_blank" rel="external">根据反馈Firefox 中也有效</a><br><a href="http://bbs.kafan.cn/thread-2092425-1-1.html" target="_blank" rel="external">只有在v.youku.com页面上生效，限定域名为v.youku.com</a><br>插件【优酷HTML5播放器】可全部替换Flash播放器，无广告：<a href="https://github.com/esterTion/Youku-HTML5-Player" target="_blank" rel="external">https://github.com/esterTion/Youku-HTML5-Player</a><br><a href="https://estertion.github.io/Youku-HTML5-Player/signed.crx" target="_blank" rel="external">https://estertion.github.io/Youku-HTML5-Player/signed.crx</a> （Chrome扩展，支持Chrome 49+）<br><a href="https://estertion.github.io/Youku-HTML5-Player/signed.xpi" target="_blank" rel="external">https://estertion.github.io/Youku-HTML5-Player/signed.xpi</a> （Firefox扩展，支持Firefox 50+）</p>
-
-      
     </div>
-    <footer>
-      
+
+    
+
+
+  
+    <h3 class="post-title" itemprop="name">
+      <a class="post-title-link" href="/posts/2017-06-09-HTML5-Video-Player.html">国内视频网站HTML5 播放器</a>
+    </h3>
+  
+
+
+
+
+    <div class="post-content" id="post-content" itemprop="postContent">
+
+    
+        Bilibili浏览器打开 https://www.bilibili.com/blackboard/help.html#p ，点击【试用点我】
+斗鱼TV替换斗鱼的Flash弹幕播放器： https://github.com/spacemeowx2/DouyuHTML5Playerhttps://chrome.google.com/webstore/detail/hbocinidadgpnbc...
+    
+
+        <a href="/posts/2017-06-09-HTML5-Video-Player.html" class="post-more waves-effect waves-button">
+            阅读全文…
+        </a>
+    </div>
+    
+    <div class="post-footer">
         
-        
-      
-      <div class="clearfix"></div>
-    </footer>
-  </div>
+	<ul class="article-tag-list"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/enjoy/">enjoy</a></li></ul>
+
+    </div>
+    
 </article>
 
+        </li>
+    
+    </ul>
+
+    
+<nav id="page-nav">
+    <div class="inner">
+    <span class="page-number current">1</span><a class="page-number" href="/page/2/">2</a><a class="extend next" rel="next" href="/page/2/">下一页</a>
+    </div>
+</nav>
 
 
-
-
-<nav id="pagination">
-  
-  
-    <a href="/page/2/" class="alignright next">下一页</a>
-  
-  <div class="clearfix"></div>
-</nav></div></div>
-    <div class="clearfix"></div>
-  </div>
-  <footer id="footer" class="inner"><div class="alignleft">
-  
-  &copy; 2017 Cahcn
-  
-  <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
-  </script>
-  <br>
-<span id="busuanzi_container_site_uv">
-  Site visitors :&nbsp;&nbsp;<span id="busuanzi_value_site_uv"></span>
-</span>
-  <br>
-<span id="busuanzi_container_page_pv">
-  Pageviews :&nbsp;&nbsp;<span id="busuanzi_value_page_pv"></span>
-</span>
-
-  <p>Theme by <a href="https://caisiduo.xyz" target="_blank">LightOne</a></p>
 </div>
-<div class="clearfix"></div></footer>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-<script src="/js/jquery.imagesloaded.min.js"></script>
-<script src="/js/gallery.js"></script>
 
+        <footer class="footer">
+    <div class="top">
+        
+<p>
+    <span id="busuanzi_container_site_uv" style='display:none'>
+        站点总访客数：<span id="busuanzi_value_site_uv"></span>
+    </span>
+    <span id="busuanzi_container_site_pv" style='display:none'>
+        站点总访问量：<span id="busuanzi_value_site_pv"></span>
+    </span>
+</p>
+
+
+        <p>
+            
+            <span>博客内容遵循 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享 署名 - 非商业性 - 相同方式共享 4.0 国际协议</a></span>
+        </p>
+    </div>
+    <div class="bottom">
+        <p><span>Cahcn &copy; 2015 - 2017</span>
+            <span>
+                
+                Power by <a href="http://hexo.io/" target="_blank">Hexo</a> Theme <a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank">indigo</a>
+            </span>
+        </p>
+    </div>
+</footer>
+
+    </main>
+    <div class="mask" id="mask"></div>
+<a href="javascript:;" id="gotop" class="waves-effect waves-circle waves-light"><span class="icon icon-lg icon-chevron-up"></span></a>
+
+
+
+<div class="global-share" id="globalShare">
+    <ul class="reset share-icons">
+      <li>
+        <a class="weibo share-sns" target="_blank" href="http://service.weibo.com/share/share.php?url=https://cahcn.github.io/&title=Cahcn的自留地&pic=https://cahcn.github.io/img/avatar.jpg" data-title="微博">
+          <i class="icon icon-weibo"></i>
+        </a>
+      </li>
+      <li>
+        <a class="weixin share-sns wxFab" href="javascript:;" data-title="微信">
+          <i class="icon icon-weixin"></i>
+        </a>
+      </li>
+      <li>
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/&title=Cahcn的自留地&source=Cahcn的自留地" data-title=" QQ">
+          <i class="icon icon-qq"></i>
+        </a>
+      </li>
+      <li>
+        <a class="facebook share-sns" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://cahcn.github.io/" data-title=" Facebook">
+          <i class="icon icon-facebook"></i>
+        </a>
+      </li>
+      <li>
+        <a class="twitter share-sns" target="_blank" href="https://twitter.com/intent/tweet?text=Cahcn的自留地&url=https://cahcn.github.io/&via=https://cahcn.github.io" data-title=" Twitter">
+          <i class="icon icon-twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="google share-sns" target="_blank" href="https://plus.google.com/share?url=https://cahcn.github.io/" data-title=" Google+">
+          <i class="icon icon-google-plus"></i>
+        </a>
+      </li>
+    </ul>
+ </div>
+
+
+<div class="page-modal wx-share" id="wxShare">
+    <a class="close" href="javascript:;"><i class="icon icon-close"></i></a>
+    <p>扫一扫，分享到微信</p>
+    <img src="//api.qrserver.com/v1/create-qr-code/?data=https://cahcn.github.io/" alt="微信分享二维码">
+</div>
+
+
+
+
+    <script src="//cdn.bootcss.com/node-waves/0.7.4/waves.min.js"></script>
+<script>
+var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
+
+
+</script>
+
+<script src="//unpkg.com/hexo-theme-material-indigo@latest/js/main.min.js"></script>
+
+
+<div class="search-panel" id="search-panel">
+    <ul class="search-result" id="search-result"></ul>
+</div>
+<template id="search-tpl">
+<li class="item">
+    <a href="{path}" class="waves-block waves-effect">
+        <div class="title ellipsis" title="{title}">{title}</div>
+        <div class="flex-row flex-middle">
+            <div class="tags ellipsis">
+                {tags}
+            </div>
+            <time class="flex-col time">{date}</time>
+        </div>
+    </a>
+</li>
+</template>
+
+<script src="//unpkg.com/hexo-theme-material-indigo@latest/js/search.min.js" async></script>
+
+
+
+
+
+
+<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+
+
+<script>
+(function() {
+    var OriginTitile = document.title, titleTime;
+    document.addEventListener('visibilitychange', function() {
+        if (document.hidden) {
+            document.title = '死鬼去哪里了！';
+            clearTimeout(titleTime);
+        } else {
+            document.title = '(つェ⊂)咦!又好了!';
+            titleTime = setTimeout(function() {
+                document.title = OriginTitile;
+            },2000);
+        }
+    });
+})();
+</script>
 
 
 
