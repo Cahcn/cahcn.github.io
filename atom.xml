@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-09-17T15:40:27.264Z</updated>
+  <updated>2017-09-25T13:04:06.828Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>复兴广播电台短波恢复发射</title>
+    <link href="https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html"/>
+    <id>https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html</id>
+    <published>2017-09-25T11:37:20.000Z</published>
+    <updated>2017-09-25T13:04:06.828Z</updated>
+    
+    <content type="html"><![CDATA[<p>据日本广播论坛消息，<a href="http://www.fhbs.com.tw/" target="_blank" rel="external">复兴广播电台</a>短波于2017年9月中旬恢复发射。但因一些原因，复兴广播电台并非每天定时发射，而是不定期随机发射。</p>
+<p>2017年9月以来，有记录的发射时间（北京时间）：<br>9月14日　20:00-?　9410kHz<br>9月25日　12:00-?　13750kHz　（直到15:00仍在发射）</p>
+<p>青木表中收录的复兴广播电台发射信息（北京时间）：<br>07:00-09:00　9410、9774kHz<br>12:00-14:00　9410、9774kHz<br>16:00-18:00　9410、9774kHz<br>19:00-21:00　9410、9774kHz</p>
+<p>13750kHz频率曾于2017年7月末至8月初随机发射过<a href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html">星星广播电台（V13）</a>，复兴广播电台短波或许与星星广播电台使用同一组发射设备发射？有待确认…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;据日本广播论坛消息，&lt;a href=&quot;http://www.fhbs.com.tw/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;复兴广播电台&lt;/a&gt;短波于2017年9月中旬恢复发射。但因一些原因，复兴广播电台并非每天定时发射，而是不定期随机发射。&lt;/p
+    
+    </summary>
+    
+    
+      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
+    
+  </entry>
   
   <entry>
     <title>BBC即将重启对朝广播</title>
@@ -202,7 +226,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-09-21T11:10:24.790Z</updated>
+    <updated>2017-09-23T15:21:31.788Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -286,7 +310,7 @@
 <h4 id="9-20"><a href="#9-20" class="headerlink" title="9.20"></a><strong>9.20</strong></h4><ul>
 <li>15:15-15:17　　9665kHz　　空白载波<br>15:15-15:20　　9745kHz　　空白载波<br>15:17　　　　　9685kHz　　5s空白载波<br>15:18-15:19　　9665kHz　　空白载波<br>15:20-15:21　　9540kHz　　空白载波（把xx台直接盖台）<br><strong>15:26-15:27　　9735kHz　　古筝曲（中国民乐台）</strong><br><strong>15:27　　　　　9825kHz  　　古筝曲（中国民乐台），短暂发射15s信号</strong><br>15:28　　　　　9845kHz　　10s空白载波<br>15:30-15:31　　9660kHz　　1kHz正弦波<br>15:32-15:33　　9965kHz　　1kHz正弦波<br>15:33-15:47　　9660kHz　　空白载波，15:36 1kHz正弦波（在东北也可收）<br>15:33-16:14　　9720kHz　　空白载波<br>15:34　　　　　9685kHz　　5s空白载波<br>15:34-15:40　　9665kHz　　空白载波<br>15:40　　　　　9740kHz　　5s空白载波<br>15:40　　　　　9870kHz　　5s空白载波<br>15:41-15:44　　9560kHz　　空白载波<br>15:41-15:44　　9680kHz　　空白载波<br>15:41-15:44　　9845kHz　　空白载波<br>15:44-15:45　　9810kHz　　空白载波<br><strong>15:45-15:47　　9530kHz　　15:45-15:47空白载波，15:47古筝曲（中国民乐台），持续10s</strong><br>15:46-15:48　　9755kHz　　空白载波<br>15:46-15:48　　9775kHz　　空白载波<br><strong>15:47　　　　　9810kHz　　20s古筝曲（中国民乐台），15s短暂转播CNR 1信号</strong><br>15:49-15:58　　9775kHz　　空白载波<br>15:50-15:52　　9420kHz　　空白载波<br>15:51-15:54　　9675kHz　　15:51-15:53空白载波，覆盖CNR 1（背景能听到），15:53 1kHz正弦波<br>15:53　　　　　9775kHz　　10s空白载波<br>15:53　　　　　9810kHz　　10s空白载波<br><strong>15:54　　　　　9775kHz　　10s中国民乐（非干扰用的丰收锣鼓）</strong><br>15:55　　　　　9685kHz　　20s空白载波<br>15:55　　　　　9810kHz　　20s空白载波<br>15:56-15:59　　9630kHz　　15:56-15:59空白载波，15:59 1kHz正弦波<br>15:57-16:25　　9660kHz　　15:57-16:03 1kHz正弦波，16:03空白载波（16:06背景有不明英语信号）<br>16:00　　　　　9860kHz　　10s空白载波<br>16:00　　　　　9665kHz　　10s空白载波（估计与9860kHz为同一设备发射，不断变化频率）<br>16:01　　　　　9785kHz　　10s空白载波（估计与9860、9665kHz为同一设备发射，不断变化频率）<br><strong>16:01-16:05　　9620kHz　　16:01-16:04空白载波，16:04-16:05古筝曲（中国民乐台）</strong><br>16:05-16:06　　9535kHz　　空白载波<br>16:08-16:09　　9480kHz　　空白载波<br><strong>16:11　　　　　9550kHz　　古筝曲（中国民乐台）</strong><br>16:13　　　　　9655kHz　　10s空白载波<br><strong>16:15　　　　　9550kHz　　古筝曲（中国民乐台）</strong><br>16:17-16:18　　15615kHz　　空白载波<br>16:18　　　　　15530kHz　　10s空白载波<br>16:20　　　　　15100kHz　　10s空白载波<br>16:20　　　　　15160kHz　　10s空白载波<br>16:27　　　　　15110kHz　　10s空白载波</li>
 </ul>
-<h4 id="9-21"><a href="#9-21" class="headerlink" title="9.21"></a><strong>9.21</strong></h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">18:35　　11540kHz</div><div class="line">18:35　　15150kHz</div></pre></td></tr></table></figure>
+<h4 id="9-21"><a href="#9-21" class="headerlink" title="9.21"></a><strong>9.21</strong></h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">18:35-?　　11540kHz</div><div class="line">18:35-?　　15150kHz</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
@@ -494,15 +518,16 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-09-23T15:00:51.185Z</updated>
+    <updated>2017-09-23T15:10:53.449Z</updated>
     
     <content type="html"><![CDATA[<p>2017.5.21建立，5.25正式上线，纪念一下</p>
 <h4 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h4><p>2017.5.21　5月20日筹备，熬夜调试好，5月21日早试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">1.手机版的自适应问题</div><div class="line">2.Archives页面超过10篇文章，底部右下方无下一页按钮翻页</div><div class="line">3.LightOne主题无法使用表格展现内容</div><div class="line">4.文章底部的评论去除不干净（不打算开放评论了...）</div><div class="line">5.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示...</div></pre></td></tr></table></figure></p>
-<p>2017.9.23 随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新，<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">version 1.6.3 -&gt; 1.6.4</div></pre></td></tr></table></figure></p>
+<p>2017.9.23　随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新，<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">version 1.6.3 -&gt; 1.6.4</div></pre></td></tr></table></figure></p>
 <p>目前站点存在的问题有（2017.9.23更新）：<br>左侧侧边栏的tags和categories不可用（点进去提示404），正想办法解决中…</p>
 <hr>
 <h3 id="有用的链接"><a href="#有用的链接" class="headerlink" title="有用的链接"></a>有用的链接</h3><p><a href="http://www.jianshu.com/p/701b1095da11" target="_blank" rel="external">http://www.jianshu.com/p/701b1095da11</a>  手把手教你建github技术博客<br><a href="http://www.jianshu.com/p/465830080ea9" target="_blank" rel="external">http://www.jianshu.com/p/465830080ea9</a>  HEXO+Github,搭建属于自己的博客<br><a href="https://yq.aliyun.com/articles/8607" target="_blank" rel="external">https://yq.aliyun.com/articles/8607</a>    Hexo折腾记——基本配置篇<br><a href="http://www.jianshu.com/p/b7886271e21a" target="_blank" rel="external">http://www.jianshu.com/p/b7886271e21a</a>  Hexo安装和配置<br><a href="http://www.jianshu.com/p/e99ed60390a8" target="_blank" rel="external">http://www.jianshu.com/p/e99ed60390a8</a>  20分钟教你使用hexo搭建github博客<br><a href="http://www.jianshu.com/p/db7e64d86067" target="_blank" rel="external">http://www.jianshu.com/p/db7e64d86067</a>  使用Hexo搭建博客（三），博客配置、主题和写作<br><a href="http://www.jianshu.com/p/70343b7c2fd3" target="_blank" rel="external">http://www.jianshu.com/p/70343b7c2fd3</a>  Hexo主题 Light 修改教程<br><a href="http://www.jianshu.com/p/abaff828100d" target="_blank" rel="external">http://www.jianshu.com/p/abaff828100d</a>  Markdown 快速生成表格</p>
 <p><a href="http://blog.csdn.net/jiluben/article/details/40868981" target="_blank" rel="external">http://blog.csdn.net/jiluben/article/details/40868981</a>  hexo禁用特定文章的评论（论做笔记的重要性）<br><a href="https://segmentfault.com/a/1190000002632530" target="_blank" rel="external">https://segmentfault.com/a/1190000002632530</a>  hexo常用命令笔记</p>
+<p><a href="http://blog.csdn.net/allenzyoung/article/details/50302471" target="_blank" rel="external">http://blog.csdn.net/allenzyoung/article/details/50302471</a>  Github上如何取消fork别人的repository</p>
 <p><a href="http://www.mway.top/" target="_blank" rel="external">http://www.mway.top/</a><br><a href="http://www.mjiayou.com/2014/08/18/hexo-theme-modify-based-light/" target="_blank" rel="external">http://www.mjiayou.com/2014/08/18/hexo-theme-modify-based-light/</a></p>
 <hr>
 <h3 id="博客主题"><a href="#博客主题" class="headerlink" title="博客主题"></a>博客主题</h3><p><a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">https://github.com/yscoder/hexo-theme-indigo</a> （现在的主题）<br><a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">https://github.com/caisiduo/hexo-theme-lightone</a> （原来的主题）</p>
