@@ -44,12 +44,12 @@
     <link href="https://cahcn.github.io/posts/2017-09-05-BBC-Korean.html"/>
     <id>https://cahcn.github.io/posts/2017-09-05-BBC-Korean.html</id>
     <published>2017-09-05T11:38:36.000Z</published>
-    <updated>2017-09-26T13:21:52.355Z</updated>
+    <updated>2017-09-27T13:26:58.415Z</updated>
     
     <content type="html"><![CDATA[<p>BBC朝鲜语广播于北京时间2017年9月25日23:30开播，之前有消息称BBC朝鲜语广播计划于9月17日开播，但实际未如期开播。</p>
 <p>根据HFCC 2017年9月4日更新的频率数据，BBC朝鲜语广播的播出时间为（UTC+8）：<br>23:30-02:30　5810kHz（塔什干）、9940kHz（台湾）</p>
-<p>另有在蒙古乔巴山发射的1431kHz BBC测试信号，计划改为发射BBC朝鲜语广播，播出时间为：00:30-01:30（UTC+8）</p>
-<p><strong>2017年9月26日消息，BBC朝鲜语广播已于北京时间9月25日23:30开播。塔什干发射的5810kHz伴有朝鲜干扰信号，效果一般；台湾发射的9940kHz效果稍差，但无干扰。</strong></p>
+<p>另有在蒙古乔巴山发射的1431kHz BBC测试信号，已改为发射BBC朝鲜语广播，播出时间为：00:30-01:30（UTC+8）</p>
+<p><strong>2017年9月26日消息，BBC朝鲜语广播已于北京时间9月25日23:30开播。塔什干发射的5810kHz伴有朝鲜干扰信号，效果一般；台湾发射的9940kHz效果稍差，但无干扰。</strong><br><strong>2017年9月27日消息，台湾发射的9940kHz收听效果比昨日改善了不少，使用日本的SDR接收机收听，信号比塔什干发射的5810kHz强。</strong></p>
 ]]></content>
     
     <summary type="html">
@@ -226,7 +226,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-09-27T13:01:22.777Z</updated>
+    <updated>2017-09-27T13:17:58.769Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -321,7 +321,7 @@
 <li>15:00-16:30　在11、15、17MHz频段上出现多个空白载波信号，具体频率未作详细记录</li>
 </ul>
 <h4 id="9-27"><a href="#9-27" class="headerlink" title="9.27"></a><strong>9.27</strong></h4><ul>
-<li>13:00-13:12　　17710kHz　　空白载波<br>13:30-13:48　　17710kHz　　空白载波<br>13:33　　　　　17810kHz　　30s空白载波<br>13:53　　　　　17810kHz　　空白载波<br><strong>16:00-17:00　　15110kHz    中国民乐（非干扰用的丰收锣鼓），民乐《喜洋洋》循环播放</strong><br>16:11-16:14　　15300kHz　　空白载波<br>16:15　　　　　15300kHz　　空白载波（再次出现，但仅发射20s左右）<br>（13:00-14:00一度出现锣鼓台、CNR 1两个信号同时对17650kHz RFA藏语广播、21690kHz RFA普通话广播进行干扰的情况）</li>
+<li>13:00-13:12　　17710kHz　　空白载波<br>13:30-13:48　　17710kHz　　空白载波<br>13:33　　　　　17810kHz　　30s空白载波<br>13:53　　　　　17810kHz　　空白载波<br><strong>16:00-17:00　　15110kHz　　中国民乐（非干扰用的丰收锣鼓），民乐《喜洋洋》循环播放</strong><br>16:11-16:14　　15300kHz　　空白载波<br>16:15　　　　　15300kHz　　空白载波（再次出现，但仅发射20s左右）<br>（13:00-14:00一度出现锣鼓台、CNR 1两个信号同时对17650kHz RFA藏语广播、21690kHz RFA普通话广播进行干扰的情况）</li>
 </ul>
 ]]></content>
     
@@ -433,13 +433,13 @@
     <link href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html"/>
     <id>https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html</id>
     <published>2017-06-03T13:16:58.000Z</published>
-    <updated>2017-09-27T13:11:19.083Z</updated>
+    <updated>2017-09-27T13:20:28.068Z</updated>
     
     <content type="html"><![CDATA[<p>详见：<a href="https://git.oschina.net/bcler/fmdx/blob/master/XingXing-guangbo-diantai.jpg" target="_blank" rel="external">https://git.oschina.net/bcler/fmdx/blob/master/XingXing-guangbo-diantai.jpg</a> （图片）</p>
 <p>特殊事件（从A17开始记录，时间默认为UTC+8）：</p>
 <ul>
 <li><p>2017.6.3 21:00时段，同时使用9725、15388 kHz两个频率播出<br>2017.6.8 21:00时段，同时使用9725、15388 kHz两个频率播出<br>2017.6.11 21:00时段，同时使用9725、15388 kHz两个频率播出<br>2017.6.16 21:00时段，同时使用9725、15388 kHz两个频率播出</p>
-<p>2017.6.27 12:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.6.27 13:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.7.27 15:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.27 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.31 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 10:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 12:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.21 15:00时段，频率由15388kHz改为11430kHz（临时）<br>2017.9.26 13:00时段，频率由15388kHz改为18040kHz<br>2017.9.26 14:00时段，频率由11430kHz改为16134kHz（临时）<br>2017.9.26 15:00时段，频率由15388kHz改为11430kHz<br>2017.9.27 14:00时段，频率由16134kHz改为15388kHz（临时）</p>
+<p>2017.6.27 12:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.6.27 13:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.7.27 15:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.27 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.31 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 10:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 12:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.21 15:00时段，频率由15388kHz改为11430kHz（临时）<br>2017.9.26 13:00时段，频率由15388kHz改为18040kHz<br>2017.9.26 14:00时段，频率由11430kHz改为16134kHz（临时，带外频率）<br>2017.9.26 15:00时段，频率由15388kHz改为11430kHz<br>2017.9.27 14:00时段，频率由16134kHz改为15388kHz（临时）</p>
 </li>
 </ul>
 <p>2017.7.11起，似乎是发射设备检修，仅有几日各时段能够正常发射：</p>
