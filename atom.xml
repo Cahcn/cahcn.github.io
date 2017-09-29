@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-09-25T13:04:06.828Z</updated>
+  <updated>2017-09-29T20:22:11.419Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html"/>
     <id>https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html</id>
     <published>2017-09-25T11:37:20.000Z</published>
-    <updated>2017-09-25T13:04:06.828Z</updated>
+    <updated>2017-09-29T20:22:11.419Z</updated>
     
     <content type="html"><![CDATA[<p>据日本广播论坛消息，<a href="http://www.fhbs.com.tw/" target="_blank" rel="external">复兴广播电台</a>短波于2017年9月中旬恢复发射。但因一些原因，复兴广播电台并非每天定时发射，而是不定期随机发射。</p>
 <p>2017年9月以来，有记录的发射时间（北京时间）：<br>9月14日　20:00-?　9410kHz<br>9月25日　12:00-?　13750kHz　（直到15:00仍在发射）</p>
@@ -34,8 +34,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -44,7 +44,7 @@
     <link href="https://cahcn.github.io/posts/2017-09-05-BBC-Korean.html"/>
     <id>https://cahcn.github.io/posts/2017-09-05-BBC-Korean.html</id>
     <published>2017-09-05T11:38:36.000Z</published>
-    <updated>2017-09-27T13:26:58.415Z</updated>
+    <updated>2017-09-29T20:22:04.164Z</updated>
     
     <content type="html"><![CDATA[<p>BBC朝鲜语广播于北京时间2017年9月25日23:30开播，之前有消息称BBC朝鲜语广播计划于9月17日开播，但实际未如期开播。</p>
 <p>根据HFCC 2017年9月4日更新的频率数据，BBC朝鲜语广播的播出时间为（UTC+8）：<br>23:30-02:30　5810kHz（塔什干）、9940kHz（台湾）</p>
@@ -59,8 +59,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -69,7 +69,7 @@
     <link href="https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html"/>
     <id>https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html</id>
     <published>2017-09-01T13:18:47.000Z</published>
-    <updated>2017-09-21T11:39:04.271Z</updated>
+    <updated>2017-09-29T20:21:58.142Z</updated>
     
     <content type="html"><![CDATA[<p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
 <p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
@@ -83,8 +83,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -93,7 +93,7 @@
     <link href="https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html"/>
     <id>https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html</id>
     <published>2017-08-28T13:33:33.000Z</published>
-    <updated>2017-08-28T14:13:55.851Z</updated>
+    <updated>2017-09-29T20:21:50.601Z</updated>
     
     <content type="html"><![CDATA[<p>中国国际广播电台日语广播网站发布公告，2017年9月6日8时至9月30日20时，将对部分发射设备进行维护，在此期间部分短波频率停播。</p>
 <p>停播的频率（北京时间）：<br>06:00-07:00　13640kHz<br>07:00-08:00　13640kHz<br>18:00-19:00　7325kHz<br>19:00-20:00　7325kHz<br>20:00-21:00　7325kHz<br>21:00-22:00　7410kHz<br>22:00-23:00　7410kHz<br>23:00-00:00　7410kHz<br>（停播的频率均在浙江金华发射）</p>
@@ -108,8 +108,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -118,7 +118,7 @@
     <link href="https://cahcn.github.io/posts/2017-08-16-RAE-relay-via-WRMI.html"/>
     <id>https://cahcn.github.io/posts/2017-08-16-RAE-relay-via-WRMI.html</id>
     <published>2017-08-16T11:49:56.000Z</published>
-    <updated>2017-08-28T13:53:54.453Z</updated>
+    <updated>2017-09-29T20:21:44.031Z</updated>
     
     <content type="html"><![CDATA[<p>据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。</p>
 <p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
@@ -138,8 +138,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -148,7 +148,7 @@
     <link href="https://cahcn.github.io/posts/2017-08-11-RTHK.html"/>
     <id>https://cahcn.github.io/posts/2017-08-11-RTHK.html</id>
     <published>2017-08-11T15:15:42.000Z</published>
-    <updated>2017-08-12T08:04:12.904Z</updated>
+    <updated>2017-09-29T20:21:37.086Z</updated>
     
     <content type="html"><![CDATA[<p>香港电台将于2017年9月3日午夜12时起，终止数码声音广播服务。<br>届时，中央人民广播电台香港之声将改由香港电台第六台675kHz转播。</p>
 <p>目前，675kHz为香港电台24小时转播“英国广播公司世界频道”（BBC World Service）的一套频率，<br>中央人民广播电台香港之声改由香港电台第六台转播后，“英国广播公司国际频道”将改由香港电台第四台每晚11时至早上7时转播。</p>
@@ -162,8 +162,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -172,7 +172,7 @@
     <link href="https://cahcn.github.io/posts/2017-07-11-Voice-of-Strait-666kHz.html"/>
     <id>https://cahcn.github.io/posts/2017-07-11-Voice-of-Strait-666kHz.html</id>
     <published>2017-07-10T17:51:55.000Z</published>
-    <updated>2017-07-11T09:44:19.860Z</updated>
+    <updated>2017-09-29T20:21:30.648Z</updated>
     
     <content type="html"><![CDATA[<p>海峡之声广播电台发布公告，因发射台天馈线大修，海峡之声新闻广播中波666kHz从2017年7月25日0时至9月29日24时期间暂停播出，9月30日0时后恢复播出。</p>
 <p>在此期间，海峡之声新闻广播短波频率4940、9505kHz将分时段转播全天节目，具体播出时间为：<br>（北京时间）</p>
@@ -188,8 +188,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -198,7 +198,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-20-Hei-Guang-Bo.html"/>
     <id>https://cahcn.github.io/posts/2017-06-20-Hei-Guang-Bo.html</id>
     <published>2017-06-20T14:15:20.000Z</published>
-    <updated>2017-09-28T13:23:40.159Z</updated>
+    <updated>2017-09-29T20:21:20.027Z</updated>
     
     <content type="html"><![CDATA[<p>今天得知百色下面的田东、平果两县查处了3个黑广播，其中一个黑广播我曾于2016年7月10日在隆安火车东站、2016年12月27日在平果火车站接收过，为南宁江南区一家私人医院私自架设的非法电台，当时的频率为FM99.5、91.9，据说经过多次改频，以此逃避检查。</p>
 <p>而我在2016年7月末，就已经在广西新闻出版广电局网站进行了投诉，虽然收到了区广电局的电子邮件以及网站上的回复，但该黑广播并没有被查处…</p>
@@ -217,8 +217,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -227,7 +227,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-09-27T13:17:58.769Z</updated>
+    <updated>2017-09-29T20:21:10.930Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -333,8 +333,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -343,7 +343,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-11-CRI-NNN-11875kHz.html"/>
     <id>https://cahcn.github.io/posts/2017-06-11-CRI-NNN-11875kHz.html</id>
     <published>2017-06-11T06:57:19.000Z</published>
-    <updated>2017-07-13T07:13:05.763Z</updated>
+    <updated>2017-09-29T20:20:57.305Z</updated>
     
     <content type="html"><![CDATA[<p>2017年5月中旬实收确认，南宁发射的CRI中文环球11875kHz增加14:00-15:00一小时播出时间。<br>南宁发射的11875kHz目前播出时间、节目：<br>14:00-15:00　整点新闻+《人物访谈》<br>15:00-16:00　整点新闻+《直播中国》</p>
 <p>2017年7月12日消息，5月中旬新增的14:00-15:00时段已取消，11875kHz播出时间恢复为原有的15:00-16:00。<br>2017年7月13日消息，11875kHz约在14:40-15:00短暂出现信号，播出节目为《人物访谈》。</p>
@@ -355,8 +355,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -365,7 +365,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html"/>
     <id>https://cahcn.github.io/posts/2017-06-09-HTML5-Video-Player.html</id>
     <published>2017-06-09T14:14:18.000Z</published>
-    <updated>2017-09-12T18:13:46.607Z</updated>
+    <updated>2017-09-29T20:20:45.389Z</updated>
     
     <content type="html"><![CDATA[<h4 id="Bilibili"><a href="#Bilibili" class="headerlink" title="Bilibili"></a><strong>Bilibili</strong></h4><p>浏览器打开 <a href="https://www.bilibili.com/blackboard/help.html#p" target="_blank" rel="external">https://www.bilibili.com/blackboard/help.html#p</a> ，点击【试用点我】</p>
 <h4 id="斗鱼TV"><a href="#斗鱼TV" class="headerlink" title="斗鱼TV"></a><strong>斗鱼TV</strong></h4><p>替换斗鱼的Flash弹幕播放器： <a href="https://github.com/spacemeowx2/DouyuHTML5Player" target="_blank" rel="external">https://github.com/spacemeowx2/DouyuHTML5Player</a><br><a href="https://chrome.google.com/webstore/detail/hbocinidadgpnbcamhjgfbgiebhpnmfj" target="_blank" rel="external">https://chrome.google.com/webstore/detail/hbocinidadgpnbcamhjgfbgiebhpnmfj</a>  （Chrome扩展，支持Chrome 49+）<br><a href="https://greasyfork.org/zh-CN/scripts/26901" target="_blank" rel="external">https://greasyfork.org/zh-CN/scripts/26901</a> （Firefox 油猴脚本）</p>
@@ -379,8 +379,8 @@
     
     </summary>
     
+      <category term="enjoy" scheme="https://cahcn.github.io/categories/enjoy/"/>
     
-      <category term="enjoy" scheme="https://cahcn.github.io/tags/enjoy/"/>
     
   </entry>
   
@@ -389,7 +389,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-07-China-Provincial-Shortwave.html"/>
     <id>https://cahcn.github.io/posts/2017-06-07-China-Provincial-Shortwave.html</id>
     <published>2017-06-07T08:45:16.000Z</published>
-    <updated>2017-08-01T13:20:23.608Z</updated>
+    <updated>2017-09-29T20:20:34.925Z</updated>
     
     <content type="html"><![CDATA[<p>（以下均为北京时间，各电台顺序按照民政部公布的<a href="http://www.mca.gov.cn/article/sj/tjbz/a/" target="_blank" rel="external">行政区划代码</a>排序）</p>
 <h4 id="内蒙古人民广播电台（A17）"><a href="#内蒙古人民广播电台（A17）" class="headerlink" title="内蒙古人民广播电台（A17）"></a><strong>内蒙古人民广播电台（A17）</strong></h4><p>蒙语新闻综合广播<br>0550-0800　6040 7270 9750<br>0800-1100　6040 7270 9750<br>1100-1200　6040 7270 9750（转CNR-8民族之声节目）<br>1200-1400　6040 7270 9750<br>1400-1750　6040 7270 9750（周二均停播）<br>1750-0005　6040 7270 9750<br>汉语新闻综合广播<br>0550-0800　7420 9520<br>0800-1000　7420 9520（转CNR-1中国之声节目）<br>1000-1400　7420 9520<br>1400-1750　7420 9520（周二均停播）<br>1750-0005　7420 9520</p>
@@ -424,8 +424,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -434,7 +434,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html"/>
     <id>https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html</id>
     <published>2017-06-03T13:16:58.000Z</published>
-    <updated>2017-09-28T12:29:02.949Z</updated>
+    <updated>2017-09-29T20:20:21.822Z</updated>
     
     <content type="html"><![CDATA[<p>详见：<a href="https://git.oschina.net/bcler/fmdx/blob/master/XingXing-guangbo-diantai.jpg" target="_blank" rel="external">https://git.oschina.net/bcler/fmdx/blob/master/XingXing-guangbo-diantai.jpg</a> （图片）</p>
 <p>特殊事件（从A17开始记录，时间默认为UTC+8）：</p>
@@ -455,8 +455,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -465,7 +465,7 @@
     <link href="https://cahcn.github.io/posts/2017-05-22-Changchun-1017kHz.html"/>
     <id>https://cahcn.github.io/posts/2017-05-22-Changchun-1017kHz.html</id>
     <published>2017-05-22T02:04:47.000Z</published>
-    <updated>2017-07-11T09:48:46.360Z</updated>
+    <updated>2017-09-29T20:20:09.400Z</updated>
     
     <content type="html"><![CDATA[<p>2017年四月末，在长春实地收听中波1017kHz，发现该频率缩减了播出时间，播出时段如下：<br>（北京时间，下同）<br>17:55-18:00　发射机开启，发射空白载波信号<br>18:00-19:00　转播CNR-8 民族之声（朝鲜语时段）<br>19:00-00:00　转播CRI 朝鲜语广播<br>00:00-00:01　播出结束，但发射机未关闭，发射空白载波信号<br>00:01　关机</p>
 <p>原播出时段（不计转播前后的空载）：<br>14:05-19:00　转播CNR-8 民族之声（朝鲜语时段）<br>19:00-00:00　转播CRI 朝鲜语广播</p>
@@ -477,8 +477,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -487,7 +487,7 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-CNR-Transmitter-Overhaul.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-CNR-Transmitter-Overhaul.html</id>
     <published>2017-05-21T15:32:23.000Z</published>
-    <updated>2017-09-21T11:12:26.975Z</updated>
+    <updated>2017-09-29T20:19:43.620Z</updated>
     
     <content type="html"><![CDATA[<p>截至2017.9.9，国内近期因发射台检修停播的中、短波频率：<br>其中，xx/xx 为日夜频关系，时间均为北京时间（UTC+8）</p>
 <h3 id="正在检修的频率"><a href="#正在检修的频率" class="headerlink" title="正在检修的频率"></a><strong>正在检修的频率</strong></h3><h4 id="9-6-9-30停机检修"><a href="#9-6-9-30停机检修" class="headerlink" title="9.6-9.30停机检修"></a><strong>9.6-9.30停机检修</strong></h4><p>CRI 部分语种<br><strong>（金华发射）</strong><br>7325kHz　1800-2100　日语<br>7410kHz　2100-0000　日语<br>7430kHz　0600-0700　汉语<br>　　　　　1700-1800　汉语<br><strong>9675kHz　2300-0000　英语</strong><br>11640kHz　1500-<br>11780kHz　0800-0900　汉语<br>11900kHz　<br><strong>13640kHz　0600-0800　日语</strong><br>15160kHz　0900-<br>17710kHz　1100-1200　俄语</p>
@@ -521,8 +521,8 @@
     
     </summary>
     
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
-      <category term="radio" scheme="https://cahcn.github.io/tags/radio/"/>
     
   </entry>
   
@@ -531,7 +531,7 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-09-29T20:00:17.240Z</updated>
+    <updated>2017-09-29T20:19:58.798Z</updated>
     
     <content type="html"><![CDATA[<p>2017.5.21建立，5.25正式上线，纪念一下</p>
 <h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.21　5月20日筹备，熬夜调试好，5月21日早试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">1.手机版的自适应问题</div><div class="line">2.Archives页面超过10篇文章，底部右下方无下一页按钮翻页</div><div class="line">3.LightOne主题无法使用表格展现内容</div><div class="line">4.文章底部的评论去除不干净（不打算开放评论了...）</div><div class="line">5.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示...</div></pre></td></tr></table></figure></p>
@@ -554,8 +554,8 @@
     
     </summary>
     
+      <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
     
-      <category term="other" scheme="https://cahcn.github.io/tags/other/"/>
     
   </entry>
   
