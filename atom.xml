@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cahcn的自留地</title>
-  <subtitle>广播收听、资讯</subtitle>
+  <subtitle>广播收听、资讯，以及其它感兴趣的东西</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-10-03T21:44:01.774Z</updated>
+  <updated>2017-10-03T21:59:13.700Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://cahcn.github.io/posts/Back-up-1-Nanpo-Wubi.html"/>
     <id>https://cahcn.github.io/posts/Back-up-1-Nanpo-Wubi.html</id>
     <published>2017-10-03T21:03:10.000Z</published>
-    <updated>2017-10-03T21:44:01.774Z</updated>
+    <updated>2017-10-03T21:59:13.700Z</updated>
     
     <content type="html"><![CDATA[<p>备份新浪博客的内容，原文见<a href="http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html</a></p>
 <h2 id="南坡五笔输入法v1-0-12（2017-10-4）"><a href="#南坡五笔输入法v1-0-12（2017-10-4）" class="headerlink" title="南坡五笔输入法v1.0.12（2017.10.4）"></a>南坡五笔输入法v1.0.12（2017.10.4）</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>南坡五笔输入法使用多多输入法生成器制作，<br><strong>本输入法1.0版本之前的安装程序有32位和64位之分，1.0之后版本安装程序不再区分32、64位系统</strong><br>支持以下操作系统：<br>Windows 98/ME/2000/2003/xp/Vista/Win7/8/8.1/10</p>
@@ -86,7 +86,7 @@
                     <img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Settings.png" alt="设置" title="">
                 </div>
                 <div class="image-caption">设置</div>
-            </figure><br>请参照<a href="http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html，" target="_blank" rel="external">http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html，</a><br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><figure class="image-bubble">
+            </figure><br>请参照<a href="http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html" target="_blank" rel="external">http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a><br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://oqtut51hd.bkt.clouddn.com/Nanpo-Wubi-Regedit.png" alt="注册表" title="">
@@ -101,7 +101,7 @@
     
     </summary>
     
-      <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+      <category term="enjoy" scheme="https://cahcn.github.io/categories/enjoy/"/>
     
     
   </entry>
@@ -111,9 +111,9 @@
     <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
     <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
     <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2017-10-02T16:13:16.338Z</updated>
+    <updated>2017-10-05T14:36:43.178Z</updated>
     
-    <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
+    <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，<strong>似乎为对东南亚地区发射</strong>，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
 <p>频率及发射时间如下（北京时间）：<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
 <p>7470kHz在19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号。</p>
 <p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong></p>
@@ -121,8 +121,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，干扰对象未知。&lt;br&gt;最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。&lt;/p&gt;
-&lt;p&gt;频率及发射时间如下（北京时间）：&lt;br&gt;09:00-11:00　17730kHz&lt;b
+      &lt;p&gt;2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，&lt;strong&gt;似乎为对东南亚地区发射&lt;/strong&gt;，干扰对象未知。&lt;br&gt;最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。&lt;/p&gt;
+&lt;p&gt;频率及发射时间如下（北京时
     
     </summary>
     
@@ -185,11 +185,11 @@
     <link href="https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html"/>
     <id>https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html</id>
     <published>2017-09-01T13:18:47.000Z</published>
-    <updated>2017-09-29T20:21:58.142Z</updated>
+    <updated>2017-10-04T14:57:39.429Z</updated>
     
     <content type="html"><![CDATA[<p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
-<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
-<p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a></p>
+<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语（需要下载后查看）</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
+<p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://gb.cri.cn/1321/2008/03/27/157@1998202.htm" target="_blank" rel="external">Chinese 汉语（近十年不更新）</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a></p>
 ]]></content>
     
     <summary type="html">
@@ -343,7 +343,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-09-29T20:21:10.930Z</updated>
+    <updated>2017-10-06T23:11:38.087Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -439,6 +439,9 @@
 </ul>
 <h4 id="9-27"><a href="#9-27" class="headerlink" title="9.27"></a><strong>9.27</strong></h4><ul>
 <li>13:00-13:12　　17710kHz　　空白载波<br>13:30-13:48　　17710kHz　　空白载波<br>13:33　　　　　17810kHz　　30s空白载波<br>13:53　　　　　17810kHz　　空白载波<br><strong>16:00-17:00　　15110kHz　　中国民乐（非干扰用的丰收锣鼓），民乐《喜洋洋》循环播放</strong><br>16:11-16:14　　15300kHz　　空白载波<br>16:15　　　　　15300kHz　　空白载波（再次出现，但仅发射20s左右）<br>（13:00-14:00一度出现锣鼓台、CNR 1两个信号同时对17650kHz RFA藏语广播、21690kHz RFA普通话广播进行干扰的情况）</li>
+</ul>
+<h4 id="10-6"><a href="#10-6" class="headerlink" title="10.6"></a><strong>10.6</strong></h4><ul>
+<li>15:55-15:58　　17810kHz　　空白载波，15:57短暂出现5s左右CNR 1信号<br>16:00-16:02　　15135kHz　　空白载波<br>16:10-16:11　　11980kHz　　空白载波</li>
 </ul>
 ]]></content>
     
@@ -603,11 +606,10 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-CNR-Transmitter-Overhaul.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-CNR-Transmitter-Overhaul.html</id>
     <published>2017-05-21T15:32:23.000Z</published>
-    <updated>2017-10-01T15:18:08.324Z</updated>
+    <updated>2017-10-06T23:17:15.867Z</updated>
     
-    <content type="html"><![CDATA[<p>截至2017.10.1，国内近期因发射台检修停播的中、短波频率：<br>其中，xx/xx 为日夜频关系，时间均为北京时间（UTC+8）</p>
-<h3 id="正在检修的频率"><a href="#正在检修的频率" class="headerlink" title="正在检修的频率"></a><strong>正在检修的频率</strong></h3><h4 id="9-6-9-30停机检修"><a href="#9-6-9-30停机检修" class="headerlink" title="9.6-9.30停机检修"></a><strong>9.6-9.30停机检修</strong></h4><p>CRI 部分语种<br><strong>（金华发射）</strong><br>7430kHz　0600-0700　汉语<br>　　　　　1700-1800　汉语<br>11640kHz　1500-<br>11780kHz　0800-0900　汉语<br>11900kHz　<br><strong>13640kHz　0600-0800　日语</strong><br>15160kHz　0900-<br>17710kHz　1100-1200　俄语</p>
-<p><strong>（喀什发射）</strong><br>7295kHz　0300-0500　英语<br>7300kHz　0600-0700　世界语<br>7385kHz　0300-0400　阿尔巴尼亚语<br>7395kHz　0200-0400　德语<br>7415kHz　0400-0600　英语<br>9410kHz　0600-0700　葡萄牙语<br>9590kHz　0700-0900　西班牙语<br>9600kHz　0400-0600　英语<br>　　　　　2300-2330　波斯语<br>9640kHz　0500-0700　西班牙语<br><strong>9675kHz　0900-1000　英语</strong><br>9710kHz　0800-<br>9815kHz　1000-1100　汉语<br>11610kHz　2300-0000　英语<br>11660kHz　0430-0630　法语<br>11775kHz　0200-0400　德语<br>11895kHz　<br><strong>13640kHz</strong><br>13755kHz<br>13760kHz　0000-0300　英语<br>13790kHz　0000-0200　阿拉伯语<br>13870kHz　0030-0130　豪萨语<br>15335kHz　1600-1800　俄语<br>15410kHz　2200-2300　汉语<br>15445kHz　1200-1400　俄语<br>17485kHz　1300-1500　阿拉伯语<br>17490kHz　1500-2100　英语<br>17510kHz　1300-1500　英语<br>17570kHz　1800-<br>17650kHz　1400-<br>17720kHz　1300-1500　德语<br>（9800kHz　0700-0900　西班牙语？）<br>（13790kHz　1700-1900　英语 不检修？）</p>
+    <content type="html"><![CDATA[<p>截至2017.10.7，国内近期因发射台检修停播的中、短波频率：<br>其中，xx/xx 为日夜频关系，时间均为北京时间（UTC+8）</p>
+<h3 id="正在检修的频率"><a href="#正在检修的频率" class="headerlink" title="正在检修的频率"></a><strong>正在检修的频率</strong></h3><p>所有频率均已检修完成</p>
 <hr>
 <h3 id="检修结束，已恢复发射的频率"><a href="#检修结束，已恢复发射的频率" class="headerlink" title="检修结束，已恢复发射的频率"></a><strong>检修结束，已恢复发射的频率</strong></h3><h4 id="5-17-6-1停机检修"><a href="#5-17-6-1停机检修" class="headerlink" title="5.17-6.1停机检修"></a><strong>5.17-6.1停机检修</strong></h4><p>CNR 1 中国之声<br>9645/6000、6030、11960/6175、9675/6125(BEI)、17565/9830kHz</p>
 <h4 id="5-17-6-10停机检修"><a href="#5-17-6-10停机检修" class="headerlink" title="5.17-6.10停机检修"></a><strong>5.17-6.10停机检修</strong></h4><p>CNR 2 经济之声<br>6040、11670/6065、15500/6155、9620/7245、11610/7370、11800/7375、17625/9515、15270/9775kHz</p>
@@ -621,7 +623,8 @@
 <h4 id="7-20开始检修，未知时间恢复（8月下旬收听已正常发射）"><a href="#7-20开始检修，未知时间恢复（8月下旬收听已正常发射）" class="headerlink" title="7.20开始检修，未知时间恢复（8月下旬收听已正常发射）"></a><strong>7.20开始检修，未知时间恢复（8月下旬收听已正常发射）</strong></h4><p>CNR 2 经济之声<br>9810/7265、11915/7335、12080/9755kHz</p>
 <p>CNR 11 藏语广播<br>9530/6010、11685/7350kHz</p>
 <h4 id="7-24开始检修，9-6部分频率恢复，9-21全部恢复发射"><a href="#7-24开始检修，9-6部分频率恢复，9-21全部恢复发射" class="headerlink" title="7.24开始检修，9.6部分频率恢复，9.21全部恢复发射"></a><strong>7.24开始检修，9.6部分频率恢复，9.21全部恢复发射</strong></h4><p>CNR 1 中国之声<br>17595/6125(SZG)、11760/7365/7215、11750/7305、9500、11720/9710、15370kHz<br>其中，7215kHz为日频</p>
-<h4 id="9-6-9-30停机检修-1"><a href="#9-6-9-30停机检修-1" class="headerlink" title="9.6-9.30停机检修"></a><strong>9.6-9.30停机检修</strong></h4><p>CRI 部分语种<br><strong>（金华发射）</strong><br>7325kHz　1800-2100　日语<br>7410kHz　2100-0000　日语<br><strong>9675kHz　2300-0000　英语</strong></p>
+<h4 id="9-6-9-30停机检修"><a href="#9-6-9-30停机检修" class="headerlink" title="9.6-9.30停机检修"></a><strong>9.6-9.30停机检修</strong></h4><p>CRI 部分语种<br><strong>（金华发射）</strong><br>7325kHz　1800-2100　日语<br>7410kHz　2100-0000　日语<br>7430kHz　0600-0700　汉语<br>　　　　　1700-1800　汉语<br><strong>9675kHz　2300-0000　英语</strong><br>11640kHz　1500-<br>11780kHz　0800-0900　汉语<br>11900kHz　<br><strong>13640kHz　0600-0800　日语</strong><br>15160kHz　0900-<br>17710kHz　1100-1200　俄语</p>
+<p><strong>（喀什发射）</strong><br>7295kHz　0300-0500　英语<br>7300kHz　0600-0700　世界语<br>7385kHz　0300-0400　阿尔巴尼亚语<br>7395kHz　0200-0400　德语<br>7415kHz　0400-0600　英语<br>9410kHz　0600-0700　葡萄牙语<br>9590kHz　0700-0900　西班牙语<br>9600kHz　0400-0600　英语<br>　　　　　2300-2330　波斯语<br>9640kHz　0500-0700　西班牙语<br><strong>9675kHz　0900-1000　英语</strong><br>9710kHz　0800-<br>9815kHz　1000-1100　汉语<br>11610kHz　2300-0000　英语<br>11660kHz　0430-0630　法语<br>11775kHz　0200-0400　德语<br>11895kHz　<br><strong>13640kHz</strong><br>13755kHz<br>13760kHz　0000-0300　英语<br>13790kHz　0000-0200　阿拉伯语<br>13870kHz　0030-0130　豪萨语<br>15335kHz　1600-1800　俄语<br>15410kHz　2200-2300　汉语<br>15445kHz　1200-1400　俄语<br>17485kHz　1300-1500　阿拉伯语<br>17490kHz　1500-2100　英语<br>17510kHz　1300-1500　英语<br>17570kHz　1800-<br>17650kHz　1400-<br>17720kHz　1300-1500　德语<br>（9800kHz　0700-0900　西班牙语？）<br>（13790kHz　1700-1900　英语 不检修？）</p>
 <h3 id="临时增加的频率（目前已停用）"><a href="#临时增加的频率（目前已停用）" class="headerlink" title="临时增加的频率（目前已停用）"></a><strong>临时增加的频率（目前已停用）</strong></h3><h4 id="5-17-6-10临时增加频率"><a href="#5-17-6-10临时增加频率" class="headerlink" title="5.17-6.10临时增加频率"></a><strong>5.17-6.10临时增加频率</strong></h4><p>CNR 8 民族之声<br>9695kHz（朝语时段）<br>12070kHz（蒙语时段）</p>
 <p>CNR 16 中国乡村之声 <strong>中波720kHz已恢复发射</strong><br>9700kHz（04:55-06:30、19:00-00:05）<br>17780kHz（06:30-19:00）</p>
 <p>CNR 17 哈语广播<br>15190kHz</p>
@@ -633,7 +636,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;截至2017.10.1，国内近期因发射台检修停播的中、短波频率：&lt;br&gt;其中，xx/xx 为日夜频关系，时间均为北京时间（UTC+8）&lt;/p&gt;
+      &lt;p&gt;截至2017.10.7，国内近期因发射台检修停播的中、短波频率：&lt;br&gt;其中，xx/xx 为日夜频关系，时间均为北京时间（UTC+8）&lt;/p&gt;
 &lt;h3 id=&quot;正在检修的频率&quot;&gt;&lt;a href=&quot;#正在检修的频率&quot; class=&quot;headerlink&quot; title=&quot;正在检
     
     </summary>
