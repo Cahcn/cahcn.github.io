@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-10-03T21:59:13.700Z</updated>
+  <updated>2017-10-11T17:55:30.343Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,12 +20,13 @@
     <link href="https://cahcn.github.io/posts/Back-up-1-Nanpo-Wubi.html"/>
     <id>https://cahcn.github.io/posts/Back-up-1-Nanpo-Wubi.html</id>
     <published>2017-10-03T21:03:10.000Z</published>
-    <updated>2017-10-03T21:59:13.700Z</updated>
+    <updated>2017-10-11T17:55:30.343Z</updated>
     
     <content type="html"><![CDATA[<p>备份新浪博客的内容，原文见<a href="http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html</a></p>
-<h2 id="南坡五笔输入法v1-0-12（2017-10-4）"><a href="#南坡五笔输入法v1-0-12（2017-10-4）" class="headerlink" title="南坡五笔输入法v1.0.12（2017.10.4）"></a>南坡五笔输入法v1.0.12（2017.10.4）</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>南坡五笔输入法使用多多输入法生成器制作，<br><strong>本输入法1.0版本之前的安装程序有32位和64位之分，1.0之后版本安装程序不再区分32、64位系统</strong><br>支持以下操作系统：<br>Windows 98/ME/2000/2003/xp/Vista/Win7/8/8.1/10</p>
+<h2 id="南坡五笔输入法v1-0-13（2017-10-12）"><a href="#南坡五笔输入法v1-0-13（2017-10-12）" class="headerlink" title="南坡五笔输入法v1.0.13（2017.10.12）"></a>南坡五笔输入法v1.0.13（2017.10.12）</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>南坡五笔输入法使用多多输入法生成器制作，<br><strong>本输入法1.0版本之前的安装程序有32位和64位之分，1.0之后版本安装程序不再区分32、64位系统</strong><br>支持以下操作系统：<br>Windows 98/ME/2000/2003/xp/Vista/Win7/8/8.1/10</p>
 <h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="http://pys247.ys168.com/" target="_blank" rel="external">国内下载</a> （永硕网盘，适合国内下载）<br><a href="https://www.dropbox.com/sh/syupy5xaydprc54/AAA1iT-ROozd_DEEAmIbAhr5a?dl=0" target="_blank" rel="external">国外下载</a> （DropBox，中国大陆无法访问，适合国外下载）</p>
-<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><h4 id="1-0-12（2017-10-4）：基于多多输入法生成器v4-0-0-367版本更新"><a href="#1-0-12（2017-10-4）：基于多多输入法生成器v4-0-0-367版本更新" class="headerlink" title="1.0.12（2017.10.4）：基于多多输入法生成器v4.0.0.367版本更新"></a>1.0.12（2017.10.4）：基于多多输入法生成器v4.0.0.367版本更新</h4><p>1.优化窗口丢失焦点时程序行为<br>2.调整首字母大写转临时英文逻辑<br>3.调整非编码键行为<br>4.稳定性修正</p>
+<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><h4 id="1-0-13（2017-10-12）：基于多多输入法生成器v4-0-0-368版本更新"><a href="#1-0-13（2017-10-12）：基于多多输入法生成器v4-0-0-368版本更新" class="headerlink" title="1.0.13（2017.10.12）：基于多多输入法生成器v4.0.0.368版本更新"></a>1.0.13（2017.10.12）：基于多多输入法生成器v4.0.0.368版本更新</h4><p>稳定性修正</p>
+<h4 id="1-0-12（2017-10-4）：基于多多输入法生成器v4-0-0-367版本更新"><a href="#1-0-12（2017-10-4）：基于多多输入法生成器v4-0-0-367版本更新" class="headerlink" title="1.0.12（2017.10.4）：基于多多输入法生成器v4.0.0.367版本更新"></a>1.0.12（2017.10.4）：基于多多输入法生成器v4.0.0.367版本更新</h4><p>1.优化窗口丢失焦点时程序行为<br>2.调整首字母大写转临时英文逻辑<br>3.调整非编码键行为<br>4.稳定性修正</p>
 <h4 id="1-0-11（2017-4-25）：基于多多输入法生成器v4-0-0-365版本更新"><a href="#1-0-11（2017-4-25）：基于多多输入法生成器v4-0-0-365版本更新" class="headerlink" title="1.0.11（2017.4.25）：基于多多输入法生成器v4.0.0.365版本更新"></a>1.0.11（2017.4.25）：基于多多输入法生成器v4.0.0.365版本更新</h4><p>1.修正##无法识别为编码的错误<br>2.修正office中某些按键会被连续处理多次的问题<br>3.其他bug修正<br>（已知有图标显示错误的bug，不影响软件基本使用）</p>
 <h4 id="1-0-10（2017-3-13）：基于多多输入法生成器v4-0-0-363版本更新"><a href="#1-0-10（2017-3-13）：基于多多输入法生成器v4-0-0-363版本更新" class="headerlink" title="1.0.10（2017.3.13）：基于多多输入法生成器v4.0.0.363版本更新"></a>1.0.10（2017.3.13）：基于多多输入法生成器v4.0.0.363版本更新</h4><p>1.修正Excel2013等版本中输入编码无法使用鼠标操作的错误<br>2.修正小键盘9按键不能设置按键功能的错误<br>3.其他bug修正</p>
 <h4 id="1-0-9（2017-1-31）"><a href="#1-0-9（2017-1-31）" class="headerlink" title="1.0.9（2017.1.31）"></a>1.0.9（2017.1.31）</h4><p>1.<strong>更换输入法新图标（在语言栏中显示）</strong><br>2.优化输入法部分自带皮肤的样式</p>
@@ -111,12 +112,12 @@
     <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
     <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
     <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2017-10-05T14:36:43.178Z</updated>
+    <updated>2017-10-11T14:04:14.806Z</updated>
     
     <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，<strong>似乎为对东南亚地区发射</strong>，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
 <p>频率及发射时间如下（北京时间）：<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
 <p>7470kHz在19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号。</p>
-<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong></p>
+<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱，深圳SDR收听无信号</strong></p>
 ]]></content>
     
     <summary type="html">
@@ -343,7 +344,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-10-06T23:11:38.087Z</updated>
+    <updated>2017-10-12T15:20:28.687Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -443,6 +444,9 @@
 <h4 id="10-6"><a href="#10-6" class="headerlink" title="10.6"></a><strong>10.6</strong></h4><ul>
 <li>15:55-15:58　　17810kHz　　空白载波，15:57短暂出现5s左右CNR 1信号<br>16:00-16:02　　15135kHz　　空白载波<br>16:10-16:11　　11980kHz　　空白载波</li>
 </ul>
+<h4 id="10-11"><a href="#10-11" class="headerlink" title="10.11"></a><strong>10.11</strong></h4><ul>
+<li>14:28-14:31　　17690kHz　　1kHz正弦波<br>15:34-15:36　　12020kHz　　空白载波<br>15:41-15:50　　在15200kHz上收听到奇怪的信号，类似喷气飞机一样的噪声，持续10s左右，15s左右出现在相隔200kHz的15400kHz上，目的不明。奇怪信号出现在15200-21000kHz范围内，重复上面提到的规律发射</li>
+</ul>
 ]]></content>
     
     <summary type="html">
@@ -508,9 +512,10 @@
     <link href="https://cahcn.github.io/posts/2017-06-07-China-Provincial-Shortwave.html"/>
     <id>https://cahcn.github.io/posts/2017-06-07-China-Provincial-Shortwave.html</id>
     <published>2017-06-07T08:45:16.000Z</published>
-    <updated>2017-09-29T20:20:34.925Z</updated>
+    <updated>2017-10-10T13:37:10.094Z</updated>
     
-    <content type="html"><![CDATA[<p>（以下均为北京时间，各电台顺序按照民政部公布的<a href="http://www.mca.gov.cn/article/sj/tjbz/a/" target="_blank" rel="external">行政区划代码</a>排序）</p>
+    <content type="html"><![CDATA[<p>更新时间：2017.10.10</p>
+<p>（以下均为北京时间，各电台顺序按照民政部公布的<a href="http://www.mca.gov.cn/article/sj/tjbz/a/" target="_blank" rel="external">行政区划代码</a>排序）</p>
 <h4 id="内蒙古人民广播电台（A17）"><a href="#内蒙古人民广播电台（A17）" class="headerlink" title="内蒙古人民广播电台（A17）"></a><strong>内蒙古人民广播电台（A17）</strong></h4><p>蒙语新闻综合广播<br>0550-0800　6040 7270 9750<br>0800-1100　6040 7270 9750<br>1100-1200　6040 7270 9750（转CNR-8民族之声节目）<br>1200-1400　6040 7270 9750<br>1400-1750　6040 7270 9750（周二均停播）<br>1750-0005　6040 7270 9750<br>汉语新闻综合广播<br>0550-0800　7420 9520<br>0800-1000　7420 9520（转CNR-1中国之声节目）<br>1000-1400　7420 9520<br>1400-1750　7420 9520（周二均停播）<br>1750-0005　7420 9520</p>
 <h4 id="呼伦贝尔人民广播电台（A17）"><a href="#呼伦贝尔人民广播电台（A17）" class="headerlink" title="呼伦贝尔人民广播电台（A17）"></a><strong>呼伦贝尔人民广播电台（A17）</strong></h4><p>汉语综合广播（时间有争议）</p>
 <ul>
@@ -530,7 +535,7 @@
 <h4 id="四川人民广播电台"><a href="#四川人民广播电台" class="headerlink" title="四川人民广播电台"></a><strong>四川人民广播电台</strong></h4><p>民族广播（金桥之声）<br>0555-0700　6060 7225 汉语<br>0700-0730　6060 7225 彝语<br>0730-0800　6060 7225 藏语(安多方言)<br>0800-0900　6060 7225 藏语(康巴方言)<br>0900-0935　6060 7225 汉语<br>1800-1845　6060 7225 藏语<br>1845-1900　6060 7225 彝语<br>1900-1930　6060 7225 藏语(康巴方言)<br>1930-2030　6060 7225 藏语(安多方言)<br>2030-2200　6060 7225 彝语<br>2200-2300　6060 7225 藏语<br>2300-2315　6060 7225 彝语</p>
 <h4 id="贵州人民广播电台（B14）"><a href="#贵州人民广播电台（B14）" class="headerlink" title="贵州人民广播电台（B14）"></a><strong>贵州人民广播电台（B14）</strong></h4><p>综合广播<br>0940-1400　7275</p>
 <h4 id="云南人民广播电台（A17）"><a href="#云南人民广播电台（A17）" class="headerlink" title="云南人民广播电台（A17）"></a><strong>云南人民广播电台（A17）</strong></h4><p>云南香格里拉之声国际频率（原云南广播电台云岭之声）<br>1800-1900　6035 越南语<br>1900-2000　6035 汉语<br>2000-2100　6035 越南语<br>2100-2200　6035 汉语<br>2200-2300　6035 越南语<br>云南民族广播<br>0655-1100　7210 Vernacular 中国方言<br>1430-1630　7210 Vernacular 中国方言<br>1900-1945　7210 Dehong Dai 德宏傣语<br>1945-2030　7210 Kachinic   卡琴语（缅甸北部少数民族语言）<br>2030-2115　7210 Lisu       傈僳语<br>2115-2200　7210 Xishuangbanna Dai 西双版纳傣语<br>2200-2245　7210 Lahu       拉祜语<br>2245-2300　7210 Chinese    汉语</p>
-<h4 id="西藏人民广播电台（A17）"><a href="#西藏人民广播电台（A17）" class="headerlink" title="西藏人民广播电台（A17）"></a><strong>西藏人民广播电台（A17）</strong></h4><p>汉语广播<br>0400-0630　4820 5935 6050 7240 7450（周二均停播）<br>0500-0630　4820 5935 6050 7240 7450（周二）<br>0630-0700　4820 5935 6050 7240 7450（转CNR-1中国之声节目）<br>0700-0800　4820 5935 6050 7240 7450<br>0800-0830　4820 5935 6050 7240 7450<br>0830-1400　4820 5935 6050 7240 7450<br>1058-1400　11950<br>1100-1400　11860<br>1400-1657　11950（周二停播）<br>1400-1658　11860（周二停播）<br>1400-1800　4820 5935 6050 7240 7450（周二均停播）<br>1800-1830　4820 5935 6050 7240 7450<br>1830-1900　4820 5935 6050 7240 7450（转CNR-1中国之声节目）<br>1900-0200　4820 5935 6050 7240 7450<br>藏语广播<br>0100-0205　4905 4920 6025 6110 6130 6200 7255 7385<br>0450-0700　4905 4920 6025 6110 6130 6200 7255 7385（周二均停播）<br>0500-0700　4905 4920 6025 6110 6130 6200 7255 7385（周二）<br>0700-0800　4905 4920 6025 6110 6130 6200 7255 7385（转CNR-11藏语广播节目）<br>0800-0957　7255 7385<br>0800-1500　4905 4920 6025 6110 6130 6200<br>0958-1400　9490<br>0958-1500　9580<br>1400-1500　9490（周二停播）<br>1600-1728　9580（周二停播）<br>1600-1757　9490（周二停播）<br>1600-1800　4905 4920 6025 6110 6130 6200（周二均停播）<br>1729-0000　7385<br>1758-0000　7255<br>1800-0000　4905 4920 6025 6110 6130 6200<br>英语节目（在藏语广播时段播出）<br>0000-0100　4905 4920 6025 6110 6130 6200 7255 7385<br>1500-1600　4905 4920 6025 6110 6130 6200 9490 9580（周二均停播）</p>
+<h4 id="西藏人民广播电台（A17）"><a href="#西藏人民广播电台（A17）" class="headerlink" title="西藏人民广播电台（A17）"></a><strong>西藏人民广播电台（A17）</strong></h4><p>汉语广播<br>0400-0630　4820 5935 6050 7240 7450（周二均停播）<br>0500-0630　4820 5935 6050 7240 7450（周二）<br>0630-0700　4820 5935 6050 7240 7450（转CNR-1中国之声节目）<br>0700-0800　4820 5935 6050 7240 7450<br>0800-0830　4820 5935 6050 7240 7450（转CNR-1中国之声节目）<br>0830-1057　7450<br>0830-1400　4820 5935 6050 7240<br>1058-1400　11950<br>0958-1400　11860<br>1400-1657　11950（周二停播）<br>1400-1658　11860（周二停播）<br>1400-1800　4820 5935 6050 7240（周二均停播）<br>1659-1800　7450（周二停播）<br>1800-1830　4820 5935 6050 7240 7450<br>1830-1900　4820 5935 6050 7240 7450（转CNR-1中国之声节目）<br>1900-0200　4820 5935 6050 7240 7450<br>藏语广播<br>0100-0205　4905 4920 6025 6110 6130 6200 7255 7385<br>0450-0700　4905 4920 6025 6110 6130 6200 7255 7385（周二均停播）<br>0500-0700　4905 4920 6025 6110 6130 6200 7255 7385（周二）<br>0700-0800　4905 4920 6025 6110 6130 6200 7255 7385（转CNR-11藏语广播节目）<br>0800-0957　7255 7385<br>0800-1500　4905 4920 6025 6110 6130 6200<br>0958-1400　9490<br>0958-1500　9580<br>1400-1500　9490（周二停播）<br>1600-1728　9580（周二停播）<br>1600-1757　9490（周二停播）<br>1600-1800　4905 4920 6025 6110 6130 6200（周二均停播）<br>1729-0000　7385<br>1758-0000　7255<br>1800-0000　4905 4920 6025 6110 6130 6200<br>英语节目（在藏语广播时段播出）<br>0000-0100　4905 4920 6025 6110 6130 6200 7255 7385<br>1500-1600　4905 4920 6025 6110 6130 6200 9490 9580（周二均停播）</p>
 <h4 id="甘南人民广播电台（A17）"><a href="#甘南人民广播电台（A17）" class="headerlink" title="甘南人民广播电台（A17）"></a><strong>甘南人民广播电台（A17）</strong></h4><p>汉语广播<br>0730-0900　3990 5970<br>2030-2210　3990 5970（汉藏共用时段）<br>藏语广播<br>0650-0700　3990 5970（汉藏共用时段）<br>0700-0730　3990 5970<br>1820-2030　3990 5979<br>2100-2200　3990（转CNR-11藏语广播节目）</p>
 <h4 id="青海人民广播电台（A17）"><a href="#青海人民广播电台（A17）" class="headerlink" title="青海人民广播电台（A17）"></a><strong>青海人民广播电台（A17）</strong></h4><p>新闻综合广播<br>0600-1400　6145 9780<br>1400-1700　6145 9780（周二均停播）<br>1700-0000　6145 9780<br>藏语广播<br>0650-1400　5990<br>1015-1400　9850<br>1400-1655　9850（周二停播）<br>1400-1700　5990（周二停播）<br>1655-0000　9850<br>1700-0000　5990</p>
 <h4 id="新疆人民广播电台（A17）"><a href="#新疆人民广播电台（A17）" class="headerlink" title="新疆人民广播电台（A17）"></a><strong>新疆人民广播电台（A17）</strong></h4><p>维吾尔语综合广播<br>0700-0800　6120 7205 7275 11885<br>0800-0830　6120 7205 7275 11885（转CNR-13维语广播节目）<br>0830-0930　7205<br>0830-1100　6120 7275 11885<br>0930-1600　13670<br>1045-1600　9560<br>1100-1600　7275 11885<br>1600-1900　7275 9560 11885 13670（周二均停播）<br>1900-2000　9560<br>1900-2159　13670<br>1900-0200　7275 11885<br>2000-0200　6120<br>2200-0200　7205<br>汉语综合广播<br>0700-1000　7310<br>0700-1057　5960<br>0700-1100　11770<br>0700-1600　7260<br>1000-1600　9600<br>1057-1600　9835<br>1100-1600　11770<br>1600-1900　7260 9600 9835 11770（周二均停播）<br>1900-1957　9835<br>1900-2005　7260<br>1900-2200　9600<br>1900-0200　11770<br>1957-0200　5960<br>2005-0200　7260<br>2200-0200　7310<br>哈萨克语综合广播<br>0000-0100　6015 7340（转CNR-17哈语广播节目）<br>0100-0200　6015 7340<br>0700-1025　7340<br>0700-1045　6015<br>1125-1955　7340<br>1145-1950　9470<br>1950-0000　6015<br>1955-0000　7340<br>蒙古语综合广播<br>0100-0200　6190 7230（转CNR-8民族之声节目）<br>0700-1030　6190 7230<br>1310-1830　7230 9510<br>1950-0100　7230<br>2010-0100　6190<br>柯尔克孜语综合广播<br>1105-1330　9705 11975<br>1805-2030　9705 11975</p>
@@ -538,8 +543,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;（以下均为北京时间，各电台顺序按照民政部公布的&lt;a href=&quot;http://www.mca.gov.cn/article/sj/tjbz/a/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;行政区划代码&lt;/a&gt;排序）&lt;/p&gt;
-&lt;h4 id=&quot;内蒙古人民广
+      &lt;p&gt;更新时间：2017.10.10&lt;/p&gt;
+&lt;p&gt;（以下均为北京时间，各电台顺序按照民政部公布的&lt;a href=&quot;http://www.mca.gov.cn/article/sj/tjbz/a/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;行政区划代码&lt;/a
     
     </summary>
     
@@ -651,10 +656,12 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-09-29T20:53:00.065Z</updated>
+    <updated>2017-10-12T15:14:13.571Z</updated>
     
-    <content type="html"><![CDATA[<p>2017.5.21建立，5.25正式上线，纪念一下</p>
-<h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.21　5月20日筹备，熬夜调试好，5月21日早试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">1.手机版的自适应问题</div><div class="line">2.Archives页面超过10篇文章，底部右下方无下一页按钮翻页</div><div class="line">3.LightOne主题无法使用表格展现内容</div><div class="line">4.文章底部的评论去除不干净（不打算开放评论了...）</div><div class="line">5.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示...</div></pre></td></tr></table></figure></p>
+    <content type="html"><![CDATA[<blockquote>
+<p>宁缺毋滥</p>
+</blockquote>
+<h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.20　突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试<br>2017.5.21　早上5点调试好，上线试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">1.手机版的自适应问题</div><div class="line">2.Archives页面超过10篇文章，底部右下方无下一页按钮翻页</div><div class="line">3.LightOne主题无法使用表格展现内容</div><div class="line">4.文章底部的评论去除不干净（不打算开放评论了...）</div><div class="line">5.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示...</div></pre></td></tr></table></figure></p>
 <p>2017.9.30 成功解决左侧侧边栏的tags和categories点进去显示空白页的问题，感谢知乎“<a href="https://www.zhihu.com/people/xu-lei-83-73-80" target="_blank" rel="external">敲代码的包子</a>”提供的解决方案！<br>原回答：<a href="https://www.zhihu.com/question/29017171" target="_blank" rel="external">https://www.zhihu.com/question/29017171</a> （评论区…）<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">显示空白页是由于没有引用主题里写好的layout文件</div><div class="line">亲测有效</div><div class="line">---</div><div class="line">title: tags</div><div class="line">date: 2017-05-10 13:55:45</div><div class="line">type: &quot;tags&quot;</div><div class="line">layout: &quot;tags&quot;</div><div class="line">comments: false</div><div class="line">---</div></pre></td></tr></table></figure></p>
 <h4 id="随indigo主题更新而更新"><a href="#随indigo主题更新而更新" class="headerlink" title="随indigo主题更新而更新"></a>随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">2017.9.23 version 1.6.3 -&gt; 1.6.4</div><div class="line">2017.9.29 version 1.6.4 -&gt; 1.6.6</div></pre></td></tr></table></figure>
 <hr>
@@ -669,8 +676,10 @@
     
     <summary type="html">
     
-      &lt;p&gt;2017.5.21建立，5.25正式上线，纪念一下&lt;/p&gt;
-&lt;h3 id=&quot;历史&quot;&gt;&lt;a href=&quot;#历史&quot; class=&quot;headerlink&quot; title=&quot;历史&quot;&gt;&lt;/a&gt;历史&lt;/h3&gt;&lt;p&gt;2017.5.21　5月20日筹备，熬夜调试好，5月21日早试运行&lt;br&gt;
+      &lt;blockquote&gt;
+&lt;p&gt;宁缺毋滥&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;历史&quot;&gt;&lt;a href=&quot;#历史&quot; class=&quot;headerlink&quot; title=&quot;历史&quot;&gt;&lt;/a&gt;历史&lt;/h3&gt;&lt;p&gt;2017.5.20　突发奇想建立属于自己的独立博客，晚上开始筹
     
     </summary>
     
