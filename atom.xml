@@ -127,12 +127,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
     <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
     <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2017-10-13T16:20:05.399Z</updated>
+    <updated>2017-10-15T12:13:18.177Z</updated>
     
     <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，<strong>似乎为对东南亚地区发射</strong>，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
 <p>频率及发射时间如下（北京时间）：<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
 <p>7470kHz在19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号。</p>
-<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱，深圳SDR收听无信号</strong></p>
+<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号</strong><br><strong>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号</strong></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -246,11 +246,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html"/>
     <id>https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html</id>
     <published>2017-09-01T13:18:47.000Z</published>
-    <updated>2017-10-13T16:19:39.997Z</updated>
+    <updated>2017-10-14T19:40:59.352Z</updated>
     
     <content type="html"><![CDATA[<p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
-<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语（需要下载后查看）</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
-<p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://gb.cri.cn/1321/2008/03/27/157@1998202.htm" target="_blank" rel="external">Chinese 汉语（近十年不更新）</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a></p>
+<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
+<p>B16<br><a href="http://malay.cri.cn/501/2016/12/20/261s166458.htm" target="_blank" rel="external">Malay 马来语</a></p>
+<p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://gb.cri.cn/1321/2008/03/27/157@1998202.htm" target="_blank" rel="external">Chinese 汉语（近十年不更新）</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://pushtu.cri.cn/121/2008/06/25/70360.htm" target="_blank" rel="external">Pushtu 普什图语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a><br><a href="http://vietnamese.cri.cn/421/2009/09/20/1s128421.htm" target="_blank" rel="external">Vietnamese 越南语</a></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -768,19 +769,27 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html"/>
     <id>https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html</id>
     <published>2017-06-03T13:16:58.000Z</published>
-    <updated>2017-10-13T16:17:14.639Z</updated>
+    <updated>2017-10-18T15:41:46.616Z</updated>
     
     <content type="html"><![CDATA[<p>详见：<a href="https://git.oschina.net/bcler/fmdx/blob/master/XingXing-guangbo-diantai.jpg" target="_blank" rel="external">https://git.oschina.net/bcler/fmdx/blob/master/XingXing-guangbo-diantai.jpg</a> （图片）</p>
 <p>特殊事件（从A17开始记录，时间默认为UTC+8）：</p>
 <ul>
-<li><p>2017.6.3 21:00时段，同时使用9725、15388 kHz两个频率播出<br>2017.6.8 21:00时段，同时使用9725、15388 kHz两个频率播出<br>2017.6.11 21:00时段，同时使用9725、15388 kHz两个频率播出<br>2017.6.16 21:00时段，同时使用9725、15388 kHz两个频率播出</p>
-<p>2017.6.27 12:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.6.27 13:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.7.27 15:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.27 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.31 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 10:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 12:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.21 15:00时段，频率由15388kHz改为11430kHz（临时）<br>2017.9.26 13:00时段，频率由15388kHz改为18040kHz（临时，带外频率）<br>2017.9.26 14:00时段，频率由11430kHz改为16134kHz（临时，带外频率）<br>2017.9.26 15:00时段，频率由15388kHz改为11430kHz（临时）<br>2017.9.27 14:00时段，频率由16134kHz改为15388kHz（临时）<br>2017.9.28 14:00时段，频率由15388kHz改回16134kHz（临时，带外频率）<br>2017.10.2 14:00时段，频率由11430kHz改为15388kHz（临时）</p>
+<li><p>2017.6.3 21:00时段，同时使用9725、15388kHz两个频率播出<br>2017.6.8 21:00时段，同时使用9725、15388kHz两个频率播出<br>2017.6.11 21:00时段，同时使用9725、15388kHz两个频率播出<br>2017.6.16 21:00时段，同时使用9725、15388kHz两个频率播出<br>2017.10.13 12:00时段，15388kHz上出现两个相同信号（信号不同步）<br>2017.10.15 14:00时段，同时使用11430、15388kHz两个频率播出<br>2017.10.15 15:00时段，同时使用11430、15388kHz两个频率播出<br>2017.10.15 16:00时段，同时使用11430、15388kHz两个频率播出<br>2017.10.18 21:00时段，11430kHz上出现两个相同信号（信号不同步），信号强的为星星四台，弱的为星星一台</p>
+<p>2017.10.17 20:00时段，半小时内使用了15388、16134kHz两个频率，15分换频（延长到32分结束发射）<br>2017.10.18 20:00时段，半小时内使用了11430、15388（20:14-20:15）、13750kHz三个频率，15分换频</p>
+<p>2017.6.27 12:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.6.27 13:00时段，频率由15388kHz改为15250kHz（临时）<br>2017.7.27 15:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.27 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.7.31 16:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 10:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.9 12:00时段，频率由15388kHz改为13750kHz（临时）<br>2017.8.21 15:00时段，频率由15388kHz改为11430kHz（临时）<br>2017.9.26 13:00时段，频率由15388kHz改为18040kHz（临时，带外频率）<br>2017.9.26 14:00时段，频率由11430kHz改为16134kHz（临时，带外频率）<br>2017.9.26 15:00时段，频率由15388kHz改为11430kHz（临时）<br>2017.9.27 14:00时段，频率由16134kHz改为15388kHz（临时）<br>2017.9.28 14:00时段，频率由15388kHz改回16134kHz（临时，带外频率）<br>2017.10.2 14:00时段，频率由11430kHz改为15388kHz（临时）<br>2017.10.13 11:00时段，频率由11430kHz改为15388kHz<br>2017.10.16 14:00时段，频率由11430kHz改为15388kHz<br>2017.10.16 15:00时段，频率由15388kHz改为11430kHz<br>2017.10.16 16:00时段，频率由15388kHz改为11430kHz<br>2017.10.18 12:00时段，频率由15388kHz改为11430kHz</p>
 </li>
 </ul>
 <p>2017.7.11起，似乎是发射设备检修，仅有几日各时段能够正常发射：</p>
 <ul>
 <li>7.11、7.12，全天各时段均未收到信号，似乎没有发射<br>7.13-7.15，只有部分时段有发射<br>7.16，逐渐恢复正常<br>7.18、7.27、8.3、8.14、8.26、8.30、9.20，大部分时段已恢复，仅维持一天<br>9.12、9.13，全天各时段均未收到信号，似乎没有发射（也可能改用其他频率）<br>9.26，有德国人使用深圳的SDR接收机收听，发现V13 13:00 14:00 15:00时段的频率有调整（9.30这三个时段使用的频率均恢复为调整前的频率）</li>
 </ul>
+<p>“十九大”开幕当天，V13频率出现“前所未见”的大调整，当天的收听记录（最后确认日期为10.18）：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/V13-20171018.jpg" alt="V13-20171018" title="">
+                </div>
+                <div class="image-caption">V13-20171018</div>
+            </figure></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -911,12 +920,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-10-13T16:17:33.997Z</updated>
+    <updated>2017-10-15T17:45:45.676Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>宁缺毋滥</p>
 </blockquote>
-<h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.20　突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试<br>2017.5.21　早上5点调试好，上线试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/Cahcn/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  ①.手机版的自适应问题<br>  ②.Archives页面超过10篇文章，底部右下方无下一页按钮翻页<br>  ③.LightOne主题无法使用表格展现内容<br>  <del>④.文章底部的评论去除不干净（不打算开放评论了…然而这是一个Flag）</del><br>  ⑤.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示…</p>
+<h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.20　突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试<br>2017.5.21　早上5点调试好，上线试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  ①.手机版的自适应问题<br>  ②.Archives页面超过10篇文章，底部右下方无下一页按钮翻页<br>  ③.LightOne主题无法使用表格展现内容<br>  <del>④.文章底部的评论去除不干净（不打算开放评论了…然而这是一个Flag）</del><br>  ⑤.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示…</p>
 <p>2017.9.30　成功解决左侧侧边栏的tags和categories点进去显示空白页的问题，感谢知乎“<a href="https://www.zhihu.com/people/xu-lei-83-73-80" target="_blank" rel="external">敲代码的包子</a>”提供的解决方案！<br>原回答：<a href="https://www.zhihu.com/question/29017171" target="_blank" rel="external">https://www.zhihu.com/question/29017171</a> （评论区…）<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">显示空白页是由于没有引用主题里写好的layout文件</div><div class="line">亲测有效</div><div class="line">---</div><div class="line">title: tags</div><div class="line">date: 2017-05-10 13:55:45</div><div class="line">type: &quot;tags&quot;</div><div class="line">layout: &quot;tags&quot;</div><div class="line">comments: false</div><div class="line">---</div></pre></td></tr></table></figure></p>
 <p>2017.10.13　重开评论（之前说过不打算开放评论的…真不能乱立Flagヽ(￣▽￣)ﾉ），使用开源的<a href="https://github.com/imsun/gitment" target="_blank" rel="external">Gitment</a>评论系统</p>
 <h4 id="站点主题更新小记"><a href="#站点主题更新小记" class="headerlink" title="站点主题更新小记"></a>站点主题更新小记</h4><p>随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新：<br>2017.9.23　version 1.6.3 -&gt; 1.6.4<br>2017.9.29　version 1.6.4 -&gt; 1.6.6</p>
