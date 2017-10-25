@@ -56,7 +56,13 @@
 <h4 id="0-5-0-Beta9（2015-01-17）：基于多多输入法生成器v3-3-0-202版本更新"><a href="#0-5-0-Beta9（2015-01-17）：基于多多输入法生成器v3-3-0-202版本更新" class="headerlink" title="0.5.0 Beta9（2015.01.17）：基于多多输入法生成器v3.3.0.202版本更新"></a>0.5.0 Beta9（2015.01.17）：基于多多输入法生成器v3.3.0.202版本更新</h4><p>1.更改非metro界面中不提示中/英/A等状态<br>2.限制安装guid不同但输入法名称相同的输入法<br>3.限制安装guid不同但安装路径相同的输入法</p>
 <h4 id="0-5-0-Beta8（2014-12-31）：基于多多输入法生成器v3-3-0-201版本更新"><a href="#0-5-0-Beta8（2014-12-31）：基于多多输入法生成器v3-3-0-201版本更新" class="headerlink" title="0.5.0 Beta8（2014.12.31）：基于多多输入法生成器v3.3.0.201版本更新"></a>0.5.0 Beta8（2014.12.31）：基于多多输入法生成器v3.3.0.201版本更新</h4><p>1.修改快捷日期英文输入方式 引导键开启快捷英文时会自动更改候选个数为9,并可使用a~j自动上屏对应候选<br>2.修改浮动提示(中/英/A等)行为,初次打开窗口时将不显示浮动提示</p>
 <h4 id="0-5-0-Beta7（2014-12-27）：基于多多输入法生成器v3-3-0-198版本更新"><a href="#0-5-0-Beta7（2014-12-27）：基于多多输入法生成器v3-3-0-198版本更新" class="headerlink" title="0.5.0 Beta7（2014.12.27）：基于多多输入法生成器v3.3.0.198版本更新"></a>0.5.0 Beta7（2014.12.27）：基于多多输入法生成器v3.3.0.198版本更新</h4><p>1.修正快捷键过多引起的程序崩溃错误,快捷键最多64个<br>2.修改有注册功能的安装程序在覆盖安装时的版本判断错误</p>
-<h4 id="0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新"><a href="#0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新" class="headerlink" title="0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新"></a>0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新</h4><h4 id="0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新"><a href="#0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新" class="headerlink" title="0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新"></a>0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新</h4><p>更换输入法的默认皮肤<br><img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Skin.png" alt="南坡五笔默认皮肤"></p>
+<h4 id="0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新"><a href="#0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新" class="headerlink" title="0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新"></a>0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新</h4><h4 id="0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新"><a href="#0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新" class="headerlink" title="0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新"></a>0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新</h4><p>更换输入法的默认皮肤<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Skin.png" alt="南坡五笔默认皮肤" title="">
+                </div>
+                <div class="image-caption">南坡五笔默认皮肤</div>
+            </figure></p>
 <h4 id="0-5-0-Beta4（2014-12-14）：基于多多输入法生成器v3-3-0-193版本更新"><a href="#0-5-0-Beta4（2014-12-14）：基于多多输入法生成器v3-3-0-193版本更新" class="headerlink" title="0.5.0 Beta4（2014.12.14）：基于多多输入法生成器v3.3.0.193版本更新"></a>0.5.0 Beta4（2014.12.14）：基于多多输入法生成器v3.3.0.193版本更新</h4><h4 id="0-5-0-Beta3（2014-12-06）：基于多多输入法生成器v3-3-0-189版本更新"><a href="#0-5-0-Beta3（2014-12-06）：基于多多输入法生成器v3-3-0-189版本更新" class="headerlink" title="0.5.0 Beta3（2014.12.06）：基于多多输入法生成器v3.3.0.189版本更新"></a>0.5.0 Beta3（2014.12.06）：基于多多输入法生成器v3.3.0.189版本更新</h4><h4 id="0-5-0-Beta2（2014-11-30）：基于多多输入法生成器v3-3-0-188版本更新"><a href="#0-5-0-Beta2（2014-11-30）：基于多多输入法生成器v3-3-0-188版本更新" class="headerlink" title="0.5.0 Beta2（2014.11.30）：基于多多输入法生成器v3.3.0.188版本更新"></a>0.5.0 Beta2（2014.11.30）：基于多多输入法生成器v3.3.0.188版本更新</h4><h4 id="0-5-0-Beta1（2014-11-28）：基于多多输入法生成器v3-3-β1-v3-3-0-185-版本更新"><a href="#0-5-0-Beta1（2014-11-28）：基于多多输入法生成器v3-3-β1-v3-3-0-185-版本更新" class="headerlink" title="0.5.0 Beta1（2014.11.28）：基于多多输入法生成器v3.3 β1(v3.3.0.185)版本更新"></a>0.5.0 Beta1（2014.11.28）：基于多多输入法生成器v3.3 β1(v3.3.0.185)版本更新</h4><p>新增功能：</p>
 <ul>
 <li>1.优化自动更新方式<br>可设置自动生成数据更新包<br>可设置自动生成程序更新包<br>可设置自动生成更新信息文件<br>可设置更新下载根路径<br>2.添加智能标点功能<br>智能标点键位表，改表中指定的健位，第一次输入为中文标点，第二次输入删除中文并上屏英文标点<br>数字后半角标点行为也受此功能影响，再次输入时删除半角标点并上屏中文标点<br>3.添加可设置 输入标点后光标左移 功能<br>光标左移的标点表，该表中指定的键位在输出中文标点符号后，会模拟一次键盘光标左移键<br>4.优化安装程序策略<br>1)安装程序使用动态IME文件名方法规避用户打开输入法后的安装、更新卸载操作中的文件被占用问题；<br>IME文件名可能是：c:\windows\system32\ddwbtest.161.56.ime<br>2)为码表数据添加版本限定，保证用户使用高版本覆盖安装低版本程序时，能够正确的安装高版本数据文件<br>数据安装路径为：<br>C:\ProgramData\DuoduoIME3{FA212179-3D1F-43F7-B39F-33CE5F60BEAF}\161.56\<br>3)限制使用低版本程序覆盖已经安装的高版本程序<br>4)限制32位程序在64位系统中安装<br>5)相同版本程序覆盖已有安装时，将仅覆盖数据文件，IME文件保持本机文件不变<br>6)卸载程序将不再提示关闭已经打开输入法的程序，删除文件的操作，将在用户下次重新启动计算机时执行完全删除<br>5.优化简繁转换策略<br>1)候选唯一时，会先判断简繁转换的结果，如果结果不唯一，将不自动上屏<br>6.优化皮肤驱动<br>1)统一原有的classic和colourful驱动为common<br>2)common驱动内置了原classic样式的皮肤包<br>7.优化了程序菜单定义方式，在此方式基础上，将可实现用户自定义候选列表菜单、状态栏右键菜单<br>8.优化命令直通车的日期功能，允许日期的年月日加减一个常数值，以实现输入“明天”“去年”等日期<br>9.优化快速日期的输入<br>1)快速日期时，支持使用 abcdefg 上屏候选<br>2)添加带千分号的金额小写形式</li>
@@ -76,7 +82,19 @@
 <h4 id="0-10（2013-06-02）"><a href="#0-10（2013-06-02）" class="headerlink" title="0.10（2013.06.02）"></a>0.10（2013.06.02）</h4><p>pysh五笔输入法0.1版（64位）发布，使用多多输入法生成器v3.2.0.134 β2版本制作。</p>
 <h3 id="卸载方式"><a href="#卸载方式" class="headerlink" title="卸载方式"></a>卸载方式</h3><p>1.调用南坡五笔自带的卸载程序（文件路径：(安装路径)\南坡五笔\installer.exe）<br>2.开始→控制面板→程序→卸载程序→卸载<br>3.使用各类“卫士”等系统辅助软件卸载</p>
 <h5 id="如无法卸载，请下载南坡五笔专用卸载工具卸载"><a href="#如无法卸载，请下载南坡五笔专用卸载工具卸载" class="headerlink" title="如无法卸载，请下载南坡五笔专用卸载工具卸载"></a>如无法卸载，请下载南坡五笔专用卸载工具卸载</h5><p>64位：<a href="http://pan.baidu.com/share/link?shareid=304596937&amp;uk=3322981127" target="_blank" rel="external">http://pan.baidu.com/share/link?shareid=304596937&amp;uk=3322981127</a><br>32位：<a href="http://pan.baidu.com/share/link?shareid=304995561&amp;uk=3322981127" target="_blank" rel="external">http://pan.baidu.com/share/link?shareid=304995561&amp;uk=3322981127</a></p>
-<p>Windows 7 系统环境下卸载后发现语言栏仍残留南坡五笔输入法图标，如下图所示：<br><img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Settings.png" alt="设置"><br>请参照<a href="http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html" target="_blank" rel="external">http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a><br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><img src="http://oqtut51hd.bkt.clouddn.com/Nanpo-Wubi-Regedit.png" alt="注册表"></p>
+<p>Windows 7 系统环境下卸载后发现语言栏仍残留南坡五笔输入法图标，如下图所示：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Settings.png" alt="设置" title="">
+                </div>
+                <div class="image-caption">设置</div>
+            </figure><br>请参照<a href="http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html" target="_blank" rel="external">http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a><br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Nanpo-Wubi-Regedit.png" alt="注册表" title="">
+                </div>
+                <div class="image-caption">注册表</div>
+            </figure></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -314,7 +332,13 @@ gitment.render('container')
     <content type="html"><![CDATA[<p>据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。</p>
 <p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
 <p>因时差原因，汉语广播节目中提到的时间比北京时间晚11小时</p>
-<p>RAE公布的频率表：<br><img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español"><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
+<p>RAE公布的频率表：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español" title="">
+                </div>
+                <div class="image-caption">Esquema-WRMI-Español</div>
+            </figure><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -902,7 +926,7 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-10-15T17:45:45.676Z</updated>
+    <updated>2017-10-25T09:02:25.169Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>宁缺毋滥</p>
@@ -910,7 +934,7 @@ gitment.render('container')
 <h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.20　突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试<br>2017.5.21　早上5点调试好，上线试运行<br>2017.5.23　更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25　网站正式上线，先期采用<a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1　添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5　由于原使用的<a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题<br>  ①.手机版的自适应问题<br>  ②.Archives页面超过10篇文章，底部右下方无下一页按钮翻页<br>  ③.LightOne主题无法使用表格展现内容<br>  <del>④.文章底部的评论去除不干净（不打算开放评论了…然而这是一个Flag）</del><br>  ⑤.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示…</p>
 <p>2017.9.30　成功解决左侧侧边栏的tags和categories点进去显示空白页的问题，感谢知乎“<a href="https://www.zhihu.com/people/xu-lei-83-73-80" target="_blank" rel="external">敲代码的包子</a>”提供的解决方案！<br>原回答：<a href="https://www.zhihu.com/question/29017171" target="_blank" rel="external">https://www.zhihu.com/question/29017171</a> （评论区…）<br>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">显示空白页是由于没有引用主题里写好的layout文件</div><div class="line">亲测有效</div><div class="line">---</div><div class="line">title: tags</div><div class="line">date: 2017-05-10 13:55:45</div><div class="line">type: &quot;tags&quot;</div><div class="line">layout: &quot;tags&quot;</div><div class="line">comments: false</div><div class="line">---</div></pre></td></tr></table></figure></p>
 <p>2017.10.13　重开评论（之前说过不打算开放评论的…真不能乱立Flagヽ(￣▽￣)ﾉ），使用开源的<a href="https://github.com/imsun/gitment" target="_blank" rel="external">Gitment</a>评论系统</p>
-<h4 id="站点主题更新小记"><a href="#站点主题更新小记" class="headerlink" title="站点主题更新小记"></a>站点主题更新小记</h4><p>随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新：<br>2017.9.23　version 1.6.3 -&gt; 1.6.4<br>2017.9.29　version 1.6.4 -&gt; 1.6.6</p>
+<h4 id="站点主题更新小记"><a href="#站点主题更新小记" class="headerlink" title="站点主题更新小记"></a>站点主题更新小记</h4><p>随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新：<br>2017.9.23　version 1.6.3 -&gt; 1.6.4<br>2017.9.29　version 1.6.4 -&gt; 1.6.6<br>2017.10.25　version 1.6.6 -&gt; 1.6.7</p>
 <hr>
 <h3 id="有用的链接"><a href="#有用的链接" class="headerlink" title="有用的链接"></a>有用的链接</h3><p><a href="http://www.jianshu.com/p/701b1095da11" target="_blank" rel="external">http://www.jianshu.com/p/701b1095da11</a>  手把手教你建github技术博客<br><a href="http://www.jianshu.com/p/465830080ea9" target="_blank" rel="external">http://www.jianshu.com/p/465830080ea9</a>  HEXO+Github,搭建属于自己的博客<br><a href="https://yq.aliyun.com/articles/8607" target="_blank" rel="external">https://yq.aliyun.com/articles/8607</a>    Hexo折腾记——基本配置篇<br><a href="http://www.jianshu.com/p/b7886271e21a" target="_blank" rel="external">http://www.jianshu.com/p/b7886271e21a</a>  Hexo安装和配置<br><a href="http://www.jianshu.com/p/e99ed60390a8" target="_blank" rel="external">http://www.jianshu.com/p/e99ed60390a8</a>  20分钟教你使用hexo搭建github博客<br><a href="http://www.jianshu.com/p/db7e64d86067" target="_blank" rel="external">http://www.jianshu.com/p/db7e64d86067</a>  使用Hexo搭建博客（三），博客配置、主题和写作<br><a href="http://www.jianshu.com/p/70343b7c2fd3" target="_blank" rel="external">http://www.jianshu.com/p/70343b7c2fd3</a>  Hexo主题 Light 修改教程</p>
 <p><a href="https://segmentfault.com/a/1190000002632530" target="_blank" rel="external">https://segmentfault.com/a/1190000002632530</a>  hexo常用命令笔记<br><a href="https://segmentfault.com/q/1010000002561642" target="_blank" rel="external">https://segmentfault.com/q/1010000002561642</a>  hexo分类与tags配置</p>
