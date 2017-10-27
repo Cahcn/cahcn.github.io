@@ -17,8 +17,8 @@
   
   <entry>
     <title>南坡五笔输入法</title>
-    <link href="https://cahcn.github.io/posts/Back-up-1-Nanpo-Wubi.html"/>
-    <id>https://cahcn.github.io/posts/Back-up-1-Nanpo-Wubi.html</id>
+    <link href="https://cahcn.github.io/posts/Back-up-1-Nanpo.html"/>
+    <id>https://cahcn.github.io/posts/Back-up-1-Nanpo.html</id>
     <published>2017-10-03T21:03:10.000Z</published>
     <updated>2017-10-21T12:06:14.965Z</updated>
     
@@ -128,12 +128,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
     <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
     <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2017-10-15T12:13:18.177Z</updated>
+    <updated>2017-10-27T13:24:15.143Z</updated>
     
-    <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，<strong>似乎为对东南亚地区发射</strong>，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
-<p>频率及发射时间如下（北京时间）：<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
+    <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，似乎为对东南亚地区发射，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
+<p>频率及发射时间如下（北京时间）：<br>07:00-07:45　7490kHz<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
 <p>7470kHz在19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号。</p>
-<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号</strong><br><strong>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号</strong></p>
+<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号</strong><br><strong>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号</strong><br><strong>10月27日用菲律宾SDR收听7470kHz，信号已恢复正常水平</strong><br><strong>10月末，新增早间7:00-7:45的7490kHz干扰信号</strong></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -153,8 +153,8 @@ gitment.render('container')
     
     <summary type="html">
     
-      &lt;p&gt;2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，&lt;strong&gt;似乎为对东南亚地区发射&lt;/strong&gt;，干扰对象未知。&lt;br&gt;最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。&lt;/p&gt;
-&lt;p&gt;频率及发射时间如下（北京时
+      &lt;p&gt;2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，似乎为对东南亚地区发射，干扰对象未知。&lt;br&gt;最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。&lt;/p&gt;
+&lt;p&gt;频率及发射时间如下（北京时间）：&lt;br&gt;07:00-07:4
     
     </summary>
     
@@ -247,10 +247,11 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html"/>
     <id>https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html</id>
     <published>2017-09-01T13:18:47.000Z</published>
-    <updated>2017-10-14T19:40:59.352Z</updated>
+    <updated>2017-10-26T15:10:55.069Z</updated>
     
     <content type="html"><![CDATA[<p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
-<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a>（2017.9.6-9.30部分频率检修公告，非完整频率，9353应为9535）<br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
+<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>B17<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a></p>
+<p>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
 <p>B16<br><a href="http://malay.cri.cn/501/2016/12/20/261s166458.htm" target="_blank" rel="external">Malay 马来语</a></p>
 <p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://gb.cri.cn/1321/2008/03/27/157@1998202.htm" target="_blank" rel="external">Chinese 汉语（近十年不更新）</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://pushtu.cri.cn/121/2008/06/25/70360.htm" target="_blank" rel="external">Pushtu 普什图语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a><br><a href="http://vietnamese.cri.cn/421/2009/09/20/1s128421.htm" target="_blank" rel="external">Vietnamese 越南语</a></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
@@ -273,7 +274,7 @@ gitment.render('container')
     <summary type="html">
     
       &lt;p&gt;2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。&lt;/p&gt;
-&lt;p&gt;下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：&lt;br&gt;A17&lt;br&gt;&lt;a href=&quot;http://german.cri.cn/3
+&lt;p&gt;下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：&lt;br&gt;B17&lt;br&gt;&lt;a href=&quot;http://japanese.cri.cn
     
     </summary>
     
