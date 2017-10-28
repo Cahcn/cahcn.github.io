@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-10-21T12:06:14.965Z</updated>
+  <updated>2017-10-28T17:53:33.978Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,59 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>中央人民广播电台香港之声计划新增调频频率FM87.8</title>
+    <link href="https://cahcn.github.io/posts/2017-10-29-CNR14.html"/>
+    <id>https://cahcn.github.io/posts/2017-10-29-CNR14.html</id>
+    <published>2017-10-28T16:45:03.000Z</published>
+    <updated>2017-10-28T17:53:33.978Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。<br>2017年10月29日通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/20170331-Shenzhen-87.8MHz.jpg" alt="截至2017年3月31日数据" title="">
+                </div>
+                <div class="image-caption">截至2017年3月31日数据</div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/20170930-Shenzhen-87.8MHz.jpg" alt="截至2017年9月30日数据" title="">
+                </div>
+                <div class="image-caption">截至2017年9月30日数据</div>
+            </figure>
+<p>此前，由于香港电台于2017年9月3日午夜12时起，终止数码声音广播服务。原由香港数码广播32台转播的香港之声改由香港电台第六台675kHz 24小时转播。</p>
+<p>截至2017年10月末，华夏之声、香港之声的无线覆盖情况：<br>CNR 7 华夏之声<br>87.8MHz　深圳市　梧桐山广播电视发射台<br>104.9MHz　中山市　五桂山广播电视发射台<br>1215kHz　珠海市<br>（佛山93.2MHz规划频率未启用）</p>
+<p>CNR 14 香港之声<br>675kHz　香港（<a href="https://cahcn.github.io/posts/2017-08-11-RTHK.html">由香港电台第六台转播</a>）</p>
+<!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
+<p><div id="container"></div></p>
+<p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+  id: 'location.href', // 可选。默认为 location.href
+  owner: 'Cahcn',  //改你自己的名字
+  repo: 'Cahcn.github.io',  //专门储存评论一个GitHub仓库
+  oauth: {
+    client_id: '6c78ea07b54d6c8ad225', //改为你自己的，下同
+    client_secret: 'b7019a6ab4ca3945c348a299ffc4b3d99da554f1', 
+  },
+})
+gitment.render('container')
+</script>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。&lt;br&gt;201
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>南坡五笔输入法</title>
@@ -128,12 +181,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
     <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
     <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2017-10-27T13:24:15.143Z</updated>
+    <updated>2017-10-27T13:29:29.267Z</updated>
     
     <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，似乎为对东南亚地区发射，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
 <p>频率及发射时间如下（北京时间）：<br>07:00-07:45　7490kHz<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
 <p>7470kHz在19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号。</p>
-<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号</strong><br><strong>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号</strong><br><strong>10月27日用菲律宾SDR收听7470kHz，信号已恢复正常水平</strong><br><strong>10月末，新增早间7:00-7:45的7490kHz干扰信号</strong></p>
+<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号</strong><br><strong>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号</strong><br><strong>10月27日用菲律宾SDR收听7470kHz，信号已恢复正常水平</strong><br><strong>10月末，新增早间7:00-7:45的7490kHz干扰信号，干扰对象未知</strong></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -498,7 +551,7 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-10-21T14:47:00.846Z</updated>
+    <updated>2017-10-28T17:56:20.106Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -606,6 +659,9 @@ gitment.render('container')
 </ul>
 <h4 id="10-18"><a href="#10-18" class="headerlink" title="10.18"></a><strong>10.18</strong></h4><ul>
 <li>16:00-16:02　　13790kHz　　1kHz正弦波</li>
+</ul>
+<h4 id="10-25"><a href="#10-25" class="headerlink" title="10.25"></a><strong>10.25</strong></h4><ul>
+<li>15:50-15:53　　15250kHz　　空白载波<br>16:05　　　　　15250kHz　　空白载波</li>
 </ul>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
