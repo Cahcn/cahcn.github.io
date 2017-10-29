@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-10-28T17:53:33.978Z</updated>
+  <updated>2017-10-28T20:28:09.620Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://cahcn.github.io/posts/2017-10-29-CNR14.html"/>
     <id>https://cahcn.github.io/posts/2017-10-29-CNR14.html</id>
     <published>2017-10-28T16:45:03.000Z</published>
-    <updated>2017-10-28T17:53:33.978Z</updated>
+    <updated>2017-10-28T20:28:09.620Z</updated>
     
     <content type="html"><![CDATA[<p>2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。<br>2017年10月29日通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。</p>
 <figure class="image-bubble">
@@ -37,7 +37,7 @@
                 </div>
                 <div class="image-caption">截至2017年9月30日数据</div>
             </figure>
-<p>此前，由于香港电台于2017年9月3日午夜12时起，终止数码声音广播服务。原由香港数码广播32台转播的香港之声改由香港电台第六台675kHz 24小时转播。</p>
+<p>此前，香港电台于2017年9月3日午夜12时起，终止数码声音广播服务。原由香港数码广播32台转播的香港之声改由香港电台第六台675kHz 24小时转播。</p>
 <p>截至2017年10月末，华夏之声、香港之声的无线覆盖情况：<br>CNR 7 华夏之声<br>87.8MHz　深圳市　梧桐山广播电视发射台<br>104.9MHz　中山市　五桂山广播电视发射台<br>1215kHz　珠海市<br>（佛山93.2MHz规划频率未启用）</p>
 <p>CNR 14 香港之声<br>675kHz　香港（<a href="https://cahcn.github.io/posts/2017-08-11-RTHK.html">由香港电台第六台转播</a>）</p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
@@ -181,12 +181,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
     <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
     <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2017-10-27T13:29:29.267Z</updated>
+    <updated>2017-10-29T12:43:19.971Z</updated>
     
     <content type="html"><![CDATA[<p>2017年9月中旬，国内新增几个短波干扰频率，发射中国之声（CNR 1）节目，似乎为对东南亚地区发射，干扰对象未知。<br>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz。</p>
 <p>频率及发射时间如下（北京时间）：<br>07:00-07:45　7490kHz<br>09:00-11:00　17730kHz<br>19:00-22:00　7470kHz<br>22:00-23:00　17580kHz</p>
 <p>7470kHz在19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号。</p>
-<p><strong>9月末几天，17730kHz发射时间缩减为09:00-10:00。</strong><br><strong>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号</strong><br><strong>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号</strong><br><strong>10月27日用菲律宾SDR收听7470kHz，信号已恢复正常水平</strong><br><strong>10月末，新增早间7:00-7:45的7490kHz干扰信号，干扰对象未知</strong></p>
+<p>9月末几天，17730kHz发射时间缩减为09:00-10:00。<br>10月11日用菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号。<br>10月15日用菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号。<br>10月27日用菲律宾SDR收听7470kHz，信号已恢复正常水平。<br>10月末，新增早间7:00-7:45的7490kHz干扰信号，干扰对象未知。<br>10月29日7470kHz已无信号，似乎停止发射（或是更换到新的冬季频率？–2017年10月30日全球短波广播电台实行冬季频率）</p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -260,12 +260,12 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-09-05-BBC-Korean.html"/>
     <id>https://cahcn.github.io/posts/2017-09-05-BBC-Korean.html</id>
     <published>2017-09-05T11:38:36.000Z</published>
-    <updated>2017-10-13T16:19:49.058Z</updated>
+    <updated>2017-10-29T12:50:59.033Z</updated>
     
     <content type="html"><![CDATA[<p>BBC朝鲜语广播于北京时间2017年9月25日23:30开播，之前有消息称BBC朝鲜语广播计划于9月17日开播，但实际未如期开播。</p>
-<p>根据HFCC 2017年9月4日更新的频率数据，BBC朝鲜语广播的播出时间为（UTC+8）：<br>23:30-02:30　5810kHz（塔什干）、9940kHz（台湾）</p>
-<p>另有在蒙古乔巴山发射的1431kHz BBC测试信号，已改为发射BBC朝鲜语广播，播出时间为：00:30-01:30（UTC+8）</p>
-<p><strong>2017年9月26日消息，BBC朝鲜语广播已于北京时间9月25日23:30开播。塔什干发射的5810kHz伴有朝鲜干扰信号，效果一般；台湾发射的9940kHz效果稍差，但无干扰。</strong><br><strong>2017年9月27日消息，台湾发射的9940kHz收听效果比昨日改善了不少，使用日本的SDR接收机收听，信号比塔什干发射的5810kHz强。</strong></p>
+<p>根据HFCC 2017年9月4日更新的频率数据，BBC朝鲜语广播的播出时间为（UTC+8）：<br>23:30-02:30　5810kHz（塔什干）、9940kHz（台湾）<br>00:30-01:30　1431kHz（蒙古乔巴山）</p>
+<p>2017年9月26日消息，BBC朝鲜语广播已于北京时间9月25日23:30开播。塔什干发射的5810kHz伴有朝鲜干扰信号，效果一般；台湾发射的9940kHz效果稍差，但无干扰。蒙古乔巴山发射的1431kHz BBC测试信号，已改为发射BBC朝鲜语广播。<br>2017年9月27日消息，台湾发射的9940kHz收听效果比昨日改善了不少，使用日本的SDR接收机收听，信号比塔什干发射的5810kHz强。</p>
+<p>2017年10月29日更新B17频率（UTC+8）：<br>23:30-02:30　5895kHz（杜尚别）、7395kHz（新加坡克兰芝）、7530kHz（塔什干）、9940kHz（台湾）<br>00:30-01:30　1431kHz（蒙古乔巴山）</p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
