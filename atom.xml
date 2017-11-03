@@ -73,12 +73,13 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/Back-up-1-Nanpo.html"/>
     <id>https://cahcn.github.io/posts/Back-up-1-Nanpo.html</id>
     <published>2017-10-03T21:03:10.000Z</published>
-    <updated>2017-10-21T12:06:14.965Z</updated>
+    <updated>2017-11-03T13:17:24.700Z</updated>
     
     <content type="html"><![CDATA[<p>备份新浪博客的内容，原文见<a href="http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html" target="_blank" rel="external">http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html</a></p>
-<h2 id="南坡五笔输入法v1-0-14（2017-10-20）"><a href="#南坡五笔输入法v1-0-14（2017-10-20）" class="headerlink" title="南坡五笔输入法v1.0.14（2017.10.20）"></a>南坡五笔输入法v1.0.14（2017.10.20）</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>南坡五笔输入法使用多多输入法生成器制作，<br><strong>本输入法1.0版本之前的安装程序有32位和64位之分，1.0之后版本安装程序不再区分32、64位系统</strong><br>支持以下操作系统：<br>Windows 98/ME/2000/2003/xp/Vista/Win7/8/8.1/10</p>
+<h2 id="南坡五笔输入法v1-0-15（2017-11-3）"><a href="#南坡五笔输入法v1-0-15（2017-11-3）" class="headerlink" title="南坡五笔输入法v1.0.15（2017.11.3）"></a>南坡五笔输入法v1.0.15（2017.11.3）</h2><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>南坡五笔输入法使用多多输入法生成器制作，<br><strong>本输入法1.0版本之前的安装程序有32位和64位之分，1.0之后版本安装程序不再区分32、64位系统</strong><br>支持系统：Windows XP/Vista/7/8.1/10</p>
 <h3 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h3><p><a href="http://pys247.ys168.com/" target="_blank" rel="external">国内下载</a> （永硕网盘，适合国内下载）<br><a href="https://www.dropbox.com/sh/syupy5xaydprc54/AAA1iT-ROozd_DEEAmIbAhr5a?dl=0" target="_blank" rel="external">国外下载</a> （DropBox，中国大陆无法访问，适合国外下载）</p>
-<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><h4 id="1-0-14（2017-10-20）：基于多多输入法生成器v4-0-0-369版本更新"><a href="#1-0-14（2017-10-20）：基于多多输入法生成器v4-0-0-369版本更新" class="headerlink" title="1.0.14（2017.10.20）：基于多多输入法生成器v4.0.0.369版本更新"></a>1.0.14（2017.10.20）：基于多多输入法生成器v4.0.0.369版本更新</h4><p>修正“设置→码表管理→删除码表项”产生的错误</p>
+<h3 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h3><h4 id="1-0-15（2017-11-3）：基于多多输入法生成器v4-0-0-370版本更新，"><a href="#1-0-15（2017-11-3）：基于多多输入法生成器v4-0-0-370版本更新，" class="headerlink" title="1.0.15（2017.11.3）：基于多多输入法生成器v4.0.0.370版本更新，"></a>1.0.15（2017.11.3）：基于多多输入法生成器v4.0.0.370版本更新，</h4><p>1.联想结果中可包含“命令直通车”<br>2.修正频繁添加用户词导致的崩溃错误<br>3.修正“隐藏嵌入的首选”开启后，界面序号错误问题</p>
+<h4 id="1-0-14（2017-10-20）：基于多多输入法生成器v4-0-0-369版本更新"><a href="#1-0-14（2017-10-20）：基于多多输入法生成器v4-0-0-369版本更新" class="headerlink" title="1.0.14（2017.10.20）：基于多多输入法生成器v4.0.0.369版本更新"></a>1.0.14（2017.10.20）：基于多多输入法生成器v4.0.0.369版本更新</h4><p>修正“设置→码表管理→删除码表项”产生的错误</p>
 <h4 id="1-0-13（2017-10-12）：基于多多输入法生成器v4-0-0-368版本更新"><a href="#1-0-13（2017-10-12）：基于多多输入法生成器v4-0-0-368版本更新" class="headerlink" title="1.0.13（2017.10.12）：基于多多输入法生成器v4.0.0.368版本更新"></a>1.0.13（2017.10.12）：基于多多输入法生成器v4.0.0.368版本更新</h4><p>稳定性修正</p>
 <h4 id="1-0-12（2017-10-4）：基于多多输入法生成器v4-0-0-367版本更新"><a href="#1-0-12（2017-10-4）：基于多多输入法生成器v4-0-0-367版本更新" class="headerlink" title="1.0.12（2017.10.4）：基于多多输入法生成器v4.0.0.367版本更新"></a>1.0.12（2017.10.4）：基于多多输入法生成器v4.0.0.367版本更新</h4><p>1.优化窗口丢失焦点时程序行为<br>2.调整首字母大写转临时英文逻辑<br>3.调整非编码键行为<br>4.稳定性修正</p>
 <h4 id="1-0-11（2017-4-25）：基于多多输入法生成器v4-0-0-365版本更新"><a href="#1-0-11（2017-4-25）：基于多多输入法生成器v4-0-0-365版本更新" class="headerlink" title="1.0.11（2017.4.25）：基于多多输入法生成器v4.0.0.365版本更新"></a>1.0.11（2017.4.25）：基于多多输入法生成器v4.0.0.365版本更新</h4><p>1.修正##无法识别为编码的错误<br>2.修正office中某些按键会被连续处理多次的问题<br>3.其他bug修正<br>（已知有图标显示错误的bug，不影响软件基本使用）</p>
@@ -109,7 +110,13 @@ gitment.render('container')
 <h4 id="0-5-0-Beta9（2015-01-17）：基于多多输入法生成器v3-3-0-202版本更新"><a href="#0-5-0-Beta9（2015-01-17）：基于多多输入法生成器v3-3-0-202版本更新" class="headerlink" title="0.5.0 Beta9（2015.01.17）：基于多多输入法生成器v3.3.0.202版本更新"></a>0.5.0 Beta9（2015.01.17）：基于多多输入法生成器v3.3.0.202版本更新</h4><p>1.更改非metro界面中不提示中/英/A等状态<br>2.限制安装guid不同但输入法名称相同的输入法<br>3.限制安装guid不同但安装路径相同的输入法</p>
 <h4 id="0-5-0-Beta8（2014-12-31）：基于多多输入法生成器v3-3-0-201版本更新"><a href="#0-5-0-Beta8（2014-12-31）：基于多多输入法生成器v3-3-0-201版本更新" class="headerlink" title="0.5.0 Beta8（2014.12.31）：基于多多输入法生成器v3.3.0.201版本更新"></a>0.5.0 Beta8（2014.12.31）：基于多多输入法生成器v3.3.0.201版本更新</h4><p>1.修改快捷日期英文输入方式 引导键开启快捷英文时会自动更改候选个数为9,并可使用a~j自动上屏对应候选<br>2.修改浮动提示(中/英/A等)行为,初次打开窗口时将不显示浮动提示</p>
 <h4 id="0-5-0-Beta7（2014-12-27）：基于多多输入法生成器v3-3-0-198版本更新"><a href="#0-5-0-Beta7（2014-12-27）：基于多多输入法生成器v3-3-0-198版本更新" class="headerlink" title="0.5.0 Beta7（2014.12.27）：基于多多输入法生成器v3.3.0.198版本更新"></a>0.5.0 Beta7（2014.12.27）：基于多多输入法生成器v3.3.0.198版本更新</h4><p>1.修正快捷键过多引起的程序崩溃错误,快捷键最多64个<br>2.修改有注册功能的安装程序在覆盖安装时的版本判断错误</p>
-<h4 id="0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新"><a href="#0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新" class="headerlink" title="0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新"></a>0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新</h4><h4 id="0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新"><a href="#0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新" class="headerlink" title="0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新"></a>0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新</h4><p>更换输入法的默认皮肤<br><img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Skin.png" alt="南坡五笔默认皮肤"></p>
+<h4 id="0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新"><a href="#0-5-0-Beta6（2014-12-20）：基于多多输入法生成器v3-3-0-197版本更新" class="headerlink" title="0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新"></a>0.5.0 Beta6（2014.12.20）：基于多多输入法生成器v3.3.0.197版本更新</h4><h4 id="0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新"><a href="#0-5-0-Beta5（2014-12-15）：基于多多输入法生成器v3-3-0-194版本更新" class="headerlink" title="0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新"></a>0.5.0 Beta5（2014.12.15）：基于多多输入法生成器v3.3.0.194版本更新</h4><p>更换输入法的默认皮肤<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Skin.png" alt="南坡五笔默认皮肤" title="">
+                </div>
+                <div class="image-caption">南坡五笔默认皮肤</div>
+            </figure></p>
 <h4 id="0-5-0-Beta4（2014-12-14）：基于多多输入法生成器v3-3-0-193版本更新"><a href="#0-5-0-Beta4（2014-12-14）：基于多多输入法生成器v3-3-0-193版本更新" class="headerlink" title="0.5.0 Beta4（2014.12.14）：基于多多输入法生成器v3.3.0.193版本更新"></a>0.5.0 Beta4（2014.12.14）：基于多多输入法生成器v3.3.0.193版本更新</h4><h4 id="0-5-0-Beta3（2014-12-06）：基于多多输入法生成器v3-3-0-189版本更新"><a href="#0-5-0-Beta3（2014-12-06）：基于多多输入法生成器v3-3-0-189版本更新" class="headerlink" title="0.5.0 Beta3（2014.12.06）：基于多多输入法生成器v3.3.0.189版本更新"></a>0.5.0 Beta3（2014.12.06）：基于多多输入法生成器v3.3.0.189版本更新</h4><h4 id="0-5-0-Beta2（2014-11-30）：基于多多输入法生成器v3-3-0-188版本更新"><a href="#0-5-0-Beta2（2014-11-30）：基于多多输入法生成器v3-3-0-188版本更新" class="headerlink" title="0.5.0 Beta2（2014.11.30）：基于多多输入法生成器v3.3.0.188版本更新"></a>0.5.0 Beta2（2014.11.30）：基于多多输入法生成器v3.3.0.188版本更新</h4><h4 id="0-5-0-Beta1（2014-11-28）：基于多多输入法生成器v3-3-β1-v3-3-0-185-版本更新"><a href="#0-5-0-Beta1（2014-11-28）：基于多多输入法生成器v3-3-β1-v3-3-0-185-版本更新" class="headerlink" title="0.5.0 Beta1（2014.11.28）：基于多多输入法生成器v3.3 β1(v3.3.0.185)版本更新"></a>0.5.0 Beta1（2014.11.28）：基于多多输入法生成器v3.3 β1(v3.3.0.185)版本更新</h4><p>新增功能：</p>
 <ul>
 <li>1.优化自动更新方式<br>可设置自动生成数据更新包<br>可设置自动生成程序更新包<br>可设置自动生成更新信息文件<br>可设置更新下载根路径<br>2.添加智能标点功能<br>智能标点键位表，改表中指定的健位，第一次输入为中文标点，第二次输入删除中文并上屏英文标点<br>数字后半角标点行为也受此功能影响，再次输入时删除半角标点并上屏中文标点<br>3.添加可设置 输入标点后光标左移 功能<br>光标左移的标点表，该表中指定的键位在输出中文标点符号后，会模拟一次键盘光标左移键<br>4.优化安装程序策略<br>1)安装程序使用动态IME文件名方法规避用户打开输入法后的安装、更新卸载操作中的文件被占用问题；<br>IME文件名可能是：c:\windows\system32\ddwbtest.161.56.ime<br>2)为码表数据添加版本限定，保证用户使用高版本覆盖安装低版本程序时，能够正确的安装高版本数据文件<br>数据安装路径为：<br>C:\ProgramData\DuoduoIME3{FA212179-3D1F-43F7-B39F-33CE5F60BEAF}\161.56\<br>3)限制使用低版本程序覆盖已经安装的高版本程序<br>4)限制32位程序在64位系统中安装<br>5)相同版本程序覆盖已有安装时，将仅覆盖数据文件，IME文件保持本机文件不变<br>6)卸载程序将不再提示关闭已经打开输入法的程序，删除文件的操作，将在用户下次重新启动计算机时执行完全删除<br>5.优化简繁转换策略<br>1)候选唯一时，会先判断简繁转换的结果，如果结果不唯一，将不自动上屏<br>6.优化皮肤驱动<br>1)统一原有的classic和colourful驱动为common<br>2)common驱动内置了原classic样式的皮肤包<br>7.优化了程序菜单定义方式，在此方式基础上，将可实现用户自定义候选列表菜单、状态栏右键菜单<br>8.优化命令直通车的日期功能，允许日期的年月日加减一个常数值，以实现输入“明天”“去年”等日期<br>9.优化快速日期的输入<br>1)快速日期时，支持使用 abcdefg 上屏候选<br>2)添加带千分号的金额小写形式</li>
@@ -129,7 +136,19 @@ gitment.render('container')
 <h4 id="0-10（2013-06-02）"><a href="#0-10（2013-06-02）" class="headerlink" title="0.10（2013.06.02）"></a>0.10（2013.06.02）</h4><p>pysh五笔输入法0.1版（64位）发布，使用多多输入法生成器v3.2.0.134 β2版本制作。</p>
 <h3 id="卸载方式"><a href="#卸载方式" class="headerlink" title="卸载方式"></a>卸载方式</h3><p>1.调用南坡五笔自带的卸载程序（文件路径：(安装路径)\南坡五笔\installer.exe）<br>2.开始→控制面板→程序→卸载程序→卸载<br>3.使用各类“卫士”等系统辅助软件卸载</p>
 <h5 id="如无法卸载，请下载南坡五笔专用卸载工具卸载"><a href="#如无法卸载，请下载南坡五笔专用卸载工具卸载" class="headerlink" title="如无法卸载，请下载南坡五笔专用卸载工具卸载"></a>如无法卸载，请下载南坡五笔专用卸载工具卸载</h5><p>64位：<a href="http://pan.baidu.com/share/link?shareid=304596937&amp;uk=3322981127" target="_blank" rel="external">http://pan.baidu.com/share/link?shareid=304596937&amp;uk=3322981127</a><br>32位：<a href="http://pan.baidu.com/share/link?shareid=304995561&amp;uk=3322981127" target="_blank" rel="external">http://pan.baidu.com/share/link?shareid=304995561&amp;uk=3322981127</a></p>
-<p>Windows 7 系统环境下卸载后发现语言栏仍残留南坡五笔输入法图标，如下图所示：<br><img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Settings.png" alt="设置"><br>请参照<a href="http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html" target="_blank" rel="external">http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a><br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><img src="http://oqtut51hd.bkt.clouddn.com/Nanpo-Wubi-Regedit.png" alt="注册表"></p>
+<p>Windows 7 系统环境下卸载后发现语言栏仍残留南坡五笔输入法图标，如下图所示：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Input-Method-Settings.png" alt="设置" title="">
+                </div>
+                <div class="image-caption">设置</div>
+            </figure><br>请参照<a href="http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html" target="_blank" rel="external">http://jingyan.baidu.com/article/0f5fb099cbed486d8334ea24.html</a><br>删除软件的注册表文件（文件路径HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layouts\），如下图所示：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Nanpo-Wubi-Regedit.png" alt="注册表" title="">
+                </div>
+                <div class="image-caption">注册表</div>
+            </figure></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -282,10 +301,10 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html"/>
     <id>https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html</id>
     <published>2017-09-01T13:18:47.000Z</published>
-    <updated>2017-10-26T15:10:55.069Z</updated>
+    <updated>2017-11-03T13:42:19.981Z</updated>
     
     <content type="html"><![CDATA[<p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
-<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>B17<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a></p>
+<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>B17<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a><br><a href="http://russian.cri.cn/data/608/20171029/12691.html" target="_blank" rel="external">Russian 俄语</a></p>
 <p>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>（9635应为9450）<br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
 <p>B16<br><a href="http://malay.cri.cn/501/2016/12/20/261s166458.htm" target="_blank" rel="external">Malay 马来语</a></p>
 <p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://gb.cri.cn/1321/2008/03/27/157@1998202.htm" target="_blank" rel="external">Chinese 汉语（近十年不更新）</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://pushtu.cri.cn/121/2008/06/25/70360.htm" target="_blank" rel="external">Pushtu 普什图语</a><br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a><br><a href="http://vietnamese.cri.cn/421/2009/09/20/1s128421.htm" target="_blank" rel="external">Vietnamese 越南语</a></p>
@@ -368,7 +387,13 @@ gitment.render('container')
     <content type="html"><![CDATA[<p>据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。</p>
 <p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
 <p>因时差原因，汉语广播节目中提到的时间比北京时间晚11小时</p>
-<p>RAE公布的频率表：<br><img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español"><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
+<p>RAE公布的频率表：<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español" title="">
+                </div>
+                <div class="image-caption">Esquema-WRMI-Español</div>
+            </figure><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/05/29125352/Esquema-WRMI-Español.jpg</a></p>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
 <p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
@@ -527,7 +552,7 @@ gitment.render('container')
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-10-28T17:56:20.106Z</updated>
+    <updated>2017-11-03T13:55:39.174Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a><strong>5.19</strong></h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -543,7 +568,7 @@ gitment.render('container')
 <li>15:25-15:45　　15450kHz　　空白载波<br>15:38-15:40　　15250kHz　　空白载波，消失前出现1kHz正弦波<br>15:40　　　　　15470kHz　　1kHz正弦波<br>15:42　　　　　11560kHz　　不明音乐<br>15:52-16:14　　11965kHz　　消失前出现短暂轻音乐信号<br>16:30-17:03　　12070kHz　　CRI中文环球，16:56再听已成空载<br>16:33　　　　　15465kHz　　空白载波，16:57干扰RTI<br>中国之声短波频率周二中午检修，但有部分频率在停机期间短暂测试发射空白载波信号：<br>16:03-16:26　　15550kHz　　空白载波，信号时断时续<br>16:24-16:45　　15370kHz　　空白载波，信号时断时续<br>16:43-16:57　　15380kHz　　空白载波<br>16:45-16:57　　17550kHz　　空白载波<br>16:45-16:57　　17605kHz　　空白载波</li>
 </ul>
 <h4 id="7-12"><a href="#7-12" class="headerlink" title="7.12"></a><strong>7.12</strong></h4><ul>
-<li>15:36-15:37　　9845kHz　　空白载波，消失前出现1kHz正弦波<br>15:38-15:39　　15250kHz　　空白载波，消失前出现1kHz正弦波<br><strong>16:00-16:30　　15200kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:05-16:06　　7445kHz　　空白载波<br>16:15-16:16　　11825kHz　　空白载波<br>16:16-16:21　　17520kHz　　1kHz正弦波<br><strong>16:30-17:00　　13620kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:34-16:39　　11785kHz　　空白载波<br>16:45-16:46　　13755kHz　　空白载波<br>16:45-16:46　　17485kHz　　1kHz正弦波<br>22:00-23:00　　17580kHz　　CNR 1（用途未知），覆盖华南，22:35后信号开始衰弱</li>
+<li>15:36-15:37　　9845kHz　　空白载波，消失前出现1kHz正弦波<br>15:38-15:39　　15250kHz　　空白载波，消失前出现1kHz正弦波<br><strong>16:00-16:30　　15200kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:05-16:06　　7445kHz　　空白载波<br>16:15-16:16　　11825kHz　　空白载波<br>16:16-16:21　　17520kHz　　1kHz正弦波<br><strong>16:30-17:00　　13620kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:34-16:39　　11785kHz　　空白载波<br>16:45-16:46　　13755kHz　　空白载波<br>16:45-16:46　　17485kHz　　1kHz正弦波<br><strong>22:00-23:00　　17580kHz　　CNR 1（用途未知），覆盖华南，22:35后信号开始衰弱</strong></li>
 </ul>
 <h4 id="7-13"><a href="#7-13" class="headerlink" title="7.13"></a><strong>7.13</strong></h4><ul>
 <li>16:09-16:12　　9845kHz　　空白载波</li>
@@ -638,6 +663,11 @@ gitment.render('container')
 </ul>
 <h4 id="10-25"><a href="#10-25" class="headerlink" title="10.25"></a><strong>10.25</strong></h4><ul>
 <li>15:50-15:53　　15250kHz　　空白载波<br>16:05　　　　　15250kHz　　空白载波</li>
+</ul>
+<h4 id="11-3"><a href="#11-3" class="headerlink" title="11.3"></a><strong>11.3</strong></h4><ul>
+<li><p>15:57-16:00　　17825kHz　　CNR 1（用途未知）<br>16:07　　　　　17825kHz　　CNR 1（用途未知）<br>16:12-16:14　　17825kHz　　空白载波<br>16:16-16:17　　17825kHz　　CNR 1（用途未知）<br>16:23-16:24　　17825kHz　　空白载波<br>16:25　　　　　17825kHz　　CNR 1（用途未知）<br>16:53-16:55　　17800kHz　　CNR 1（用途未知）<br>16:58-17:00　　17800kHz　　CNR 1（用途未知）<br>17:01　　　　　17800kHz　　CNR 1（用途未知）</p>
+<p>16:06　　　　　17705kHz　　10s空白载波<br>16:21-16:24　　17820kHz　　空白载波<br>16:45-16:46　　17690kHz　　空白载波，CRI开播前测试？</p>
+</li>
 </ul>
 <!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
 <p><div id="container"></div></p>
