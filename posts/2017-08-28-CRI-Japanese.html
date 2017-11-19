@@ -26,7 +26,7 @@
 <meta property="og:url" content="https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html">
 <meta property="og:site_name" content="Cahcn的自留地">
 <meta property="og:description" content="中国国际广播电台日语广播网站发布公告，2017年9月6日8时至9月30日20时，将对部分发射设备进行维护，在此期间部分短波频率停播。 停播的频率（北京时间）：06:00-07:00　13640kHz07:00-08:00　13640kHz18:00-19:00　7325kHz19:00-20:00　7325kHz20:00-21:00　7325kHz21:00-22:00　7410kHz22:00">
-<meta property="og:updated_time" content="2017-10-13T16:19:32.408Z">
+<meta property="og:updated_time" content="2017-11-19T17:32:41.488Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="CRI日语广播部分短波频率停机检修">
 <meta name="twitter:description" content="中国国际广播电台日语广播网站发布公告，2017年9月6日8时至9月30日20时，将对部分发射设备进行维护，在此期间部分短波频率停播。 停播的频率（北京时间）：06:00-07:00　13640kHz07:00-08:00　13640kHz18:00-19:00　7325kHz19:00-20:00　7325kHz20:00-21:00　7325kHz21:00-22:00　7410kHz22:00">
@@ -193,29 +193,14 @@
 <p>停播的频率（北京时间）：<br>06:00-07:00　13640kHz<br>07:00-08:00　13640kHz<br>18:00-19:00　7325kHz<br>19:00-20:00　7325kHz<br>20:00-21:00　7325kHz<br>21:00-22:00　7410kHz<br>22:00-23:00　7410kHz<br>23:00-00:00　7410kHz<br>（停播的频率均在浙江金华发射）</p>
 <p>其它正常播出的频率（北京时间）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-19:00　11620kHz<br>19:00-20:00　1044、11620kHz<br>20:00-21:00　1044、11620kHz<br>21:00-22:00　1044、7325kHz<br>22:00-23:00　1044、7395kHz<br>23:00-00:00　1044、9585kHz</p>
 <p><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">http://japanese.cri.cn/782/2015/10/20/141s242461.htm</a></p>
-<!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
-<p><div id="container"></div></p>
-<p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: 'location.href', // 可选。默认为 location.href
-  owner: 'Cahcn',  //改你自己的名字
-  repo: 'Cahcn.github.io',  //专门储存评论一个GitHub仓库
-  oauth: {
-    client_id: '6c78ea07b54d6c8ad225', //改为你自己的，下同
-    client_secret: 'b7019a6ab4ca3945c348a299ffc4b3d99da554f1', 
-  },
-})
-gitment.render('container')
-</script>
+
         </div>
 
         <blockquote class="post-copyright">
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2017-10-13T16:19:32.408Z" itemprop="dateUpdated">2017-10-14 00:19:32</time>
+    最后更新时间：<time datetime="2017-11-19T17:32:41.488Z" itemprop="dateUpdated">2017-11-20 01:32:41</time>
 </span><br>
 
 
@@ -319,6 +304,11 @@ gitment.render('container')
 
 
 
+
+
+    <div class="comments vcomment" id="comments"></div>
+
+    
 
 
 </article>
@@ -447,6 +437,33 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
+
+
+<!-- Valine Comments -->
+
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <script type="text/javascript">
+        var notify = 'ture' == true ? true : false;
+        var verify = 'false' == true ? true : false;
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+        new Valine({
+            el: '.vcomment',
+            notify: notify,
+            verify: verify,
+            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
+            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
+            avatar:"mm",
+            placeholder: "Just go go",
+            guest_info:guest_info,
+            pageSize:"10"
+        })
+    </script>
+    
 
 </body>
 </html>

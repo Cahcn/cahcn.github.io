@@ -403,9 +403,9 @@
 
     
         
-这里是星星广播电台第x台，现在我们即将开始播报电报给您，请您注意，准备抄收  在这个时间里有xxxx单位x月份第x号一份电报xx个字电文  现在我们开始播报，请xx单位注意，准备抄收  以上是给xx单位x月份第x号电文，现在已经播送完了  以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会
+这里是星星广播电台第x台，现在我们即将开始播报电报给您，请您注意，准备抄收  在这个时间里有xxxx单位x月份第x号一份电报xx个字电文  现在我们开始播报，请xx单位注意，准备抄收  ……  以上是给xx单位x月份第x号电文，现在已经播送完了  以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会
 
-播出时段、频率详见：https://git.oschina.net/bcler/fmdx/...
+播出时段、频率详见：https://git.oschina.net/bcler/f...
     
 
         <a href="/posts/2017-06-03-Xing-Xing-Tai.html" class="post-more waves-effect waves-button">
@@ -680,6 +680,33 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
+
+
+<!-- Valine Comments -->
+
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <script type="text/javascript">
+        var notify = 'ture' == true ? true : false;
+        var verify = 'false' == true ? true : false;
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+        new Valine({
+            el: '.vcomment',
+            notify: notify,
+            verify: verify,
+            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
+            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
+            avatar:"mm",
+            placeholder: "Just go go",
+            guest_info:guest_info,
+            pageSize:"10"
+        })
+    </script>
+    
 
 </body>
 </html>

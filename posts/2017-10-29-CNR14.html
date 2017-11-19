@@ -28,7 +28,7 @@
 <meta property="og:description" content="2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。2017年10月29日通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。2017年11月1日，FM87.">
 <meta property="og:image" content="http://oqtut51hd.bkt.clouddn.com/20170331-Shenzhen-87.8MHz.jpg">
 <meta property="og:image" content="http://oqtut51hd.bkt.clouddn.com/20170930-Shenzhen-87.8MHz.jpg">
-<meta property="og:updated_time" content="2017-11-02T14:13:31.014Z">
+<meta property="og:updated_time" content="2017-11-19T17:33:26.745Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="中央人民广播电台香港之声新增调频频率FM87.8">
 <meta name="twitter:description" content="2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。2017年10月29日通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。2017年11月1日，FM87.">
@@ -210,29 +210,14 @@
 <p>此前，香港电台于2017年9月3日午夜12时起，终止数码声音广播服务。原由香港数码广播32台转播的香港之声改由香港电台第六台675kHz 24小时转播。</p>
 <p>截至2017年11月初，华夏之声、香港之声的无线覆盖情况：<br>CNR 7 华夏之声<br>104.9MHz　中山市　五桂山广播电视发射台<br>1215kHz　珠海市<br>（佛山93.2MHz规划频率未启用）</p>
 <p>CNR 14 香港之声<br>87.8MHz　深圳市　梧桐山广播电视发射台<br>675kHz　香港（<a href="https://cahcn.github.io/posts/2017-08-11-RTHK.html">由香港电台第六台转播</a>）</p>
-<!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
-<p><div id="container"></div></p>
-<p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: 'location.href', // 可选。默认为 location.href
-  owner: 'Cahcn',  //改你自己的名字
-  repo: 'Cahcn.github.io',  //专门储存评论一个GitHub仓库
-  oauth: {
-    client_id: '6c78ea07b54d6c8ad225', //改为你自己的，下同
-    client_secret: 'b7019a6ab4ca3945c348a299ffc4b3d99da554f1', 
-  },
-})
-gitment.render('container')
-</script>
+
         </div>
 
         <blockquote class="post-copyright">
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2017-11-02T14:13:31.014Z" itemprop="dateUpdated">2017-11-02 22:13:31</time>
+    最后更新时间：<time datetime="2017-11-19T17:33:26.745Z" itemprop="dateUpdated">2017-11-20 01:33:26</time>
 </span><br>
 
 
@@ -329,6 +314,11 @@ gitment.render('container')
 
 
 
+
+
+    <div class="comments vcomment" id="comments"></div>
+
+    
 
 
 </article>
@@ -457,6 +447,33 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
+
+
+<!-- Valine Comments -->
+
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <script type="text/javascript">
+        var notify = 'ture' == true ? true : false;
+        var verify = 'false' == true ? true : false;
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+        new Valine({
+            el: '.vcomment',
+            notify: notify,
+            verify: verify,
+            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
+            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
+            avatar:"mm",
+            placeholder: "Just go go",
+            guest_info:guest_info,
+            pageSize:"10"
+        })
+    </script>
+    
 
 </body>
 </html>

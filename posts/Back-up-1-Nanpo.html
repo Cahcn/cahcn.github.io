@@ -29,7 +29,7 @@
 <meta property="og:image" content="http://oqtut51hd.bkt.clouddn.com/Input-Method-Skin.png">
 <meta property="og:image" content="http://oqtut51hd.bkt.clouddn.com/Input-Method-Settings.png">
 <meta property="og:image" content="http://oqtut51hd.bkt.clouddn.com/Nanpo-Wubi-Regedit.png">
-<meta property="og:updated_time" content="2017-11-13T14:16:06.065Z">
+<meta property="og:updated_time" content="2017-11-19T17:33:38.031Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="南坡五笔输入法">
 <meta name="twitter:description" content="备份新浪博客的内容，原文见http://blog.sina.com.cn/s/blog_7ae04bef01016eh1.html 南坡五笔输入法v1.0.17（2017.11.11）简介南坡五笔输入法使用多多输入法生成器制作，本输入法1.0版本之前的安装程序有32位和64位之分，1.0之后版本安装程序不再区分32、64位系统支持系统：Windows XP/Vista/7/8.1/10 下载地址国">
@@ -276,29 +276,14 @@
                 </div>
                 <div class="image-caption">注册表</div>
             </figure></p>
-<!-- Gitment：使用 GitHub Issues 搭建评论系统 -->
-<p><div id="container"></div></p>
-<p><link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css"></p>
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
-<script>
-var gitment = new Gitment({
-  id: 'location.href', // 可选。默认为 location.href
-  owner: 'Cahcn',  //改你自己的名字
-  repo: 'Cahcn.github.io',  //专门储存评论一个GitHub仓库
-  oauth: {
-    client_id: '6c78ea07b54d6c8ad225', //改为你自己的，下同
-    client_secret: 'b7019a6ab4ca3945c348a299ffc4b3d99da554f1', 
-  },
-})
-gitment.render('container')
-</script>
+
         </div>
 
         <blockquote class="post-copyright">
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2017-11-13T14:16:06.065Z" itemprop="dateUpdated">2017-11-13 22:16:06</time>
+    最后更新时间：<time datetime="2017-11-19T17:33:38.031Z" itemprop="dateUpdated">2017-11-20 01:33:38</time>
 </span><br>
 
 
@@ -402,6 +387,11 @@ gitment.render('container')
 
 
 
+
+
+    <div class="comments vcomment" id="comments"></div>
+
+    
 
 
 </article>
@@ -530,6 +520,33 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
+
+
+<!-- Valine Comments -->
+
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <script type="text/javascript">
+        var notify = 'ture' == true ? true : false;
+        var verify = 'false' == true ? true : false;
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
+        new Valine({
+            el: '.vcomment',
+            notify: notify,
+            verify: verify,
+            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
+            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
+            avatar:"mm",
+            placeholder: "Just go go",
+            guest_info:guest_info,
+            pageSize:"10"
+        })
+    </script>
+    
 
 </body>
 </html>
