@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-11-19T17:33:26.745Z</updated>
+  <updated>2017-11-20T09:19:04.953Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -16,13 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>蒙古之声广播电台频率变更</title>
+    <link href="https://cahcn.github.io/posts/2017-11-20-Voice-of-Mongolia.html"/>
+    <id>https://cahcn.github.io/posts/2017-11-20-Voice-of-Mongolia.html</id>
+    <published>2017-11-20T08:50:48.000Z</published>
+    <updated>2017-11-20T09:19:04.953Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年11月20日，蒙古之声广播电台部分时段频率调整。<br>根据HFCC网站11月20日更新的数据，蒙古之声广播电台下午及晚间使用的12035kHz变更为12085kHz，其它参数信息、各语种时间不变。<br>12085 0900 0930 43,44,49 U-B 250 178 0 217 1234567 201117 240318 D 15000 Eng MNG MRT MRT 16645<br>12085 0930 1100 45 U-B 250 116 0 217 1234567 201117 240318 D 15000 MonChnJpn MNG MRT MRT 16646</p>
+<p>12085kHz各语种播出时段如下（UTC+8，乌兰巴托时间、北京时间）：<br>1700-1728　English<br>1728-1800　Mongolian<br>1800-1830　Chinese<br>1830-1900　Japanese</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017年11月20日，蒙古之声广播电台部分时段频率调整。&lt;br&gt;根据HFCC网站11月20日更新的数据，蒙古之声广播电台下午及晚间使用的12035kHz变更为12085kHz，其它参数信息、各语种时间不变。&lt;br&gt;12085 0900 0930 43,44,49 U-B 
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>中央人民广播电台香港之声新增调频频率FM87.8</title>
     <link href="https://cahcn.github.io/posts/2017-10-29-CNR14.html"/>
     <id>https://cahcn.github.io/posts/2017-10-29-CNR14.html</id>
     <published>2017-10-28T16:45:03.000Z</published>
-    <updated>2017-11-19T17:33:26.745Z</updated>
+    <updated>2017-11-19T20:08:00.697Z</updated>
     
-    <content type="html"><![CDATA[<p>2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。<br>2017年10月29日通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。<br>2017年11月1日，FM87.8调整为转播香港之声节目，自此香港之声实现中波、调频双频覆盖。</p>
+    <content type="html"><![CDATA[<p>2017年10月16日下午，国家新闻出版广电总局网站更新了<a href="http://211.146.6.56/" target="_blank" rel="external">《经批准可以使用的无线广播电视发射频率/频道表》</a>（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。<br>2017年10月29日通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。<br>2017年11月1日，FM87.8调整为转播香港之声节目，自此香港之声实现中波、调频双频覆盖。</p>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
@@ -44,7 +66,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;2017年10月16日下午，国家新闻出版广电总局网站更新了《经批准可以使用的无线广播电视发射频率/频道表》（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。&lt;br&gt;201
+      &lt;p&gt;2017年10月16日下午，国家新闻出版广电总局网站更新了&lt;a href=&quot;http://211.146.6.56/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《经批准可以使用的无线广播电视发射频率/频道表》&lt;/a&gt;（数据截至2017年9月30日），在
     
     </summary>
     
@@ -660,7 +682,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html"/>
     <id>https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html</id>
     <published>2017-06-03T13:16:58.000Z</published>
-    <updated>2017-11-19T17:31:08.864Z</updated>
+    <updated>2017-11-19T18:27:35.767Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这里是星星广播电台第x台，现在我们即将开始播报电报给您，请您注意，准备抄收<br>  在这个时间里有xxxx单位x月份第x号一份电报xx个字电文<br>  现在我们开始播报，请xx单位注意，准备抄收<br>  ……<br>  以上是给xx单位x月份第x号电文，现在已经播送完了<br>  以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会</p>
@@ -682,7 +704,7 @@
 <li>　?　-10:17　　18040kHz<br>10:17-10:33　　9276kHz<br>11:00-11:07　　15388kHz<br>11:07-11:12　　13750kHz<br>11:12-11:16　　11430 / 18040 kHz<br>11:16-11:21　　9276kHz<br>11:21-11:25　　15388 / 16134 kHz<br>11:25-11:32　　13750 / 15388 kHz<br>12:00-12:33　　13750 / 15388 kHz<br>13:00-13:32　　13750 / 15388 kHz<br><strong>14:39-15:11</strong>　　15388kHz，发射时间错误？<br>15:39-　?　　　15388kHz，开始曲播完后处于空载状态<br>16:00-16:33　　15388kHz<br>18:00-18:32　　15388kHz<br>19:00-19:33　　15388kHz<br>20:00-20:05　　15388kHz<br>20:05-20:10　　13750kHz<br>20:10-20:16　　11430kHz<br>20:16-20:33　　9276kHz<br>21:00-21:32　　9276kHz<br>21:32-21:43　　9276kHz，发射空白载波<br>（仅列出本人或其他广播爱好者实际听到的频率记录；无特别说明，听到的几个时段呼号均为第一台）</li>
 </ul>
 <h4 id="2017年11月收听备忘（11月起发射不正常，似乎已经不按以往的安排发射）"><a href="#2017年11月收听备忘（11月起发射不正常，似乎已经不按以往的安排发射）" class="headerlink" title="2017年11月收听备忘（11月起发射不正常，似乎已经不按以往的安排发射）"></a>2017年11月收听备忘（11月起发射不正常，似乎已经不按以往的安排发射）</h4><ul>
-<li>11月9日20:00时段，8300kHz只在20:00-20:12有信号，20:12信号消失，似乎更换到一个全新的频率上<br>11月9日21:00时段，11430kHz只在21:00-21:12有信号，大约21:12信号消失，似乎更换到一个全新的频率上<br>11月12日20:00时段，7688kHz只在20:00-20:15有信号，20:15信号消失，似乎更换到一个全新的频率上<br>11月13日20:00时段，7688kHz到20:16播出结束，20:16听到“以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会”，用菲律宾SDR接收机可以听到弱信号（似乎改为向东南亚发射信号？）<br>11月14日，日本BCLer发现增加了19:00-19:30时段的发射<br>11月16日，日本BCLer发现增加了09:00-09:30时段的发射<br>11月18日09:00时段，13750kHz似乎在09:30播出结束后再增加了09:30-09:59时段的发射，在收听13750kHz 10:00时段信号前听到了“以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会”的结束语，但具体情况没有留意<br>11月18日19:00时段，首次在播报中听到“xxxx单位x月份第二号一份电报xx个字电文”（一个月内给同一个单位发送两次数字电报），以往听到的内容都是“xxxx单位x月份第一号一份电报xx个字电文”（一个月只给一个单位发送一次数字电报）<br>11月19日19:00时段，7688kHz到19:07才开始播出，19:36播出结束<br>11月19日20:00时段，7688kHz到20:07才开始播出，20:09信号消失，似乎更换到一个全新的频率上</li>
+<li>11月9日20:00时段，8300kHz只在20:00-20:12有信号，20:12信号消失，似乎更换到一个全新的频率上<br>11月9日21:00时段，11430kHz只在21:00-21:12有信号，大约21:12信号消失，似乎更换到一个全新的频率上<br>11月12日20:00时段，7688kHz只在20:00-20:15有信号，20:15信号消失，似乎更换到一个全新的频率上<br>11月13日20:00时段，7688kHz到20:16播出结束，20:16听到“以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会”，用菲律宾SDR接收机可以听到弱信号（似乎改为向东南亚发射信号？）<br>11月14日，日本BCLer发现增加了19:00-19:30时段的发射<br>11月16日，日本BCLer发现增加了09:00-09:30时段的发射<br>11月18日09:00时段，13750kHz似乎在09:30播出结束后再增加了09:30-09:59时段的发射，在收听13750kHz 10:00时段信号前听到了“以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会”的结束语，但具体情况没有留意（只在11月18日当天发现）<br>11月18日19:00时段，首次在播报中听到“xxxx单位x月份第二号一份电报xx个字电文”（一个月内给同一个单位发送两次数字电报），以往听到的内容都是“xxxx单位x月份第一号一份电报xx个字电文”（一个月只给一个单位发送一次数字电报）<br>11月19日19:00时段，7688kHz到19:07才开始播出，19:36播出结束<br>11月19日20:00时段，7688kHz到20:07才开始播出，20:09信号消失，似乎更换到一个全新的频率上</li>
 </ul>
 ]]></content>
     
@@ -770,7 +792,7 @@
     <link href="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html"/>
     <id>https://cahcn.github.io/posts/2017-05-21-HelloWorld.html</id>
     <published>2017-05-20T23:34:04.000Z</published>
-    <updated>2017-11-19T17:52:23.179Z</updated>
+    <updated>2017-11-19T19:58:55.448Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>宁缺毋滥</p>
@@ -789,7 +811,7 @@
 <hr>
 <h3 id="博客主题"><a href="#博客主题" class="headerlink" title="博客主题"></a>博客主题</h3><p><a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">https://github.com/yscoder/hexo-theme-indigo</a> （现在的主题）<br><a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">https://github.com/caisiduo/hexo-theme-lightone</a> （原来的主题）<br><a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external">https://github.com/litten/hexo-theme-yilia</a><br><a href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="external">https://github.com/ppoffice/hexo-theme-icarus</a></p>
 <h3 id="统计代码"><a href="#统计代码" class="headerlink" title="统计代码"></a>统计代码</h3><p><a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="external">http://ibruce.info/2015/04/04/busuanzi/</a></p>
-<h3 id="评论系统"><a href="#评论系统" class="headerlink" title="评论系统"></a>评论系统</h3><h4 id="Valine"><a href="#Valine" class="headerlink" title="Valine"></a>Valine</h4><p><a href="https://valine.js.org/" target="_blank" rel="external">https://valine.js.org/</a><br><a href="https://ioliu.cn/2017/add-valine-comments-to-your-blog/" target="_blank" rel="external">https://ioliu.cn/2017/add-valine-comments-to-your-blog/</a> （配置帮助）<br><a href="https://leancloud.cn/" target="_blank" rel="external">https://leancloud.cn/</a> （评论数据存储）</p>
+<h3 id="评论系统"><a href="#评论系统" class="headerlink" title="评论系统"></a>评论系统</h3><h4 id="Valine"><a href="#Valine" class="headerlink" title="Valine"></a>Valine</h4><p><a href="https://github.com/xCss/Valine" target="_blank" rel="external">https://github.com/xCss/Valine</a><br><a href="https://valine.js.org/" target="_blank" rel="external">https://valine.js.org/</a><br><a href="https://ioliu.cn/2017/add-valine-comments-to-your-blog/" target="_blank" rel="external">https://ioliu.cn/2017/add-valine-comments-to-your-blog/</a> （配置帮助）<br><a href="https://leancloud.cn/" target="_blank" rel="external">https://leancloud.cn/</a> （评论数据存储）</p>
 <h4 id="Gitment"><a href="#Gitment" class="headerlink" title="Gitment"></a>Gitment</h4><p><a href="https://github.com/imsun/gitment" target="_blank" rel="external">https://github.com/imsun/gitment</a><br><a href="https://imsun.net/posts/gitment-introduction/" target="_blank" rel="external">https://imsun.net/posts/gitment-introduction/</a> （中文文档）<br><a href="https://www.v2ex.com/t/352545" target="_blank" rel="external">https://www.v2ex.com/t/352545</a><br><a href="https://zhuanlan.zhihu.com/p/28234974" target="_blank" rel="external">https://zhuanlan.zhihu.com/p/28234974</a></p>
 ]]></content>
     
