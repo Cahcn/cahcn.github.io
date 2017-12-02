@@ -314,9 +314,31 @@
 
 
 
+    <!-- Valine Comments -->
     <div class="comments vcomment" id="comments"></div>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <!-- Valine Comments script -->
+    <script>
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        new Valine({
+            el: '#comments',
+            notify: 'ture' == 'true',
+            verify: 'false' == 'true',
+            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
+            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
+            avatar: "mm",
+            placeholder: "Just go go",
+            guest_info: guest_info.length == 0 ? GUEST_INFO : guest_info,
+            pageSize: "10"
+        })
+    </script>
+    <!-- Valine Comments end -->
 
-    
+
 
 
 </article>
@@ -445,33 +467,6 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
-
-
-<!-- Valine Comments -->
-
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
-    <script type="text/javascript">
-        var notify = 'ture' == true ? true : false;
-        var verify = 'false' == true ? true : false;
-        var GUEST_INFO = ['nick','mail','link'];
-        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
-          return GUEST_INFO.indexOf(item) > -1
-        });
-        guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
-        new Valine({
-            el: '.vcomment',
-            notify: notify,
-            verify: verify,
-            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
-            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
-            avatar:"mm",
-            placeholder: "Just go go",
-            guest_info:guest_info,
-            pageSize:"10"
-        })
-    </script>
-    
 
 </body>
 </html>

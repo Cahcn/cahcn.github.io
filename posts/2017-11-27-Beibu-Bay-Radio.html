@@ -26,7 +26,7 @@
 <meta property="og:url" content="https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html">
 <meta property="og:site_name" content="Cahcn的自留地">
 <meta property="og:description" content="广西北部湾之声（广西对外广播电台）目前仍使用5050、9820kHz两个频率发射。短波时段节目似乎经过了大调整，增加了许多几分钟的线性节目，如《一词一世界》（多语言）、《粤语金曲》等，穿插在主要节目前后播出。北京时间18:00-19:00的粤语节目已完全取消，调整为与中国之声《新闻晚高峰》节目类似的《BBR晚高峰》。 短波时段各语种安排（以主要节目为主，不包括线性节目）：18:00-19:00　汉">
-<meta property="og:updated_time" content="2017-11-27T14:04:05.495Z">
+<meta property="og:updated_time" content="2017-11-27T14:04:43.994Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="BBR北部湾之声B17频率">
 <meta name="twitter:description" content="广西北部湾之声（广西对外广播电台）目前仍使用5050、9820kHz两个频率发射。短波时段节目似乎经过了大调整，增加了许多几分钟的线性节目，如《一词一世界》（多语言）、《粤语金曲》等，穿插在主要节目前后播出。北京时间18:00-19:00的粤语节目已完全取消，调整为与中国之声《新闻晚高峰》节目类似的《BBR晚高峰》。 短波时段各语种安排（以主要节目为主，不包括线性节目）：18:00-19:00　汉">
@@ -201,7 +201,7 @@
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2017-11-27T14:04:05.495Z" itemprop="dateUpdated">2017-11-27 22:04:05</time>
+    最后更新时间：<time datetime="2017-11-27T14:04:43.994Z" itemprop="dateUpdated">2017-11-27 22:04:43</time>
 </span><br>
 
 
@@ -273,7 +273,14 @@
     </div>
 
     
-<nav class="post-nav flex-row flex-justify-between flex-row-reverse">
+<nav class="post-nav flex-row flex-justify-between">
+  
+    <div class="waves-block waves-effect prev">
+      <a href="/posts/2017-12-03-CNR15.html" id="post-prev" class="post-nav-link">
+        <div class="tips"><i class="icon icon-angle-left icon-lg icon-pr"></i> Prev</div>
+        <h4 class="title">CNR中国交通广播计划新增落地上海、内蒙古、新疆</h4>
+      </a>
+    </div>
   
 
   
@@ -300,9 +307,31 @@
 
 
 
+    <!-- Valine Comments -->
     <div class="comments vcomment" id="comments"></div>
+    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
+    <!-- Valine Comments script -->
+    <script>
+        var GUEST_INFO = ['nick','mail','link'];
+        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
+          return GUEST_INFO.indexOf(item) > -1
+        });
+        new Valine({
+            el: '#comments',
+            notify: 'ture' == 'true',
+            verify: 'false' == 'true',
+            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
+            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
+            avatar: "mm",
+            placeholder: "Just go go",
+            guest_info: guest_info.length == 0 ? GUEST_INFO : guest_info,
+            pageSize: "10"
+        })
+    </script>
+    <!-- Valine Comments end -->
 
-    
+
 
 
 </article>
@@ -431,33 +460,6 @@ var BLOG = { ROOT: '/', SHARE: true, REWARD: false };
 
 
 
-
-
-<!-- Valine Comments -->
-
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src="//unpkg.com/valine@latest/dist/Valine.min.js"></script>
-    <script type="text/javascript">
-        var notify = 'ture' == true ? true : false;
-        var verify = 'false' == true ? true : false;
-        var GUEST_INFO = ['nick','mail','link'];
-        var guest_info = 'nick,mail,link'.split(',').filter(function(item){
-          return GUEST_INFO.indexOf(item) > -1
-        });
-        guest_info = guest_info.length == 0 ? GUEST_INFO :guest_info;
-        new Valine({
-            el: '.vcomment',
-            notify: notify,
-            verify: verify,
-            appId: "nNlx4bjeOLiGfhp1LR23dEnv-gzGzoHsz",
-            appKey: "jQyBFLHqP4LCPOOccgVTdDnu",
-            avatar:"mm",
-            placeholder: "Just go go",
-            guest_info:guest_info,
-            pageSize:"10"
-        })
-    </script>
-    
 
 </body>
 </html>
