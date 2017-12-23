@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2017-12-02T16:01:52.839Z</updated>
+  <updated>2017-12-23T13:28:43.840Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>5875kHz 泰国国家广播电台</title>
+    <link href="https://cahcn.github.io/posts/2017-12-23-Radio-Thailand-World-Service.html"/>
+    <id>https://cahcn.github.io/posts/2017-12-23-Radio-Thailand-World-Service.html</id>
+    <published>2017-12-23T12:11:36.000Z</published>
+    <updated>2017-12-23T13:28:43.840Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年12月4日，日本广播爱好者XYZ注意到5875kHz泰国国家广播电台节目出现异动，<br><a href="http://radio.chobi.net/bbs/?res:8211" target="_blank" rel="external">http://radio.chobi.net/bbs/?res:8211</a></p>
+<p>随后几日的持续收听，确认这并不是错误发射，而是电台有意而为之，<br><a href="http://radio.chobi.net/bbs/?res:8221" target="_blank" rel="external">http://radio.chobi.net/bbs/?res:8221</a></p>
+<p>12月22日，HFCC网站更新了泰国国家广播电台短波频率的备案信息，正如实际听到的那样，5875kHz的节目已经发生了改变，<br>各时段语种调整如下（北京时间）：<br>19:00-19:15　<del>越南语</del>　–&gt;　马来语<br>19:15-19:30　<del>高棉语</del>　–&gt;　汉语<br>19:30-19:45　<del>老挝语</del>　–&gt;　日语<br>19:45-20:00　<del>缅甸语</del>　–&gt;　德语</p>
+<p>越南语、高棉语、老挝语、缅甸语节目没有增加新的短波频率，难道已经停办了？</p>
+<p>电台网站公布的频率表还没有修改，前几日收听5875kHz 19:15-19:30的汉语广播，主播播报频率也只提到9390kHz。<br><a href="http://www.hsk9.org/broadcast-schedule-B17.html" target="_blank" rel="external">http://www.hsk9.org/broadcast-schedule-B17.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017年12月4日，日本广播爱好者XYZ注意到5875kHz泰国国家广播电台节目出现异动，&lt;br&gt;&lt;a href=&quot;http://radio.chobi.net/bbs/?res:8211&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://ra
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>CNR中国交通广播计划新增落地上海、内蒙古、新疆</title>
@@ -480,7 +505,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-12-18T16:59:07.850Z</updated>
+    <updated>2017-12-23T13:29:19.749Z</updated>
     
     <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a>5.19</h4><ul>
 <li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
@@ -643,16 +668,23 @@
 <li><strong>?　-16:15　　14520kHz　　循环播放《青花瓷》，16:07收到，出现时间未知</strong><br><strong>?　-16:56　　14520kHz　　信号再次出现，还是循环播放《青花瓷》，16:45收到，出现时间未知</strong><br>22:38-22:39　　6300kHz　　空白载波</li>
 </ul>
 <h4 id="12-10"><a href="#12-10" class="headerlink" title="12.10"></a>12.10</h4><ul>
-<li>?　-19:10　　9695kHz　　空白载波<br>?　-20:08　　11150kHz　　空白载波<br>?　-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波</li>
+<li>?　-19:10　　9695kHz　　空白载波<br>?　-20:08　　11150kHz　　空白载波<br>19:57-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波</li>
 </ul>
 <h4 id="12-11"><a href="#12-11" class="headerlink" title="12.11"></a>12.11</h4><ul>
-<li>?　-20:45　　9160kHz　　CNR 1（用途未知），20:13收到<br>?　-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波，今晚信号比昨晚弱</li>
+<li>?　-20:45　　9160kHz　　CNR 1（用途未知），20:13收到<br>19:57-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波，今晚信号比昨晚弱</li>
 </ul>
 <h4 id="12-12"><a href="#12-12" class="headerlink" title="12.12"></a>12.12</h4><ul>
-<li>?　-21:01　　11985kHz　　CNR 1（用途未知），19:57就已经能收到<br>?　-20:55　　9160kHz　　CNR 1（用途未知）</li>
+<li>19:57-21:01　　11985kHz　　CNR 1（用途未知）<br>?　-20:55　　9160kHz　　CNR 1（用途未知）</li>
 </ul>
 <h4 id="12-13"><a href="#12-13" class="headerlink" title="12.13"></a>12.13</h4><ul>
 <li>?　-　?　　　9160kHz　　CNR 1（用途未知），20:04收到</li>
+</ul>
+<h4 id="12-20"><a href="#12-20" class="headerlink" title="12.20"></a>12.20</h4><ul>
+<li>16:08-16:15　　5900kHz　　空白载波</li>
+</ul>
+<h4 id="12-22"><a href="#12-22" class="headerlink" title="12.22"></a>12.22</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">?-21:00　　　　7400kHz　　中国民乐</div></pre></td></tr></table></figure>
+<h4 id="12-23"><a href="#12-23" class="headerlink" title="12.23"></a>12.23</h4><ul>
+<li>12:00-12:02　　13710kHz　　空白载波<br>?　-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号），19:30就已经在发射<br>19:57-21:00　　11985kHz　　CNR 1（用途未知）</li>
 </ul>
 ]]></content>
     
@@ -784,7 +816,7 @@
     <link href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html"/>
     <id>https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html</id>
     <published>2017-06-03T13:16:58.000Z</published>
-    <updated>2017-12-18T12:07:43.974Z</updated>
+    <updated>2017-12-23T12:03:12.855Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p>这里是星星广播电台第x台，现在我们即将开始播报电报给您，请您注意，准备抄收<br>  在这个时间里有xxxx单位x月份第x号一份电报xx个字电文<br>  现在我们开始播报，请xx单位注意，准备抄收<br>  ……<br>  以上是给xx单位x月份第x号电文，现在已经播送完了<br>  以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会</p>
@@ -812,7 +844,7 @@
 <li>11月9日20:00时段，8300kHz只在20:00-20:12有信号，20:12信号消失，似乎更换到一个全新的频率上<br>11月9日21:00时段，11430kHz只在21:00-21:12有信号，大约21:12信号消失，似乎更换到一个全新的频率上<br>11月12日20:00时段，7688kHz只在20:00-20:15有信号，20:15信号消失，似乎更换到一个全新的频率上<br>11月13日20:00时段，7688kHz到20:16播出结束，20:16听到“以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会”，用菲律宾SDR接收机可以听到弱信号（似乎改为向东南亚发射信号？）<br>11月14日，日本BCLer发现增加了19:00-19:30时段的发射<br>11月16日，日本BCLer发现增加了09:00-09:30时段的发射<br>11月18日09:00时段，13750kHz似乎在09:30播出结束后再增加了09:30-09:59时段的发射，在收听13750kHz 10:00时段信号前听到了“以上这节特约通讯播送完毕，谢谢您的收听，祝您健康快乐，再会”的结束语，但具体情况没有留意（只在11月18日当天发现）<br>11月18日19:00时段，首次在播报中听到“xxxx单位x月份第二号一份电报xx个字电文”（一个月内给同一个单位发送两次数字电报），以往听到的内容都是“xxxx单位x月份第一号一份电报xx个字电文”（一个月只给一个单位发送一次数字电报）<br>11月19日19:00时段，7688kHz到19:07才开始播出，19:36播出结束<br>11月19日20:00时段，7688kHz到20:07才开始播出，20:09信号消失，似乎更换到一个全新的频率上<br>11月23日19:00时段，7688kHz信号极弱，在韩国大邱、深圳两台SDR收听均无信号，在菲律宾SDR上收到极微弱的信号<br>11月24日19:00时段，7688kHz无信号，在其它频率上也没有发现信号<br>11月25日09:00时段，13750kHz无信号，在其它频率上也没有发现信号（似乎开始回归正常了？）<br>11月25日，法国BCLer通过菲律宾SDR接收机收听，发现14:00、15:00、16:00时段恢复发射<br>11月25日晚间，19:00、20:00、21:00三个时段均未收到信号<br>11月26日，发射时段逐步恢复到A17的安排<br>11月29日，除20:00时段之外，其它时段（不包括11月调整新增的9:00、19:00时段）正常发射，频率也经过大调整，全天共使用9725、11430、15388kHz三个频率</li>
 </ul>
 <h4 id="2017年12月收听备忘（依旧不正常…）"><a href="#2017年12月收听备忘（依旧不正常…）" class="headerlink" title="2017年12月收听备忘（依旧不正常…）"></a>2017年12月收听备忘（依旧不正常…）</h4><ul>
-<li>12月1日14:00时段，除了正在播出的11430kHz之外，15388kHz上还出现了非常强的1kHz正弦音信号（15388kHz当天中午至下午一直在发射空白载波信号…）<br>12月1日15:00时段，15388kHz只有USB模式信号，AM模式无法收听<br>12月2日15:00、16:00时段，频率由原来的15388kHz改为16257kHz（2017年12月新频率），似乎又开始了频率大调整…<br>12月3日10:00时段，日本BCLer收听发现分为两段发射，10:00-10:11使用18040kHz、10:11-10:27使用13974kHz（2017年12月新频率）<br>12月3日12:00、15:00、16:00时段均使用18040kHz频率<br>12月5日09:00、10:00时段，日本BCLer收听发现同时使用两个频率13794、18040kHz发射，09:00时段再现…<br>12月5日20:00时段，日本BCLer收听发现，频率由原来的7688kHz改为8169kHz（2017年12月新频率）<br>12月6日19:00时段，日本BCLer收听发现，频率由原来的7688kHz改为8169kHz（2017年12月新频率）<br><strong>12月14日20:00时段，8169kHz正常发射，似乎改变了发射方向，中国深圳、韩国大邱SDR接收机均未收到信号，菲律宾SDR接收机接收到极微弱的信号，反倒在<a href="http://kiwisdr.northlandradio.nz:8073/" target="_blank" rel="external">新西兰SDR接收机</a>上收到较清晰的信号，确认的确是星星台正在播报数字电文！！</strong><br>12月15日19:00、20:00时段，8169kHz信号仍像昨日的20:00时段一样，在东亚地区几乎无法接收，但能在<a href="http://kiwisdr.northlandradio.nz:8073/" target="_blank" rel="external">新西兰SDR接收机</a>上收到较清晰的信号，原因不明<br>12月16日19:00、20:00时段，情况同前一日<br>12月17日19:00时段，似乎恢复了发射方向，华北地区能收到强信号，新西兰SDR还能收到较弱的信号<br>12月17日20:00时段，似乎恢复了发射方向，华北地区能收到较弱的信号，华南地区信号强，新西兰SDR还能收到较弱的信号<br>12月18日19:00时段，只有新西兰SDR接收到了信号，中国深圳、韩国大邱SDR接收机均未收到信号<br>12月18日20:00时段，华南地区信号强，华北地区无信号，新西兰SDR还能收到较弱的信号</li>
+<li>12月1日14:00时段，除了正在播出的11430kHz之外，15388kHz上还出现了非常强的1kHz正弦音信号（15388kHz当天中午至下午一直在发射空白载波信号…）<br>12月1日15:00时段，15388kHz只有USB模式信号，AM模式无法收听<br>12月2日15:00、16:00时段，频率由原来的15388kHz改为16257kHz（2017年12月新频率），似乎又开始了频率大调整…<br>12月3日10:00时段，日本BCLer收听发现分为两段发射，10:00-10:11使用18040kHz、10:11-10:27使用13974kHz（2017年12月新频率）<br>12月3日12:00、15:00、16:00时段均使用18040kHz频率<br>12月5日09:00、10:00时段，日本BCLer收听发现同时使用两个频率13794、18040kHz发射，09:00时段再现…<br>12月5日20:00时段，日本BCLer收听发现，频率由原来的7688kHz改为8169kHz（2017年12月新频率）<br>12月6日19:00时段，日本BCLer收听发现，频率由原来的7688kHz改为8169kHz（2017年12月新频率）<br><strong>12月14日20:00时段，8169kHz正常发射，似乎改变了发射方向，中国深圳、韩国大邱SDR接收机均未收到信号，菲律宾SDR接收机接收到极微弱的信号，反倒在<a href="http://kiwisdr.northlandradio.nz:8073/" target="_blank" rel="external">新西兰SDR接收机</a>上收到较清晰的信号，确认的确是星星台正在播报数字电文！！</strong><br>12月15日19:00、20:00时段，8169kHz信号仍像昨日的20:00时段一样，在东亚地区几乎无法接收，但能在<a href="http://kiwisdr.northlandradio.nz:8073/" target="_blank" rel="external">新西兰SDR接收机</a>上收到较清晰的信号，原因不明<br>12月16日19:00、20:00时段，情况同前一日<br>12月17日19:00时段，似乎恢复了发射方向，华北地区能收到强信号，新西兰SDR还能收到较弱的信号<br>12月17日20:00时段，似乎恢复了发射方向，华北地区能收到较弱的信号，华南地区信号强，新西兰SDR还能收到较弱的信号<br>12月18日19:00时段，只有新西兰SDR接收到了信号，中国深圳、韩国大邱SDR接收机均未收到信号<br>12月18日20:00时段，华南地区信号强，华北地区无信号，新西兰SDR还能收到较弱的信号<br>12月19日19:00时段，只有新西兰SDR接收到了信号，中国深圳、韩国大邱SDR接收机均未收到信号<br>12月19日20:00时段，华北信号强，华南地区信号微弱，几乎不可听，新西兰SDR信号一般<br>12月20日19:00、20:00时段，华北信号强，华南地区信号微弱，新西兰SDR信号一般<br>12月20日20:00时段，华南地区信号强，华北地区无信号，新西兰SDR还能收到较弱的信号</li>
 </ul>
 ]]></content>
     
@@ -820,28 +852,6 @@
     
       &lt;blockquote&gt;
 &lt;p&gt;这里是星星广播电台第x台，现在我们即将开始播报电报给您，请您注意，准备抄收&lt;br&gt;  在这个时间里有xxxx单位x月份第x号一份电报xx个字电文&lt;br&gt;  现在我们开始播报，请xx单位注意，准备抄收&lt;br&gt;  ……&lt;br&gt;  以上是给xx单位x月份
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>长春1017kHz缩减发射时间</title>
-    <link href="https://cahcn.github.io/posts/2017-05-22-Changchun-1017kHz.html"/>
-    <id>https://cahcn.github.io/posts/2017-05-22-Changchun-1017kHz.html</id>
-    <published>2017-05-22T02:04:47.000Z</published>
-    <updated>2017-11-19T17:30:56.580Z</updated>
-    
-    <content type="html"><![CDATA[<p>2017年四月末，在长春实地收听中波1017kHz，发现该频率缩减了播出时间，播出时段如下：<br>（北京时间，下同）<br>17:55-18:00　发射机开启，发射空白载波信号<br>18:00-19:00　转播CNR-8 民族之声（朝鲜语时段）<br>19:00-00:00　转播CRI 朝鲜语广播<br>00:00-00:01　播出结束，但发射机未关闭，发射空白载波信号<br>00:01　关机</p>
-<p>原播出时段（不计转播前后的空载）：<br>14:05-19:00　转播CNR-8 民族之声（朝鲜语时段）<br>19:00-00:00　转播CRI 朝鲜语广播</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2017年四月末，在长春实地收听中波1017kHz，发现该频率缩减了播出时间，播出时段如下：&lt;br&gt;（北京时间，下同）&lt;br&gt;17:55-18:00　发射机开启，发射空白载波信号&lt;br&gt;18:00-19:00　转播CNR-8 民族之声（朝鲜语时段）&lt;br&gt;19:00-00:
     
     </summary>
     
