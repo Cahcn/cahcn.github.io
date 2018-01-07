@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-01-07T16:37:20.639Z</updated>
+  <updated>2018-01-07T17:00:09.327Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,9 +20,16 @@
     <link href="https://cahcn.github.io/posts/2018-01-07-RAE-change-frequency.html"/>
     <id>https://cahcn.github.io/posts/2018-01-07-RAE-change-frequency.html</id>
     <published>2018-01-07T15:52:06.000Z</published>
-    <updated>2018-01-07T16:37:20.639Z</updated>
+    <updated>2018-01-07T17:00:09.327Z</updated>
     
     <content type="html"><![CDATA[<p>2018年1月1日，RAE阿根廷公共对外广播电台调整由WRMI代为发射的各语种节目短波频率，<br>调整后的频率表如下（时间默认为UTC）：<br>02:00-03:00　 9395kHz　英语<br>08:00-09:00　 9455kHz　日语<br>09:00-10:00　 9455kHz　汉语<br>19:00-20:00　 9395kHz　德语<br>20:00-21:00　 9395kHz　意大利语<br>21:00-22:00　11580kHz　德语<br>22:00-23:00　 5950kHz　西班牙语<br>22:00-23:00　11580kHz　意大利语<br>23:30-00:00　11580kHz　法语</p>
+<p>从WRMI公布的频率表来看，RAE的法语节目似乎只发射半小时？<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/RAE-French.jpg" alt="11580kHz 23:00-00:00 UTC" title="">
+                </div>
+                <div class="image-caption">11580kHz 23:00-00:00 UTC</div>
+            </figure></p>
 ]]></content>
     
     <summary type="html">
@@ -446,10 +453,10 @@
     <link href="https://cahcn.github.io/posts/2017-08-16-RAE-relay-via-WRMI.html"/>
     <id>https://cahcn.github.io/posts/2017-08-16-RAE-relay-via-WRMI.html</id>
     <published>2017-08-16T11:49:56.000Z</published>
-    <updated>2018-01-07T10:23:21.826Z</updated>
+    <updated>2018-01-07T16:47:30.699Z</updated>
     
     <content type="html"><![CDATA[<p>据日本《月刊短波》2017年5、6月刊消息，RAE阿根廷公共对外广播电台（Radiodifusión Argentina al Exterior）位于帕切柯的发射台因设备故障，实际上已经停止短波发射，短波广播自北京时间2017年5月23日起，暂时租用美国迈阿密国际广播电台（WRMI）的发射机进行“实验”发射，一直到短波发射机故障修复。</p>
-<p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
+<h4 id="2017年5月23日至2017年12月31日使用频率"><a href="#2017年5月23日至2017年12月31日使用频率" class="headerlink" title="2017年5月23日至2017年12月31日使用频率"></a>2017年5月23日至2017年12月31日使用频率</h4><p>由WRMI代为发射的节目安排（北京时间，频率默认为kHz）：<br>05:00-06:00　11580　德语　周一至周五　欧洲方向<br>06:00-07:00　5950　西班牙语　周一至周五　中南美洲方向（5.2开始）<br>06:00-07:00　11580　意大利语　周一至周五　欧洲方向<br>09:00-10:00　9395　英语　周二至周六　北美洲方向（5.2开始）<br>14:00-15:00　7730　日语　周二至周六　北美西海岸方向<br>15:00-16:00　5850　英语　周二至周六　北美西海岸方向<br>15:00-16:00　7730　英语　周二至周六　北美西海岸方向<br>16:00-17:00　5850　汉语　周二至周六　北美西海岸方向<br>17:00-18:00　5850　日语　周二至周六　北美西海岸方向（6.2开始）<br>19:00-20:00　9955　葡萄牙语　周一至周五　中南美洲方向<br>21:00-22:00　11580　法语　周一至周五　欧洲方向</p>
 <p>因时差原因，汉语广播节目中提到的时间比北京时间晚11小时</p>
 <p>RAE公布的频率表：<br><figure class="image-bubble">
                 <div class="img-lightbox">
@@ -457,7 +464,8 @@
                     <img src="http://oqtut51hd.bkt.clouddn.com/Esquema-WRMI-Español.jpg" alt="Esquema-WRMI-Español" title="">
                 </div>
                 <div class="image-caption">Esquema-WRMI-Español</div>
-            </figure><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/09/05123559/Esquema-WRMI-Español-520x380.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/09/05123559/Esquema-WRMI-Español-520x380.jpg</a></p>
+            </figure><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/09/05123559/Esquema-WRMI-Español-520x380.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/09/05123559/Esquema-WRMI-Español-520x380.jpg</a><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/09/14114915/Esquema-WRMI-chino-520x380.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2017/09/14114915/Esquema-WRMI-chino-520x380.jpg</a> （汉语版本）</p>
+<h4 id="2018年1月1日起使用频率"><a href="#2018年1月1日起使用频率" class="headerlink" title="2018年1月1日起使用频率"></a>2018年1月1日起使用频率</h4><p>2018年1月1日，RAE阿根廷公共对外广播电台调整由WRMI代为发射的各语种节目短波频率，<br>调整后的频率表如下（时间默认为UTC）：<br>02:00-03:00　 9395kHz　英语<br>08:00-09:00　 9455kHz　日语<br>09:00-10:00　 9455kHz　汉语<br>19:00-20:00　 9395kHz　德语<br>20:00-21:00　 9395kHz　意大利语<br>21:00-22:00　11580kHz　德语<br>22:00-23:00　 5950kHz　西班牙语<br>22:00-23:00　11580kHz　意大利语<br>23:30-00:00　11580kHz　法语</p>
 ]]></content>
     
     <summary type="html">
