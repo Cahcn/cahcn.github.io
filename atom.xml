@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-01-07T17:00:09.327Z</updated>
+  <updated>2018-01-08T09:40:48.765Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -16,14 +16,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>RAE短波频率变更</title>
+    <title>(1/8再次更新)RAE短波频率变更</title>
     <link href="https://cahcn.github.io/posts/2018-01-07-RAE-change-frequency.html"/>
     <id>https://cahcn.github.io/posts/2018-01-07-RAE-change-frequency.html</id>
-    <published>2018-01-07T15:52:06.000Z</published>
-    <updated>2018-01-07T17:00:09.327Z</updated>
+    <published>2018-01-08T09:32:06.000Z</published>
+    <updated>2018-01-08T09:40:48.765Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年1月1日，RAE阿根廷公共对外广播电台调整由WRMI代为发射的各语种节目短波频率，<br>调整后的频率表如下（时间默认为UTC）：<br>02:00-03:00　 9395kHz　英语<br>08:00-09:00　 9455kHz　日语<br>09:00-10:00　 9455kHz　汉语<br>19:00-20:00　 9395kHz　德语<br>20:00-21:00　 9395kHz　意大利语<br>21:00-22:00　11580kHz　德语<br>22:00-23:00　 5950kHz　西班牙语<br>22:00-23:00　11580kHz　意大利语<br>23:30-00:00　11580kHz　法语</p>
-<p>从WRMI公布的频率表来看，RAE的法语节目似乎只发射半小时？<br><figure class="image-bubble">
+    <content type="html"><![CDATA[<p>2018年1月8日，RAE再次调整了由WRMI代为发射的短波频率，<br>1月8日起的频率表如下（时间默认为UTC）：<br>08:00-09:00　 9455kHz　日语<br>09:00-10:00　 9455kHz　汉语<br>22:00-23:00　 5950kHz　西班牙语<br>23:30-00:00　 7780kHz　法语</p>
+<p>以下旧频率表作废<br><del>2018年1月1日，RAE阿根廷公共对外广播电台调整由WRMI代为发射的各语种节目短波频率，</del><br><del>调整后的频率表如下（时间默认为UTC）：</del><br><del>02:00-03:00　 9395kHz　英语</del><br><del>08:00-09:00　 9455kHz　日语</del><br><del>09:00-10:00　 9455kHz　汉语</del><br><del>19:00-20:00　 9395kHz　德语</del><br><del>20:00-21:00　 9395kHz　意大利语</del><br><del>21:00-22:00　11580kHz　德语</del><br><del>22:00-23:00　 5950kHz　西班牙语</del><br><del>22:00-23:00　11580kHz　意大利语</del><br><del>23:30-00:00　11580kHz　法语</del></p>
+<p>从WRMI公布的频率表来看，RAE的法语节目似乎只发射半小时？<br><strong>（2018年1月8日起，RAE法语广播频率由11580kHz调整为7780kHz，时间不变）</strong><br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
                     <img src="http://oqtut51hd.bkt.clouddn.com/RAE-French.jpg" alt="11580kHz 23:00-00:00 UTC" title="">
@@ -34,7 +35,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;2018年1月1日，RAE阿根廷公共对外广播电台调整由WRMI代为发射的各语种节目短波频率，&lt;br&gt;调整后的频率表如下（时间默认为UTC）：&lt;br&gt;02:00-03:00　 9395kHz　英语&lt;br&gt;08:00-09:00　 9455kHz　日语&lt;br&gt;09:00-10:
+      &lt;p&gt;2018年1月8日，RAE再次调整了由WRMI代为发射的短波频率，&lt;br&gt;1月8日起的频率表如下（时间默认为UTC）：&lt;br&gt;08:00-09:00　 9455kHz　日语&lt;br&gt;09:00-10:00　 9455kHz　汉语&lt;br&gt;22:00-23:00　 5950kHz
     
     </summary>
     
@@ -401,11 +402,12 @@
     <link href="https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html"/>
     <id>https://cahcn.github.io/posts/2017-09-01-CRI-Frequency.html</id>
     <published>2017-09-01T13:18:47.000Z</published>
-    <updated>2017-12-09T14:31:10.102Z</updated>
+    <updated>2018-01-07T20:23:20.982Z</updated>
     
     <content type="html"><![CDATA[<p>2016年初至今，中国国际广播电台（CRI）开始对部分语种的网站页面进行改版，同时也将长期未更新的频率表作了更新。</p>
-<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>B17<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a><br><a href="http://malay.cri.cn/501/2016/12/20/261s166458.htm" target="_blank" rel="external">Malay 马来语</a>　　// B16、B17频率相同<br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a>　　// 频率常年不变<br><a href="http://russian.cri.cn/data/608/20171029/12691.html" target="_blank" rel="external">Russian 俄语</a></p>
-<p>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>　　// 9635应为9450<br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/audioonline/informaciones/1223/20170922/30430_1.html" target="_blank" rel="external">Spanish 西班牙语</a>　　// <a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">旧页面</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
+<p>下面是在CRI各语种网站找到的频率表（按照英文首字母排序）：<br>B17<br><a href="http://japanese.cri.cn/782/2015/10/20/141s242461.htm" target="_blank" rel="external">Japanese 日语</a><br><a href="http://malay.cri.cn/501/2016/12/20/261s166458.htm" target="_blank" rel="external">Malay 马来语</a>　　// B16、B17频率相同<br><a href="http://polish.cri.cn/1272/2013/09/24/181s120376.htm" target="_blank" rel="external">Polish 波兰语</a>　　// 频率常年不变<br><a href="http://russian.cri.cn/data/608/20171029/12691.html" target="_blank" rel="external">Russian 俄语</a><br><a href="http://espanol.cri.cn/audioonline/informaciones/1223/20170922/30430_1.html" target="_blank" rel="external">Spanish 西班牙语</a></p>
+<p>A17<br><a href="http://german.cri.cn/3011/2014/03/31/1s214105.htm" target="_blank" rel="external">German 德语</a><br><a href="http://hindi.cri.cn/notice/557/20170823/19809.html" target="_blank" rel="external">Hindi 印地语</a>　　// 9635应为9450<br><a href="http://hungarian.cri.cn/1368/2013/08/28/2s163632_1.htm" target="_blank" rel="external">Hungarian 匈牙利语</a><br><a href="http://korean.cri.cn/1644/2014/10/22/1s218931.htm" target="_blank" rel="external">Korean 朝鲜语</a><br><a href="http://russian.cri.cn/3098/2016/05/30/1s582734.htm" target="_blank" rel="external">Russian 俄语</a><br><a href="http://tamil.cri.cn/radio/index.html" target="_blank" rel="external">Tamil 泰米尔语</a></p>
+<p>A16<br><a href="http://espanol.cri.cn/2906/2016/05/06/1s383295.htm" target="_blank" rel="external">Spanish 西班牙语</a></p>
 <p>B15?<br><a href="http://french.cri.cn/audioonline/index.html" target="_blank" rel="external">French 法语</a></p>
 <p>很久未更新<br><a href="http://bengali.cri.cn/589/2012/09/10/41s127857.htm" target="_blank" rel="external">Bengali 孟加拉语</a><br><a href="http://myanmar.cri.cn/661/2011/09/02/1s13570.htm" target="_blank" rel="external">Burmese 缅甸语</a>　　// Windows 7简中系统显示乱码<br><a href="http://gb.cri.cn/1321/2008/03/27/157@1998202.htm" target="_blank" rel="external">Chinese 汉语</a>　　// 频率表近十年不更新<br><a href="http://croatian.cri.cn/461/2014/11/11/101s83796.htm" target="_blank" rel="external">Croatian 克罗地亚语</a><br><a href="http://czech.cri.cn/270/2009/06/30/1s91861.htm" target="_blank" rel="external">Czech 捷克语</a><br><a href="http://english.cri.cn/audio/frequencies/frequencies01.htm" target="_blank" rel="external">English 英语</a><br><a href="http://french.cri.cn/621/2012/02/03/241s269111.htm" target="_blank" rel="external">French 法语</a><br><a href="http://italian.cri.cn/721/2009/07/30/121s124110.htm" target="_blank" rel="external">Italian 意大利语</a><br><a href="http://persian.cri.cn/963/2014/12/03/161s145505.htm" target="_blank" rel="external">Persian 波斯语</a><br><a href="http://pushtu.cri.cn/121/2008/06/25/70360.htm" target="_blank" rel="external">Pashto 普什图语</a>　　// 另一种拼法 Pushtu<br><a href="http://romanian.cri.cn/381/2009/03/31/1s94704.htm" target="_blank" rel="external">Romanian 罗马尼亚语</a><br><a href="http://turkish.cri.cn/862/2009/03/27/141s112505.htm" target="_blank" rel="external">Turkish 土耳其语</a><br><a href="http://vietnamese.cri.cn/421/2009/09/20/1s128421.htm" target="_blank" rel="external">Vietnamese 越南语</a></p>
 <p>其它<br><a href="http://swahili.cri.cn/165/2016/01/25/141s150522.htm" target="_blank" rel="external">Swahili 斯瓦希里语</a>　　// 只有整频率落地电台信息</p>
