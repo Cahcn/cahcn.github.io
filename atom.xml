@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-01-16T10:03:19.853Z</updated>
+  <updated>2018-01-16T10:06:54.955Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="https://cahcn.github.io/posts/2018-01-16-6105kHz-RTI.html"/>
     <id>https://cahcn.github.io/posts/2018-01-16-6105kHz-RTI.html</id>
     <published>2018-01-16T09:30:16.000Z</published>
-    <updated>2018-01-16T10:03:19.853Z</updated>
+    <updated>2018-01-16T10:06:54.955Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年1月16日17:10在华南地区收到6105kHz未知国内方言戏曲节目，信号非常强，疑似RTI新增闽南语或客家话节目时段。<br>与RTI官网提供的各频道在线直播对比，确认收到的信号为RTI 1422台湾台。<br>由于听不懂闽南语和客家话，无法确认正在播出节目的语言…<br>18:00 6105kHz改播RTI华语网国语节目，中国之声的干扰整点也准时出现。</p>
+    <content type="html"><![CDATA[<p>2018年1月16日17:10在华南地区收到6105kHz未知国内方言戏曲节目，信号非常强，疑似RTI新增闽南语或客家话节目时段。<br>与RTI官网提供的各频道在线直播对比，确认收到的信号为RTI 1422台湾台。<br>由于听不懂闽南语和客家话，无法确认正在播出节目的语言…<br>18:00 6105kHz改播RTI华语网国语节目，中国之声干扰整点也准时出现。</p>
 <p>RTI 1422台湾台在线收听：<br><a href="http://www.rti.org.tw/player.php?url=http://live2.rti.org.tw/live/_definst_/rti/rti5/playlist.m3u8" target="_blank" rel="external">http://www.rti.org.tw/player.php?url=http://live2.rti.org.tw/live/_definst_/rti/rti5/playlist.m3u8</a></p>
 ]]></content>
     
@@ -647,209 +647,112 @@
   </entry>
   
   <entry>
-    <title>2017年收到的国内未知信号</title>
+    <title>2017-2018年收到的国内未知信号</title>
     <link href="https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html"/>
     <id>https://cahcn.github.io/posts/2017-06-17-Unknown-Signal-in-China.html</id>
     <published>2017-06-17T13:59:03.000Z</published>
-    <updated>2017-12-31T08:28:48.708Z</updated>
+    <updated>2018-01-16T11:31:17.891Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="5-19"><a href="#5-19" class="headerlink" title="5.19"></a>5.19</h4><ul>
-<li><strong>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大半个中国</strong><br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">5.19　　19:00　　17800kHz</div><div class="line">5.19　　23:00　　13840kHz</div><div class="line">5.20　　00:00　　17500kHz</div><div class="line">5.20　　01:00　　15150kHz</div><div class="line">5.20　　08:00　　15200kHz</div><div class="line">5.20　　10:00　　11695kHz</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<h4 id="5-28"><a href="#5-28" class="headerlink" title="5.28"></a>5.28</h4><ul>
-<li>15:56-16:20　　11770kHz　　2017“总统府”音乐会，信号源由教育广播电台提供，覆盖大半个中国（<a href="http://events.rti.org.tw/big5/2017Activity/2017concert/info.pdf" target="_blank" rel="external">确认为RTI的临时频率</a>。16:30，该频率虽已无信号，但还是出现CNR 1干扰）<br>16:35-17:00　　11650kHz　　CNR 1（干扰对象未知），覆盖东北</li>
-</ul>
-<h4 id="6-17"><a href="#6-17" class="headerlink" title="6.17"></a>6.17</h4><ul>
-<li><strong>12:00-12:16　　15250kHz　　丰收锣鼓（用途未知）​​​​，覆盖华南、华东地区</strong></li>
-</ul>
-<h4 id="7-11"><a href="#7-11" class="headerlink" title="7.11"></a>7.11</h4><ul>
-<li>15:25-15:45　　15450kHz　　空白载波<br>15:38-15:40　　15250kHz　　空白载波，消失前出现1kHz正弦波<br>15:40　　　　　15470kHz　　1kHz正弦波<br>15:42　　　　　11560kHz　　不明音乐<br>15:52-16:14　　11965kHz　　消失前出现短暂轻音乐信号<br>16:30-17:03　　12070kHz　　CRI中文环球，16:56再听已成空载<br>16:33　　　　　15465kHz　　空白载波，16:57干扰RTI<br>中国之声短波频率周二中午检修，但有部分频率在停机期间短暂测试发射空白载波信号:<br>16:03-16:26　　15550kHz　　空白载波，信号时断时续<br>16:24-16:45　　15370kHz　　空白载波，信号时断时续<br>16:43-16:57　　15380kHz　　空白载波<br>16:45-16:57　　17550kHz　　空白载波<br>16:45-16:57　　17605kHz　　空白载波</li>
-</ul>
-<h4 id="7-12"><a href="#7-12" class="headerlink" title="7.12"></a>7.12</h4><ul>
-<li>15:36-15:37　　9845kHz　　空白载波，消失前出现1kHz正弦波<br>15:38-15:39　　15250kHz　　空白载波，消失前出现1kHz正弦波<br><strong>16:00-16:30　　15200kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:05-16:06　　7445kHz　　空白载波<br>16:15-16:16　　11825kHz　　空白载波<br>16:16-16:21　　17520kHz　　1kHz正弦波<br><strong>16:30-17:00　　13620kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br>16:34-16:39　　11785kHz　　空白载波<br>16:45-16:46　　13755kHz　　空白载波<br>16:45-16:46　　17485kHz　　1kHz正弦波<br><strong>22:00-23:00　　17580kHz　　CNR 1（用途未知），覆盖华南，22:35后信号开始衰弱</strong></li>
-</ul>
-<h4 id="7-13"><a href="#7-13" class="headerlink" title="7.13"></a>7.13</h4><ul>
-<li>16:09-16:12　　9845kHz　　空白载波</li>
-</ul>
-<h4 id="7-15"><a href="#7-15" class="headerlink" title="7.15"></a>7.15</h4><ul>
-<li>16:00-16:01　　13730kHz　　空白载波<br>16:00-16:01　　13800kHz　　1kHz正弦波</li>
-</ul>
-<h4 id="7-17"><a href="#7-17" class="headerlink" title="7.17"></a>7.17</h4><ul>
-<li>15:00-15:02　　15465kHz　　空白载波<br>22:00-22:12　　9165kHz　　空白载波</li>
-</ul>
-<h4 id="7-18"><a href="#7-18" class="headerlink" title="7.18"></a>7.18</h4><ul>
-<li>15:00-15:02　　15465kHz　　空白载波，消失后可收CRI英语环球<br>15:15-15:19　　15250kHz　　空白载波<br>15:16-15:17　　15470kHz　　1kHz正弦波<br>16:00-16:02　　15388kHz　　空白载波<br>16:06-16:08　　15388kHz　　1kHz正弦波</li>
-</ul>
-<h4 id="7-27"><a href="#7-27" class="headerlink" title="7.27"></a>7.27</h4><ul>
-<li>16:00-16:01　　13730kHz　　空白载波<br>16:00-16:01　　13765kHz　　空白载波<br>16:00-16:01　　13800kHz　　空白载波<br>16:02-16:26　　11980kHz　　（16:02-16:04空白载波，16:05-16:25 1kHz正弦波，16:26空白载波）<br>16:06-16:08　　11780kHz　　空白载波<br>16:08-16:10　　15465kHz　　空白载波<br><strong>16:20-16:21　　13850kHz　　丰收锣鼓（用途未知），短暂出现二十几秒信号</strong><br>16:22　　　　　13790kHz　　空白载波</li>
-</ul>
-<h4 id="7-29"><a href="#7-29" class="headerlink" title="7.29"></a>7.29</h4><ul>
-<li>16:00-16:01　　13765kHz　　空白载波<br>16:00-16:01　　13800kHz　　空白载波<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">国内bcler接收到的测试信号（UTC+8）：</div><div class="line">21:30-22:00　　9900kHz　　古筝曲（中国民乐台）</div></pre></td></tr></table></figure>
-</li>
-</ul>
-<h4 id="7-30"><a href="#7-30" class="headerlink" title="7.30"></a>7.30</h4><ul>
-<li>19:04-19:06　　11980kHz　　（19:04-19:06空白载波，19:06 1kHz正弦波）</li>
-</ul>
-<h4 id="8-4"><a href="#8-4" class="headerlink" title="8.4"></a>8.4</h4><ul>
-<li>15:19-15:22　　15250kHz　　空白载波<br>15:22-15:24　　11965kHz　　空白载波</li>
-</ul>
-<h4 id="8-5"><a href="#8-5" class="headerlink" title="8.5"></a>8.5</h4><ul>
-<li>13:11-13:12　　15250kHz　　古筝曲（中国民乐台）</li>
-</ul>
-<h4 id="8-11"><a href="#8-11" class="headerlink" title="8.11"></a>8.11</h4><ul>
-<li>15:25-15:34　　16360kHz　　空白载波，信号时断时续【带外频率】<br>15:39-15:40　　15470kHz　　空白载波，消失前出现1kHz正弦波</li>
-</ul>
-<h4 id="8-14"><a href="#8-14" class="headerlink" title="8.14"></a>8.14</h4><ul>
-<li>15:29-15:47　　17810kHz　　空白载波<br>15:33-15:36　　17520kHz　　空白载波<br>15:39-15:40　　15440kHz　　空白载波<br>15:40-15:41　　17670kHz　　空白载波，消失后可收CRI英语环球<br>15:46-15:48　　15465kHz　　空白载波，消失后可收CRI英语环球<br>15:49-15:50　　11965kHz　　空白载波，消失前20s出现1kHz正弦波<br>15:54-15:55　　11785kHz　　空白载波</li>
-</ul>
-<h4 id="8-15"><a href="#8-15" class="headerlink" title="8.15"></a>8.15</h4><ul>
-<li>16:04-16:05　　11000kHz　　1kHz正弦波<br>16:06-16:08　　15100kHz　　空白载波<br><strong>16:06-16:15　　15600kHz　　（16:06空白载波，16:09锣鼓，16:11 1kHz正弦波，16:13锣鼓，16:14空白载波）</strong><br>16:08　　　　　15250kHz　　10s空白载波<br><strong>16:18-16:25　　15650kHz　　（16:18空白载波，16:21锣鼓，16:23空白载波）</strong><br>16:19-16:21　　15300kHz　　空白载波<br>16:24-16:25　　15625kHz　　空白载波<br><strong>16:25-16:37　　15700kHz　　（16:25空白载波，16:30锣鼓，16:34空白载波）</strong><br>16:26　　　　　15250kHz　　20s空白载波<br>16:27　　　　　15800kHz　　20s空白载波<br>16:31　　　　　15580kHz　　20s空白载波<br>16:32-16:37　　15465kHz　　空白载波<br>16:37　　　　　15390kHz　　30s空白载波，CNR 13开播前测试？<br>16:37-16:47　　15750kHz　　空白载波<br>16:38　　　　　15540kHz　　20s空白载波，CNR 2开播前测试？<br>16:38　　　　　15625kHz　　10s空白载波<br>16:42　　　　　15680kHz　　10s空白载波</li>
-</ul>
-<h4 id="8-16"><a href="#8-16" class="headerlink" title="8.16"></a>8.16</h4><ul>
-<li>16:27-16:31　　17710kHz　　空白载波，时断时续，16:31短暂出现10s民乐（非干扰用的丰收锣鼓）<br>16:29　　　　　17490kHz　　30s空载，消失后可收CRI英语环球<br>16:32-16:38　　17490kHz　　空白载波，时断时续，16:32、16:38短暂出现10s民乐（非干扰用的丰收锣鼓），消失后可收CRI英语环球</li>
-</ul>
-<h4 id="8-17"><a href="#8-17" class="headerlink" title="8.17"></a>8.17</h4><ul>
-<li>15:11-15:15　　11760kHz　　15:11空白载波，15:13 1kHz正弦波，15:14-15:15空白载波</li>
-</ul>
-<h4 id="8-25"><a href="#8-25" class="headerlink" title="8.25"></a>8.25</h4><ul>
-<li>10:30　　15455kHz　　未知汉语节目，华南地区信号非常强，信号仅持续半分钟，可能为RTI测试<br>10:48　　11785kHz　　未知汉语节目，仅持续10s左右消失，似乎为CNR 1的节目（干扰频率？）<br>16:00　　15270kHz　　20s左右空白载波，短暂出现3s CNR 1信号</li>
-</ul>
-<h4 id="8-27"><a href="#8-27" class="headerlink" title="8.27"></a>8.27</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">内蒙古bcler接收到的测试信号（UTC+8）：</div><div class="line">15:30-16:00　　13600kHz　　丰收锣鼓（用途未知）</div></pre></td></tr></table></figure>
-<h4 id="9-2"><a href="#9-2" class="headerlink" title="9.2"></a>9.2</h4><ul>
-<li>16:00-16:01　　15040kHz　　空白载波</li>
-</ul>
-<h4 id="9-6"><a href="#9-6" class="headerlink" title="9.6"></a>9.6</h4><ul>
-<li><strong>约16:05-17:04　7350kHz　　古筝曲（中国民乐台）</strong><br><strong>约16:05-17:04　9710kHz　　古筝曲（中国民乐台）</strong><br>（7350kHz信号较弱，但在南方和东北均能收到信号；9710kHz用深圳SDR和在长春实际收听，信号均非常强）</li>
-</ul>
-<h4 id="9-13"><a href="#9-13" class="headerlink" title="9.13"></a>9.13</h4><ul>
-<li><strong>14:42-15:58　　9745kHz　　空白载波，持续了一个多小时，目的不明</strong><br>15:02-15:05　　9355kHz　　15:02-15:03空白载波，15:03-15:05短暂转播CNR 1信号，15:05空白载波<br>15:05-15:06　　9435kHz　　空白载波<br>15:08　　　　　9480kHz　　短暂出现10s未知语言节目<br>15:14-15:16　　9610kHz　　空白载波<br>15:15-15:16　　9530kHz　　空白载波，CNR 11测试？<br>15:16-15:18　　9880kHz　　空白载波<br>15:18-15:19　　9530kHz　　空白载波，CNR 11测试？<br>15:21-15:22　　9600kHz　　短暂转播CNR 2信号<br>15:21-15:22　　9655kHz　　空白载波<br>15:22-15:23　　9880kHz　　空白载波<br>15:24　　　　　9720kHz　　短暂转播15s左右CNR 2信号，20s左右空白载波，CNR 2测试？<br>15:27-15:28　　9535kHz　　空白载波<br>15:27-15:28　　9880kHz　　空白载波<br><strong>15:39-15:41　　9600kHz　　中国民乐（非干扰用的丰收锣鼓）</strong><br><strong>15:39-15:42　　9620kHz　　15:39-15:41空白载波，15:41-15:42中国民乐（非干扰用的丰收锣鼓）</strong><br>15:48　　　　　9775kHz　　空白载波<br>15:48-16:00　　9505kHz　　空白载波<br>15:50-15:52　　9775kHz　　空白载波<br>15:51-15:54　　9560kHz　　空白载波<br>15:51-15:55　　9845kHz　　空白载波<br>16:12-16:15　　9505kHz　　空白载波</li>
-</ul>
-<h4 id="9-14"><a href="#9-14" class="headerlink" title="9.14"></a>9.14</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">内蒙古bcler接收到的测试信号（UTC+8）：</div><div class="line">?-19:00　　　　7400kHz　　疑似中国方向测试信号，不间断的音乐</div></pre></td></tr></table></figure>
-<h4 id="9-16"><a href="#9-16" class="headerlink" title="9.16"></a>9.16</h4><ul>
-<li>13:03-13:06　　13750kHz　　空白载波</li>
-</ul>
-<h4 id="9-17"><a href="#9-17" class="headerlink" title="9.17"></a>9.17</h4><ul>
-<li>16:22-16:23　　15370kHz　　空白载波</li>
-</ul>
-<h4 id="9-20"><a href="#9-20" class="headerlink" title="9.20"></a>9.20</h4><ul>
-<li>15:15-15:17　　9665kHz　　空白载波<br>15:15-15:20　　9745kHz　　空白载波<br>15:17　　　　　9685kHz　　5s空白载波<br>15:18-15:19　　9665kHz　　空白载波<br>15:20-15:21　　9540kHz　　空白载波（把xx台直接盖台）<br><strong>15:26-15:27　　9735kHz　　古筝曲（中国民乐台）</strong><br><strong>15:27　　　　　9825kHz  　　古筝曲（中国民乐台），短暂发射15s信号</strong><br>15:28　　　　　9845kHz　　10s空白载波<br>15:30-15:31　　9660kHz　　1kHz正弦波<br>15:32-15:33　　9965kHz　　1kHz正弦波<br>15:33-15:47　　9660kHz　　空白载波，15:36 1kHz正弦波（在东北也可收）<br>15:33-16:14　　9720kHz　　空白载波<br>15:34　　　　　9685kHz　　5s空白载波<br>15:34-15:40　　9665kHz　　空白载波<br>15:40　　　　　9740kHz　　5s空白载波<br>15:40　　　　　9870kHz　　5s空白载波<br>15:41-15:44　　9560kHz　　空白载波<br>15:41-15:44　　9680kHz　　空白载波<br>15:41-15:44　　9845kHz　　空白载波<br>15:44-15:45　　9810kHz　　空白载波<br><strong>15:45-15:47　　9530kHz　　15:45-15:47空白载波，15:47古筝曲（中国民乐台），持续10s</strong><br>15:46-15:48　　9755kHz　　空白载波<br>15:46-15:48　　9775kHz　　空白载波<br><strong>15:47　　　　　9810kHz　　20s古筝曲（中国民乐台），15s短暂转播CNR 1信号</strong><br>15:49-15:58　　9775kHz　　空白载波<br>15:50-15:52　　9420kHz　　空白载波<br>15:51-15:54　　9675kHz　　15:51-15:53空白载波，覆盖CNR 1（背景能听到），15:53 1kHz正弦波<br>15:53　　　　　9775kHz　　10s空白载波<br>15:53　　　　　9810kHz　　10s空白载波<br><strong>15:54　　　　　9775kHz　　10s中国民乐（非干扰用的丰收锣鼓）</strong><br>15:55　　　　　9685kHz　　20s空白载波<br>15:55　　　　　9810kHz　　20s空白载波<br>15:56-15:59　　9630kHz　　15:56-15:59空白载波，15:59 1kHz正弦波<br>15:57-16:25　　9660kHz　　15:57-16:03 1kHz正弦波，16:03空白载波（16:06背景有不明英语信号）<br>16:00　　　　　9860kHz　　10s空白载波<br>16:00　　　　　9665kHz　　10s空白载波（估计与9860kHz为同一设备发射，不断变化频率）<br>16:01　　　　　9785kHz　　10s空白载波（估计与9860、9665kHz为同一设备发射，不断变化频率）<br><strong>16:01-16:05　　9620kHz　　16:01-16:04空白载波，16:04-16:05古筝曲（中国民乐台）</strong><br>16:05-16:06　　9535kHz　　空白载波<br>16:08-16:09　　9480kHz　　空白载波<br><strong>16:11　　　　　9550kHz　　古筝曲（中国民乐台）</strong><br>16:13　　　　　9655kHz　　10s空白载波<br><strong>16:15　　　　　9550kHz　　古筝曲（中国民乐台）</strong><br>16:17-16:18　　15615kHz　　空白载波<br>16:18　　　　　15530kHz　　10s空白载波<br>16:20　　　　　15100kHz　　10s空白载波<br>16:20　　　　　15160kHz　　10s空白载波<br>16:27　　　　　15110kHz　　10s空白载波</li>
-</ul>
-<h4 id="9-21"><a href="#9-21" class="headerlink" title="9.21"></a>9.21</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">18:35-?　　11540kHz</div><div class="line">18:35-?　　15150kHz</div></pre></td></tr></table></figure>
-<h4 id="9-23"><a href="#9-23" class="headerlink" title="9.23"></a>9.23</h4><ul>
-<li>16:28-16:29　　11640kHz　　30s空白载波，消失前出现“听了这么久的节目，下面…”的未知汉语电台信号内容，疑似CNR 1的广告（<a href="https://cahcn.github.io/posts/2017-05-21-CNR-Transmitter-Overhaul.html">同时段在金华发射的CRI中文环球广播，9月初起停播检修，至9.23未恢复发射</a>）<br>16:32-16:33　　15465kHz　　空白载波<br>16:34-16:35　　15615kHz　　空白载波<br>16:44-16:47　　15290kHz　　空白载波</li>
-</ul>
-<h4 id="9-24"><a href="#9-24" class="headerlink" title="9.24"></a>9.24</h4><ul>
-<li>15:54-16:03　　15250kHz　　空白载波<br>16:00-16:01　　15110kHz　　空白载波</li>
-</ul>
-<h4 id="9-26"><a href="#9-26" class="headerlink" title="9.26"></a>9.26</h4><ul>
-<li>15:00-16:30　在11、15、17MHz频段上出现多个空白载波信号，具体频率未作详细记录</li>
-</ul>
-<h4 id="9-27"><a href="#9-27" class="headerlink" title="9.27"></a>9.27</h4><ul>
-<li>13:00-13:12　　17710kHz　　空白载波<br>13:30-13:48　　17710kHz　　空白载波<br>13:33　　　　　17810kHz　　30s空白载波<br>13:53　　　　　17810kHz　　空白载波<br><strong>16:00-17:00　　15110kHz　　中国民乐（非干扰用的丰收锣鼓），民乐《喜洋洋》循环播放</strong><br>16:11-16:14　　15300kHz　　空白载波<br>16:15　　　　　15300kHz　　空白载波（再次出现，但仅发射20s左右）<br>（13:00-14:00一度出现锣鼓台、CNR 1两个信号同时对17650kHz RFA藏语广播、21690kHz RFA普通话广播进行干扰的情况）</li>
-</ul>
-<h4 id="10-6"><a href="#10-6" class="headerlink" title="10.6"></a>10.6</h4><ul>
-<li>15:55-15:58　　17810kHz　　空白载波，15:57短暂出现5s左右CNR 1信号<br>16:00-16:02　　15135kHz　　空白载波<br>16:10-16:11　　11980kHz　　空白载波</li>
-</ul>
-<h4 id="10-11"><a href="#10-11" class="headerlink" title="10.11"></a>10.11</h4><ul>
-<li>14:28-14:31　　17690kHz　　1kHz正弦波<br>15:34-15:36　　12020kHz　　空白载波<br>15:41-15:50　　在15200kHz上收听到奇怪的信号，类似喷气飞机一样的噪声，持续10s左右，15s左右出现在相隔200kHz的15400kHz上，目的不明。奇怪信号出现在15200-21000kHz范围内，重复上面提到的规律发射</li>
-</ul>
-<h4 id="10-15"><a href="#10-15" class="headerlink" title="10.15"></a>10.15</h4><ul>
-<li>15:00-15:01　　15265kHz　　空白载波<br>15:06-15:08　　15265kHz　　空白载波</li>
-</ul>
-<h4 id="10-18"><a href="#10-18" class="headerlink" title="10.18"></a>10.18</h4><ul>
-<li>16:00-16:02　　13790kHz　　1kHz正弦波</li>
-</ul>
-<h4 id="10-24"><a href="#10-24" class="headerlink" title="10.24"></a>10.24</h4><ul>
-<li>15:18　　　　　21700kHz　　空白载波</li>
-</ul>
-<h4 id="10-25"><a href="#10-25" class="headerlink" title="10.25"></a>10.25</h4><ul>
-<li>15:50-15:53　　15250kHz　　空白载波<br>16:05　　　　　15250kHz　　空白载波</li>
-</ul>
-<h4 id="10-29"><a href="#10-29" class="headerlink" title="10.29"></a>10.29</h4><ul>
-<li>21:03　　　　　7485kHz　　20s空白载波</li>
-</ul>
-<h4 id="10-30"><a href="#10-30" class="headerlink" title="10.30"></a>10.30</h4><ul>
-<li>20:03　　　　　9665kHz　　20s空白载波</li>
-</ul>
-<h4 id="11-3"><a href="#11-3" class="headerlink" title="11.3"></a>11.3</h4><ul>
-<li><p>15:57-16:00　　17825kHz　　CNR 1（用途未知）<br>16:07　　　　　17825kHz　　CNR 1（用途未知）<br>16:12-16:14　　17825kHz　　空白载波<br>16:16-16:17　　17825kHz　　CNR 1（用途未知）<br>16:23-16:24　　17825kHz　　空白载波<br>16:25　　　　　17825kHz　　CNR 1（用途未知）<br>16:53-16:55　　17800kHz　　CNR 1（用途未知）<br>16:58-17:00　　17800kHz　　CNR 1（用途未知）<br>17:01　　　　　17800kHz　　CNR 1（用途未知）</p>
+    <content type="html"><![CDATA[<h4 id="2017年5月"><a href="#2017年5月" class="headerlink" title="2017年5月"></a>2017年5月</h4><p><strong>5月19日</strong><br>20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓）<br>（测试信号只在2017.5.19 14:00-5.20 14:00之间发射）</p>
+<blockquote>
+<p>日本bcler接收到的测试信号（UTC+8）：<br>  5.19　　19:00　　17800kHz<br>  5.19　　23:00　　13840kHz<br>  5.20　　00:00　　17500kHz<br>  5.20　　01:00　　15150kHz<br>  5.20　　08:00　　15200kHz<br>  5.20　　10:00　　11695kHz</p>
+</blockquote>
+<p><strong>5月28日</strong><br>15:56-16:20　　11770kHz　　2017“总统府”音乐会，信号源由教育广播电台提供，覆盖大半个中国（<a href="http://events.rti.org.tw/big5/2017Activity/2017concert/info.pdf" target="_blank" rel="external">确认为RTI的临时频率</a>。16:30，该频率虽已无信号，但还是出现CNR 1干扰）<br>16:35-17:00　　11650kHz　　CNR 1（干扰对象未知），覆盖东北</p>
+<hr>
+<h4 id="2017年6月"><a href="#2017年6月" class="headerlink" title="2017年6月"></a>2017年6月</h4><p><strong>6月17日</strong><br>12:00-12:16　　15250kHz　　丰收锣鼓（用途未知）</p>
+<hr>
+<h4 id="2017年7月"><a href="#2017年7月" class="headerlink" title="2017年7月"></a>2017年7月</h4><p><strong>7月11日</strong><br>15:25-15:45　　15450kHz　　空白载波<br>15:38-15:40　　15250kHz　　空白载波，消失前出现1kHz正弦波<br>15:40　　　　　15470kHz　　1kHz正弦波<br>15:42　　　　　11560kHz　　不明音乐<br>15:52-16:14　　11965kHz　　消失前出现短暂轻音乐信号<br>16:30-17:03　　12070kHz　　CRI中文环球，16:56再听已成空载<br>16:33　　　　　15465kHz　　空白载波，16:57干扰RTI</p>
+<p><strong>7月12日</strong><br>15:36-15:37　　9845kHz　　空白载波，消失前出现1kHz正弦波<br>15:38-15:39　　15250kHz　　空白载波，消失前出现1kHz正弦波<br>16:00-16:30　　15200kHz　　中国民乐（非干扰用的丰收锣鼓）<br>16:05-16:06　　7445kHz　　空白载波<br>16:15-16:16　　11825kHz　　空白载波<br>16:16-16:21　　17520kHz　　1kHz正弦波<br>16:30-17:00　　13620kHz　　中国民乐（非干扰用的丰收锣鼓）<br>16:34-16:39　　11785kHz　　空白载波<br>16:45-16:46　　13755kHz　　空白载波<br>16:45-16:46　　17485kHz　　1kHz正弦波<br>22:00-23:00　　17580kHz　　CNR 1（用途未知），覆盖华南，22:35后信号开始衰弱</p>
+<p><strong>7月13日</strong><br>16:09-16:12　　9845kHz　　空白载波</p>
+<p><strong>7月15日</strong><br>16:00-16:01　　13730kHz　　空白载波<br>16:00-16:01　　13800kHz　　1kHz正弦波</p>
+<p><strong>7月17日</strong><br>15:00-15:02　　15465kHz　　空白载波<br>22:00-22:12　　9165kHz　　空白载波</p>
+<p><strong>7月18日</strong><br>15:00-15:02　　15465kHz　　空白载波，消失后可收CRI英语环球<br>15:15-15:19　　15250kHz　　空白载波<br>15:16-15:17　　15470kHz　　1kHz正弦波<br>16:00-16:02　　15388kHz　　空白载波<br>16:06-16:08　　15388kHz　　1kHz正弦波</p>
+<p><strong>7月27日</strong><br>16:00-16:01　　13730kHz　　空白载波<br>16:00-16:01　　13765kHz　　空白载波<br>16:00-16:01　　13800kHz　　空白载波<br>16:02-16:26　　11980kHz　　（16:02-16:04空白载波，16:05-16:25 1kHz正弦波，16:26空白载波）<br>16:06-16:08　　11780kHz　　空白载波<br>16:08-16:10　　15465kHz　　空白载波<br>16:20-16:21　　13850kHz　　丰收锣鼓（用途未知），短暂出现二十几秒信号<br>16:22　　　　　13790kHz　　空白载波</p>
+<p><strong>7月29日</strong><br>16:00-16:01　　13765kHz　　空白载波<br>16:00-16:01　　13800kHz　　空白载波</p>
+<blockquote>
+<p>国内bcler接收到的测试信号（UTC+8）：<br>  21:30-22:00　　9900kHz　　古筝曲（中国民乐台）</p>
+</blockquote>
+<p><strong>7月30日</strong><br>19:04-19:06　　11980kHz　　（19:04-19:06空白载波，19:06 1kHz正弦波）</p>
+<hr>
+<h4 id="2017年8月"><a href="#2017年8月" class="headerlink" title="2017年8月"></a>2017年8月</h4><p><strong>8月4日</strong><br>15:19-15:22　　15250kHz　　空白载波<br>15:22-15:24　　11965kHz　　空白载波</p>
+<p><strong>8月5日</strong><br>13:11-13:12　　15250kHz　　古筝曲（中国民乐台）</p>
+<p><strong>8月11日</strong><br>15:25-15:34　　16360kHz　　空白载波，信号时断时续<br>15:39-15:40　　15470kHz　　空白载波，消失前出现1kHz正弦波</p>
+<p><strong>8月14日</strong><br>15:29-15:47　　17810kHz　　空白载波<br>15:33-15:36　　17520kHz　　空白载波<br>15:39-15:40　　15440kHz　　空白载波<br>15:40-15:41　　17670kHz　　空白载波，消失后可收CRI英语环球<br>15:46-15:48　　15465kHz　　空白载波，消失后可收CRI英语环球<br>15:49-15:50　　11965kHz　　空白载波，消失前20s出现1kHz正弦波<br>15:54-15:55　　11785kHz　　空白载波</p>
+<p><strong>8月15日</strong><br>16:04-16:05　　11000kHz　　1kHz正弦波<br>16:06-16:08　　15100kHz　　空白载波<br>16:06-16:15　　15600kHz　　（16:06空白载波，16:09锣鼓，16:11 1kHz正弦波，16:13锣鼓，16:14空白载波）<br>16:08　　　　　15250kHz　　10s空白载波<br>16:18-16:25　　15650kHz　　（16:18空白载波，16:21锣鼓，16:23空白载波）<br>16:19-16:21　　15300kHz　　空白载波<br>16:24-16:25　　15625kHz　　空白载波<br>16:25-16:37　　15700kHz　　（16:25空白载波，16:30锣鼓，16:34空白载波）<br>16:26　　　　　15250kHz　　20s空白载波<br>16:27　　　　　15800kHz　　20s空白载波<br>16:31　　　　　15580kHz　　20s空白载波<br>16:32-16:37　　15465kHz　　空白载波<br>16:37　　　　　15390kHz　　30s空白载波，CNR 13开播前测试？<br>16:37-16:47　　15750kHz　　空白载波<br>16:38　　　　　15540kHz　　20s空白载波，CNR 2开播前测试？<br>16:38　　　　　15625kHz　　10s空白载波<br>16:42　　　　　15680kHz　　10s空白载波</p>
+<p><strong>8月16日</strong><br>16:27-16:31　　17710kHz　　空白载波，时断时续，16:31短暂出现10s民乐（非干扰用的丰收锣鼓）<br>16:29　　　　　17490kHz　　30s空载，消失后可收CRI英语环球<br>16:32-16:38　　17490kHz　　空白载波，时断时续，16:32、16:38短暂出现10s民乐（非干扰用的丰收锣鼓），消失后可收CRI英语环球</p>
+<p><strong>8月17日</strong><br>15:11-15:15　　11760kHz　　（15:11空白载波，15:13 1kHz正弦波，15:14-15:15空白载波）</p>
+<p><strong>8月25日</strong><br>10:30　　15455kHz　　未知汉语节目，华南地区信号非常强，信号仅持续半分钟，可能为RTI测试<br>10:48　　11785kHz　　未知汉语节目，仅持续10s左右消失，似乎为CNR 1的节目（干扰频率？）<br>16:00　　15270kHz　　20s左右空白载波，短暂出现3s CNR 1信号</p>
+<p><strong>8月27日</strong></p>
+<blockquote>
+<p>内蒙古bcler接收到的测试信号（UTC+8）：<br>  15:30-16:00　　13600kHz　　丰收锣鼓（用途未知）</p>
+</blockquote>
+<hr>
+<h4 id="2017年9月"><a href="#2017年9月" class="headerlink" title="2017年9月"></a>2017年9月</h4><p><strong>9月2日</strong><br>16:00-16:01　　15040kHz　　空白载波</p>
+<p><strong>9月6日</strong><br>约16:05-17:04　7350kHz　　古筝曲（中国民乐台）<br>约16:05-17:04　9710kHz　　古筝曲（中国民乐台）<br>（7350kHz信号较弱，但在南方和东北均能收到信号；9710kHz用深圳SDR和在长春实际收听，信号均非常强）</p>
+<p><strong>9月13日</strong><br>14:42-15:58　　9745kHz　　空白载波，持续了一个多小时，目的不明<br>15:02-15:05　　9355kHz　　（15:02-15:03空白载波，15:03-15:05短暂转播CNR 1信号，15:05空白载波）<br>15:05-15:06　　9435kHz　　空白载波<br>15:08　　　　　9480kHz　　短暂出现10s未知语言节目<br>15:14-15:16　　9610kHz　　空白载波<br>15:15-15:16　　9530kHz　　空白载波，CNR 11测试？<br>15:16-15:18　　9880kHz　　空白载波<br>15:18-15:19　　9530kHz　　空白载波，CNR 11测试？<br>15:21-15:22　　9600kHz　　短暂转播CNR 2信号<br>15:21-15:22　　9655kHz　　空白载波<br>15:22-15:23　　9880kHz　　空白载波<br>15:24　　　　　9720kHz　　短暂转播15s左右CNR 2信号，20s左右空白载波，CNR 2测试？<br>15:27-15:28　　9535kHz　　空白载波<br>15:27-15:28　　9880kHz　　空白载波<br>15:39-15:41　　9600kHz　　中国民乐（非干扰用的丰收锣鼓）<br>15:39-15:42　　9620kHz　　15:39-15:41空白载波，15:41-15:42中国民乐（非干扰用的丰收锣鼓）<br>15:48　　　　　9775kHz　　空白载波<br>15:48-16:00　　9505kHz　　空白载波<br>15:50-15:52　　9775kHz　　空白载波<br>15:51-15:54　　9560kHz　　空白载波<br>15:51-15:55　　9845kHz　　空白载波<br>16:12-16:15　　9505kHz　　空白载波</p>
+<p><strong>9月14日</strong></p>
+<blockquote>
+<p>内蒙古bcler接收到的测试信号（UTC+8）：<br>  ?-19:00　　　　7400kHz　　疑似中国方向测试信号，不间断的音乐</p>
+</blockquote>
+<p><strong>9月16日</strong><br>13:03-13:06　　13750kHz　　空白载波</p>
+<p><strong>9月17日</strong><br>16:22-16:23　　15370kHz　　空白载波</p>
+<p><strong>9月20日</strong><br>15:15-15:17　　9665kHz　　空白载波<br>15:15-15:20　　9745kHz　　空白载波<br>15:17　　　　　9685kHz　　5s空白载波<br>15:18-15:19　　9665kHz　　空白载波<br>15:20-15:21　　9540kHz　　空白载波（把xx台直接盖台）<br>15:26-15:27　　9735kHz　　古筝曲（中国民乐台）<br>15:27　　　　　9825kHz  　　古筝曲（中国民乐台），短暂发射15s信号<br>15:28　　　　　9845kHz　　10s空白载波<br>15:30-15:31　　9660kHz　　1kHz正弦波<br>15:32-15:33　　9965kHz　　1kHz正弦波<br>15:33-15:47　　9660kHz　　空白载波，15:36 1kHz正弦波（在东北也可收）<br>15:33-16:14　　9720kHz　　空白载波<br>15:34　　　　　9685kHz　　5s空白载波<br>15:34-15:40　　9665kHz　　空白载波<br>15:40　　　　　9740kHz　　5s空白载波<br>15:40　　　　　9870kHz　　5s空白载波<br>15:41-15:44　　9560kHz　　空白载波<br>15:41-15:44　　9680kHz　　空白载波<br>15:41-15:44　　9845kHz　　空白载波<br>15:44-15:45　　9810kHz　　空白载波<br>15:45-15:47　　9530kHz　　15:45-15:47空白载波，15:47古筝曲（中国民乐台），持续10s<br>15:46-15:48　　9755kHz　　空白载波<br>15:46-15:48　　9775kHz　　空白载波<br>15:47　　　　　9810kHz　　20s古筝曲（中国民乐台），15s短暂转播CNR 1信号<br>15:49-15:58　　9775kHz　　空白载波<br>15:50-15:52　　9420kHz　　空白载波<br>15:51-15:54　　9675kHz　　15:51-15:53空白载波，覆盖CNR 1（背景能听到），15:53 1kHz正弦波<br>15:53　　　　　9775kHz　　10s空白载波<br>15:53　　　　　9810kHz　　10s空白载波<br>15:54　　　　　9775kHz　　10s中国民乐（非干扰用的丰收锣鼓）<br>15:55　　　　　9685kHz　　20s空白载波<br>15:55　　　　　9810kHz　　20s空白载波<br>15:56-15:59　　9630kHz　　15:56-15:59空白载波，15:59 1kHz正弦波<br>15:57-16:25　　9660kHz　　15:57-16:03 1kHz正弦波，16:03空白载波（16:06背景有不明英语信号）<br>16:00　　　　　9860kHz　　10s空白载波<br>16:00　　　　　9665kHz　　10s空白载波（估计与9860kHz为同一设备发射，不断变化频率）<br>16:01　　　　　9785kHz　　10s空白载波（估计与9860、9665kHz为同一设备发射，不断变化频率）<br>16:01-16:05　　9620kHz　　16:01-16:04空白载波，16:04-16:05古筝曲（中国民乐台）<br>16:05-16:06　　9535kHz　　空白载波<br>16:08-16:09　　9480kHz　　空白载波<br>16:11　　　　　9550kHz　　古筝曲（中国民乐台）<br>16:13　　　　　9655kHz　　10s空白载波<br>16:15　　　　　9550kHz　　古筝曲（中国民乐台）<br>16:17-16:18　　15615kHz　　空白载波<br>16:18　　　　　15530kHz　　10s空白载波<br>16:20　　　　　15100kHz　　10s空白载波<br>16:20　　　　　15160kHz　　10s空白载波<br>16:27　　　　　15110kHz　　10s空白载波</p>
+<p><strong>9月21日</strong></p>
+<blockquote>
+<p>日本bcler接收到的测试信号（UTC+8）：<br>  18:35-?　　11540kHz<br>  18:35-?　　15150kHz</p>
+</blockquote>
+<p><strong>9月23日</strong><br>16:28-16:29　　11640kHz　　30s空白载波，消失前出现几秒CNR 1信号（<a href="https://cahcn.github.io/posts/2017-05-21-CNR-Transmitter-Overhaul.html">同时段在金华发射的CRI中文环球广播，9月初起停播检修，至9.23未恢复发射</a>）<br>16:32-16:33　　15465kHz　　空白载波<br>16:34-16:35　　15615kHz　　空白载波<br>16:44-16:47　　15290kHz　　空白载波</p>
+<p><strong>9月24日</strong><br>15:54-16:03　　15250kHz　　空白载波<br>16:00-16:01　　15110kHz　　空白载波</p>
+<p><strong>9月26日</strong><br>15:00-16:30　在11、15、17MHz频段上出现多个空白载波信号，具体频率未作详细记录</p>
+<p><strong>9月27日</strong><br>13:00-13:12　　17710kHz　　空白载波<br>13:30-13:48　　17710kHz　　空白载波<br>13:33　　　　　17810kHz　　30s空白载波<br>13:53　　　　　17810kHz　　空白载波<br>16:00-17:00　　15110kHz　　中国民乐（非干扰用的丰收锣鼓），民乐《喜洋洋》循环播放<br>16:11-16:14　　15300kHz　　空白载波<br>16:15　　　　　15300kHz　　空白载波（再次出现，但仅发射20s左右）<br>（13:00-14:00一度出现锣鼓台、CNR 1两个信号同时对17650kHz RFA藏语广播、21690kHz RFA普通话广播进行干扰的情况）</p>
+<hr>
+<h4 id="2017年10月"><a href="#2017年10月" class="headerlink" title="2017年10月"></a>2017年10月</h4><p><strong>10月6日</strong><br>15:55-15:58　　17810kHz　　空白载波，15:57短暂出现5s左右CNR 1信号<br>16:00-16:02　　15135kHz　　空白载波<br>16:10-16:11　　11980kHz　　空白载波</p>
+<p><strong>10月11日</strong><br>14:28-14:31　　17690kHz　　1kHz正弦波<br>15:34-15:36　　12020kHz　　空白载波<br>15:41-15:50　　在15200kHz上收听到奇怪的信号，类似喷气飞机一样的噪声，持续10s左右，15s左右出现在相隔200kHz的15400kHz上，目的不明。奇怪信号出现在15200-21000kHz范围内，重复上面提到的规律发射</p>
+<p><strong>10月15日</strong><br>15:00-15:01　　15265kHz　　空白载波<br>15:06-15:08　　15265kHz　　空白载波</p>
+<p><strong>10月18日</strong><br>16:00-16:02　　13790kHz　　1kHz正弦波</p>
+<p><strong>10月24日</strong><br>15:18　　　　　21700kHz　　空白载波</p>
+<p><strong>10月25日</strong><br>15:50-15:53　　15250kHz　　空白载波<br>16:05　　　　　15250kHz　　空白载波</p>
+<p><strong>10月29日</strong><br>21:03　　　　　7485kHz　　20s空白载波</p>
+<p><strong>10月30日</strong><br>20:03　　　　　9665kHz　　20s空白载波</p>
+<hr>
+<h4 id="2017年11月"><a href="#2017年11月" class="headerlink" title="2017年11月"></a>2017年11月</h4><p><strong>11月3日</strong><br>15:57-16:00　　17825kHz　　CNR 1（用途未知）<br>16:07　　　　　17825kHz　　CNR 1（用途未知）<br>16:12-16:14　　17825kHz　　空白载波<br>16:16-16:17　　17825kHz　　CNR 1（用途未知）<br>16:23-16:24　　17825kHz　　空白载波<br>16:25　　　　　17825kHz　　CNR 1（用途未知）<br>16:53-16:55　　17800kHz　　CNR 1（用途未知）<br>16:58-17:00　　17800kHz　　CNR 1（用途未知）<br>17:01　　　　　17800kHz　　CNR 1（用途未知）</p>
 <p>16:06　　　　　17705kHz　　10s空白载波<br>16:21-16:24　　17820kHz　　空白载波<br>16:45-16:46　　17690kHz　　空白载波，CRI开播前测试？</p>
-</li>
-</ul>
-<h4 id="11-7"><a href="#11-7" class="headerlink" title="11.7"></a>11.7</h4><ul>
-<li><p>15:00-15:01　　9825kHz　　空白载波<br>15:00-15:01　　9960kHz　　空白载波<br>15:06-15:07　　15265kHz　　30s空白载波<br>15:11-15:15　　21700kHz　　CNR 1（用途未知，RFA普通话广播已在15:00结束播音）<br>15:17　　　　　17525kHz　　20s空白载波<br>15:58　　　　　15295kHz　　10s空白载波</p>
+<p><strong>11月7日</strong><br>15:00-15:01　　9825kHz　　空白载波<br>15:00-15:01　　9960kHz　　空白载波<br>15:06-15:07　　15265kHz　　30s空白载波<br>15:11-15:15　　21700kHz　　CNR 1（用途未知，RFA普通话广播已在15:00结束播音）<br>15:17　　　　　17525kHz　　20s空白载波<br>15:58　　　　　15295kHz　　10s空白载波</p>
 <p>16:00-16:02　　13710kHz　　空白载波<br>16:03-16:07　　13710kHz　　空白载波<br>16:11　　　　　13710kHz　　空白载波</p>
 <p>16:01-16:02　　15135kHz　　空白载波，CRI开播前测试？<br>16:01-16:02　　15210kHz　　空白载波<br>16:01-16:02　　15440kHz　　空白载波，CRI开播前测试？<br>16:04-16:05　　13690kHz　　空白载波<br>16:04-16:05　　15040kHz　　空白载波<br>16:11-16:12　　15040kHz　　空白载波</p>
-</li>
-</ul>
-<h4 id="11-11"><a href="#11-11" class="headerlink" title="11.11"></a>11.11</h4><ul>
-<li>20:03-20:06　　7485kHz　　空白载波<br>20:07　　　　　7485kHz　　空白载波</li>
-</ul>
-<h4 id="11-14"><a href="#11-14" class="headerlink" title="11.14"></a>11.14</h4><ul>
-<li>15:00-15:01　　15745kHz　　空白载波<br>16:00-16:02　　13710kHz　　空白载波<br>16:03　　　　　9460kHz　　5s空白载波<br>16:03　　　　　9735kHz　　空白载波<br>16:15-16:17　　9710kHz　　空白载波<br>16:16-16:17　　9825kHz　　空白载波</li>
-</ul>
-<h4 id="11-18"><a href="#11-18" class="headerlink" title="11.18"></a>11.18</h4><ul>
-<li>16:00-16:02　　15135kHz　　空白载波<br>16:00-16:02　　15210kHz　　空白载波<br>16:00-16:02　　15440kHz　　空白载波<br>（三个空白载波信号同时消失）</li>
-</ul>
-<h4 id="11-23"><a href="#11-23" class="headerlink" title="11.23"></a>11.23</h4><ul>
-<li>15:05　　　　　7480kHz　　15s丰收锣鼓（用途未知）<br>15:06　　　　　7470kHz　　20s丰收锣鼓（用途未知）<br>15:07-15:15　　7470kHz　　丰收锣鼓（用途未知）<br>15:16　　　　　7470kHz　　空白载波</li>
-</ul>
-<h4 id="11-29"><a href="#11-29" class="headerlink" title="11.29"></a>11.29</h4><ul>
-<li>15:00-15:01　　15425kHz　　空白载波<br>15:00-15:02　　15270kHz　　空白载波，CNR 2开播前测试？<br>15:00-15:02　　15465kHz　　空白载波<br><strong>15:00-15:04　　15350kHz　　15:00空白载波，15:01 1kHz正弦波，15:02-15:03陈奕迅《让我留在你身边》，15:03-15:04空白载波</strong><br>15:06-15:07　　15455kHz　　空白载波<br>15:09-15:11　　15445kHz　　空白载波<br>15:10-15:11　　15745kHz　　空白载波<br>15:12-15:13　　11605kHz　　空白载波，RTI开播前测试？<br>15:58-15:59　　15210kHz　　1kHz正弦波<br>16:00-16:02　　15440kHz　　空白载波</li>
-</ul>
-<h4 id="12-3"><a href="#12-3" class="headerlink" title="12.3"></a>12.3</h4><ul>
-<li>10:00-10:02　　13710kHz　　空白载波<br>　?　-16:00　　16700kHz　　CNR 1（用途未知）<br>16:00-16:02　　17670kHz　　空白载波</li>
-</ul>
-<h4 id="12-6"><a href="#12-6" class="headerlink" title="12.6"></a>12.6</h4><ul>
-<li>16:00-16:02　　15210kHz　　空白载波</li>
-</ul>
-<h4 id="12-7"><a href="#12-7" class="headerlink" title="12.7"></a>12.7</h4><ul>
-<li>16:00-16:02　　15135kHz　　空白载波<br>16:00-16:02　　15210kHz　　空白载波<br>16:00-16:02　　15440kHz　　空白载波<br>16:02-16:03　　13000kHz　　空白载波</li>
-</ul>
-<h4 id="12-8"><a href="#12-8" class="headerlink" title="12.8"></a>12.8</h4><ul>
-<li><strong>21:00-22:00　　6500kHz　　中国民乐（非干扰用的丰收锣鼓），华北、东北信号弱</strong><br>（录音：<a href="https://www.dropbox.com/s/o3mhhgv33zb6urk/6500kHz_20171208.211924.mp3?dl=0）" target="_blank" rel="external">https://www.dropbox.com/s/o3mhhgv33zb6urk/6500kHz_20171208.211924.mp3?dl=0）</a></li>
-</ul>
-<h4 id="12-9"><a href="#12-9" class="headerlink" title="12.9"></a>12.9</h4><ul>
-<li><strong>?　-16:15　　14520kHz　　循环播放《青花瓷》，16:07收到，出现时间未知</strong><br><strong>?　-16:56　　14520kHz　　信号再次出现，还是循环播放《青花瓷》，16:45收到，出现时间未知</strong><br>22:38-22:39　　6300kHz　　空白载波</li>
-</ul>
-<h4 id="12-10"><a href="#12-10" class="headerlink" title="12.10"></a>12.10</h4><ul>
-<li>?　-19:10　　9695kHz　　空白载波<br>?　-20:08　　11150kHz　　空白载波<br>19:57-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波</li>
-</ul>
-<h4 id="12-11"><a href="#12-11" class="headerlink" title="12.11"></a>12.11</h4><ul>
-<li>?　-20:45　　9160kHz　　CNR 1（用途未知），20:13收到<br>19:57-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波，今晚信号比昨晚弱</li>
-</ul>
-<h4 id="12-12"><a href="#12-12" class="headerlink" title="12.12"></a>12.12</h4><ul>
-<li>19:57-21:01　　11985kHz　　CNR 1（用途未知）<br>?　-20:55　　9160kHz　　CNR 1（用途未知）</li>
-</ul>
-<h4 id="12-13"><a href="#12-13" class="headerlink" title="12.13"></a>12.13</h4><ul>
-<li>?　-　?　　　9160kHz　　CNR 1（用途未知），20:04收到</li>
-</ul>
-<h4 id="12-20"><a href="#12-20" class="headerlink" title="12.20"></a>12.20</h4><ul>
-<li>16:08-16:15　　5900kHz　　空白载波</li>
-</ul>
-<h4 id="12-22"><a href="#12-22" class="headerlink" title="12.22"></a>12.22</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">日本bcler接收到的测试信号（UTC+8）：</div><div class="line">19:00-21:00　　7400kHz　　中国民乐</div></pre></td></tr></table></figure>
-<h4 id="12-23"><a href="#12-23" class="headerlink" title="12.23"></a>12.23</h4><ul>
-<li>12:00-12:02　　13710kHz　　空白载波<br>19:00-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号），19:30就已经在发射<br>19:57-21:00　　11985kHz　　CNR 1（用途未知）</li>
-</ul>
-<h4 id="12-24"><a href="#12-24" class="headerlink" title="12.24"></a>12.24</h4><ul>
-<li>19:00-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号）</li>
-</ul>
-<h4 id="12-25"><a href="#12-25" class="headerlink" title="12.25"></a>12.25</h4><ul>
-<li>19:00-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号）</li>
-</ul>
-<h4 id="12-27"><a href="#12-27" class="headerlink" title="12.27"></a>12.27</h4><ul>
-<li>15:17-15:19　　9900kHz　　空白载波</li>
-</ul>
-<h4 id="12-29"><a href="#12-29" class="headerlink" title="12.29"></a>12.29</h4><ul>
-<li>14:03-14:05　　15440kHz　　空白载波</li>
-</ul>
+<p><strong>11月11日</strong><br>20:03-20:06　　7485kHz　　空白载波<br>20:07　　　　　7485kHz　　空白载波</p>
+<p><strong>11月14日</strong><br>15:00-15:01　　15745kHz　　空白载波<br>16:00-16:02　　13710kHz　　空白载波<br>16:03　　　　　9460kHz　　5s空白载波<br>16:03　　　　　9735kHz　　空白载波<br>16:15-16:17　　9710kHz　　空白载波<br>16:16-16:17　　9825kHz　　空白载波</p>
+<p><strong>11月18日</strong><br>16:00-16:02　　15135kHz　　空白载波<br>16:00-16:02　　15210kHz　　空白载波<br>16:00-16:02　　15440kHz　　空白载波<br>（三个空白载波信号同时消失）</p>
+<p><strong>11月23日</strong><br>15:05　　　　　7480kHz　　15s丰收锣鼓（用途未知）<br>15:06　　　　　7470kHz　　20s丰收锣鼓（用途未知）<br>15:07-15:15　　7470kHz　　丰收锣鼓（用途未知）<br>15:16　　　　　7470kHz　　空白载波</p>
+<p><strong>11月29日</strong><br>15:00-15:01　　15425kHz　　空白载波<br>15:00-15:02　　15270kHz　　空白载波，CNR 2开播前测试？<br>15:00-15:02　　15465kHz　　空白载波<br>15:00-15:04　　15350kHz　　15:00空白载波，15:01 1kHz正弦波，15:02-15:03陈奕迅《让我留在你身边》，15:03-15:04空白载波<br>15:06-15:07　　15455kHz　　空白载波<br>15:09-15:11　　15445kHz　　空白载波<br>15:10-15:11　　15745kHz　　空白载波<br>15:12-15:13　　11605kHz　　空白载波，RTI开播前测试？<br>15:58-15:59　　15210kHz　　1kHz正弦波<br>16:00-16:02　　15440kHz　　空白载波</p>
+<hr>
+<h4 id="2017年12月"><a href="#2017年12月" class="headerlink" title="2017年12月"></a>2017年12月</h4><p><strong>12月3日</strong><br>10:00-10:02　　13710kHz　　空白载波<br>　?　-16:00　　16700kHz　　CNR 1（用途未知）<br>16:00-16:02　　17670kHz　　空白载波</p>
+<p><strong>12月6日</strong><br>16:00-16:02　　15210kHz　　空白载波</p>
+<p><strong>12月7日</strong><br>16:00-16:02　　15135kHz　　空白载波<br>16:00-16:02　　15210kHz　　空白载波<br>16:00-16:02　　15440kHz　　空白载波<br>16:02-16:03　　13000kHz　　空白载波</p>
+<p><strong>12月8日</strong><br>21:00-22:00　　6500kHz　　中国民乐（非干扰用的丰收锣鼓），华北、东北信号弱<br>（录音：<a href="https://www.dropbox.com/s/o3mhhgv33zb6urk/6500kHz_20171208.211924.mp3?dl=0）" target="_blank" rel="external">https://www.dropbox.com/s/o3mhhgv33zb6urk/6500kHz_20171208.211924.mp3?dl=0）</a></p>
+<p><strong>12月9日</strong><br>　?　-16:15　　14520kHz　　循环播放《青花瓷》，16:07收到，出现时间未知<br>　?　-16:56　　14520kHz　　信号再次出现，还是循环播放《青花瓷》，16:45收到，出现时间未知<br>22:38-22:39　　6300kHz　　空白载波</p>
+<p><strong>12月10日</strong><br>　?　-19:10　　9695kHz　　空白载波<br>　?　-20:08　　11150kHz　　空白载波<br>19:57-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波</p>
+<p><strong>12月11日</strong><br>　?　-20:45　　9160kHz　　CNR 1（用途未知），20:13收到<br>19:57-21:01　　11985kHz　　CNR 1（用途未知），21:00-21:01空白载波，今晚信号比昨晚弱</p>
+<p><strong>12月12日</strong><br>19:57-21:01　　11985kHz　　CNR 1（用途未知）<br>　?　-20:55　　9160kHz　　CNR 1（用途未知）</p>
+<p><strong>12月13日</strong><br>　?　-　?　　　9160kHz　　CNR 1（用途未知），20:04收到</p>
+<p><strong>12月20日</strong><br>16:08-16:15　　5900kHz　　空白载波</p>
+<p><strong>12月22日</strong></p>
+<blockquote>
+<p>日本bcler接收到的测试信号（UTC+8）：<br>  19:00-21:00　　7400kHz　　中国民乐</p>
+</blockquote>
+<p><strong>12月23日</strong><br>12:00-12:02　　13710kHz　　空白载波<br>19:00-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号），19:30就已经在发射<br>19:57-21:00　　11985kHz　　CNR 1（用途未知）</p>
+<p><strong>12月24日</strong><br>19:00-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号）</p>
+<p><strong>12月25日</strong><br>19:00-21:00　　7400kHz　　中国民乐（两个同频但音乐不同的信号）</p>
+<p><strong>12月27日</strong><br>15:17-15:19　　9900kHz　　空白载波</p>
+<p><strong>12月29日</strong><br>14:03-14:05　　15440kHz　　空白载波</p>
+<hr>
+<h4 id="2018年1月"><a href="#2018年1月" class="headerlink" title="2018年1月"></a>2018年1月</h4><p><strong>1月2日</strong><br>16:22-16:24　　15250kHz　　空白载波</p>
+<p><strong>1月9日</strong><br>15:07-15:12　　9940kHz　　空白载波<br>15:19-15:21　　9790kHz　　空白载波</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;5-19&quot;&gt;&lt;a href=&quot;#5-19&quot; class=&quot;headerlink&quot; title=&quot;5.19&quot;&gt;&lt;/a&gt;5.19&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;20:30-21:00　　17800kHz　　中国民乐（非干扰用的丰收锣鼓），从反馈来看，覆盖大
+      &lt;h4 id=&quot;2017年5月&quot;&gt;&lt;a href=&quot;#2017年5月&quot; class=&quot;headerlink&quot; title=&quot;2017年5月&quot;&gt;&lt;/a&gt;2017年5月&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;5月19日&lt;/strong&gt;&lt;br&gt;20:30-21:00　　17800kHz　　中
     
     </summary>
     
