@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-02-20T20:50:12.515Z</updated>
+  <updated>2018-02-21T08:10:09.029Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://cahcn.github.io/posts/2018-02-16-CCTV-Spring-Festival-Gala.html"/>
     <id>https://cahcn.github.io/posts/2018-02-16-CCTV-Spring-Festival-Gala.html</id>
     <published>2018-02-15T16:00:53.000Z</published>
-    <updated>2018-02-20T20:50:12.515Z</updated>
+    <updated>2018-02-21T08:10:09.029Z</updated>
     
     <content type="html"><![CDATA[<p>本列表记录各地方台在农历丁酉年除夕夜（2018年2月15日晚间）转播CCTV春节联欢晚会情况，<br>列表中提到的所有电视频道按照“<a href="https://cahcn.github.io/posts/2018-02-07-96335-Baise.html">广西广电网络百色分公司数字电视频道列表</a>”排序</p>
 <p>特别说明：<br>陕西卫视、海南旅游卫视已不在广西广电网络有线数字电视落地，两台无法通过电视收看到</p>
@@ -89,7 +89,7 @@
     <link href="https://cahcn.github.io/posts/2018-02-07-96335-Baise.html"/>
     <id>https://cahcn.github.io/posts/2018-02-07-96335-Baise.html</id>
     <published>2018-02-07T04:02:15.000Z</published>
-    <updated>2018-02-17T18:58:16.933Z</updated>
+    <updated>2018-03-03T02:41:36.884Z</updated>
     
     <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.2.6，本列表为三网融合机顶盒可收看的电视频道列表<br>共传输150套标、高清电视节目信号(含付费频道)<br>73、74、124频道为需要额外付费收看的电视频道，<br>119-123、148频道为广西广电网络测试频道（一说测试频道实际传输一些普通用户无法开通的频道）<br><figure class="image-bubble">
                 <div class="img-lightbox">
@@ -98,7 +98,7 @@
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
-<h4 id="频道异动"><a href="#频道异动" class="headerlink" title="频道异动"></a>频道异动</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视<br>· 2018年2月上旬，新增湖北卫视HD，频道号146</p>
+<h4 id="频道异动"><a href="#频道异动" class="headerlink" title="频道异动"></a>频道异动</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月1日，新增湖北卫视HD，频道号146<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视</p>
 <h3 id="广播频道"><a href="#广播频道" class="headerlink" title="广播频道"></a>广播频道</h3><p>数据更新至2017.7.11（广播频道常年不变，没什么更新的必要了…）<br>共传输21套广播节目信号，央广8套、国际台5套、广西区台7套(含BBR)、市台1套<br>其中8频道“英语综合广播”为CRI EZFM，9频道“流行音乐广播”为CRI HIT FM<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
@@ -124,23 +124,21 @@
     <link href="https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html"/>
     <id>https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html</id>
     <published>2018-02-01T09:36:13.000Z</published>
-    <updated>2018-02-21T08:30:25.154Z</updated>
+    <updated>2018-03-03T01:15:59.993Z</updated>
     
     <content type="html"><![CDATA[<p>2018年2月1日17:36，用深圳SDR接收机接收到9410/9774kHz疑似复兴广播电台的弱信号，与“<a href="http://hichannel.hinet.net/radio/index.do?id=287" target="_blank" rel="external">HiNet hichannel</a>”上提供的复兴广播电台两套节目在线直播进行对比，确认收到的为复兴广播电台大陆网（复兴广播电台第二广播网）的信号，17:00-18:00播出的节目为《生活fun轻松》。<br>18:00，9410/9774kHz两个频率信号准时消失，晚间18:00-01:05使用9410kHz频率的CNR 5（中华之声）准时发射。<br>20:00，通过网络收听复兴广播电台大陆网《生活bla-bla -bla》节目，整点之后听到频道宣传“您现在收听的是9410、9774、15375千赫，台湾复兴广播电台”。</p>
-<p>日本的广播爱好者XYZ昨天和今天（1月31日、2月1日）也收听到9410kHz发射的复兴广播电台信号，<br><a href="http://radio.chobi.net/DX/bbs/?res:3000" target="_blank" rel="external">http://radio.chobi.net/DX/bbs/?res:3000</a><br><a href="http://radio.chobi.net/DX/bbs/?res:3004" target="_blank" rel="external">http://radio.chobi.net/DX/bbs/?res:3004</a></p>
 <p>2月2日16:30收听，9410/9774kHz两个频率均没有信号。</p>
-<p>2月11日，XYZ再次收听到9410kHz发射的复兴广播电台信号，12:00-14:00短暂发射，9774kHz没有发射<br><a href="http://radio.chobi.net/DX/bbs/?res:3040" target="_blank" rel="external">http://radio.chobi.net/DX/bbs/?res:3040</a></p>
-<p>2月16日，XYZ本月第三次收听到9410kHz发射的复兴广播电台信号，08:20左右有信号，9774kHz没有发射<br><a href="http://radio.chobi.net/DX/bbs/?res:3071" target="_blank" rel="external">http://radio.chobi.net/DX/bbs/?res:3071</a></p>
+<h3 id="复兴广播电台2018年1月末起不定期发射"><a href="#复兴广播电台2018年1月末起不定期发射" class="headerlink" title="复兴广播电台2018年1月末起不定期发射"></a>复兴广播电台2018年1月末起不定期发射</h3><h4 id="XYZ收听记录"><a href="#XYZ收听记录" class="headerlink" title="XYZ收听记录"></a>XYZ收听记录</h4><p>1月31日　07:00-09:00　9410kHz<br>2月 1日　16:00-18:00　9410kHz<br>2月11日　12:00-14:00　9410kHz<br>2月16日　07:00-09:00　9410kHz<br>2月24日　07:00-09:00　9410kHz<br>2月27日　07:00-09:00　9410/9774kHz</p>
+<h4 id="本人的收听记录"><a href="#本人的收听记录" class="headerlink" title="本人的收听记录"></a>本人的收听记录</h4><p>2月 1日　16:00-18:00　9410/9774kHz<br>3月 3日　07:00-09:00　9410/9774kHz  （两个频率实际到9:01停机）</p>
 <blockquote>
 <p>复兴广播电台大陆网（复兴广播电台第二广播网）节目表<br>  周一至周五<br>  07:00-08:00　走进两岸<br>  08:00-09:00　生活fun轻松<br>  12:00-13:00　何方音乐部落格<br>  13:00-14:00　生活bla-bla -bla<br>  16:00-17:00　走进两岸(重播)<br>  17:00-18:00　生活fun轻松(重播)<br>  19:00-20:00　何方音乐部落格(重播)<br>  20:00-21:00　生活bla-bla -bla(重播)<br>  周六<br>  07:00-08:00　周末艳阳天<br>  08:00-09:00　两岸实时通<br>  12:00-13:00　音乐地球村<br>  13:00-13:30　你facebook了没<br>  13:30-14:00　流行请按赞<br>  16:00-17:00　周末艳阳天(重播)<br>  17:00-18:00　两岸实时通(重播)<br>  19:00-20:00　音乐地球村(重播)<br>  20:00-20:30　你facebook了没(重播)<br>  20:30-21:00　流行请按赞(重播)<br>  周日<br>  07:00-09:00　新闻地平线<br>  12:00-13:00　音乐地球村<br>  13:00-14:00　今夜小文青<br>  16:00-18:00　新闻地平线(重播)<br>  19:00-20:00　音乐地球村(重播)<br>  20:00-21:00　今夜小文青(重播)</p>
 </blockquote>
 <hr>
 <p>一些关于复兴广播电台的信息存档</p>
-<h4 id="复兴广播电台2017年9月短暂恢复短波发射"><a href="#复兴广播电台2017年9月短暂恢复短波发射" class="headerlink" title="复兴广播电台2017年9月短暂恢复短波发射"></a>复兴广播电台2017年9月短暂恢复短波发射</h4><p>2017年9月中旬，<a href="http://www.fhbs.com.tw/" target="_blank" rel="external">复兴广播电台</a>曾经短暂恢复短波发射，仅不定期发射了几次（推测）便停止发射。<br>有记录的发射时间（北京时间）：<br>9月14日　20:00-？　9410kHz<br>9月25日　12:00-？　13750kHz　（直到15:00仍在发射）</p>
+<h3 id="复兴广播电台2017年9月短暂恢复短波发射"><a href="#复兴广播电台2017年9月短暂恢复短波发射" class="headerlink" title="复兴广播电台2017年9月短暂恢复短波发射"></a>复兴广播电台2017年9月短暂恢复短波发射</h3><p>2017年9月中旬，<a href="http://www.fhbs.com.tw/" target="_blank" rel="external">复兴广播电台</a>曾经短暂恢复短波发射，仅不定期发射了几次（推测）便停止发射。<br>有记录的发射时间（北京时间）：<br>9月14日　20:00-？　9410kHz<br>9月25日　12:00-？　13750kHz　（直到15:00仍在发射）</p>
 <p>复兴广播电台发射设备故障停止短波发射前，使用两个频率9410、9774kHz发射，<br>时间为07:00-09:00、12:00-14:00、16:00-18:00、19:00-21:00</p>
-<p>2017年9月25日中午出现的13750kHz频率，曾于2017年7月末至8月初随机发射过<a href="https://cahcn.github.io/posts/2017-06-03-Xing-Xing-Tai.html">星星广播电台（V13）</a>，复兴广播电台短波或许与星星广播电台使用同一组发射设备发射？</p>
 <hr>
-<h4 id="复兴广播电台停播多个中波频率"><a href="#复兴广播电台停播多个中波频率" class="headerlink" title="复兴广播电台停播多个中波频率"></a>复兴广播电台停播多个中波频率</h4><p>NCC于2018年1月2日公布了最新的《无线调幅(AM)广播电台频率及发射机位址》文档，与2017年10月3日公布的文档对比，删去了复兴广播电台六个中波频率的备案，这是复兴广播电台继短波频率因设备故障停止发射之后，再一次削减发射频率。涉及的频率有：<br><strong>台北总台（复兴广播电台台北台）</strong><br><del>558</del>、<del>909</del>、<del>1089</del>kHz<br><strong>台中分台（复兴广播电台台中转播站）</strong><br><del>1089</del>kHz<br><strong>高雄分台（复兴广播电台高雄转播站）</strong><br><del>846</del>kHz</p>
+<h3 id="复兴广播电台停播多个中波频率"><a href="#复兴广播电台停播多个中波频率" class="headerlink" title="复兴广播电台停播多个中波频率"></a>复兴广播电台停播多个中波频率</h3><p>NCC于2018年1月2日公布了最新的《无线调幅(AM)广播电台频率及发射机位址》文档，与2017年10月3日公布的文档对比，删去了复兴广播电台六个中波频率的备案，这是复兴广播电台继短波频率因设备故障停止发射之后，再一次削减发射频率。涉及的频率有：<br><strong>台北总台（复兴广播电台台北台）</strong><br><del>558</del>、<del>909</del>、<del>1089</del>kHz<br><strong>台中分台（复兴广播电台台中转播站）</strong><br><del>1089</del>kHz<br><strong>高雄分台（复兴广播电台高雄转播站）</strong><br><del>846</del>kHz</p>
 <p>目前全台仅剩三个中波频率、一个调频频率还在发射：<br><strong>台北总台（复兴广播电台台北台）</strong><br>594kHz<br><strong>台中分台（复兴广播电台台中转播站）</strong><br>107.8MHz、594kHz<br><strong>高雄分台（复兴广播电台高雄转播站）</strong><br>594kHz</p>
 ]]></content>
     
