@@ -20,16 +20,16 @@
     
     
     <meta name="keywords" content="">
-    <meta name="description" content="宁缺毋滥  历史2017.5.20突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试2017.5.21早上5点调试好，上线试运行2017.5.23更换新首页模板，用Hexo的博客框架搭建2017.5.25网站正式上线，先期采用LightOne主题2017.7.1添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数2017.9.5由于原使用的LightOne主题存在以">
+    <meta name="description" content="宁缺毋滥">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hello World">
 <meta property="og:url" content="https://cahcn.github.io/posts/2017-05-21-HelloWorld.html">
 <meta property="og:site_name" content="Cahcn的自留地">
-<meta property="og:description" content="宁缺毋滥  历史2017.5.20突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试2017.5.21早上5点调试好，上线试运行2017.5.23更换新首页模板，用Hexo的博客框架搭建2017.5.25网站正式上线，先期采用LightOne主题2017.7.1添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数2017.9.5由于原使用的LightOne主题存在以">
-<meta property="og:updated_time" content="2018-03-04T17:52:08.525Z">
+<meta property="og:description" content="宁缺毋滥">
+<meta property="og:updated_time" content="2018-03-06T14:59:32.390Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hello World">
-<meta name="twitter:description" content="宁缺毋滥  历史2017.5.20突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试2017.5.21早上5点调试好，上线试运行2017.5.23更换新首页模板，用Hexo的博客框架搭建2017.5.25网站正式上线，先期采用LightOne主题2017.7.1添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数2017.9.5由于原使用的LightOne主题存在以">
+<meta name="twitter:description" content="宁缺毋滥">
     
         <link rel="alternate" type="application/atom+xml" title="Cahcn的自留地" href="/atom.xml">
     
@@ -200,6 +200,7 @@
             <blockquote>
 <p>宁缺毋滥</p>
 </blockquote>
+<a id="more"></a>
 <h3 id="历史"><a href="#历史" class="headerlink" title="历史"></a>历史</h3><p>2017.5.20<br>突发奇想建立属于自己的独立博客，晚上开始筹备，阅读相关文档、熬夜调试<br>2017.5.21<br>早上5点调试好，上线试运行<br>2017.5.23<br>更换新首页模板，用Hexo的博客框架搭建<br>2017.5.25<br>网站正式上线，先期采用<a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题<br>2017.7.1<br>添加访问统计代码，在每个页面的左下方可以查看访客、文章的阅读次数<br>2017.9.5<br>由于原使用的<a href="https://github.com/caisiduo/hexo-theme-lightone" target="_blank" rel="external">LightOne</a>主题存在以下的问题，改用<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题</p>
 <blockquote>
 <p>①.手机版的自适应问题<br>  ②.Archives页面超过10篇文章，底部右下方无下一页按钮翻页<br>  ③.LightOne主题无法使用表格展现内容<br>  <del>④.文章底部的评论去除不干净（不打算开放评论了…然而这是一个Flag）</del><br>  ⑤.使用外链图床插入的图片在PC端上正常浏览，但在手机端上无法显示…</p>
@@ -217,6 +218,12 @@
 <blockquote>
 <p>修改配置文件：根目录下的_config.yml，修改deploy节点。<br>  原来的配置为：<br>  deploy:<br>    type: git<br>    repo: <a href="https://github.com/{yourname}/{yourname}.github.io.git" target="_blank" rel="external">https://github.com/{yourname}/{yourname}.github.io.git</a><br>    branch: master<br>  -<br>  修改为如下：<br>  deploy:<br>    type: git<br>    repo: <a href="https://{yourname}:{yourpassword}@github.com/{yourname}/{yourname}.github.io.git" target="_blank" rel="external">https://{yourname}:{yourpassword}@github.com/{yourname}/{yourname}.github.io.git</a><br>    branch: master</p>
 </blockquote>
+<p>2018.3.6<br>页面版式设置调整，每篇博文的摘要由自动截取前200字（不带任何格式）调整为根据<code>&lt;!--more--&gt;</code>所在位置截断<br>具体在<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题的<code>_config</code>文件中设置：</p>
+<ol>
+<li>根据 <!--more--> 所在位置截断<br>excerpt_render: true</li>
+<li>按文字长度截断<br>excerpt_render: false<br>excerpt_length: 200</li>
+</ol>
+<p>详细见indigo主题作者给出的<a href="https://github.com/yscoder/hexo-theme-indigo/issues/367" target="_blank" rel="external">设置方法</a></p>
 <h4 id="站点主题更新小记"><a href="#站点主题更新小记" class="headerlink" title="站点主题更新小记"></a>站点主题更新小记</h4><p>随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="external">indigo</a>主题更新而更新：<br>2017.9.23　version 1.6.13 -&gt; 1.6.14<br>2017.9.29　version 1.6.14 -&gt; 1.6.16<br>2017.10.25　version 1.6.16 -&gt; 1.6.17<br>2017.11.20　version 1.6.17 （版本号不变）<br>2017.12.2　version 1.6.17 -&gt; 1.7.0<br>2017.12.29　version 1.7.0 -&gt; 1.7.1<br>2018.1.20　version 1.7.1 -&gt; 1.7.2</p>
 <hr>
 <h3 id="有用的链接"><a href="#有用的链接" class="headerlink" title="有用的链接"></a>有用的链接</h3><p><a href="https://www.jianshu.com/p/701b1095da11" target="_blank" rel="external">https://www.jianshu.com/p/701b1095da11</a>  手把手教你建github技术博客<br><a href="https://www.jianshu.com/p/465830080ea9" target="_blank" rel="external">https://www.jianshu.com/p/465830080ea9</a>  HEXO+Github,搭建属于自己的博客<br><a href="https://yq.aliyun.com/articles/8607" target="_blank" rel="external">https://yq.aliyun.com/articles/8607</a>    Hexo折腾记——基本配置篇<br><a href="https://www.jianshu.com/p/b7886271e21a" target="_blank" rel="external">https://www.jianshu.com/p/b7886271e21a</a>  Hexo安装和配置<br><a href="https://www.jianshu.com/p/e99ed60390a8" target="_blank" rel="external">https://www.jianshu.com/p/e99ed60390a8</a>  20分钟教你使用hexo搭建github博客<br><a href="https://www.jianshu.com/p/db7e64d86067" target="_blank" rel="external">https://www.jianshu.com/p/db7e64d86067</a>  使用Hexo搭建博客（三），博客配置、主题和写作<br><a href="https://www.jianshu.com/p/70343b7c2fd3" target="_blank" rel="external">https://www.jianshu.com/p/70343b7c2fd3</a>  Hexo主题 Light 修改教程<br><a href="http://blog.csdn.net/weixin_36401046/article/details/52940313" target="_blank" rel="external">http://blog.csdn.net/weixin_36401046/article/details/52940313</a>  hexo d后 ERROR Deployer not found: git<br><a href="https://www.jixian.io/2017/07/22/Hexo的几个问题/" target="_blank" rel="external">https://www.jixian.io/2017/07/22/Hexo的几个问题/</a>  解决fs.SyncWriteStream报错问题</p>
@@ -248,7 +255,7 @@
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2018-03-04T17:52:08.525Z" itemprop="dateUpdated">2018-03-05 01:52:08</time>
+    最后更新时间：<time datetime="2018-03-06T14:59:32.390Z" itemprop="dateUpdated">2018-03-06 22:59:32</time>
 </span><br>
 
 
@@ -286,7 +293,9 @@
         </a>
       </li>
       <li>
-        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/posts/2017-05-21-HelloWorld.html&title=《Hello World》 — Cahcn的自留地&source=Cahcn的自留地" data-title=" QQ">
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/posts/2017-05-21-HelloWorld.html&title=《Hello World》 — Cahcn的自留地&source=
+宁缺毋滥
+" data-title=" QQ">
           <i class="icon icon-qq"></i>
         </a>
       </li>
@@ -430,7 +439,9 @@
         </a>
       </li>
       <li>
-        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/posts/2017-05-21-HelloWorld.html&title=《Hello World》 — Cahcn的自留地&source=Cahcn的自留地" data-title=" QQ">
+        <a class="qq share-sns" target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://cahcn.github.io/posts/2017-05-21-HelloWorld.html&title=《Hello World》 — Cahcn的自留地&source=
+宁缺毋滥
+" data-title=" QQ">
           <i class="icon icon-qq"></i>
         </a>
       </li>
