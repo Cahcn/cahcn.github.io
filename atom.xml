@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-03-11T14:06:21.353Z</updated>
+  <updated>2018-03-11T14:15:05.601Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html"/>
     <id>https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html</id>
     <published>2018-03-11T09:42:56.000Z</published>
-    <updated>2018-03-11T14:06:21.353Z</updated>
+    <updated>2018-03-11T14:15:05.601Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年3月9日晚间，用SDR收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。<br>根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，这100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。<br>因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。</p>
+    <content type="html"><![CDATA[<p>2018年3月9日晚间，用SDR设备收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。<br>根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。<br>因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。</p>
 <a id="more"></a>
 <figure class="image-bubble">
                 <div class="img-lightbox">
@@ -36,7 +36,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;2018年3月9日晚间，用SDR收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。&lt;br&gt;根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，这100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。&lt;br&gt;因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。&lt;/p&gt;
+      &lt;p&gt;2018年3月9日晚间，用SDR设备收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。&lt;br&gt;根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。&lt;br&gt;因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。&lt;/p&gt;
     
     </summary>
     
