@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-03-11T14:15:05.601Z</updated>
+  <updated>2018-03-12T12:08:26.777Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -16,13 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>(3/12更新)RAE短波频率变更</title>
+    <link href="https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html"/>
+    <id>https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html</id>
+    <published>2018-03-12T11:32:16.000Z</published>
+    <updated>2018-03-12T12:08:26.777Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年3月11日，RAE在年内第四次调整由WRMI代为发射的短波节目时间，具体的调整情况为：<br>9395kHz英语节目的播出时间由02:00-03:00调整为01:00-02:00，<br>9395kHz德语、意大利语节目疑似取消由WRMI代发的安排，WRMI官方最新公布的频率表中对应的时段已替换为播出其它节目。</p>
+<p>以上调整均没有体现在<a href="http://www.radionacional.com.ar/rae-argentina-al-mundo/" target="_blank" rel="external">RAE官方网站</a>公布的频率表中。</p>
+<a id="more"></a>
+<p>2018年3月11日起的频率表（时间默认为UTC）<br>01:00-02:00　 9395kHz　周二至周六　英语　　　北美洲方向<br>08:00-09:00　 9455kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>09:00-10:00　 9455kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>12:00-13:00　 9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>22:00-23:00　 5950kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>23:30-00:00　 7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（汉语和日语节目实际为周二至周六播出）</p>
+<p><del>19:00-20:00　 9395kHz　周一至周五　德语　　　北美洲、欧洲方向</del><br><del>20:00-21:00　 9395kHz　周一至周五　意大利语　北美洲、欧洲方向</del></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年3月11日，RAE在年内第四次调整由WRMI代为发射的短波节目时间，具体的调整情况为：&lt;br&gt;9395kHz英语节目的播出时间由02:00-03:00调整为01:00-02:00，&lt;br&gt;9395kHz德语、意大利语节目疑似取消由WRMI代发的安排，WRMI官方最新公布的频率表中对应的时段已替换为播出其它节目。&lt;/p&gt;
+&lt;p&gt;以上调整均没有体现在&lt;a href=&quot;http://www.radionacional.com.ar/rae-argentina-al-mundo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;RAE官方网站&lt;/a&gt;公布的频率表中。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>长春FM99.1中国之声开始发射CDR信号</title>
     <link href="https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html"/>
     <id>https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html</id>
     <published>2018-03-11T09:42:56.000Z</published>
-    <updated>2018-03-11T14:15:05.601Z</updated>
+    <updated>2018-03-11T14:21:10.421Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年3月9日晚间，用SDR设备收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。<br>根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。<br>因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。</p>
+    <content type="html"><![CDATA[<p>2018年3月9日晚间，用SDR接收机收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。<br>根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。<br>因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。</p>
 <a id="more"></a>
 <figure class="image-bubble">
                 <div class="img-lightbox">
@@ -36,7 +62,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;2018年3月9日晚间，用SDR设备收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。&lt;br&gt;根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。&lt;br&gt;因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。&lt;/p&gt;
+      &lt;p&gt;2018年3月9日晚间，用SDR接收机收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。&lt;br&gt;根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。&lt;br&gt;因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。&lt;/p&gt;
     
     </summary>
     
@@ -295,43 +321,6 @@
     <summary type="html">
     
       &lt;p&gt;据NHK华语广播《波短情长》节目介绍，2018年1月14日起，NHK华语广播节目在香港新城知讯台FM99.7播出。&lt;br&gt;节目于香港当地周一至周日每天6:30-7:00、23:00-23:30两个时段播出（不含NHK制作的10分钟新闻节目）。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>(1/9更新)RAE短波频率变更</title>
-    <link href="https://cahcn.github.io/posts/2018-01-07-RAE-change-frequency.html"/>
-    <id>https://cahcn.github.io/posts/2018-01-07-RAE-change-frequency.html</id>
-    <published>2018-01-09T15:52:06.000Z</published>
-    <updated>2018-03-06T14:46:15.634Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年1月10日，RAE调整由WRMI代为发射的9455kHz日语和汉语节目的播出时间，但<a href="http://www.radionacional.com.ar/rae-argentina-al-mundo/" target="_blank" rel="external">官方网站</a>上的频率表尚未变更。<br>调整后，08:00-09:00播出汉语节目，09:00-10:00播出日语节目（以上均为UTC时间）</p>
-<a id="more"></a>
-<h4 id="2018年1月10日起的频率表"><a href="#2018年1月10日起的频率表" class="headerlink" title="2018年1月10日起的频率表"></a>2018年1月10日起的频率表</h4><p>（时间默认为UTC）<br>02:00-03:00　 9395kHz　周二至周六　英语　　　北美洲方向<br>08:00-09:00　 9455kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>09:00-10:00　 9455kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>12:00-13:00　 9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>19:00-20:00　 9395kHz　周一至周五　德语　　　北美洲、欧洲方向<br>20:00-21:00　 9395kHz　周一至周五　意大利语　北美洲、欧洲方向<br>22:00-23:00　 5950kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>23:30-00:00　 7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（时差原因，汉语和日语节目实际为周二至周六播出）<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/9455kHz-WRMI.jpg" alt="9455kHz WRMI" title="">
-                </div>
-                <div class="image-caption">9455kHz WRMI</div>
-            </figure></p>
-<h4 id="以下是RAE各语种频率变动记录（由WRMI代为发射）"><a href="#以下是RAE各语种频率变动记录（由WRMI代为发射）" class="headerlink" title="以下是RAE各语种频率变动记录（由WRMI代为发射）"></a>以下是RAE各语种频率变动记录（由WRMI代为发射）</h4><h5 id="2018年1月8日"><a href="#2018年1月8日" class="headerlink" title="2018年1月8日"></a>2018年1月8日</h5><p>RAE取消了11580kHz 21:00-22:00的德语节目、22:00-23:00的意大利语节目播出，<br>23:30-00:00播出的法语节目频率由11580kHz变更为7780kHz<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/RAE-Frequency.jpg" alt="官方公布的频率表（2018年1月8日起）" title="">
-                </div>
-                <div class="image-caption">官方公布的频率表（2018年1月8日起）</div>
-            </figure><br><a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/01/08074621/8-3n3ro-sche.jpg" target="_blank" rel="external">http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/01/08074621/8-3n3ro-sche.jpg</a></p>
-<h5 id="2018年1月1日"><a href="#2018年1月1日" class="headerlink" title="2018年1月1日"></a>2018年1月1日</h5><p>RAE阿根廷公共对外广播电台调整各语种节目短波频率，<br><del>调整后的频率表如下（时间默认为UTC）：</del><br><del>02:00-03:00　 9395kHz　英语</del><br><del>08:00-09:00　 9455kHz　日语</del><br><del>09:00-10:00　 9455kHz　汉语</del><br><del>19:00-20:00　 9395kHz　德语</del><br><del>20:00-21:00　 9395kHz　意大利语</del><br><del>21:00-22:00　11580kHz　德语</del><br><del>22:00-23:00　 5950kHz　西班牙语</del><br><del>22:00-23:00　11580kHz　意大利语</del><br><del>23:30-00:00　11580kHz　法语</del></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2018年1月10日，RAE调整由WRMI代为发射的9455kHz日语和汉语节目的播出时间，但&lt;a href=&quot;http://www.radionacional.com.ar/rae-argentina-al-mundo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;官方网站&lt;/a&gt;上的频率表尚未变更。&lt;br&gt;调整后，08:00-09:00播出汉语节目，09:00-10:00播出日语节目（以上均为UTC时间）&lt;/p&gt;
     
     </summary>
     
