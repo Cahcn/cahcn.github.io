@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-03-28T11:35:14.376Z</updated>
+  <updated>2018-04-03T15:10:25.176Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NCC取消RTI中波频率1206/1359/1503kHz的备案</title>
+    <link href="https://cahcn.github.io/posts/2018-04-03-Radio-Taiwan-International.html"/>
+    <id>https://cahcn.github.io/posts/2018-04-03-Radio-Taiwan-International.html</id>
+    <published>2018-04-03T12:18:19.000Z</published>
+    <updated>2018-04-03T15:10:25.176Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年4月2日，NCC公布了最新的《无线调幅(AM)广播电台频率及发射机位址》文档，与2018年1月2日公布的文档对比，<br>删去了RTI三个中波频率（1206、1359、1503kHz）的备案。<br>其中，1206kHz为RTI民雄分台发射，1359、1503kHz为RTI枋寮分台发射。</p>
+<a id="more"></a>
+<p>RTI官网在A18换频前公布的<a href="http://www.rti.org.tw/upload/material/152160404523536.pdf" target="_blank" rel="external">《台湾之音华语网频率表(2018/03/25更新)》</a>文档中也已删去1206、1503kHz两个频率的信息（2017年11月1日更新的频率表仍收录有这两个中波频率）。<br>目前1206、1359、1503kHz三个频率的发射情况未知，因种种原因，中国大陆地区难以收听RTI这三个中波频率。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年4月2日，NCC公布了最新的《无线调幅(AM)广播电台频率及发射机位址》文档，与2018年1月2日公布的文档对比，&lt;br&gt;删去了RTI三个中波频率（1206、1359、1503kHz）的备案。&lt;br&gt;其中，1206kHz为RTI民雄分台发射，1359、1503kHz为RTI枋寮分台发射。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>(3/28更新)RAE短波频率变更</title>
@@ -622,53 +645,6 @@
     </summary>
     
       <category term="software" scheme="https://cahcn.github.io/categories/software/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CNR 1 Jamming</title>
-    <link href="https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html"/>
-    <id>https://cahcn.github.io/posts/2017-10-02-CNR-Jamming.html</id>
-    <published>2017-10-02T15:40:02.000Z</published>
-    <updated>2018-03-06T14:35:08.889Z</updated>
-    
-    <content type="html"><![CDATA[<p>自2017年夏季起，留意到短波某些频率在特定时段上长期出现中国之声（CNR 1）的干扰信号，<br>但在对应时段上没有中国政府认为应该干扰的“敌台”（如VOA、RFA、RTI等）在发射，<br>至于这些长期存在的的中国之声干扰信号的用途，不得而知。</p>
-<p>下面是本人或国外BCLer监听到的未知用途的中国之声干扰信号频率信息，持续更新中…</p>
-<a id="more"></a>
-<blockquote>
-<p>目前仍存在干扰未知对象的CNR 1频率（北京时间）<br>  15375kHz　08:00-09:00</p>
-</blockquote>
-<h4 id="2017年9月中旬"><a href="#2017年9月中旬" class="headerlink" title="2017年9月中旬"></a>2017年9月中旬</h4><p>最早的收听报告在9月13日，日本BCLer接收到夜间时段的7470kHz，似乎为对东南亚地区发射。<br>本人曾于7月12日就已经收到过22:00-23:00时段的17580kHz，但第二天未在该频率上收到信号。</p>
-<blockquote>
-<p>09:00-11:00　17730kHz<br>  19:00-22:00　7470kHz，19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号<br>  22:00-23:00　17580kHz</p>
-</blockquote>
-<p>9月末，17730kHz发射时间缩减为09:00-10:00。<br>10月11日，菲律宾SDR收听17580kHz，信号十分微弱；深圳SDR收听无信号。<br>10月15日，菲律宾SDR收听7470kHz，信号十分微弱；深圳SDR收听需要将默认接收天线改为4号南北方向的，可收到微弱信号。<br>10月27日，菲律宾SDR收听7470kHz，信号已恢复正常水平。</p>
-<h4 id="2017年10月末"><a href="#2017年10月末" class="headerlink" title="2017年10月末"></a>2017年10月末</h4><p>早间新增7:00-7:45时段的7490kHz。</p>
-<blockquote>
-<p>07:00-07:45　7490kHz<br>  09:00-10:00　17730kHz<br>  19:00-22:00　7470kHz，19:00-21:00为两个CNR 1信号混合、21:00-22:00为锣鼓台+CNR 1信号<br>  22:00-23:00　17580kHz</p>
-</blockquote>
-<p>10月29日7470、17580、17730kHz已无信号，7490kHz消失时间未知<br>（10月29日至30日，全球短波广播更换频率为冬季频率…）</p>
-<h4 id="2017年11月末"><a href="#2017年11月末" class="headerlink" title="2017年11月末"></a>2017年11月末</h4><p>早间新增8:00-9:00时段的15375kHz。</p>
-<blockquote>
-<p>08:00-09:00　15375kHz</p>
-</blockquote>
-<h4 id="2017年12月上旬"><a href="#2017年12月上旬" class="headerlink" title="2017年12月上旬"></a>2017年12月上旬</h4><p>12月10日收听发现，夜间新增20:00-21:00时段的11985kHz。</p>
-<blockquote>
-<p>08:00-09:00　15375kHz<br>  20:00-21:00　11985kHz</p>
-</blockquote>
-<p>12月下旬，11985kHz已停止发射<br>1月16日收听，15375kHz仍在正常发射</p>
-<h4 id="杂记"><a href="#杂记" class="headerlink" title="杂记"></a>杂记</h4><p>除了上述提到的频率之外，下午时段用深圳SDR接收机还收到了几个不明用途的CNR 1信号：<br>17210kHz　9.13、9.27、10.2、10.18、10.25、11.26、12.3收到过，信号弱，<strong>9月27日收听直到17:40仍在发射，11月26日早9点也可以收到</strong><br>17455kHz　9.13、10.2、10.15、10.18收到过，信号弱，大约在15:00结束发射<br>17495kHz　9.13、9.24、9.27、10.2、10.6、10.15、10.18、10.25、11.3、12.2、12.3、12.15收到过，信号弱，<strong>9月27日收听直到17:40仍在发射</strong></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;自2017年夏季起，留意到短波某些频率在特定时段上长期出现中国之声（CNR 1）的干扰信号，&lt;br&gt;但在对应时段上没有中国政府认为应该干扰的“敌台”（如VOA、RFA、RTI等）在发射，&lt;br&gt;至于这些长期存在的的中国之声干扰信号的用途，不得而知。&lt;/p&gt;
-&lt;p&gt;下面是本人或国外BCLer监听到的未知用途的中国之声干扰信号频率信息，持续更新中…&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
     
   </entry>
