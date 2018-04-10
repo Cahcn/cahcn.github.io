@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-04-03T16:26:09.357Z</updated>
+  <updated>2018-04-10T13:55:49.722Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,77 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CDR数字广播专用收音机上市销售</title>
+    <link href="https://cahcn.github.io/posts/2018-04-10-cdr-signal-receiver.html"/>
+    <id>https://cahcn.github.io/posts/2018-04-10-cdr-signal-receiver.html</id>
+    <published>2018-04-10T12:58:12.000Z</published>
+    <updated>2018-04-10T13:55:49.722Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年3月，具备CDR（Convergent Digital Radio，旧称China Digital Radio）信号接收解码功能的收音机上架中国网购平台。<br>共有两种型号，分别为：海尔HCDR-01型和华音S2型。根据店家报价，两种机型的销售价格为580元、800元。</p>
+<a id="more"></a>
+<p>两种型号CDR收音机的介绍、参数：<br><strong>海尔HCDR-01型（Haier HCDR-01）</strong></p>
+<blockquote>
+<p>海尔HCDR-01型数字音频广播的便携式收音机，采用海尔公司自主开发的Hi5216方案，Hi5216芯片主要面对中高层次数字收音机市场。高集成度设计，系统采用总线式结构，嵌入式软件设计，整机稳定可靠，性能优良。设计有内置重低音扬声器，可接收FM调频广播及CDR数字广播。支持应急广播功能，解决突发事件预警，自然灾害预警等功能，为确保人民群众生命财产安全提供必要的技术手段支持。</p>
+</blockquote>
+<p>主要功能特性：</p>
+<ol>
+<li>CDR数字广播接收</li>
+<li>FM调频广播接收</li>
+<li>音频输入(可作为音箱使用)</li>
+<li>TF卡音乐播放</li>
+<li>重低音效果</li>
+<li>USB数据串口</li>
+<li>电量显示</li>
+<li>全数字按键操作</li>
+<li>音频输出（可接耳机收听广播）</li>
+<li>频道自动搜索</li>
+</ol>
+<p>硬件主要组成部分：<br>主芯片：Hi5216最高频率可达400MHz<br>FLASH（闪存）：4MB<br>DDR SDRAM（内存）：16MB<br>加密芯片：LKT4201N</p>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/Haier-HCDR-01.jpg" alt="海尔HCDR-01型" title="">
+                </div>
+                <div class="image-caption">海尔HCDR-01型</div>
+            </figure>
+<p><strong>华音S2型（SinoSound S2）</strong></p>
+<blockquote>
+<p>华音S2 CDR接收机是由北京华音科技有限公司开发的国内首款支持CDR(Convergent Digital Radio)数字广播的接收机，外观简洁大方，操作简单，可满足广大用户对高品质数字音频广播收听的需求。</p>
+</blockquote>
+<p>主要功能特性：</p>
+<ol>
+<li>CDR(Convergent Digital Radio)数字广播接收</li>
+<li>调频立体声广播接收(87-108MHz)</li>
+<li>ATS自动搜索并存储电台</li>
+<li>数字键直接输入频率，同时具有键盘锁定功能，防止误操作</li>
+<li>LED数码管显示</li>
+<li>可播放MP3格式音乐文件</li>
+<li>采用优质喇叭，内置低频增幅器</li>
+<li>使用18650型锂电池供电，通过USB口充电，外置供电时自动断开内部电池，专业充电管理，保护电池安全及寿命</li>
+<li>设有音频输入插口，可作为电脑音箱</li>
+</ol>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/SinoSound-S2.jpg" alt="华音S2型" title="">
+                </div>
+                <div class="image-caption">华音S2型</div>
+            </figure>
+<p>两种型号的CDR收音机均只支持FM和CDR广播信号接收，不支持中波和短波接收，就功能来说似乎不如市面上百元价位的收音机。另外，价格上偏贵，又会有多少人选择购买尝鲜呢？（补充：该店家销售的华音S2型收音机上市初期标价488元，三月末便涨价至800元，原因不明）</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年3月，具备CDR（Convergent Digital Radio，旧称China Digital Radio）信号接收解码功能的收音机上架中国网购平台。&lt;br&gt;共有两种型号，分别为：海尔HCDR-01型和华音S2型。根据店家报价，两种机型的销售价格为580元、800元。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>NCC取消RTI中波频率1206/1359/1503kHz的备案</title>
@@ -44,10 +115,11 @@
     <link href="https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html"/>
     <id>https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html</id>
     <published>2018-03-28T10:39:16.000Z</published>
-    <updated>2018-03-28T11:35:14.376Z</updated>
+    <updated>2018-04-10T11:32:18.075Z</updated>
     
     <content type="html"><![CDATA[<p>2018年3月26日，RAE在2018年内第五次调整由WRMI代为发射的短波节目频率，具体的调整情况为：<br>英语节目新增9455kHz频率播出，与9395kHz频率的播出时间相同，均为01:00-02:00<br>德语、意大利语节目安排重新出现在WRMI的表格中</p>
 <p>RAE官方网站公布的<a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/03/27113228/Schedule-Aprile-2018-520.jpg" target="_blank" rel="external">频率表（2018年4月1日起）</a>与WRMI表格数据有几处不同：<br>A18起，英语节目新增的9455kHz频率并没有体现在RAE官方频率表中；<br>1月10日起，日语和汉语节目互换播出时间，而RAE官方频率表仍为旧的播出时间</p>
+<p><strong>据日本一些广播爱好者消息，4月初RAE汉语和日语节目再次互换播出时间，恢复为1月10日之前的播出时间，即先播出日语节目，后播汉语节目</strong></p>
 <a id="more"></a>
 <p>2018年3月26日起的频率表（时间默认为UTC）<br>01:00-02:00　9395kHz　周二至周六　英语　　　北美洲方向<br>01:00-02:00　9455kHz　周二至周六　英语　　　北美西海岸、亚洲方向<br>08:00-09:00　9455kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>09:00-10:00　9455kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>12:00-13:00　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>19:00-20:00　9395kHz　周一至周五　德语　　　北美洲、欧洲方向<br>20:00-21:00　9395kHz　周一至周五　意大利语　北美洲、欧洲方向<br>22:00-23:00　5950kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（汉语和日语节目实际为周二至周六播出）</p>
 ]]></content>
@@ -56,6 +128,7 @@
     
       &lt;p&gt;2018年3月26日，RAE在2018年内第五次调整由WRMI代为发射的短波节目频率，具体的调整情况为：&lt;br&gt;英语节目新增9455kHz频率播出，与9395kHz频率的播出时间相同，均为01:00-02:00&lt;br&gt;德语、意大利语节目安排重新出现在WRMI的表格中&lt;/p&gt;
 &lt;p&gt;RAE官方网站公布的&lt;a href=&quot;http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/03/27113228/Schedule-Aprile-2018-520.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;频率表（2018年4月1日起）&lt;/a&gt;与WRMI表格数据有几处不同：&lt;br&gt;A18起，英语节目新增的9455kHz频率并没有体现在RAE官方频率表中；&lt;br&gt;1月10日起，日语和汉语节目互换播出时间，而RAE官方频率表仍为旧的播出时间&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;据日本一些广播爱好者消息，4月初RAE汉语和日语节目再次互换播出时间，恢复为1月10日之前的播出时间，即先播出日语节目，后播汉语节目&lt;/strong&gt;&lt;/p&gt;
     
     </summary>
     
@@ -92,11 +165,11 @@
   </entry>
   
   <entry>
-    <title>CNR、CRI、CCTV三台将合并组建&quot;中央广播电视总台&quot;</title>
+    <title>CNR、CRI、CCTV三台合并组建&quot;中央广播电视总台&quot;</title>
     <link href="https://cahcn.github.io/posts/2018-03-21.html"/>
     <id>https://cahcn.github.io/posts/2018-03-21.html</id>
     <published>2018-03-21T08:34:13.000Z</published>
-    <updated>2018-03-22T14:58:46.825Z</updated>
+    <updated>2018-04-10T12:49:23.398Z</updated>
     
     <content type="html"><![CDATA[<p>3月21日，新华社对外发布了中国共产党中央委员会《深化党和国家机构改革方案》，方案提到撤销中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台，组建中央广播电视总台。原文如下：</p>
 <blockquote>
@@ -203,21 +276,21 @@
   </entry>
   
   <entry>
-    <title>经总局批准的地级以上电视台高清频道（截至2017年底）</title>
+    <title>经总局批准的地级以上电视台高清电视频道（截至2017年底）</title>
     <link href="https://cahcn.github.io/posts/2018-03-01-High-Definition-Television.html"/>
     <id>https://cahcn.github.io/posts/2018-03-01-High-Definition-Television.html</id>
     <published>2018-03-01T10:11:15.000Z</published>
-    <updated>2018-04-05T18:28:16.931Z</updated>
+    <updated>2018-04-08T15:53:25.319Z</updated>
     
-    <content type="html"><![CDATA[<p>本列表数据来源于国家广播电视总局公布的<a href="http://www.sapprft.gov.cn/sapprft/govpublic/9770/357800.shtml" target="_blank" rel="external">《地级以上广播电视播出机构及频道频率名录（截至2017年底）》</a>。<br>数据按照民政部公布的行政区划代码排列，除加注“（xx卫视）”之外，并未作任何改动。</p>
+    <content type="html"><![CDATA[<p>本列表数据来源于国家广播电视总局公布的<a href="http://www.sapprft.gov.cn/sapprft/govpublic/9770/357800.shtml" target="_blank" rel="external">《地级以上广播电视播出机构及频道频率名录（截至2017年底）》</a>。<br>数据按照民政部公布的行政区划代码排列，除加注“（xx卫视）”之外，未作任何改动。</p>
 <p>列表数据不包括：</p>
 <ol>
-<li>不受国家广播电视总局管理的香港、澳门以及台湾地区电视台</li>
-<li>地方已经实施高标清同播但并未上报备案的频道</li>
-<li>地方私自开设，未在总局备案的频道</li>
-<li>需要额外付费收看的频道、移动电视频道、地方开设的对外国际频道</li>
-<li>各地教育电视台开设频道（《名录》不再收录各地教育电视台开设频道数据）</li>
-<li>县级电视台开设频道</li>
+<li>不受国家广播电视总局管理的香港、澳门以及台湾地区电视台开办频道</li>
+<li>地方已经实施高标清同播但并未上报备案的电视频道</li>
+<li>地方私自开设，未在总局备案的电视频道</li>
+<li>需要额外付费收看的电视频道、移动电视频道、地方开设的对外电视国际频道</li>
+<li>各地教育电视台开设的频道（《名录》已不再公开各地教育电视台开设频道数据）</li>
+<li>县级及县级以下电视台开设频道</li>
 </ol>
 <a id="more"></a>
 <h3 id="中央（18套）"><a href="#中央（18套）" class="headerlink" title="中央（18套）"></a>中央（18套）</h3><p><strong>中央电视台</strong><br>1.综合频道（高标清同播）<br>2.财经频道（高标清同播）<br>3.综艺频道（高标清同播）<br>4.中文国际频道（亚洲版高标清同播）<br>5.体育频道（高标清同播）<br>6.电影频道（高标清同播）<br>7.军事·农业频道（高标清同播）<br>8.电视剧频道（高标清同播）<br>9.纪录频道（国内版、国际版）（高标清同播）<br>10.科教频道（高标清同播）<br>11.社会与法频道（高标清同播）<br>12.少儿频道（高标清同播）<br>13.英语新闻频道（高标清同播）<br>14.法语国际频道（高标清同播）<br>15.西班牙语国际频道（高标清同播）<br>16.阿拉伯语国际频道（高标清同播）<br>17.俄语国际频道（高标清同播）<br>18.<strong>体育赛事频道（高清）</strong></p>
@@ -256,15 +329,15 @@
     
     <summary type="html">
     
-      &lt;p&gt;本列表数据来源于国家广播电视总局公布的&lt;a href=&quot;http://www.sapprft.gov.cn/sapprft/govpublic/9770/357800.shtml&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《地级以上广播电视播出机构及频道频率名录（截至2017年底）》&lt;/a&gt;。&lt;br&gt;数据按照民政部公布的行政区划代码排列，除加注“（xx卫视）”之外，并未作任何改动。&lt;/p&gt;
+      &lt;p&gt;本列表数据来源于国家广播电视总局公布的&lt;a href=&quot;http://www.sapprft.gov.cn/sapprft/govpublic/9770/357800.shtml&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《地级以上广播电视播出机构及频道频率名录（截至2017年底）》&lt;/a&gt;。&lt;br&gt;数据按照民政部公布的行政区划代码排列，除加注“（xx卫视）”之外，未作任何改动。&lt;/p&gt;
 &lt;p&gt;列表数据不包括：&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;不受国家广播电视总局管理的香港、澳门以及台湾地区电视台&lt;/li&gt;
-&lt;li&gt;地方已经实施高标清同播但并未上报备案的频道&lt;/li&gt;
-&lt;li&gt;地方私自开设，未在总局备案的频道&lt;/li&gt;
-&lt;li&gt;需要额外付费收看的频道、移动电视频道、地方开设的对外国际频道&lt;/li&gt;
-&lt;li&gt;各地教育电视台开设频道（《名录》不再收录各地教育电视台开设频道数据）&lt;/li&gt;
-&lt;li&gt;县级电视台开设频道&lt;/li&gt;
+&lt;li&gt;不受国家广播电视总局管理的香港、澳门以及台湾地区电视台开办频道&lt;/li&gt;
+&lt;li&gt;地方已经实施高标清同播但并未上报备案的电视频道&lt;/li&gt;
+&lt;li&gt;地方私自开设，未在总局备案的电视频道&lt;/li&gt;
+&lt;li&gt;需要额外付费收看的电视频道、移动电视频道、地方开设的对外电视国际频道&lt;/li&gt;
+&lt;li&gt;各地教育电视台开设的频道（《名录》已不再公开各地教育电视台开设频道数据）&lt;/li&gt;
+&lt;li&gt;县级及县级以下电视台开设频道&lt;/li&gt;
 &lt;/ol&gt;
     
     </summary>
@@ -352,7 +425,7 @@
     <link href="https://cahcn.github.io/posts/2018-02-07-96335-Baise.html"/>
     <id>https://cahcn.github.io/posts/2018-02-07-96335-Baise.html</id>
     <published>2018-02-07T04:02:15.000Z</published>
-    <updated>2018-03-24T12:45:26.701Z</updated>
+    <updated>2018-04-08T15:50:53.314Z</updated>
     
     <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.2.6，本列表为三网融合机顶盒可收看的电视频道列表<br>共传输150套标、高清电视节目信号(含付费频道)<br>73、74、124频道为需要额外付费收看的电视频道，<br>119-123、148频道为广西广电网络测试频道（一说测试频道实际传输一些普通用户无法开通的频道）<br>除右江区之外的各县（市），频道列表中的1频道为当地县级广电自办频道，其余频道往后顺延一位</p>
 <a id="more"></a>
@@ -363,8 +436,8 @@
                 </div>
                 <div class="image-caption"></div>
             </figure>
-<h4 id="2018年3月24日由西塘补充信息"><a href="#2018年3月24日由西塘补充信息" class="headerlink" title="2018年3月24日由西塘补充信息"></a>2018年3月24日由<a href="https://weibo.com/u/1623852933" target="_blank" rel="external">西塘</a>补充信息</h4><p>广西广电城市网148频道是南方卫视，123是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p>
-<h4 id="频道异动"><a href="#频道异动" class="headerlink" title="频道异动"></a>频道异动</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月1日，新增湖北卫视HD，频道号146<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视</p>
+<h4 id="2018年3月24日由西塘补充信息"><a href="#2018年3月24日由西塘补充信息" class="headerlink" title="2018年3月24日由西塘补充信息"></a>2018年3月24日由<a href="https://weibo.com/u/1623852933" target="_blank" rel="external">西塘</a>补充信息</h4><p>广西广电城市网148频道是南方卫视，123频道是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p>
+<h4 id="频道异动"><a href="#频道异动" class="headerlink" title="频道异动"></a>频道异动</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月1日，新增湖北卫视HD，频道号146<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视<br>· 2018年4月3日，新增足球频道HD</p>
 <h3 id="广播频道"><a href="#广播频道" class="headerlink" title="广播频道"></a>广播频道</h3><p>数据更新至2017.7.11（广播频道常年不变，没什么更新的必要了…）<br>共传输21套广播节目信号，央广8套、国际台5套、广西区台7套(含BBR)、市台1套<br>其中8频道“英语综合广播”为CRI EZFM，9频道“流行音乐广播”为CRI HIT FM<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
@@ -602,45 +675,6 @@
     <summary type="html">
     
       &lt;p&gt;2017年11月20日，蒙古之声广播电台部分时段频率调整。&lt;br&gt;根据HFCC网站11月20日更新的数据，蒙古之声广播电台下午及晚间使用的12035kHz变更为12085kHz，其它参数信息、各语种时间不变。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>中央人民广播电台香港之声新增调频频率FM87.8</title>
-    <link href="https://cahcn.github.io/posts/2017-10-29-CNR14.html"/>
-    <id>https://cahcn.github.io/posts/2017-10-29-CNR14.html</id>
-    <published>2017-10-28T16:45:03.000Z</published>
-    <updated>2018-03-06T14:37:13.897Z</updated>
-    
-    <content type="html"><![CDATA[<p>2017年10月16日下午，国家新闻出版广电总局网站更新了<a href="http://211.146.6.56/" target="_blank" rel="external">《经批准可以使用的无线广播电视发射频率/频道表》</a>（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。<br>2017年10月29日，通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。<br>2017年11月1日，FM87.8调整为转播香港之声节目，自此香港之声实现中波、调频双频覆盖。</p>
-<a id="more"></a>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/20170331-Shenzhen-87.8MHz.jpg" alt="截至2017年3月31日数据" title="">
-                </div>
-                <div class="image-caption">截至2017年3月31日数据</div>
-            </figure>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/20170930-Shenzhen-87.8MHz.jpg" alt="截至2017年9月30日数据" title="">
-                </div>
-                <div class="image-caption">截至2017年9月30日数据</div>
-            </figure>
-<p>此前，香港电台于2017年9月3日午夜12时起，终止数码声音广播服务。原由香港数码广播32台转播的香港之声改由香港电台第六台675kHz 24小时转播。</p>
-<p>截至2017年11月初，华夏之声、香港之声的无线覆盖情况：<br>CNR 7 华夏之声<br>104.9MHz　中山市　五桂山广播电视发射台<br>1215kHz　珠海市<br>（佛山93.2MHz规划频率未启用）</p>
-<p>CNR 14 香港之声<br>87.8MHz　深圳市　梧桐山广播电视发射台<br>675kHz　香港（<a href="https://cahcn.github.io/posts/2017-08-11-RTHK.html">由香港电台第六台转播</a>）</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2017年10月16日下午，国家新闻出版广电总局网站更新了&lt;a href=&quot;http://211.146.6.56/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《经批准可以使用的无线广播电视发射频率/频道表》&lt;/a&gt;（数据截至2017年9月30日），在附件2“调频广播频率表”中，深圳梧桐山广播电视发射台发射的87.8MHz备案由中央人民广播电台华夏之声变更为香港之声。&lt;br&gt;2017年10月29日，通过香港SDR接收机实际收听确认，深圳FM87.8仍在转播华夏之声节目，调整时间未知。&lt;br&gt;2017年11月1日，FM87.8调整为转播香港之声节目，自此香港之声实现中波、调频双频覆盖。&lt;/p&gt;
     
     </summary>
     
