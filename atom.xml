@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-04-17T11:13:14.302Z</updated>
+  <updated>2018-04-22T03:30:36.259Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -16,21 +16,51 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>(4/22更新)RAE短波播出时间变更</title>
+    <link href="https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html"/>
+    <id>https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html</id>
+    <published>2018-04-22T02:28:31.000Z</published>
+    <updated>2018-04-22T03:30:36.259Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年4月21日，RAE在2018年内第七次调整由WRMI代为发射的短波节目播出时间，具体的调整情况为：<br>9955kHz的葡萄牙语节目时间由 11:00-12:00 缩减为 11:00-11:45<br>根据WRMI的节目时间表，RAE日语、汉语节目可能已改为每天播出？</p>
+<p>RAE官方网站也公布了<a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/03/27113228/Schedule-Aprile-2018-520.jpg" target="_blank" rel="external">频率表（2018年4月1日起）</a>，与WRMI公布的有所不同。<br>此外，RAE还给出了各语种网络流媒体的<a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/13125541/Horarios-Streaming-RAE-Abril-20181.jpg" target="_blank" rel="external">播出时间表</a>，与短波的播出时间不完全相同。</p>
+<a id="more"></a>
+<p>2018年4月21日起的频率表（时间默认为UTC）<br>01:00-02:00　9395kHz　周二至周六　英语　　　北美洲方向<br>01:00-02:00　9455kHz　周二至周六　英语　　　北美西海岸、亚洲方向<br>08:00-09:00　9455kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>09:00-10:00　9455kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>11:00-11:45　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>19:00-20:00　9395kHz　周一至周五　德语　　　北美洲、欧洲方向<br>20:00-21:00　9395kHz　周一至周五　意大利语　北美洲、欧洲方向<br>22:00-23:00　5950kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（汉语和日语节目原为周二至周六播出，可能已改为每天播出？）</p>
+<hr>
+<p>RAE短波似乎不按WRMI给出的时间发射，具体可参考：<br><a href="http://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html" target="_blank" rel="external">http://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年4月21日，RAE在2018年内第七次调整由WRMI代为发射的短波节目播出时间，具体的调整情况为：&lt;br&gt;9955kHz的葡萄牙语节目时间由 11:00-12:00 缩减为 11:00-11:45&lt;br&gt;根据WRMI的节目时间表，RAE日语、汉语节目可能已改为每天播出？&lt;/p&gt;
+&lt;p&gt;RAE官方网站也公布了&lt;a href=&quot;http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/03/27113228/Schedule-Aprile-2018-520.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;频率表（2018年4月1日起）&lt;/a&gt;，与WRMI公布的有所不同。&lt;br&gt;此外，RAE还给出了各语种网络流媒体的&lt;a href=&quot;http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/13125541/Horarios-Streaming-RAE-Abril-20181.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;播出时间表&lt;/a&gt;，与短波的播出时间不完全相同。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>CNR 12启用临时频率1557/6030kHz</title>
     <link href="https://cahcn.github.io/posts/2018-04-17-CNR12.html"/>
     <id>https://cahcn.github.io/posts/2018-04-17-CNR12.html</id>
     <published>2018-04-17T11:11:27.000Z</published>
-    <updated>2018-04-17T11:13:14.302Z</updated>
+    <updated>2018-04-20T13:45:04.487Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年4月17日，中央人民广播电台娱乐广播（CNR 12）发布公告，娱乐广播将于2018年4月19日至5月10日对中波747千赫的发射天线进行调试，747千赫停播期间频率将临时更换为1557千赫和6030千赫。这是中央人民广播电台继去年5月老年之声中波1053千赫、中国乡村之声中波720千赫在设备检修期间临时启用短波频率发射之后，央广旗下仅对北京及周边地区播出的节目再次使用短波频率向全国发射。</p>
+    <content type="html"><![CDATA[<p>2018年4月17日，中央人民广播电台娱乐广播（CNR 12）发布公告，娱乐广播将于2018年4月19日至5月10日对中波747千赫的发射天线进行调试，频率将暂时停播。747千赫停播期间频率临时更换为1557千赫和6030千赫。这是中央人民广播电台继去年5月老年之声中波1053千赫、中国乡村之声中波720千赫在设备检修期间临时启用短波频率发射之后，央广旗下仅对北京及周边地区播出的节目再次使用短波频率向全国发射。</p>
 <a id="more"></a>
+<blockquote>
+<p>1557kHz（北京发射的实验频率，夜间干扰RTI）<br>  6030kHz（CNR 1短波频率临时代播CNR 12）</p>
+</blockquote>
 <p>2017年6月，在老年之声、中国乡村之声中波频率检修完成前夕，许多听众在两套频率的微博及其它平台上留言，希望老年之声、中国乡村之声在中波频率恢复播出之后，保留短波频率发射，让全国大部分地区的听众通过收音机收听到这两套节目，但国家新闻出版广电总局没有给听众任何答复。</p>
 <p><a href="https://weibo.com/1827332193/GcvbjzLoY" target="_blank" rel="external">https://weibo.com/1827332193/GcvbjzLoY</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;2018年4月17日，中央人民广播电台娱乐广播（CNR 12）发布公告，娱乐广播将于2018年4月19日至5月10日对中波747千赫的发射天线进行调试，747千赫停播期间频率将临时更换为1557千赫和6030千赫。这是中央人民广播电台继去年5月老年之声中波1053千赫、中国乡村之声中波720千赫在设备检修期间临时启用短波频率发射之后，央广旗下仅对北京及周边地区播出的节目再次使用短波频率向全国发射。&lt;/p&gt;
+      &lt;p&gt;2018年4月17日，中央人民广播电台娱乐广播（CNR 12）发布公告，娱乐广播将于2018年4月19日至5月10日对中波747千赫的发射天线进行调试，频率将暂时停播。747千赫停播期间频率临时更换为1557千赫和6030千赫。这是中央人民广播电台继去年5月老年之声中波1053千赫、中国乡村之声中波720千赫在设备检修期间临时启用短波频率发射之后，央广旗下仅对北京及周边地区播出的节目再次使用短波频率向全国发射。&lt;/p&gt;
     
     </summary>
     
@@ -135,40 +165,6 @@
   </entry>
   
   <entry>
-    <title>(4/11更新)RAE短波频率变更</title>
-    <link href="https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html"/>
-    <id>https://cahcn.github.io/posts/2018-01-07-rae-change-frequency.html</id>
-    <published>2018-03-28T10:39:16.000Z</published>
-    <updated>2018-04-16T11:39:25.694Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年3月26日，RAE在2018年内第五次调整由WRMI代为发射的短波节目频率，具体的调整情况为：<br>英语节目新增9455kHz频率播出，与9395kHz频率的播出时间相同，均为01:00-02:00<br>德语、意大利语节目安排重新出现在WRMI的表格中</p>
-<p>RAE官方网站公布的<a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/03/27113228/Schedule-Aprile-2018-520.jpg" target="_blank" rel="external">频率表（2018年4月1日起）</a></p>
-<p><strong>据日本一些广播爱好者消息，4月3日RAE汉语和日语节目再次互换播出时间，恢复为1月10日之前的播出时间，即先播出日语节目，后播汉语节目</strong><br><strong>葡萄牙语播出时间实际为11:00-12:00 UTC</strong><br>使用北美的SDR接收9455kHz效果非常差，以上变化待确认</p>
-<a id="more"></a>
-<hr>
-<p>意大利听友<a href="https://www.facebook.com/dario.gabrielli.50" target="_blank" rel="external">Dario Gabrielli</a>在Facebook的WRTH群组提供了一些消息：<br>In a Mailing list dedicated to radio I received the following news. ARGENTINA. A18 schedule for RAE Argentina to the World via WRMI from 1 April:<br>English 0100-0200 Tue-Sat 9395 NAm (also // on 9455-ed)<br>Japanese 0800-0900 Mon-Fri 9455 WNAm &amp; Asia<br>Chinese 0900-1000 Mon-Fri 9455 WNAm &amp; Asia<br>Portuguese 1200-1300 Mon-Fri 9955 LAm<br>German 1900-2000 Mon-Fri 9395 NAm &amp; Eu<br>Italian 2000-2100 Mon-Fri 9395 NAm &amp; Eu<br>Spanish 2300-0000 Mon-Fri 5950 LAm<br>French 2330-0000 Mon-Fri 7780 NAm &amp; Eu (RAE on Twitter via Alan Pennington, April BDXC-UK Communication via DXLD)</p>
-<p>Don’t you believe it! As I have been reporting [but not on this list, of course — bdxc-news], some of these are incorrect! Even if they don’t know it in Bs. As.</p>
-<p>Portuguese has timeshifted for Miami DST to 1100-1200, also on 9455.<br>German was missing for a while, but eventually came back.<br>Italian has been failing to appear at all, but need to check again.</p>
-<p>Spanish has been at 2200-2300 and still shown on WRMI sked and why should it have changed? April 12 I check circa 2230 when it`s too weak to be sure, and there is also a SAH from something else on 5950. At 2330, however, I can tell WRMI is running Fámily Radio as scheduled; and still the SAH. Nothing but WRMI is scheduled in Aoki, EiBi and HFCC. RAE Chinese &amp; Japanese are difficult to confirm due to sleeping and lack of propagation, if really on the air. Should be on 5850 in the middle of our nights (Glenn Hauser, DX LISTENING DIGEST; also to bdxc-news io group)</p>
-<p>Mauno Ritola, Finland, replied April 13: <code>Nothing on either 9455 or 5850 kHz at 0820. And one more correction: 9455 kHz is on the air in Japanese at 0850 and continues in Chinese at 0900 with RAE ID</code> (Glenn Hauser, OK, DX LISTENING DIGEST)</p>
-<hr>
-<p>2018年4月3日起的频率表（时间默认为UTC）<br>01:00-02:00　9395kHz　周二至周六　英语　　　北美洲方向<br>01:00-02:00　9455kHz　周二至周六　英语　　　北美西海岸、亚洲方向<br>08:00-09:00　9455kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>09:00-10:00　9455kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>11:00-12:00　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>19:00-20:00　9395kHz　周一至周五　德语　　　北美洲、欧洲方向<br>20:00-21:00　9395kHz　周一至周五　意大利语　北美洲、欧洲方向<br>22:00-23:00　5950kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（汉语和日语节目实际为周二至周六播出）</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2018年3月26日，RAE在2018年内第五次调整由WRMI代为发射的短波节目频率，具体的调整情况为：&lt;br&gt;英语节目新增9455kHz频率播出，与9395kHz频率的播出时间相同，均为01:00-02:00&lt;br&gt;德语、意大利语节目安排重新出现在WRMI的表格中&lt;/p&gt;
-&lt;p&gt;RAE官方网站公布的&lt;a href=&quot;http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/03/27113228/Schedule-Aprile-2018-520.jpg&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;频率表（2018年4月1日起）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;据日本一些广播爱好者消息，4月3日RAE汉语和日语节目再次互换播出时间，恢复为1月10日之前的播出时间，即先播出日语节目，后播汉语节目&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;葡萄牙语播出时间实际为11:00-12:00 UTC&lt;/strong&gt;&lt;br&gt;使用北美的SDR接收9455kHz效果非常差，以上变化待确认&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>四川民族广播A18频率及节目时间表</title>
     <link href="https://cahcn.github.io/posts/2018-03-25-Sichuan.html"/>
     <id>https://cahcn.github.io/posts/2018-03-25-Sichuan.html</id>
@@ -196,17 +192,21 @@
   </entry>
   
   <entry>
-    <title>CNR、CRI、CCTV三台合并组建&quot;中央广播电视总台&quot;</title>
+    <title>中央广播电视总台(China Media Group)正式成立</title>
     <link href="https://cahcn.github.io/posts/2018-03-21.html"/>
     <id>https://cahcn.github.io/posts/2018-03-21.html</id>
     <published>2018-03-21T08:34:13.000Z</published>
-    <updated>2018-04-10T12:49:23.398Z</updated>
+    <updated>2018-04-20T14:22:52.741Z</updated>
     
-    <content type="html"><![CDATA[<p>3月21日，新华社对外发布了中国共产党中央委员会《深化党和国家机构改革方案》，方案提到撤销中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台，组建中央广播电视总台。原文如下：</p>
+    <content type="html"><![CDATA[<p>2018年4月19日，新组建的中央广播电视总台正式成立，原中央人民广播电台台址改为“中央广播电视总台复兴门办公区”、原中国国际广播电台台址改为“中央广播电视总台鲁谷办公区”、原中央电视台光华路办公区改为“中央广播电视总台光华路办公区”。<br>据CRI日语广播新闻，中央广播电视总台官方英文名称为“China Media Group”（由新闻中提到的日语片假名“チャイナ・メディア・グループ”转译得知）。</p>
+<p><a href="http://japanese.cri.cn/2021/2018/04/19/162s271988.htm" target="_blank" rel="external">http://japanese.cri.cn/2021/2018/04/19/162s271988.htm</a></p>
+<a id="more"></a>
+<hr>
+<p>CNR、CRI、CCTV三台合并组建”中央广播电视总台”</p>
+<p>3月21日，新华社对外发布了中国共产党中央委员会《深化党和国家机构改革方案》，方案提到撤销中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台，组建中央广播电视总台。原文如下：</p>
 <blockquote>
 <p>　　（三十六）组建中央广播电视总台。坚持正确舆论导向，高度重视传播手段建设和创新，提高新闻舆论传播力、引导力、影响力、公信力，是牢牢掌握意识形态工作领导权的重要抓手。为加强党对重要舆论阵地的集中建设和管理，增强广播电视媒体整体实力和竞争力，推动广播电视媒体、新兴媒体融合发展，加快国际传播能力建设，整合中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台，组建中央广播电视总台，作为国务院直属事业单位，归口中央宣传部领导。<br>　　主要职责是，宣传党的理论和路线方针政策，统筹组织重大宣传报道，组织广播电视创作生产，制作和播出广播电视精品，引导社会热点，加强和改进舆论监督，推动多媒体融合发展，加强国际传播能力建设，讲好中国故事等。<br>　　撤销中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台建制。对内保留原呼号，对外统一呼号为“中国之声”。</p>
 </blockquote>
-<a id="more"></a>
 <p>另外，国家新闻出版广电总局也在这次机构改革中撤销，组建国家广播电视总局。原文如下：</p>
 <blockquote>
 <p>　　（三十五）组建国家广播电视总局。为加强党对新闻舆论工作的集中统一领导，加强对重要宣传阵地的管理，牢牢掌握意识形态工作领导权，充分发挥广播电视媒体作为党的喉舌作用，在国家新闻出版广电总局广播电视管理职责的基础上组建国家广播电视总局，作为国务院直属机构。<br>　　主要职责是，贯彻党的宣传方针政策，拟订广播电视管理的政策措施并督促落实，统筹规划和指导协调广播电视事业、产业发展，推进广播电视领域的体制机制改革，监督管理、审查广播电视与网络视听节目内容和质量，负责广播电视节目的进口、收录和管理，协调推动广播电视领域走出去工作等。<br>　　不再保留国家新闻出版广电总局。</p>
@@ -216,10 +216,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;3月21日，新华社对外发布了中国共产党中央委员会《深化党和国家机构改革方案》，方案提到撤销中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台，组建中央广播电视总台。原文如下：&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;　　（三十六）组建中央广播电视总台。坚持正确舆论导向，高度重视传播手段建设和创新，提高新闻舆论传播力、引导力、影响力、公信力，是牢牢掌握意识形态工作领导权的重要抓手。为加强党对重要舆论阵地的集中建设和管理，增强广播电视媒体整体实力和竞争力，推动广播电视媒体、新兴媒体融合发展，加快国际传播能力建设，整合中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台，组建中央广播电视总台，作为国务院直属事业单位，归口中央宣传部领导。&lt;br&gt;　　主要职责是，宣传党的理论和路线方针政策，统筹组织重大宣传报道，组织广播电视创作生产，制作和播出广播电视精品，引导社会热点，加强和改进舆论监督，推动多媒体融合发展，加强国际传播能力建设，讲好中国故事等。&lt;br&gt;　　撤销中央电视台（中国国际电视台）、中央人民广播电台、中国国际广播电台建制。对内保留原呼号，对外统一呼号为“中国之声”。&lt;/p&gt;
-&lt;/blockquote&gt;
+      &lt;p&gt;2018年4月19日，新组建的中央广播电视总台正式成立，原中央人民广播电台台址改为“中央广播电视总台复兴门办公区”、原中国国际广播电台台址改为“中央广播电视总台鲁谷办公区”、原中央电视台光华路办公区改为“中央广播电视总台光华路办公区”。&lt;br&gt;据CRI日语广播新闻，中央广播电视总台官方英文名称为“China Media Group”（由新闻中提到的日语片假名“チャイナ・メディア・グループ”转译得知）。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://japanese.cri.cn/2021/2018/04/19/162s271988.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://japanese.cri.cn/2021/2018/04/19/162s271988.htm&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -456,7 +454,7 @@
     <link href="https://cahcn.github.io/posts/2018-02-07-96335-Baise.html"/>
     <id>https://cahcn.github.io/posts/2018-02-07-96335-Baise.html</id>
     <published>2018-02-07T04:02:15.000Z</published>
-    <updated>2018-04-15T12:48:25.495Z</updated>
+    <updated>2018-04-17T11:53:46.757Z</updated>
     
     <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.2.6，本列表为三网融合机顶盒可收看的电视频道列表<br>共传输150套标、高清电视节目信号(含付费频道)<br>73、74、124频道为需要额外付费收看的电视频道，<br>119-123、148频道为广西广电网络测试频道（一说测试频道实际传输一些普通用户无法开通的频道）<br>除右江区之外的各县（市），频道列表中的1频道为当地县级广电自办频道，其余频道往后顺延一位</p>
 <a id="more"></a>
@@ -467,7 +465,8 @@
                 </div>
                 <div class="image-caption"></div>
             </figure>
-<h4 id="2018年3月24日由西塘补充信息"><a href="#2018年3月24日由西塘补充信息" class="headerlink" title="2018年3月24日由西塘补充信息"></a>2018年3月24日由<a href="https://weibo.com/u/1623852933" target="_blank" rel="external">西塘</a>补充信息</h4><p>广西广电城市网148频道是南方卫视，123频道是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p>
+<h4 id="西塘补充了更详细的信息"><a href="#西塘补充了更详细的信息" class="headerlink" title="西塘补充了更详细的信息"></a><a href="https://weibo.com/u/1623852933" target="_blank" rel="external">西塘</a>补充了更详细的信息</h4><p>广西广电城市网148频道是南方卫视，123频道是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p>
+<p>2018年4月16日频道调整后，新增辽宁卫视高清实际是标清信号，足球频道高清右声道没有声音，广西广电网络测试频道减掉2个</p>
 <h4 id="频道异动"><a href="#频道异动" class="headerlink" title="频道异动"></a>频道异动</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月1日，新增湖北卫视HD，频道号146<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视<br>· 2018年4月3日，新增足球频道HD<br>· 2018年4月16日，高清频道顺序大调整，<a href="https://mp.weixin.qq.com/s/Zj0HLK7eayoA_NJCGwshzA" target="_blank" rel="external">新增11套高清频道</a>：</p>
 <blockquote>
 <p>­­6套央视高清频道（CCTV-2 / 4 / 7 / 10 / 12 / 14 HD）<br>  5套卫视高清频道（辽宁卫视HD、江西卫视HD、河北卫视HD、吉林卫视HD、福建东南卫视HD）</p>
