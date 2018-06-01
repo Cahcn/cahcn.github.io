@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-05-28T16:58:51.835Z</updated>
+  <updated>2018-06-01T09:15:01.176Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SOH relay RFA</title>
+    <link href="https://cahcn.github.io/posts/2018-06-01-SOH-relay-RFA.html"/>
+    <id>https://cahcn.github.io/posts/2018-06-01-SOH-relay-RFA.html</id>
+    <published>2018-06-01T08:53:23.000Z</published>
+    <updated>2018-06-01T09:15:01.176Z</updated>
+    
+    <content type="html"><![CDATA[<p>RFA普通话节目也通过SOH在台湾的频率向中国大陆地区发射，2018年5月起部分转播频率有所调整。</p>
+<p>2018年6月1日16:00，通过深圳SDR接收机收听，收到以下频率：<br>9320、9730、10960、12910、14430、14900、15340、16300、17440kHz</p>
+<p>其中，9320、16300、17440kHz同时发射RFA/SOH两个信号。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;RFA普通话节目也通过SOH在台湾的频率向中国大陆地区发射，2018年5月起部分转播频率有所调整。&lt;/p&gt;
+&lt;p&gt;2018年6月1日16:00，通过深圳SDR接收机收听，收到以下频率：&lt;br&gt;9320、9730、10960、12910、14430、14900、15340、1
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>5月28日 FMDX记录（日本、西北、山西、长春附近地区方向）</title>
@@ -692,29 +716,6 @@
     <summary type="html">
     
       &lt;p&gt;2017年12月4日，日本广播爱好者XYZ注意到5875kHz泰国国家广播电台节目出现异动，&lt;br&gt;随后几日的持续收听，确认这并不是错误发射，而是电台有意而为之。&lt;br&gt;&lt;a href=&quot;http://radio.chobi.net/bbs/?res:8221&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://radio.chobi.net/bbs/?res:8221&lt;/a&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CNR中国交通广播计划新增落地上海、内蒙古、新疆</title>
-    <link href="https://cahcn.github.io/posts/2017-12-03-CNR15.html"/>
-    <id>https://cahcn.github.io/posts/2017-12-03-CNR15.html</id>
-    <published>2017-12-02T15:43:18.000Z</published>
-    <updated>2018-03-06T14:40:03.605Z</updated>
-    
-    <content type="html"><![CDATA[<p>据中国交通广播假日节目部主任穆胜超（@<a href="https://weibo.com/u/5878825888" target="_blank" rel="external">穆胜超Mu</a>）消息，中央人民广播电台中国交通广播计划于2018年在上海、内蒙古、新疆采用大区域同频覆盖的方式落地。三地的规划频率分别为：上海市FM95.5、内蒙古自治区FM100.6、新疆维吾尔自治区FM91.7。</p>
-<a id="more"></a>
-<p>截至2017年11月，中国交通广播（CNR 15）在全国的覆盖频率：<br>FM99.6　京津塘，廊坊、张家口<br>FM101.2　河北省大部分城市<br>FM98.8　石家庄市正定县、保定市部分县份<br>FM90.5　湖南全省14市州</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;据中国交通广播假日节目部主任穆胜超（@&lt;a href=&quot;https://weibo.com/u/5878825888&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;穆胜超Mu&lt;/a&gt;）消息，中央人民广播电台中国交通广播计划于2018年在上海、内蒙古、新疆采用大区域同频覆盖的方式落地。三地的规划频率分别为：上海市FM95.5、内蒙古自治区FM100.6、新疆维吾尔自治区FM91.7。&lt;/p&gt;
     
     </summary>
     
