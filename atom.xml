@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-06-01T09:15:01.176Z</updated>
+  <updated>2018-06-09T10:29:48.754Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CRI日语广播部分短波频率停机检修</title>
+    <link href="https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html"/>
+    <id>https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html</id>
+    <published>2018-06-09T10:02:15.000Z</published>
+    <updated>2018-06-09T10:29:48.754Z</updated>
+    
+    <content type="html"><![CDATA[<p>中国国际广播电台日语广播网站发布公告，2018年6月13日至7月29日，将对部分发射设备进行维护，在此期间部分短波频率停播。<br><a href="http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html" target="_blank" rel="external">http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html</a></p>
+<a id="more"></a>
+<p>部分停播的频率（北京时间）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-21:00　11620kHz<br>21:00-22:00　7325kHz<br>22:00-23:00　7395kHz<br>23:00-00:00　9585kHz<br>（停播的频率均在陕西咸阳发射）</p>
+<p>正常发射的频率（北京时间）：<br>06:00-08:00　13640kHz<br>18:00-19:00　7325kHz<br>19:00-21:00　1044、7325kHz<br>21:00-00:00　1044、7410kHz</p>
+<p>去年2017年9月6日至9月30日，CRI日语广播在浙江金华发射的短波频率就曾经进行过设备维护，今年轮到陕西咸阳发射的频率了…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中国国际广播电台日语广播网站发布公告，2018年6月13日至7月29日，将对部分发射设备进行维护，在此期间部分短波频率停播。&lt;br&gt;&lt;a href=&quot;http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>SOH relay RFA</title>
@@ -579,12 +604,13 @@
     <link href="https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html"/>
     <id>https://cahcn.github.io/posts/2017-09-25-Fu-Hsing-BS.html</id>
     <published>2018-02-01T09:36:13.000Z</published>
-    <updated>2018-05-01T15:42:57.494Z</updated>
+    <updated>2018-06-07T02:15:49.275Z</updated>
     
     <content type="html"><![CDATA[<p>2018年2月1日17:36，用深圳SDR接收机接收到9410/9774kHz疑似复兴广播电台的弱信号，与“<a href="http://hichannel.hinet.net/radio/index.do?id=287" target="_blank" rel="external">HiNet hichannel</a>”上提供的复兴广播电台两套节目在线直播进行对比，确认收到的为复兴广播电台大陆网（复兴广播电台第二广播网）的信号，17:00-18:00播出的节目为《生活fun轻松》。<br>18:00，9410/9774kHz两个频率信号准时消失，晚间18:00-01:05使用9410kHz频率的CNR 5（中华之声）准时发射。<br>20:00，通过网络收听复兴广播电台大陆网《生活bla-bla -bla》节目，整点之后听到频道宣传“您现在收听的是9410、9774、15375千赫，台湾复兴广播电台”。</p>
 <p>2月2日16:30收听，9410/9774kHz两个频率均没有信号。</p>
 <a id="more"></a>
-<h3 id="复兴广播电台2018年1月末起不定期发射"><a href="#复兴广播电台2018年1月末起不定期发射" class="headerlink" title="复兴广播电台2018年1月末起不定期发射"></a>复兴广播电台2018年1月末起不定期发射</h3><h4 id="XYZ收听记录"><a href="#XYZ收听记录" class="headerlink" title="XYZ收听记录"></a>XYZ收听记录</h4><p>1月31日　07:00-09:00　9410kHz<br>2月 1日　16:00-18:00　9410kHz<br>2月11日　12:00-14:00　9410kHz<br>2月16日　07:00-09:00　9410kHz<br>2月24日　07:00-09:00　9410kHz<br>2月27日　07:00-09:00　9410/9774kHz<br>3月14日　07:00-09:00　9410/9774kHz<br>4月30日　07:00-09:00　9410kHz<br>4月30日　19:00-21:00　9774kHz</p>
+<h3 id="复兴广播电台2018年1月末起不定期发射"><a href="#复兴广播电台2018年1月末起不定期发射" class="headerlink" title="复兴广播电台2018年1月末起不定期发射"></a>复兴广播电台2018年1月末起不定期发射</h3><h4 id="XYZ收听记录"><a href="#XYZ收听记录" class="headerlink" title="XYZ收听记录"></a>XYZ收听记录</h4><p>1月31日　07:00-09:00　9410kHz<br>2月 1日　16:00-18:00　9410kHz<br>2月11日　12:00-14:00　9410kHz<br>2月16日　07:00-09:00　9410kHz<br>2月24日　07:00-09:00　9410kHz<br>2月27日　07:00-09:00　9410/9774kHz<br>3月14日　07:00-09:00　9410/9774kHz<br>4月30日　07:00-09:00　9410kHz<br>4月30日　19:00-21:00　9774kHz<br>6月 3日　16:00-18:00　9410kHz</p>
+<h4 id="Ron-Howard收听记录"><a href="#Ron-Howard收听记录" class="headerlink" title="Ron Howard收听记录"></a>Ron Howard收听记录</h4><p>6月 6日　19:00-21:00　9410kHz</p>
 <h4 id="本人的收听记录"><a href="#本人的收听记录" class="headerlink" title="本人的收听记录"></a>本人的收听记录</h4><p>2月 1日　16:00-18:00　9410/9774kHz<br>3月 3日　07:00-09:00　9410/9774kHz  （两个频率实际到9:01停机）<br>3月 8日　19:00-21:00　9410/9774kHz</p>
 <blockquote>
 <p>复兴广播电台大陆网（复兴广播电台第二广播网）节目表<br>  周一至周五<br>  07:00-08:00　走进两岸<br>  08:00-09:00　生活fun轻松<br>  12:00-13:00　何方音乐部落格<br>  13:00-14:00　生活bla-bla -bla<br>  16:00-17:00　走进两岸(重播)<br>  17:00-18:00　生活fun轻松(重播)<br>  19:00-20:00　何方音乐部落格(重播)<br>  20:00-21:00　生活bla-bla -bla(重播)<br>  周六<br>  07:00-08:00　周末艳阳天<br>  08:00-09:00　两岸实时通<br>  12:00-13:00　音乐地球村<br>  13:00-13:30　你facebook了没<br>  13:30-14:00　流行请按赞<br>  16:00-17:00　周末艳阳天(重播)<br>  17:00-18:00　两岸实时通(重播)<br>  19:00-20:00　音乐地球村(重播)<br>  20:00-20:30　你facebook了没(重播)<br>  20:30-21:00　流行请按赞(重播)<br>  周日<br>  07:00-09:00　新闻地平线<br>  12:00-13:00　音乐地球村<br>  13:00-14:00　今夜小文青<br>  16:00-18:00　新闻地平线(重播)<br>  19:00-20:00　音乐地球村(重播)<br>  20:00-21:00　今夜小文青(重播)</p>
@@ -691,31 +717,6 @@
     <summary type="html">
     
       &lt;p&gt;据NHK华语广播《波短情长》节目介绍，2018年1月14日起，NHK华语广播节目在香港新城知讯台FM99.7播出。&lt;br&gt;节目于香港当地周一至周日每天6:30-7:00、23:00-23:30两个时段播出（不含NHK制作的10分钟新闻节目）。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>5875kHz 泰国国家广播电台</title>
-    <link href="https://cahcn.github.io/posts/2017-12-23-Radio-Thailand-World-Service.html"/>
-    <id>https://cahcn.github.io/posts/2017-12-23-Radio-Thailand-World-Service.html</id>
-    <published>2017-12-23T12:11:36.000Z</published>
-    <updated>2018-03-06T14:41:17.922Z</updated>
-    
-    <content type="html"><![CDATA[<p>2017年12月4日，日本广播爱好者XYZ注意到5875kHz泰国国家广播电台节目出现异动，<br>随后几日的持续收听，确认这并不是错误发射，而是电台有意而为之。<br><a href="http://radio.chobi.net/bbs/?res:8221" target="_blank" rel="external">http://radio.chobi.net/bbs/?res:8221</a></p>
-<a id="more"></a>
-<p>12月22日，HFCC网站更新了泰国国家广播电台短波频率的备案信息，正如实际听到的那样，5875kHz的节目已经发生了改变，<br>各时段语种调整如下（北京时间）：<br>19:00-19:15　<del>越南语</del>　–&gt;　马来语<br>19:15-19:30　<del>柬埔寨语</del>　–&gt;　汉语<br>19:30-19:45　<del>老挝语</del>　–&gt;　日语<br>19:45-20:00　<del>缅甸语</del>　–&gt;　德语</p>
-<p>越南语、柬埔寨语、老挝语、缅甸语节目没有增加新的短波频率，难道已经停办了？<br><strong>更新：也可能改由中波或调频发射这些语种的节目</strong>，感谢XYZ提醒 <a href="http://radio.chobi.net/bbs/?res:8257" target="_blank" rel="external">http://radio.chobi.net/bbs/?res:8257</a></p>
-<p>12月26日，泰国国家广播电台网站频率表更新，正式确认从12月1日起调整5875kHz的节目安排。<br><a href="http://www.hsk9.org/broadcast-schedule-B17.html" target="_blank" rel="external">http://www.hsk9.org/broadcast-schedule-B17.html</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2017年12月4日，日本广播爱好者XYZ注意到5875kHz泰国国家广播电台节目出现异动，&lt;br&gt;随后几日的持续收听，确认这并不是错误发射，而是电台有意而为之。&lt;br&gt;&lt;a href=&quot;http://radio.chobi.net/bbs/?res:8221&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://radio.chobi.net/bbs/?res:8221&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
