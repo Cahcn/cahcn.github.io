@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-07-09T19:11:20.501Z</updated>
+  <updated>2018-07-12T16:55:58.366Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CRI日语广播短波发射设备检修时间调整</title>
+    <link href="https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html"/>
+    <id>https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html</id>
+    <published>2018-07-12T16:36:51.000Z</published>
+    <updated>2018-07-12T16:55:58.366Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年7月中旬，中国国际广播电台日语广播网站更新了频率检修公告，在咸阳发射的频率将于7月17日提前完成检修工作。<br>公告同时还提到，在金华发射的频率将于7月19日至8月17日暂时停播，对发射设备进行检修维护。<br><a href="http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html" target="_blank" rel="external">http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html</a></p>
+<a id="more"></a>
+<p>6月13日至7月17日暂时停播的频率（北京时间，陕西咸阳发射）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-21:00　11620kHz<br>21:00-22:00　7325kHz<br>22:00-23:00　7395kHz<br>23:00-00:00　9585kHz</p>
+<p>7月19日至8月17日暂时停播的频率（北京时间，浙江金华发射）：<br>06:00-08:00　13640kHz<br>18:00-21:00　7325kHz<br>21:00-00:00　7410kHz</p>
+<p>2017年9月6日至9月30日，CRI日语广播在浙江金华发射的短波频率就曾经进行过设备维护，今年居然分两批次分别检修咸阳和金华发射的频率…</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年7月中旬，中国国际广播电台日语广播网站更新了频率检修公告，在咸阳发射的频率将于7月17日提前完成检修工作。&lt;br&gt;公告同时还提到，在金华发射的频率将于7月19日至8月17日暂时停播，对发射设备进行检修维护。&lt;br&gt;&lt;a href=&quot;http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>7月9日 FMDX记录（长江中下游、东南沿海、日本方向）</title>
@@ -146,31 +171,6 @@
     
       &lt;p&gt;2018年6月15日，RAE在2018年内第八次调整由WRMI代为发射的短波节目播出频率，具体的调整情况为：&lt;br&gt;原在9395kHz播出的德语节目，频率调整为7780kHz，播出时间由19:00-20:00调整为21:00-22:00；&lt;br&gt;原在9395kHz播出的意大利语节目，频率调整为7780kHz，播出时间由20:00-21:00调整为22:00-23:00&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CRI日语广播部分短波频率停机检修</title>
-    <link href="https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html"/>
-    <id>https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html</id>
-    <published>2018-06-09T10:02:15.000Z</published>
-    <updated>2018-06-09T14:20:47.497Z</updated>
-    
-    <content type="html"><![CDATA[<p>中国国际广播电台日语广播网站发布公告，2018年6月13日至7月29日，将对部分发射设备进行维护，在此期间部分短波频率停播。<br><a href="http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html" target="_blank" rel="external">http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html</a></p>
-<a id="more"></a>
-<p>部分停播的频率（北京时间）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-21:00　11620kHz<br>21:00-22:00　7325kHz<br>22:00-23:00　7395kHz<br>23:00-00:00　9585kHz<br>（停播的频率均在陕西咸阳发射）</p>
-<p>正常发射的频率（北京时间）：<br>06:00-08:00　13640kHz<br>18:00-19:00　7325kHz<br>19:00-21:00　1044、7325kHz<br>21:00-00:00　1044、7410kHz</p>
-<p>2017年9月6日至9月30日，CRI日语广播在浙江金华发射的短波频率就曾经进行过设备维护，今年轮到陕西咸阳发射的频率了…</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;中国国际广播电台日语广播网站发布公告，2018年6月13日至7月29日，将对部分发射设备进行维护，在此期间部分短波频率停播。&lt;br&gt;&lt;a href=&quot;http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
