@@ -51,11 +51,11 @@
   </entry>
   
   <entry>
-    <title>(7/21更新)RAE短波播出时间调整</title>
+    <title>(7/21更新)RAE短波播出频率调整</title>
     <link href="https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html"/>
     <id>https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html</id>
     <published>2018-07-20T22:02:32.000Z</published>
-    <updated>2018-07-23T11:22:33.999Z</updated>
+    <updated>2018-07-30T10:25:08.276Z</updated>
     
     <content type="html"><![CDATA[<p>2018年7月中旬，RAE在2018年内第十次调整由WRMI代为发射的短波节目频率，具体的调整情况为：<br>意大利语节目新增9395kHz频率播出，与7780kHz频率的播出时间相同，均为22:00-23:00</p>
 <p><strong>根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出</strong></p>
@@ -65,10 +65,16 @@
 <p>RAE官方网站也更新了短波频率表（2018年6月25日起），与WRMI公布的有所不同。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/a-partir-del-25-de-junio-de-2018.png" alt="官方公布的频率表（2018年6月25日起）" title="">
+                    <img src="http://oqtut51hd.bkt.clouddn.com/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">
                 </div>
                 <div class="image-caption">官方公布的频率表（2018年6月25日起）</div>
-            </figure><br>此外，RAE还给出了各语种网络流媒体的<a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/13125541/Horarios-Streaming-RAE-Abril-20181.jpg" target="_blank" rel="external">播出时间表</a>（<a href="http://cdn-sp.radionacional.com.ar/wp-content/uploads/2018/04/13122055/Horarios-Streaming-RAE-Abril-2018-CHI1.jpg" target="_blank" rel="external">中文版本</a>），与短波的播出时间不完全相同。</p>
+            </figure><br>此外，RAE还给出了各语种网络流媒体的播出时间表（2018年7月起），与短波的播出时间不完全相同。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">
+                </div>
+                <div class="image-caption">网络流媒体播出时间表（2018年7月起）</div>
+            </figure></p>
 <p>RAE短波似乎不按WRMI给出的时间发射，具体可参考：<br><a href="https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html" target="_blank" rel="external">https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html</a></p>
 ]]></content>
     
