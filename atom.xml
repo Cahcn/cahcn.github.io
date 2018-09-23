@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-09-19T17:32:00.346Z</updated>
+  <updated>2018-09-08T17:47:18.117Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,32 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>广西电视台地面频道测试卡(2018.9.19)</title>
-    <link href="https://cahcn.github.io/posts/2018-09-19-GXTV-Test-Cards.html"/>
-    <id>https://cahcn.github.io/posts/2018-09-19-GXTV-Test-Cards.html</id>
-    <published>2018-09-19T16:26:57.000Z</published>
-    <updated>2018-09-19T17:32:00.346Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年9月19日（周三）凌晨，广西电视台所有频道例行停机检修。<br>部分<strong>地面频道</strong>在检修期间罕见地出现PM5544测试卡（以前在检修期间一直是黑屏有台标无测试卡的状态，如图1所示）。</p>
-<a id="more"></a>
-<!--
-
--->
-<p>不知是否与2018年8月29日（周三）的另一次全台停机检修有关？<br>当天凌晨，广西电视台除广西科教频道（该频道为广西电视台与广西电影制片厂合办频道）之外的所有频道，检修前播放“观众朋友们 谢谢观赏！”的提示</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2018年9月19日（周三）凌晨，广西电视台所有频道例行停机检修。&lt;br&gt;部分&lt;strong&gt;地面频道&lt;/strong&gt;在检修期间罕见地出现PM5544测试卡（以前在检修期间一直是黑屏有台标无测试卡的状态，如图1所示）。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>吉视传媒长春分公司数字电视频道列表</title>
@@ -843,6 +817,37 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     </summary>
     
       <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>WRMI短波节目时间表调整</title>
+    <link href="https://cahcn.github.io/posts/2017-12-29-Radio-Miami-International.html"/>
+    <id>https://cahcn.github.io/posts/2017-12-29-Radio-Miami-International.html</id>
+    <published>2018-02-13T09:23:12.000Z</published>
+    <updated>2018-06-22T16:16:05.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年2月12日，Jeff White更新了WRMI的频率和节目表。<br><a href="https://docs.google.com/spreadsheets/d/1nEVwCMB9RSKowLzLXamyayVpCzjmPAw_SB1r3YOdzQc/edit#gid=0" target="_blank" rel="external">https://docs.google.com/spreadsheets/d/1nEVwCMB9RSKowLzLXamyayVpCzjmPAw_SB1r3YOdzQc/edit#gid=0</a></p>
+<p>2018年2月12日更新的表格显示，2018年2月12日起，WRMI在多个频率上恢复代发The Overcomer Ministry的节目，<br>具体播出时段如下（UTC）：<br>　5850kHz　02:00-05:00<br>　7730kHz　01:00-04:00<br>　7780kHz　17:00-20:00<br>　9395kHz　15:00-18:00</p>
+<a id="more"></a>
+<p>此前，The Overcomer Ministry网站曾发布公告，宣布电台将于2018年1月1日起取消无线广播发射，改为通过卫星、电话和网站流媒体播出。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/The-Overcomer-Ministry.jpg" alt="" title="">
+                </div>
+                <div class="image-caption"></div>
+            </figure></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年2月12日，Jeff White更新了WRMI的频率和节目表。&lt;br&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1nEVwCMB9RSKowLzLXamyayVpCzjmPAw_SB1r3YOdzQc/edit#gid=0&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://docs.google.com/spreadsheets/d/1nEVwCMB9RSKowLzLXamyayVpCzjmPAw_SB1r3YOdzQc/edit#gid=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2018年2月12日更新的表格显示，2018年2月12日起，WRMI在多个频率上恢复代发The Overcomer Ministry的节目，&lt;br&gt;具体播出时段如下（UTC）：&lt;br&gt;　5850kHz　02:00-05:00&lt;br&gt;　7730kHz　01:00-04:00&lt;br&gt;　7780kHz　17:00-20:00&lt;br&gt;　9395kHz　15:00-18:00&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     
     
   </entry>
