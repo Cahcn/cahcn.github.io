@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-09-28T07:22:36.036Z</updated>
+  <updated>2018-10-01T11:48:25.858Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CCTV-4K UHD</title>
+    <link href="https://cahcn.github.io/posts/2018-09-28-CCTV-4K-UHD.html"/>
+    <id>https://cahcn.github.io/posts/2018-09-28-CCTV-4K-UHD.html</id>
+    <published>2018-10-01T11:37:51.000Z</published>
+    <updated>2018-10-01T11:48:25.858Z</updated>
+    
+    <content type="html"><![CDATA[<p>中央广播电视总台4K超高清电视频道（CCTV-4K）于2018年10月1日开播，通过中星6A卫星和全国有线电视干线网向全国传输。</p>
+<p>根据央视网消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：<br>北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威</p>
+<p>（2018年10月1日更新）<br>中数传媒确认，CCTV-4K除在上述提到的省市有线落地之外，今天新增落地以下省（区）、市的有线电视网络：<br>福建、河北、湖北、天津、广西、广州</p>
+<a id="more"></a>
+<p>2018年10月1日下午，CCTV-4K网络直播源出现，以下是通过网络源收看到的CCTV-4K直播信号。</p>
+<blockquote>
+<p>注意：网络源经过转码，分辨率由UHD的3840×2160转码为HD的1920×1080。<br>  视频格式由原始的AVS2/H.265转换为H.264，视频码率较低。</p>
+</blockquote>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/CCTV-4K.png" alt="CCTV-4K直播画面" title="">
+                </div>
+                <div class="image-caption">CCTV-4K直播画面</div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/CCTV-4K-2.png" alt="CCTV-4K网络直播源参数" title="">
+                </div>
+                <div class="image-caption">CCTV-4K网络直播源参数</div>
+            </figure>
+<figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/CCTV-4K-UHD-Test-Card.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">
+                </div>
+                <div class="image-caption">CCTV-4K开播前的测试卡（无台标版）</div>
+            </figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;中央广播电视总台4K超高清电视频道（CCTV-4K）于2018年10月1日开播，通过中星6A卫星和全国有线电视干线网向全国传输。&lt;/p&gt;
+&lt;p&gt;根据央视网消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：&lt;br&gt;北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威&lt;/p&gt;
+&lt;p&gt;（2018年10月1日更新）&lt;br&gt;中数传媒确认，CCTV-4K除在上述提到的省市有线落地之外，今天新增落地以下省（区）、市的有线电视网络：&lt;br&gt;福建、河北、湖北、天津、广西、广州&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>中国交通广播湖北高速频率FM94.8</title>
@@ -36,37 +87,6 @@
     </summary>
     
       <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CCTV-4K UHD</title>
-    <link href="https://cahcn.github.io/posts/2018-09-28-CCTV-4K-UHD.html"/>
-    <id>https://cahcn.github.io/posts/2018-09-28-CCTV-4K-UHD.html</id>
-    <published>2018-09-27T16:24:26.000Z</published>
-    <updated>2018-09-28T05:42:06.920Z</updated>
-    
-    <content type="html"><![CDATA[<p>中央广播电视总台4K超高清电视频道（CCTV-4K）将于2018年10月1日试播，通过中星6A卫星和全国有线电视干线网向全国传输。</p>
-<p>根据官方消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：<br>北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威</p>
-<a id="more"></a>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://p1.img.cctvpic.com/photoworkspace/contentimg/2018/09/27/2018092723125222943.jpg" alt="CCTV-4K" title="">
-                </div>
-                <div class="image-caption">CCTV-4K</div>
-            </figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;中央广播电视总台4K超高清电视频道（CCTV-4K）将于2018年10月1日试播，通过中星6A卫星和全国有线电视干线网向全国传输。&lt;/p&gt;
-&lt;p&gt;根据官方消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：&lt;br&gt;北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
     
     
   </entry>
