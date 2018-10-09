@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-10-01T11:48:25.858Z</updated>
+  <updated>2018-10-04T10:17:10.044Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,46 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>(10/4更新)RAE短波播出频率调整</title>
+    <link href="https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html"/>
+    <id>https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html</id>
+    <published>2018-10-04T09:35:50.000Z</published>
+    <updated>2018-10-04T10:17:10.044Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年10月3日，RAE在2018年内第十一次调整由WRMI代为发射的短波节目频率，具体的调整情况为：<br>取消01:00-01:30在5950kHz播出的英语节目。</p>
+<p><strong>根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出</strong></p>
+<a id="more"></a>
+<p>2018年10月3日起的频率表（时间默认为UTC）<br>01:00-01:30　9395kHz　周二至周六　英语　　　北美洲方向<br>08:30-09:00　5950kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>09:00-10:00　5950kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>11:00-12:00　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>21:00-22:00　7780kHz　周一至周五　德语　　　北美洲、欧洲方向<br>22:00-23:00　5010kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>22:00-23:00　9395kHz　周一至周五　意大利语　北美洲方向<br>22:00-23:00　7780kHz　周一至周五　意大利语　北美洲、欧洲方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（日语和汉语节目实际为周二至周六播出）</p>
+<hr>
+<p>RAE官方网站也更新了短波频率表（2018年6月25日起），与WRMI公布的有所不同。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">
+                </div>
+                <div class="image-caption">官方公布的频率表（2018年6月25日起）</div>
+            </figure><br>此外，RAE还给出了各语种网络流媒体的播出时间表（2018年7月起），与短波的播出时间不完全相同。<br><figure class="image-bubble">
+                <div class="img-lightbox">
+                    <div class="overlay"></div>
+                    <img src="http://oqtut51hd.bkt.clouddn.com/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">
+                </div>
+                <div class="image-caption">网络流媒体播出时间表（2018年7月起）</div>
+            </figure></p>
+<p>RAE短波似乎不按WRMI给出的时间发射，具体可参考：<br><a href="https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html" target="_blank" rel="external">https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年10月3日，RAE在2018年内第十一次调整由WRMI代为发射的短波节目频率，具体的调整情况为：&lt;br&gt;取消01:00-01:30在5950kHz播出的英语节目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>CCTV-4K UHD</title>
@@ -375,46 +415,6 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
   </entry>
   
   <entry>
-    <title>(7/21更新)RAE短波播出频率调整</title>
-    <link href="https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html"/>
-    <id>https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html</id>
-    <published>2018-07-20T22:02:32.000Z</published>
-    <updated>2018-07-30T10:34:40.393Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年7月中旬，RAE在2018年内第十次调整由WRMI代为发射的短波节目频率，具体的调整情况为：<br>意大利语节目新增9395kHz频率播出，与7780kHz频率的播出时间相同，均为22:00-23:00</p>
-<p><strong>根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出</strong></p>
-<a id="more"></a>
-<p>2018年7月中旬起的频率表（时间默认为UTC）<br>01:00-01:30　9395kHz　周二至周六　英语　　　北美洲方向<br>01:00-01:30　5950kHz　周二至周六　英语　　　北美西海岸、亚洲方向<br>08:30-09:00　5950kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>09:00-10:00　5950kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>11:00-12:00　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<br>21:00-22:00　7780kHz　周一至周五　德语　　　北美洲、欧洲方向<br>22:00-23:00　5010kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>22:00-23:00　9395kHz　周一至周五　意大利语　北美洲方向<br>22:00-23:00　7780kHz　周一至周五　意大利语　北美洲、欧洲方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（日语和汉语节目实际为周二至周六播出）</p>
-<hr>
-<p>RAE官方网站也更新了短波频率表（2018年6月25日起），与WRMI公布的有所不同。<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">
-                </div>
-                <div class="image-caption">官方公布的频率表（2018年6月25日起）</div>
-            </figure><br>此外，RAE还给出了各语种网络流媒体的播出时间表（2018年7月起），与短波的播出时间不完全相同。<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">
-                </div>
-                <div class="image-caption">网络流媒体播出时间表（2018年7月起）</div>
-            </figure></p>
-<p>RAE短波似乎不按WRMI给出的时间发射，具体可参考：<br><a href="https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html" target="_blank" rel="external">https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2018年7月中旬，RAE在2018年内第十次调整由WRMI代为发射的短波节目频率，具体的调整情况为：&lt;br&gt;意大利语节目新增9395kHz频率播出，与7780kHz频率的播出时间相同，均为22:00-23:00&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出&lt;/strong&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>CRI日语广播短波发射设备检修时间调整</title>
     <link href="https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html"/>
     <id>https://cahcn.github.io/posts/2017-08-28-CRI-Japanese.html</id>
@@ -480,18 +480,22 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     <link href="https://cahcn.github.io/posts/2018-07-04-Guangdong-4K-Channel.html"/>
     <id>https://cahcn.github.io/posts/2018-07-04-Guangdong-4K-Channel.html</id>
     <published>2018-07-04T02:49:04.000Z</published>
-    <updated>2018-09-12T16:27:17.017Z</updated>
+    <updated>2018-10-04T13:22:07.193Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出，部分内容如下：</p>
+    <content type="html"><![CDATA[<p>2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出。<br>部分内容如下：</p>
 <blockquote>
 <p>广东影视频道4K超高清试验暂停播出预告：<br>  广东影视频道4K超高清试验，已完成各项任务。现按规定向国家主管部门申请正式播出，<br>  在申报期间（从7月6日起）将暂停试验信号的传送，正式启播时间另行通知。</p>
 </blockquote>
 <p>据公开资料，广东影视频道自2017年12月23日起开始对外试播4K超高清信号，4K超高清版本播出的大部分节目与标清版本不同。<br>从官方对外宣传上看，广东影视频道4K超高清版本为中国大陆地区首个4K超高清频道。</p>
 <a id="more"></a>
 <hr>
-<p>2018年9月11日，国家广播电视总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出，具体如下：</p>
+<p>2018年9月11日，国家广播电视总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出。<br>批复内容如下：</p>
 <blockquote>
 <p>近日，总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出，该频道成为全国首个省级电视4K超高清频道。<br>  批复明确，一是广东综艺频道的频道名称、内容定位、呼号、标识、传输方式及覆盖范围保持不变，<br>  其全天所播节目（含广告）应100%符合总局关于4K超高清电视播出的技术标准，并在屏幕右上角标注“4K”字样。<br>  二是广东局要严格按照总局关于4K超高清电视规范发展的各项要求，加强监督检查，确保综艺频道的播出质量。<br>  三是广东广播电视台须加大投入，切实保障综艺频道调整为4K超高清方式播出后所需的节目、设备和经费，<br>  不断提高4K超高清节目的制作能力和播出质量，并逐步增加每日首播时长。<br>  四是有线网络机构须采取有力措施，加快网络数字化双向化升级改造和4K超高清机顶盒的推广安装，做好4K超高清频道的宣传推广。</p>
+</blockquote>
+<p>2018年10月4日，广东广播电视台综艺频道通过屏幕下方的滚动字幕，公告其标清信号即将停止播出，调整为4K超高清信号播出。<br>内容如下：</p>
+<blockquote>
+<p>经国家广播电视总局批准，广东综艺频道将于2018年10月12日14:30起停止播出和传送标清节目，<br>  从2018年10月12日18:00起，广东综艺频道将正式调整为4K超高清技术播出。<br>  请您继续关注和支持广东综艺频道播出的4K超高清节目，谢谢！</p>
 </blockquote>
 <figure class="image-bubble">
                 <div class="img-lightbox">
@@ -511,7 +515,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     
     <summary type="html">
     
-      &lt;p&gt;2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出，部分内容如下：&lt;/p&gt;
+      &lt;p&gt;2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出。&lt;br&gt;部分内容如下：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;广东影视频道4K超高清试验暂停播出预告：&lt;br&gt;  广东影视频道4K超高清试验，已完成各项任务。现按规定向国家主管部门申请正式播出，&lt;br&gt;  在申报期间（从7月6日起）将暂停试验信号的传送，正式启播时间另行通知。&lt;/p&gt;
 &lt;/blockquote&gt;
