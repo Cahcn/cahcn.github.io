@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-10-04T10:17:10.044Z</updated>
+  <updated>2018-10-13T06:15:27.584Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html"/>
     <id>https://cahcn.github.io/posts/2018-01-07-frequency-change-of-rae.html</id>
     <published>2018-10-04T09:35:50.000Z</published>
-    <updated>2018-10-04T10:17:10.044Z</updated>
+    <updated>2018-10-13T06:15:27.584Z</updated>
     
     <content type="html"><![CDATA[<p>2018年10月3日，RAE在2018年内第十一次调整由WRMI代为发射的短波节目频率，具体的调整情况为：<br>取消01:00-01:30在5950kHz播出的英语节目。</p>
 <p><strong>根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出</strong></p>
@@ -30,13 +30,13 @@
 <p>RAE官方网站也更新了短波频率表（2018年6月25日起），与WRMI公布的有所不同。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-01-07/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">
                 </div>
                 <div class="image-caption">官方公布的频率表（2018年6月25日起）</div>
             </figure><br>此外，RAE还给出了各语种网络流媒体的播出时间表（2018年7月起），与短波的播出时间不完全相同。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-01-07/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">
                 </div>
                 <div class="image-caption">网络流媒体播出时间表（2018年7月起）</div>
             </figure></p>
@@ -60,7 +60,7 @@
     <link href="https://cahcn.github.io/posts/2018-09-28-CCTV-4K-UHD.html"/>
     <id>https://cahcn.github.io/posts/2018-09-28-CCTV-4K-UHD.html</id>
     <published>2018-10-01T11:37:51.000Z</published>
-    <updated>2018-10-01T11:48:25.858Z</updated>
+    <updated>2018-10-13T06:22:40.520Z</updated>
     
     <content type="html"><![CDATA[<p>中央广播电视总台4K超高清电视频道（CCTV-4K）于2018年10月1日开播，通过中星6A卫星和全国有线电视干线网向全国传输。</p>
 <p>根据央视网消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：<br>北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威</p>
@@ -73,21 +73,21 @@
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/CCTV-4K.png" alt="CCTV-4K直播画面" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K.png" alt="CCTV-4K直播画面" title="">
                 </div>
                 <div class="image-caption">CCTV-4K直播画面</div>
             </figure>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/CCTV-4K-2.png" alt="CCTV-4K网络直播源参数" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K-2.png" alt="CCTV-4K网络直播源参数" title="">
                 </div>
                 <div class="image-caption">CCTV-4K网络直播源参数</div>
             </figure>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/CCTV-4K-UHD-Test-Card.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K-UHD-Test-Card.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">
                 </div>
                 <div class="image-caption">CCTV-4K开播前的测试卡（无台标版）</div>
             </figure>
@@ -136,20 +136,20 @@
     <link href="https://cahcn.github.io/posts/2018-09-24-99.75MHz-KCTV.html"/>
     <id>https://cahcn.github.io/posts/2018-09-24-99.75MHz-KCTV.html</id>
     <published>2018-09-24T02:27:42.000Z</published>
-    <updated>2018-09-24T13:53:53.829Z</updated>
+    <updated>2018-10-13T06:21:50.869Z</updated>
     
     <content type="html"><![CDATA[<p>2018年9月22日，本人在吉林省延边州图们市接收到99.7(99.75)MHz朝鲜中央电视台伴音信号。<br>信号可能在图们江对岸的朝鲜稳城郡南阳劳动者区发射，功率较小，覆盖有限，仅在图们江公园一带可以接收到。</p>
 <a id="more"></a>
 <p>接收视频：<a href="https://youtu.be/piUVELRo5MY" target="_blank" rel="external">https://youtu.be/piUVELRo5MY</a><br>接收地点：图们市区图们江公园<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/tumen.png" alt="" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-24/tumen.png" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure><br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/tumen-2.png" alt="" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-24/tumen-2.png" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
@@ -176,14 +176,14 @@
     <link href="https://cahcn.github.io/posts/2018-06-07-96633-Changchun.html"/>
     <id>https://cahcn.github.io/posts/2018-06-07-96633-Changchun.html</id>
     <published>2018-09-06T11:45:49.000Z</published>
-    <updated>2018-09-08T17:47:18.117Z</updated>
+    <updated>2018-10-13T06:20:11.466Z</updated>
     
     <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.9.6，本列表为高清机顶盒可收看的电视频道列表<br>共传输183套标、高清电视节目信号(含付费频道、Push VOD频道、测试频道)<br>79、80、96、113、114、116-118、121、133-135频道为需要额外付费收看的电视频道<br><strong>93频道中华美食、97频道靓妆实际传输的是高清版本</strong><br><strong>59频道北京纪实实际传输的是高清降频版本（北京纪实频道官方只有高清信号）</strong><br>88频道金色频道(标清)、91频道法制天地(标清)、120频道中国3D电视试验频道已下星停播，机房未及时调整，目前处于无信号状态</p>
 <a id="more"></a>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/96633-changchun-tv-20180906-fix.png" alt="" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20180706-fix.png" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure>
@@ -332,21 +332,19 @@ http://oqtut51hd.bkt.clouddn.com/96633-changchun-tv-20180706.png
     <link href="https://cahcn.github.io/posts/2018-02-07-96335-Baise.html"/>
     <id>https://cahcn.github.io/posts/2018-02-07-96335-Baise.html</id>
     <published>2018-08-15T05:02:50.000Z</published>
-    <updated>2018-10-11T22:12:51.386Z</updated>
+    <updated>2018-10-13T06:17:37.886Z</updated>
     
     <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.8.15，本列表为三网融合机顶盒可收看的电视频道列表<br>共传输162套标、高清电视节目信号(含付费频道)<br>74、75、123频道为需要额外付费收看的电视频道，<br>120-122、160频道为广西广电网络测试频道（一说测试频道实际传输一些普通用户无法开通的频道）<br>除右江区之外的各县（市），频道列表中的1频道为当地县级广电自办频道，其余频道往后顺延一位</p>
 <a id="more"></a>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180815-fix.png" alt="" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.png" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure>
 <!--频道变动记录：
-http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180815.png
-http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180731.png
-http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png 
+http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180815.png 
 -->
 <h4 id="西塘补充了更详细的信息"><a href="#西塘补充了更详细的信息" class="headerlink" title="西塘补充了更详细的信息"></a><a href="https://weibo.com/u/1623852933" target="_blank" rel="external">西塘</a>补充了更详细的信息</h4><p>广西广电城市网148频道是南方卫视，123频道是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p>
 <p>2018年4月16日频道调整后，新增辽宁卫视高清实际是标清信号，足球频道高清右声道没有声音，广西广电网络测试频道减掉2个</p>
@@ -362,7 +360,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
 <h3 id="广播频道"><a href="#广播频道" class="headerlink" title="广播频道"></a>广播频道</h3><p>数据更新至2017.7.11（广播频道常年不变，没什么更新的必要了…）<br>共传输21套广播节目信号，央广8套、国际台5套、广西区台7套(含BBR)、市台1套<br>其中8频道“英语综合广播”为CRI EZFM，9频道“流行音乐广播”为CRI HIT FM<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/96335-baise-radio-20170711.png" alt="" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-radio-20170711.png" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure></p>
@@ -384,7 +382,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     <link href="https://cahcn.github.io/posts/2018-07-26-6030kHz-CNR-DRM.html"/>
     <id>https://cahcn.github.io/posts/2018-07-26-6030kHz-CNR-DRM.html</id>
     <published>2018-07-31T15:26:21.000Z</published>
-    <updated>2018-08-04T00:55:04.489Z</updated>
+    <updated>2018-10-13T06:21:12.914Z</updated>
     
     <content type="html"><![CDATA[<p>2018年7月24日，中国之声年内第二次测试发射DRM数字调幅广播。<br>根据官方提供的消息，本次测试使用的频率为6030kHz，发射时间为北京时间04:25-02:05，与原模拟信号的发射时间一致。<br>测试期间，北京时间周二14:00-17:00进行例行停机检修。</p>
 <p>6030kHz原模拟信号功率为100千瓦，与今年1月末第一次测试发射的情况相同，DRM数字调幅广播功率只开30千瓦。<br>主要面向华北地区发射，我国中东部大部分地区可以收到信号。测试期间根据设备调试或测试需要将不定时停机。</p>
@@ -395,7 +393,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
 <p>6030kHz曾于2018年7月13日09:00-15:00短暂测试发射，发射的内容为民族音乐，以下是当时的接收情况。<br>另外，日本的BCLer于7月23日晚间在6030kHz也收到了中国之声的DRM测试信号，可能是测试工作提前开始了。<br><figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/6030kHz-CNR-DRM-20180713.jpg" alt="2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-07-26/6030kHz-CNR-DRM-20180713.jpg" alt="2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）" title="">
                 </div>
                 <div class="image-caption">2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）</div>
             </figure></p>
@@ -480,7 +478,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     <link href="https://cahcn.github.io/posts/2018-07-04-Guangdong-4K-Channel.html"/>
     <id>https://cahcn.github.io/posts/2018-07-04-Guangdong-4K-Channel.html</id>
     <published>2018-07-04T02:49:04.000Z</published>
-    <updated>2018-10-04T13:22:07.193Z</updated>
+    <updated>2018-10-13T06:20:46.478Z</updated>
     
     <content type="html"><![CDATA[<p>2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出。<br>部分内容如下：</p>
 <blockquote>
@@ -508,7 +506,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/Guangdong-4K.jpg" alt="截图来自新浪微博@天地英杰Jack" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-07-04/Guangdong-4K.jpg" alt="截图来自新浪微博@天地英杰Jack" title="">
                 </div>
                 <div class="image-caption">截图来自新浪微博@天地英杰Jack</div>
             </figure>–&gt;-->]]></content>
@@ -623,7 +621,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     <link href="https://cahcn.github.io/posts/2018-04-10-cdr-signal-receiver.html"/>
     <id>https://cahcn.github.io/posts/2018-04-10-cdr-signal-receiver.html</id>
     <published>2018-04-10T12:58:12.000Z</published>
-    <updated>2018-04-10T13:55:49.722Z</updated>
+    <updated>2018-10-13T06:19:12.811Z</updated>
     
     <content type="html"><![CDATA[<p>2018年3月，具备CDR（Convergent Digital Radio，旧称China Digital Radio）信号接收解码功能的收音机上架中国网购平台。<br>共有两种型号，分别为：海尔HCDR-01型和华音S2型。根据店家报价，两种机型的销售价格为580元、800元。</p>
 <a id="more"></a>
@@ -648,7 +646,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/Haier-HCDR-01.jpg" alt="海尔HCDR-01型" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-04-10/Haier-HCDR-01.jpg" alt="海尔HCDR-01型" title="">
                 </div>
                 <div class="image-caption">海尔HCDR-01型</div>
             </figure>
@@ -671,7 +669,7 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/SinoSound-S2.jpg" alt="华音S2型" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-04-10/SinoSound-S2.jpg" alt="华音S2型" title="">
                 </div>
                 <div class="image-caption">华音S2型</div>
             </figure>
@@ -803,14 +801,14 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180721.png
     <link href="https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html"/>
     <id>https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html</id>
     <published>2018-03-11T09:42:56.000Z</published>
-    <updated>2018-03-11T14:21:10.421Z</updated>
+    <updated>2018-10-13T06:18:08.853Z</updated>
     
     <content type="html"><![CDATA[<p>2018年3月9日晚间，用SDR接收机收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。<br>根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。<br>因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。</p>
 <a id="more"></a>
 <figure class="image-bubble">
                 <div class="img-lightbox">
                     <div class="overlay"></div>
-                    <img src="http://oqtut51hd.bkt.clouddn.com/99.1MHz-CDR.jpg" alt="" title="">
+                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-03-11/99.1MHz-CDR.jpg" alt="" title="">
                 </div>
                 <div class="image-caption"></div>
             </figure>
