@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2018-10-13T06:15:27.584Z</updated>
+  <updated>2018-10-18T12:57:28.140Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>11695/15580kHz CNR DRM（测试期间信息持续更新）</title>
+    <link href="https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html"/>
+    <id>https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html</id>
+    <published>2018-10-18T12:09:48.000Z</published>
+    <updated>2018-10-18T12:57:28.140Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年10月18日消息，中央人民广播电台启用在HFCC注册的DRM短波数字广播频率。<br>2018年10月18日至21日，北京时间每天09:00-17:00不定时测试信号，10月23日正式实验发射。</p>
+<p>同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。<br>反馈邮箱：<strong>drmrtprc@163.com</strong></p>
+<p><a href="https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ" target="_blank" rel="external">https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ</a></p>
+<a id="more"></a>
+<p>值得一提的是，大约在2018年8月下旬或9月初，11695kHz在HFCC注册的信息曾经调整过，<br>11695kHz发射地由黑龙江齐齐哈尔(QIQ)调整为海南东方(DOF)，功率由150kW缩减为30kW，方位角由220°调整为41°。       </p>
+<p>目前CNR共使用三个频率测试发射DRM信号，对外公开的参数如下（北京时间）：<br>6030kHz　0425-0205(not Tu.1400-1700)　BEI　Power=30kW　Azimuth=0<br>11695kHz　0900-1700　　　　　　　　　DOF　Power=30kW　Azimuth=41<br>15580kHz　0900-1700　　　　　　　　　DOF　Power=30kW　Azimuth=16</p>
+<p>其中，6030、15580kHz主要面向华北地区发射，11695kHz主要面向华东、华南地区发射。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2018年10月18日消息，中央人民广播电台启用在HFCC注册的DRM短波数字广播频率。&lt;br&gt;2018年10月18日至21日，北京时间每天09:00-17:00不定时测试信号，10月23日正式实验发射。&lt;/p&gt;
+&lt;p&gt;同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。&lt;br&gt;反馈邮箱：&lt;strong&gt;drmrtprc@163.com&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>(10/4更新)RAE短波播出频率调整</title>
@@ -389,13 +418,13 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180815.png
     <link href="https://cahcn.github.io/posts/2018-07-26-6030kHz-CNR-DRM.html"/>
     <id>https://cahcn.github.io/posts/2018-07-26-6030kHz-CNR-DRM.html</id>
     <published>2018-07-31T15:26:21.000Z</published>
-    <updated>2018-10-13T06:21:12.914Z</updated>
+    <updated>2018-10-18T12:57:14.495Z</updated>
     
     <content type="html"><![CDATA[<p>2018年7月24日，中国之声年内第二次测试发射DRM数字调幅广播。<br>根据官方提供的消息，本次测试使用的频率为6030kHz，发射时间为北京时间04:25-02:05，与原模拟信号的发射时间一致。<br>测试期间，北京时间周二14:00-17:00进行例行停机检修。</p>
 <p>6030kHz原模拟信号功率为100千瓦，与今年1月末第一次测试发射的情况相同，DRM数字调幅广播功率只开30千瓦。<br>主要面向华北地区发射，我国中东部大部分地区可以收到信号。测试期间根据设备调试或测试需要将不定时停机。</p>
 <p>同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。<br>反馈邮箱：<strong>drmrtprc@163.com</strong></p>
 <a id="more"></a>
-<p><strong>频率异动（测试期间信息持续更新）</strong><br>7月25日10:00停机，11:30恢复发射。<br>7月26日09:00开始，调制模式改为64QAM，预计7月27日09:00恢复原模式。<br>7月29日至7月31日，每天08:00-17:00临时停机。<br>7月30日09:30起，测试16QAM，2s长交织模式，带宽10k。<br>8月1日04:25恢复原模式测试播出。</p>
+<p><strong>频率异动（测试期间信息持续更新）</strong><br>7月25日10:00停机，11:30恢复发射。<br>7月26日09:00开始，调制模式改为64QAM，预计7月27日09:00恢复原模式。<br>7月29日至7月31日，每天08:00-17:00临时停机。<br>7月30日09:30起，测试16QAM，2s长交织模式，带宽10k。<br>8月1日04:25恢复原模式测试播出。<br>10月18日新增11695、15580kHz两个频率实验发射，具体见：<a href="https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html">https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html</a></p>
 <hr>
 <p>6030kHz曾于2018年7月13日09:00-15:00短暂测试发射，发射的内容为民族音乐，以下是当时的接收情况。<br>另外，日本的BCLer于7月23日晚间在6030kHz也收到了中国之声的DRM测试信号，可能是测试工作提前开始了。<br><figure class="image-bubble">
                 <div class="img-lightbox">
@@ -795,36 +824,6 @@ http://oqtut51hd.bkt.clouddn.com/96335-baise-tv-20180815.png
     <summary type="html">
     
       &lt;p&gt;近期收听发现，海峡之声广播电台多个短波频率调整了发射时间：&lt;br&gt;4900、4940kHz取消20:00-21:00时段发射&lt;br&gt;6115kHz增加20:00-21:00时段发射&lt;br&gt;9505kHz开播时间由17:55提前到17:45，并增加20:00-21:00时段发射&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>长春FM99.1中国之声开始发射CDR信号</title>
-    <link href="https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html"/>
-    <id>https://cahcn.github.io/posts/2018-03-11-Convergent-Digital-Radio.html</id>
-    <published>2018-03-11T09:42:56.000Z</published>
-    <updated>2018-10-13T06:18:08.853Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年3月9日晚间，用SDR接收机收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。<br>根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。<br>因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。</p>
-<a id="more"></a>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-03-11/99.1MHz-CDR.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
-<p>据贴吧“元芳过来瞅瞅”消息，支持接收CDR信号的收音机即将上市，但产量极少，且价格偏高…<br><a href="https://tieba.baidu.com/p/5586018048" target="_blank" rel="external">https://tieba.baidu.com/p/5586018048</a><br><a href="https://tieba.baidu.com/p/5587357997" target="_blank" rel="external">https://tieba.baidu.com/p/5587357997</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;2018年3月9日晚间，用SDR接收机收听中国之声在长春的落地频率FM99.1，发现该频率除了发射模拟信号之外，新增数字信号发射。&lt;br&gt;根据总局《关于实施中央广播电视节目无线数字化覆盖工程的通知》，100kHz数字带宽共传输3套广播节目，即CNR 10/12/16。&lt;br&gt;因为没有配套的接收设备，央广三套无线数字发射的节目目前还无法解码收听。&lt;/p&gt;
     
     </summary>
     
