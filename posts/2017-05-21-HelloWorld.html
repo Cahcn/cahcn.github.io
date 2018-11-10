@@ -27,7 +27,7 @@
 <meta property="og:site_name" content="Cahcn的自留地">
 <meta property="og:description" content="宁缺毋滥">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2018-11-10T14:25:59.727Z">
+<meta property="og:updated_time" content="2018-11-10T14:38:46.879Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hello World">
 <meta name="twitter:description" content="宁缺毋滥">
@@ -239,7 +239,14 @@
 <blockquote>
 <p>将主题目录下<code>\layout\_partial</code>路径<code>script.ejs</code>文件中的<br>  <code>&lt;script src=&quot;//cdn.bootcss.com/node-waves/0.7.4/waves.min.js&quot;&gt;&lt;/script&gt;</code><br>  修改为<br>  <code>&lt;script src=&quot;//cdnjs.cloudflare.com/ajax/libs/node-waves/0.7.4/waves.min.js&quot;&gt;&lt;/script&gt;</code></p>
 </blockquote>
-<p>2018.10.13<br>受七牛云自动回收创建30天的CDN测试域名的影响，本人创建的<a href="http://oqtut51hd.bkt.clouddn.com" target="_blank" rel="noopener">CDN测试域名</a>，将于2018年11月1日被回收而无法访问。<br>已经迁移博客中的所有图片至码云临时存储，正在评估是否将图片迁移至<a href="https://sm.ms/" target="_blank" rel="noopener">SM.MS</a>，似乎部分地区的运营商无法访问SM.MS，会影响图片的正常加载。<br>2018.10.16<br>因码云不支持大小超过1MB的图片的外链，决定将博客中大小超过1MB的图片迁移至<a href="https://sm.ms/" target="_blank" rel="noopener">SM.MS</a>，<br>码云临时存储的图片作为备份保留，并修改博客中大小超过1MB的图片的外链地址<!--目前博客所有公开展示的图片只有\img\2018-09-28\CCTV-4K-UHD-Test-Card.jpg 的大小超过1MB--><br>2018.11.10<br>将博客框架Hexo由v3.4.4升级为v3.8.0，升级步骤与全新安装Hexo步骤相同：<br>安装 hexo<br><code>npm install hexo-cli -g</code><br><code>npm install hexo --save</code><br>自动安装需要的组件<br><code>npm install</code><br>安装 git 部署的 插件<br><code>npm install hexo-deployer-git --save</code><br>在升级后提示旧版本的组件存在漏洞，通过运行<code>npm audit fix</code>修复这些漏洞<br>2018.1.23提到indigo主题中使用的fs.SyncWriteStream 在Node.js 8.x及之后的版本中已经废弃，在修复后也将此组件移除<br>在生成网页时不再报<code>[DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.</code>这样的提示</p>
+<p>2018.10.13<br>受七牛云自动回收创建30天的CDN测试域名的影响，本人创建的<a href="http://oqtut51hd.bkt.clouddn.com" target="_blank" rel="noopener">CDN测试域名</a>，将于2018年11月1日被回收而无法访问。<br>已经迁移博客中的所有图片至码云临时存储，正在评估是否将图片迁移至<a href="https://sm.ms/" target="_blank" rel="noopener">SM.MS</a>，似乎部分地区的运营商无法访问SM.MS，会影响图片的正常加载。<br>2018.10.16<br>因码云不支持大小超过1MB的图片的外链，决定将博客中大小超过1MB的图片迁移至<a href="https://sm.ms/" target="_blank" rel="noopener">SM.MS</a>，<br>码云临时存储的图片作为备份保留，并修改博客中大小超过1MB的图片的外链地址<!--目前博客所有公开展示的图片只有\img\2018-09-28\CCTV-4K-UHD-Test-Card.jpg 的大小超过1MB--><br>2018.11.10<br>将博客框架Hexo由v3.4.4升级为v3.8.0，升级步骤与全新安装Hexo步骤相同：</p>
+<blockquote>
+<p>安装 hexo<br>  <code>npm install hexo-cli -g</code><br>  <code>npm install hexo --save</code><br>  自动安装需要的组件<br>  <code>npm install</code><br>  安装 git 部署的 插件<br>  <code>npm install hexo-deployer-git --save</code></p>
+</blockquote>
+<p>另外还解决了旧版本中存在的三个问题：</p>
+<blockquote>
+<p>①升级后提示旧版本的组件存在漏洞，通过运行<code>npm audit fix</code>修复这些漏洞<br>  ②2018.1.23提到indigo主题中使用的fs.SyncWriteStream 在Node.js 8.x及之后的版本中已经废弃，在运行<code>npm audit fix</code>修复后也将此组件移除，在生成网页时不再报<code>[DEP0061] DeprecationWarning: fs.SyncWriteStream is deprecated.</code>这样的错误提示<br>  ③生成的网页中已经能自动判断并给Email地址加上超链接，不需要手动加粗以提醒读者</p>
+</blockquote>
 <h4 id="站点主题更新小记"><a href="#站点主题更新小记" class="headerlink" title="站点主题更新小记"></a>站点主题更新小记</h4><p>随<a href="https://github.com/yscoder/hexo-theme-indigo" target="_blank" rel="noopener">indigo</a>主题更新而更新：<br>2017.9.23　version 1.6.13 -&gt; 1.6.14<br>2017.9.29　version 1.6.14 -&gt; 1.6.16<br>2017.10.25　version 1.6.16 -&gt; 1.6.17<br>2017.11.20　version 1.6.17 （版本号不变）<br>2017.12.2　version 1.6.17 -&gt; 1.7.0<br>2017.12.29　version 1.7.0 -&gt; 1.7.1<br>2018.1.20　version 1.7.1 -&gt; 1.7.2</p>
 <!--
 ##### indigo主题小修改
@@ -352,7 +359,7 @@ https://www.sslforfree.com/
     <div class="content">
         
 <span class="post-time">
-    最后更新时间：<time datetime="2018-11-10T14:25:59.727Z" itemprop="dateUpdated">2018-11-10 22:25:59</time>
+    最后更新时间：<time datetime="2018-11-10T14:38:46.879Z" itemprop="dateUpdated">2018-11-10 22:38:46</time>
 </span><br>
 
 

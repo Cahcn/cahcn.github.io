@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cahcn的自留地</title>
+  
   <subtitle>广播收听、资讯，以及其它感兴趣的东西</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -22,30 +23,7 @@
     <published>2018-11-06T12:37:18.000Z</published>
     <updated>2018-11-09T12:20:10.275Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年11月4日，WRMI更新了B18短波频率表，包括其代发的RAE在B18所使用的频率信息。<br><!--RAE在2018年内第十二次调整由WRMI代为发射的短波节目频率-->RAE各语种B18所使用的频率不变，调整了部分语种的播出时间，具体的调整情况为：<br>9395kHz英语节目的播出时间由01:00-02:00调整为02:00-03:00<br><!--
-2018年11月4日，更新B18频率表之后，WRMI提供的节目表中，美国东部时间恢复到UTC-5，不知是否有调整以下节目的时间？
-9955kHz葡萄牙语节目的播出时间由11:00-12:00调整为12:00-13:00？
---></p>
-<p>2018年11月6日，WRMI再次更新了频率表。<!--RAE在2018年内第十三次调整由WRMI代为发射的短波节目频率--><br>RAE英语节目恢复在5950kHz的播出，与9395kHz播出时间相同，均为02:00-02:30<br>意大利语节目取消在9395kHz的播出，另一个频率7780kHz正常播出</p>
-<!--**根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出**-->
-<a id="more"></a>
-<p>2018年11月6日起的频率表（时间默认为UTC）<br>02:00-02:30　9395kHz　周二至周六　英语　　　北美洲方向<br>02:00-02:30　5950kHz　周二至周六　英语　　　北美西海岸、亚洲方向<br>08:00-09:00　5950kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>09:00-10:00　5950kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>11:00-12:00　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<!--情况待核实，11:00-12:00为A18的播出时间--><br>21:00-22:00　7780kHz　周一至周五　德语　　　北美洲、欧洲方向<br>22:00-23:00　5010kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>22:00-23:00　7780kHz　周一至周五　意大利语　北美洲、欧洲方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（日语和汉语节目实际为周二至周六播出）</p>
-<hr>
-<p>RAE官方网站也更新了短波频率表（2018年6月25日起，A18），与WRMI公布的有所不同。<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-01-07/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">
-                </div>
-                <div class="image-caption">官方公布的频率表（2018年6月25日起）</div>
-            </figure><br>此外，RAE还给出了各语种网络流媒体的播出时间表（2018年7月起），与短波的播出时间不完全相同。<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-01-07/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">
-                </div>
-                <div class="image-caption">网络流媒体播出时间表（2018年7月起）</div>
-            </figure></p>
-<p>RAE短波在2018年4月左右，似乎不按WRMI给出的时间发射，具体可参考：<br><a href="https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html" target="_blank" rel="noopener">https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html</a></p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年11月4日，WRMI更新了B18短波频率表，包括其代发的RAE在B18所使用的频率信息。<br><!--RAE在2018年内第十二次调整由WRMI代为发射的短波节目频率-->RAE各语种B18所使用的频率不变，调整了部分语种的播出时间，具体的调整情况为：<br>9395kHz英语节目的播出时间由01:00-02:00调整为02:00-03:00<br><!--2018年11月4日，更新B18频率表之后，WRMI提供的节目表中，美国东部时间恢复到UTC-5，不知是否有调整以下节目的时间？9955kHz葡萄牙语节目的播出时间由11:00-12:00调整为12:00-13:00？--></p><p>2018年11月6日，WRMI再次更新了频率表。<!--RAE在2018年内第十三次调整由WRMI代为发射的短波节目频率--><br>RAE英语节目恢复在5950kHz的播出，与9395kHz播出时间相同，均为02:00-02:30<br>意大利语节目取消在9395kHz的播出，另一个频率7780kHz正常播出</p><!--**根据日本BCLer的反馈：5月下旬，RAE的日语节目缩减了播出时间，实际在08:30-09:00播出**--><a id="more"></a><p>2018年11月6日起的频率表（时间默认为UTC）<br>02:00-02:30　9395kHz　周二至周六　英语　　　北美洲方向<br>02:00-02:30　5950kHz　周二至周六　英语　　　北美西海岸、亚洲方向<br>08:00-09:00　5950kHz　周二至周六　日语　　　北美西海岸、亚洲方向<br>09:00-10:00　5950kHz　周二至周六　汉语　　　北美西海岸、亚洲方向<br>11:00-12:00　9955kHz　周一至周五　葡萄牙语　中南美洲（拉丁美洲）方向<!--情况待核实，11:00-12:00为A18的播出时间--><br>21:00-22:00　7780kHz　周一至周五　德语　　　北美洲、欧洲方向<br>22:00-23:00　5010kHz　周一至周五　西班牙语　中南美洲（拉丁美洲）方向<br>22:00-23:00　7780kHz　周一至周五　意大利语　北美洲、欧洲方向<br>23:30-00:00　7780kHz　周一至周五　法语　　　北美洲、欧洲方向<br>（日语和汉语节目实际为周二至周六播出）</p><hr><p>RAE官方网站也更新了短波频率表（2018年6月25日起，A18），与WRMI公布的有所不同。<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-01-07/wrmi-relay-broadcasting-times-20180625.jpg" alt="官方公布的频率表（2018年6月25日起）" title="">                </div>                <div class="image-caption">官方公布的频率表（2018年6月25日起）</div>            </figure><br>此外，RAE还给出了各语种网络流媒体的播出时间表（2018年7月起），与短波的播出时间不完全相同。<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-01-07/internet-radio-201807.jpg" alt="网络流媒体播出时间表（2018年7月起）" title="">                </div>                <div class="image-caption">网络流媒体播出时间表（2018年7月起）</div>            </figure></p><p>RAE短波在2018年4月左右，似乎不按WRMI给出的时间发射，具体可参考：<br><a href="https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html" target="_blank" rel="noopener">https://bclnews.blogspot.de/2018/04/glenn-hauser-logs-april-12-13-2018.html</a></p>]]></content>
     
     <summary type="html">
     
@@ -70,23 +48,7 @@
     <published>2018-11-03T12:42:40.000Z</published>
     <updated>2018-11-03T14:06:44.704Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.11.3，本列表为高清机顶盒可收看的电视频道列表<br>共传输181套标、高清电视节目信号(含付费频道、Push VOD频道、测试频道)<br>78、79、95、112、113、115-117、120、132-134频道为需要额外付费收看的电视频道<br><strong>92频道中华美食、96频道靓妆实际传输的是高清版本</strong><br><strong>59频道北京纪实实际传输的是高清降频版本（北京纪实频道官方只有高清信号）</strong><br>87频道金色频道(标清)、90频道法治天地(标清)、119频道中国3D电视试验频道已下星停播，机房未及时调整，目前处于无信号状态</p>
-<a id="more"></a>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20181103.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
-<!--
-频道变动记录：
-https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20180906-fix.png
-https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20180706-fix.png 
--->
-<h4 id="频道异动（2018年6月以后）"><a href="#频道异动（2018年6月以后）" class="headerlink" title="频道异动（2018年6月以后）"></a>频道异动（2018年6月以后）</h4><p>· 2018年6月9日，95频道长沙广播电视台现代女性频道停播（未下线）<br>· 约2018年6月14日，新增中国交通频道HD，频道号136<br>· 约2018年6月14日，34频道“环球购物”频道更名“聚鲨环球精选频道”<br>· 2018年6月22日，新增中国交通频道标清，频道号73（实际该频道不能正常收看）<br>· 2018年6月26日，中国交通频道标清终于可以正常收看<br>· 2018年6月27日，中国交通频道（高、标清）均无法收看<br>· 2018年7月2日，家庭理财频道替换已停播近一个月的现代女性频道，频道号96<br>· 2018年7月6日，家庭理财频道频道号由96调整为73<br>· 2018年7月24日，中国交通频道·吉林正式开播<br>· 2018年7月30日，中国3D电视试验频道暂停播出（未下线）<br>· 2018年7月31日，上海文广旗下付费频道“金色频道”、“法治天地”标清版下星（未下线）<br>· 2018年9月6日，136频道辽宁广播电视台新动漫频道HD下线<br>· 2018年11月3日，68频道四川卫视标清、152频道四川卫视HD下线，“精品娱乐专区”更名为“凤凰卫视专区”</p>
-<!--### 广播频道-->
-<!--数据更新至2018.5.15（广播频道常年不变，没什么更新的必要了...）-->]]></content>
+    <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.11.3，本列表为高清机顶盒可收看的电视频道列表<br>共传输181套标、高清电视节目信号(含付费频道、Push VOD频道、测试频道)<br>78、79、95、112、113、115-117、120、132-134频道为需要额外付费收看的电视频道<br><strong>92频道中华美食、96频道靓妆实际传输的是高清版本</strong><br><strong>59频道北京纪实实际传输的是高清降频版本（北京纪实频道官方只有高清信号）</strong><br>87频道金色频道(标清)、90频道法治天地(标清)、119频道中国3D电视试验频道已下星停播，机房未及时调整，目前处于无信号状态</p><a id="more"></a><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20181103.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><!--频道变动记录：https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20180906-fix.pnghttps://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-20180706-fix.png --><h4 id="频道异动（2018年6月以后）"><a href="#频道异动（2018年6月以后）" class="headerlink" title="频道异动（2018年6月以后）"></a>频道异动（2018年6月以后）</h4><p>· 2018年6月9日，95频道长沙广播电视台现代女性频道停播（未下线）<br>· 约2018年6月14日，新增中国交通频道HD，频道号136<br>· 约2018年6月14日，34频道“环球购物”频道更名“聚鲨环球精选频道”<br>· 2018年6月22日，新增中国交通频道标清，频道号73（实际该频道不能正常收看）<br>· 2018年6月26日，中国交通频道标清终于可以正常收看<br>· 2018年6月27日，中国交通频道（高、标清）均无法收看<br>· 2018年7月2日，家庭理财频道替换已停播近一个月的现代女性频道，频道号96<br>· 2018年7月6日，家庭理财频道频道号由96调整为73<br>· 2018年7月24日，中国交通频道·吉林正式开播<br>· 2018年7月30日，中国3D电视试验频道暂停播出（未下线）<br>· 2018年7月31日，上海文广旗下付费频道“金色频道”、“法治天地”标清版下星（未下线）<br>· 2018年9月6日，136频道辽宁广播电视台新动漫频道HD下线<br>· 2018年11月3日，68频道四川卫视标清、152频道四川卫视HD下线，“精品娱乐专区”更名为“凤凰卫视专区”</p><!--### 广播频道--><!--数据更新至2018.5.15（广播频道常年不变，没什么更新的必要了...）-->]]></content>
     
     <summary type="html">
     
@@ -106,10 +68,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-10-31T16:23:47.000Z</published>
     <updated>2018-11-03T12:35:48.307Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年10月31日凌晨，广西电视台所有频道例行进行全台检修，<br>检修期间发现广西卫视HD、广西综艺频道、广西科教频道似乎在进行设备调试，播放测试信号，广西卫视SD(标清)正常播放测试卡。</p>
-<a id="more"></a>
-<p>· 02:28:36 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-28-36.png" target="_blank" rel="noopener">发现广西综艺频道测试卡上增加了“试机维护”四字</a><br>· 02:35:57 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-35-57.png" target="_blank" rel="noopener">广西卫视HD由PM5544测试卡切换为黑屏带台标、高清标</a><br>· 02:37:17 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-37-17.png" target="_blank" rel="noopener">广西科教频道播放过时的电影宣传片，画面中央出现“设备维护”四字</a><br>· 02:38:11 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-38-11.png" target="_blank" rel="noopener">广西科教频道播放广告，画面中央出现“设备维护”四字</a><br>· 02:39:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-39-18.png" target="_blank" rel="noopener">广西卫视HD播出《广西故事》节目的宣传片，右上角的高清标消失</a><br>· 02:39:52 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-39-52.png" target="_blank" rel="noopener">广西科教频道播放今年9月10日的节目表，画面中央出现“设备维护”四字</a><br>· 02:42:44 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-42-44.png" target="_blank" rel="noopener">广西综艺频道测试卡中央的“试机维护”四字消失</a><br>· 02:43:28 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-43-28.png" target="_blank" rel="noopener">广西科教频道改为黑屏带台标，画面中央出现“设备维护”四字</a><br>· 02:45:08 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-45-08.png" target="_blank" rel="noopener">此时的广西卫视SD(标清)正常播放PM5544测试卡</a><br>· 02:45:28 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-45-28.png" target="_blank" rel="noopener">广西卫视HD在检修期间第一次播出《海丝路》节目</a><br>· 02:55:11 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-55-11.png" target="_blank" rel="noopener">广西卫视HD改转CCTV-1 HD（广西卫视HD转CCTV-1 HD一直是去高清标转播）</a><br>· 02:56:59 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-56-59.png" target="_blank" rel="noopener">广西卫视HD改播《时尚中国》节目的宣传片，此时右上角的高清标并没有恢复</a><br>· 02:57:47 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-57-47.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片</a><br>· 02:58:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-58-32.png" target="_blank" rel="noopener">广西卫视HD再次改转CCTV-1 HD</a><br>· 02:59:43 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-59-43.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:00:55 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-00-55.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:01:04 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-04.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压），此时右上角的高清标并没有恢复</a><br>· 03:01:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-18.png" target="_blank" rel="noopener">广西卫视HD第三次改转CCTV-1 HD</a><br>· 03:01:23 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-23.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压），此时右上角的高清标并没有恢复</a><br>· <strong>03:01:30 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-30.png" target="_blank" rel="noopener">此时广西卫视HD左上角出现双台标，4:3画幅挤压的PM5544测试卡左上角为备用信号台标</a></strong><br>· <strong>03:01:44 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-44.png" target="_blank" rel="noopener">此时广西卫视HD左上角仍存在两个台标，大约持续了15秒左右</a></strong><br>· 03:02:03 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-03.png" target="_blank" rel="noopener">广西卫视HD在检修期间第二次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:02:13 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-13.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:02:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-32.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅）</a><br>· 03:02:35 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-35.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出PM5544测试卡（16:9正常画幅）</a><br>· 03:03:08 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-03-08.png" target="_blank" rel="noopener">广西卫视HD在检修期间第三次播出《海丝路》节目</a><br>· 03:03:21 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-03-21.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:03:27 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-03-27.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:04:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-04-06.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片，此时右上角的高清标消失</a><br>· 03:04:17 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-04-17.png" target="_blank" rel="noopener">广西卫视HD仍正常播出《百寿探秘》节目的宣传片</a><br>· 03:04:23 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-04-23.png" target="_blank" rel="noopener">广西卫视HD在检修期间第四次播出《海丝路》节目，此时右上角的高清标重现</a><br>· <strong>03:08:56 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-08-56.png" target="_blank" rel="noopener">此时广西卫视HD画面中央出现不明黑块</a></strong><br>· <strong>03:10:07 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-07.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片，此时画面中央的不明黑块消失，右上角的高清标消失</a></strong><br>· 03:10:13 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-13.png" target="_blank" rel="noopener">广西卫视HD改播公益广告，此时右上角的高清标并没有恢复</a><br>· 03:10:19 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-19.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出公益广告</a><br>· 03:10:41 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-41.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出公益广告</a><br>· 03:11:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-06.png" target="_blank" rel="noopener">广西卫视HD在检修期间第五次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:11:12 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-12.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片，此时右上角的高清标消失</a><br>· 03:11:19 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-19.png" target="_blank" rel="noopener">广西卫视HD改播公益广告，此时右上角的高清标并没有恢复</a><br>· 03:11:27 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-27.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出公益广告</a><br>· 03:11:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-42.png" target="_blank" rel="noopener">广西卫视HD改播《广西故事》节目的宣传片</a><br>· 03:11:48 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-48.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出《广西故事》节目的宣传片</a><br>· 03:11:57 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-57.png" target="_blank" rel="noopener">广西卫视HD改播公益广告</a><br>· 03:12:03 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-03.png" target="_blank" rel="noopener">广西卫视HD改为黑屏带台标</a><br>· 03:12:15 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-15.png" target="_blank" rel="noopener">广西卫视HD改播《时尚中国》节目的宣传片</a><br>· 03:12:27 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-27.png" target="_blank" rel="noopener">广西卫视HD改播公益广告</a><br>· 03:12:39 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-39.png" target="_blank" rel="noopener">广西卫视HD在检修期间第六次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:12:44 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-44.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:14:20 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-20.png" target="_blank" rel="noopener">此时的广西卫视SD(标清)正常播放PM5544测试卡</a><br>· 03:14:31 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-31.png" target="_blank" rel="noopener">广西卫视HD第四次改转CCTV-1 HD</a><br>· 03:14:35 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-35.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:14:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-42.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:15:03 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-15-03.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:15:47 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-15-47.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:15:54 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-15-54.png" target="_blank" rel="noopener">广西卫视HD在检修期间第七次播出《海丝路》节目，此时右上角的高清标并没有恢复</a><br>· 03:16:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-18.png" target="_blank" rel="noopener">广西卫视HD第五次改转CCTV-1 HD</a><br>· 03:16:22 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-22.png" target="_blank" rel="noopener">广西卫视HD改为黑屏带台标，此时右上角的高清标并没有恢复</a><br>· 03:16:26 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-26.png" target="_blank" rel="noopener">此时广西卫视HD仍为黑屏带台标</a><br>· 03:16:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-32.png" target="_blank" rel="noopener">广西卫视HD第六次改转CCTV-1 HD</a><br>· 03:17:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-06.png" target="_blank" rel="noopener">广西卫视HD在检修期间第八次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:17:21 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-21.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:17:25 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-25.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:17:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-32.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· <strong>03:17:38 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-38.png" target="_blank" rel="noopener">广西卫视HD改播《广西故事》节目的宣传片，此时右上角的高清标疑似更换新的样式，颜色较浅字号较小</a></strong><br>· 03:17:49 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-49.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出《广西故事》节目的宣传片</a><br>· 03:17:54 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-54.png" target="_blank" rel="noopener">广西卫视HD改播公益广告</a><br>· 03:18:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-18.png" target="_blank" rel="noopener">广西卫视HD仍在播出公益广告</a><br>· 03:18:24 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-24.png" target="_blank" rel="noopener">广西卫视HD仍在播出公益广告</a><br>· 03:18:34 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-34.png" target="_blank" rel="noopener">广西卫视HD仍在播出公益广告</a><br>· 03:18:39 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-39.png" target="_blank" rel="noopener">广西卫视HD改播《广西故事》节目</a><br>· 03:18:45 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-45.png" target="_blank" rel="noopener">广西卫视HD仍在播出《广西故事》节目</a><br>· 03:18:50 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-50.png" target="_blank" rel="noopener">广西卫视HD仍在播出《广西故事》节目</a><br>· 03:19:00 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-19-00.png" target="_blank" rel="noopener">广西卫视HD仍在播出《广西故事》节目</a><br>· <strong>03:19:33 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-19-33.png" target="_blank" rel="noopener">广西卫视HD在检修期间第九次播出《海丝路》节目，此时右上角的高清标变回原来的样式</a></strong><br>· 03:19:38 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-19-38.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:20:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-20-42.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:22:29 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-22-29.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:22:40 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-22-40.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:23:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-23-06.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十次播出《海丝路》节目</a><br>· 03:24:14 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-14.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:24:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-18.png" target="_blank" rel="noopener">广西卫视HD仍在播出PM5544测试卡（4:3画幅挤压）</a><br>· <strong>03:24:31 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-31.png" target="_blank" rel="noopener">广西卫视HD第七次改转CCTV-1 HD，此时广西卫视HD的高清标未撤掉，与CCTV-1 HD的高清标共存</a></strong><br>· 03:24:35 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-35.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十一次播出《海丝路》节目</a><br>· 03:24:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-42.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:24:45 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-45.png" target="_blank" rel="noopener">广西卫视HD仍在播出PM5544测试卡（4:3画幅挤压）</a><br>· 03:24:58 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-58.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十二次播出《海丝路》节目</a><br>· <strong>03:25:11 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-25-11.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压），左上角出现双台标，4:3画幅挤压的测试卡左上角为备用信号台标</a></strong><br>· <strong>03:26:39 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-39.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅），此时画面中央出现不明黑块</a></strong><br>· <strong>03:26:43 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-43.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央的不明黑块仍然存在</a></strong><br>· <strong>03:26:47 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-47.png" target="_blank" rel="noopener">此时广西卫视HD画面中央的不明黑块消失</a></strong><br>· 03:26:50 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-50.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅）</a><br>· 03:29:04 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-29-04.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅）</a><br>· 03:32:12 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-12.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央出现“维修试机”四字</a><br>· 03:32:15 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-15.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央仍然存在“维修试机”四字</a><br>· 03:32:28 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-28.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十三次播出《海丝路》节目，画面中央出现“维修试机”四字</a><br>· 03:32:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-32.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目，画面中央出现“维修试机”四字</a><br>· 03:32:59 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-59.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅），画面中央出现“维修试机”四字</a><br>· 03:33:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-33-06.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央仍然存在“维修试机”四字</a><br>· 03:36:23 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-36-23.png" target="_blank" rel="noopener">广西卫视HD改播公益广告，画面中央出现“维修试机”四字，此时右上角的高清标消失</a><br>· 03:38:14 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-38-14.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅），画面中央的“维修试机”四字消失，右上角的高清标重现</a><br>· 03:38:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-38-18.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅）</a><br>· 03:52:09 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-52-09.png" target="_blank" rel="noopener">崇左电视台综合频道转播的广西卫视SD(标清)，此时仍正常播出PM5544测试卡</a></p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年10月31日凌晨，广西电视台所有频道例行进行全台检修，<br>检修期间发现广西卫视HD、广西综艺频道、广西科教频道似乎在进行设备调试，播放测试信号，广西卫视SD(标清)正常播放测试卡。</p><a id="more"></a><p>· 02:28:36 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-28-36.png" target="_blank" rel="noopener">发现广西综艺频道测试卡上增加了“试机维护”四字</a><br>· 02:35:57 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-35-57.png" target="_blank" rel="noopener">广西卫视HD由PM5544测试卡切换为黑屏带台标、高清标</a><br>· 02:37:17 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-37-17.png" target="_blank" rel="noopener">广西科教频道播放过时的电影宣传片，画面中央出现“设备维护”四字</a><br>· 02:38:11 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-38-11.png" target="_blank" rel="noopener">广西科教频道播放广告，画面中央出现“设备维护”四字</a><br>· 02:39:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-39-18.png" target="_blank" rel="noopener">广西卫视HD播出《广西故事》节目的宣传片，右上角的高清标消失</a><br>· 02:39:52 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-39-52.png" target="_blank" rel="noopener">广西科教频道播放今年9月10日的节目表，画面中央出现“设备维护”四字</a><br>· 02:42:44 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-42-44.png" target="_blank" rel="noopener">广西综艺频道测试卡中央的“试机维护”四字消失</a><br>· 02:43:28 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-43-28.png" target="_blank" rel="noopener">广西科教频道改为黑屏带台标，画面中央出现“设备维护”四字</a><br>· 02:45:08 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-45-08.png" target="_blank" rel="noopener">此时的广西卫视SD(标清)正常播放PM5544测试卡</a><br>· 02:45:28 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-45-28.png" target="_blank" rel="noopener">广西卫视HD在检修期间第一次播出《海丝路》节目</a><br>· 02:55:11 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-55-11.png" target="_blank" rel="noopener">广西卫视HD改转CCTV-1 HD（广西卫视HD转CCTV-1 HD一直是去高清标转播）</a><br>· 02:56:59 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-56-59.png" target="_blank" rel="noopener">广西卫视HD改播《时尚中国》节目的宣传片，此时右上角的高清标并没有恢复</a><br>· 02:57:47 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-57-47.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片</a><br>· 02:58:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-58-32.png" target="_blank" rel="noopener">广西卫视HD再次改转CCTV-1 HD</a><br>· 02:59:43 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/02-59-43.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:00:55 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-00-55.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:01:04 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-04.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压），此时右上角的高清标并没有恢复</a><br>· 03:01:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-18.png" target="_blank" rel="noopener">广西卫视HD第三次改转CCTV-1 HD</a><br>· 03:01:23 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-23.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压），此时右上角的高清标并没有恢复</a><br>· <strong>03:01:30 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-30.png" target="_blank" rel="noopener">此时广西卫视HD左上角出现双台标，4:3画幅挤压的PM5544测试卡左上角为备用信号台标</a></strong><br>· <strong>03:01:44 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-01-44.png" target="_blank" rel="noopener">此时广西卫视HD左上角仍存在两个台标，大约持续了15秒左右</a></strong><br>· 03:02:03 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-03.png" target="_blank" rel="noopener">广西卫视HD在检修期间第二次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:02:13 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-13.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:02:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-32.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅）</a><br>· 03:02:35 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-02-35.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出PM5544测试卡（16:9正常画幅）</a><br>· 03:03:08 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-03-08.png" target="_blank" rel="noopener">广西卫视HD在检修期间第三次播出《海丝路》节目</a><br>· 03:03:21 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-03-21.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:03:27 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-03-27.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:04:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-04-06.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片，此时右上角的高清标消失</a><br>· 03:04:17 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-04-17.png" target="_blank" rel="noopener">广西卫视HD仍正常播出《百寿探秘》节目的宣传片</a><br>· 03:04:23 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-04-23.png" target="_blank" rel="noopener">广西卫视HD在检修期间第四次播出《海丝路》节目，此时右上角的高清标重现</a><br>· <strong>03:08:56 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-08-56.png" target="_blank" rel="noopener">此时广西卫视HD画面中央出现不明黑块</a></strong><br>· <strong>03:10:07 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-07.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片，此时画面中央的不明黑块消失，右上角的高清标消失</a></strong><br>· 03:10:13 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-13.png" target="_blank" rel="noopener">广西卫视HD改播公益广告，此时右上角的高清标并没有恢复</a><br>· 03:10:19 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-19.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出公益广告</a><br>· 03:10:41 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-10-41.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出公益广告</a><br>· 03:11:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-06.png" target="_blank" rel="noopener">广西卫视HD在检修期间第五次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:11:12 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-12.png" target="_blank" rel="noopener">广西卫视HD改播《百寿探秘》节目的宣传片，此时右上角的高清标消失</a><br>· 03:11:19 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-19.png" target="_blank" rel="noopener">广西卫视HD改播公益广告，此时右上角的高清标并没有恢复</a><br>· 03:11:27 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-27.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出公益广告</a><br>· 03:11:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-42.png" target="_blank" rel="noopener">广西卫视HD改播《广西故事》节目的宣传片</a><br>· 03:11:48 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-48.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出《广西故事》节目的宣传片</a><br>· 03:11:57 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-11-57.png" target="_blank" rel="noopener">广西卫视HD改播公益广告</a><br>· 03:12:03 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-03.png" target="_blank" rel="noopener">广西卫视HD改为黑屏带台标</a><br>· 03:12:15 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-15.png" target="_blank" rel="noopener">广西卫视HD改播《时尚中国》节目的宣传片</a><br>· 03:12:27 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-27.png" target="_blank" rel="noopener">广西卫视HD改播公益广告</a><br>· 03:12:39 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-39.png" target="_blank" rel="noopener">广西卫视HD在检修期间第六次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:12:44 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-12-44.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:14:20 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-20.png" target="_blank" rel="noopener">此时的广西卫视SD(标清)正常播放PM5544测试卡</a><br>· 03:14:31 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-31.png" target="_blank" rel="noopener">广西卫视HD第四次改转CCTV-1 HD</a><br>· 03:14:35 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-35.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:14:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-14-42.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:15:03 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-15-03.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:15:47 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-15-47.png" target="_blank" rel="noopener">此时广西卫视HD仍在转CCTV-1 HD</a><br>· 03:15:54 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-15-54.png" target="_blank" rel="noopener">广西卫视HD在检修期间第七次播出《海丝路》节目，此时右上角的高清标并没有恢复</a><br>· 03:16:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-18.png" target="_blank" rel="noopener">广西卫视HD第五次改转CCTV-1 HD</a><br>· 03:16:22 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-22.png" target="_blank" rel="noopener">广西卫视HD改为黑屏带台标，此时右上角的高清标并没有恢复</a><br>· 03:16:26 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-26.png" target="_blank" rel="noopener">此时广西卫视HD仍为黑屏带台标</a><br>· 03:16:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-16-32.png" target="_blank" rel="noopener">广西卫视HD第六次改转CCTV-1 HD</a><br>· 03:17:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-06.png" target="_blank" rel="noopener">广西卫视HD在检修期间第八次播出《海丝路》节目，此时右上角的高清标重现</a><br>· 03:17:21 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-21.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:17:25 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-25.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:17:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-32.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· <strong>03:17:38 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-38.png" target="_blank" rel="noopener">广西卫视HD改播《广西故事》节目的宣传片，此时右上角的高清标疑似更换新的样式，颜色较浅字号较小</a></strong><br>· 03:17:49 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-49.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出《广西故事》节目的宣传片</a><br>· 03:17:54 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-17-54.png" target="_blank" rel="noopener">广西卫视HD改播公益广告</a><br>· 03:18:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-18.png" target="_blank" rel="noopener">广西卫视HD仍在播出公益广告</a><br>· 03:18:24 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-24.png" target="_blank" rel="noopener">广西卫视HD仍在播出公益广告</a><br>· 03:18:34 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-34.png" target="_blank" rel="noopener">广西卫视HD仍在播出公益广告</a><br>· 03:18:39 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-39.png" target="_blank" rel="noopener">广西卫视HD改播《广西故事》节目</a><br>· 03:18:45 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-45.png" target="_blank" rel="noopener">广西卫视HD仍在播出《广西故事》节目</a><br>· 03:18:50 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-18-50.png" target="_blank" rel="noopener">广西卫视HD仍在播出《广西故事》节目</a><br>· 03:19:00 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-19-00.png" target="_blank" rel="noopener">广西卫视HD仍在播出《广西故事》节目</a><br>· <strong>03:19:33 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-19-33.png" target="_blank" rel="noopener">广西卫视HD在检修期间第九次播出《海丝路》节目，此时右上角的高清标变回原来的样式</a></strong><br>· 03:19:38 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-19-38.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:20:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-20-42.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:22:29 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-22-29.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目</a><br>· 03:22:40 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-22-40.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:23:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-23-06.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十次播出《海丝路》节目</a><br>· 03:24:14 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-14.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:24:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-18.png" target="_blank" rel="noopener">广西卫视HD仍在播出PM5544测试卡（4:3画幅挤压）</a><br>· <strong>03:24:31 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-31.png" target="_blank" rel="noopener">广西卫视HD第七次改转CCTV-1 HD，此时广西卫视HD的高清标未撤掉，与CCTV-1 HD的高清标共存</a></strong><br>· 03:24:35 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-35.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十一次播出《海丝路》节目</a><br>· 03:24:42 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-42.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压）</a><br>· 03:24:45 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-45.png" target="_blank" rel="noopener">广西卫视HD仍在播出PM5544测试卡（4:3画幅挤压）</a><br>· 03:24:58 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-24-58.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十二次播出《海丝路》节目</a><br>· <strong>03:25:11 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-25-11.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（4:3画幅挤压），左上角出现双台标，4:3画幅挤压的测试卡左上角为备用信号台标</a></strong><br>· <strong>03:26:39 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-39.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅），此时画面中央出现不明黑块</a></strong><br>· <strong>03:26:43 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-43.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央的不明黑块仍然存在</a></strong><br>· <strong>03:26:47 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-47.png" target="_blank" rel="noopener">此时广西卫视HD画面中央的不明黑块消失</a></strong><br>· 03:26:50 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-26-50.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅）</a><br>· 03:29:04 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-29-04.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅）</a><br>· 03:32:12 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-12.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央出现“维修试机”四字</a><br>· 03:32:15 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-15.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央仍然存在“维修试机”四字</a><br>· 03:32:28 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-28.png" target="_blank" rel="noopener">广西卫视HD在检修期间第十三次播出《海丝路》节目，画面中央出现“维修试机”四字</a><br>· 03:32:32 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-32.png" target="_blank" rel="noopener">此时广西卫视HD仍正常播出《海丝路》节目，画面中央出现“维修试机”四字</a><br>· 03:32:59 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-32-59.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅），画面中央出现“维修试机”四字</a><br>· 03:33:06 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-33-06.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅），画面中央仍然存在“维修试机”四字</a><br>· 03:36:23 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-36-23.png" target="_blank" rel="noopener">广西卫视HD改播公益广告，画面中央出现“维修试机”四字，此时右上角的高清标消失</a><br>· 03:38:14 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-38-14.png" target="_blank" rel="noopener">广西卫视HD改播PM5544测试卡（16:9正常画幅），画面中央的“维修试机”四字消失，右上角的高清标重现</a><br>· 03:38:18 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-38-18.png" target="_blank" rel="noopener">此时广西卫视HD仍在播出PM5544测试卡（16:9正常画幅）</a><br>· 03:52:09 <a href="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31/03-52-09.png" target="_blank" rel="noopener">崇左电视台综合频道转播的广西卫视SD(标清)，此时仍正常播出PM5544测试卡</a></p>]]></content>
     
     <summary type="html">
     
@@ -129,17 +88,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-10-31T13:11:28.000Z</published>
     <updated>2018-11-02T16:23:13.025Z</updated>
     
-    <content type="html"><![CDATA[<p>数据截至2018.10.31，一次性数据，今后不会再更新<br>共传输124套标、高清电视节目信号</p>
-<a id="more"></a>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31-iptv/10010-changchun-tv-20181031.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
-<p>更多信息见：<br><a href="https://weibo.com/2061519855/H0ux0281E" target="_blank" rel="noopener">https://weibo.com/2061519855/H0ux0281E</a><br><a href="https://weibo.com/2061519855/H0uGwlJes" target="_blank" rel="noopener">https://weibo.com/2061519855/H0uGwlJes</a><br><a href="https://weibo.com/2061519855/H0uGY8GwM" target="_blank" rel="noopener">https://weibo.com/2061519855/H0uGY8GwM</a></p>
-]]></content>
+    <content type="html"><![CDATA[<p>数据截至2018.10.31，一次性数据，今后不会再更新<br>共传输124套标、高清电视节目信号</p><a id="more"></a><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-10-31-iptv/10010-changchun-tv-20181031.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><p>更多信息见：<br><a href="https://weibo.com/2061519855/H0ux0281E" target="_blank" rel="noopener">https://weibo.com/2061519855/H0ux0281E</a><br><a href="https://weibo.com/2061519855/H0uGwlJes" target="_blank" rel="noopener">https://weibo.com/2061519855/H0uGwlJes</a><br><a href="https://weibo.com/2061519855/H0uGY8GwM" target="_blank" rel="noopener">https://weibo.com/2061519855/H0uGY8GwM</a></p>]]></content>
     
     <summary type="html">
     
@@ -159,17 +108,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-10-18T12:09:48.000Z</published>
     <updated>2018-11-10T14:11:54.206Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年10月18日消息，中央人民广播电台启用在HFCC注册的DRM短波数字广播频率。<br>2018年10月18日至21日，北京时间每天09:00-17:00不定时测试信号，10月23日正式实验发射。</p>
-<p>同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。<br>反馈邮箱：<a href="mailto:drmrtprc@163.com" target="_blank" rel="noopener">drmrtprc@163.com</a></p>
-<p><a href="https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ</a></p>
-<a id="more"></a>
-<p><strong>频率异动（测试期间信息持续更新）</strong><br>10月31日09:00-09:12，15580kHz停机<br>11月3日15:00-17:00，11695kHz停机</p>
-<hr>
-<p>值得一提的是，大约在2018年8月下旬或9月初，11695kHz在HFCC注册的信息曾经调整过，<br>11695kHz发射地由黑龙江齐齐哈尔(QIQ)调整为海南东方(DOF)，功率由150kW缩减为30kW，方位角由220°调整为41°。</p>
-<p>最近对外公开的HFCC B18的注册信息中，北京发射的6030kHz功率由100kW缩减为30kW，可能是长期用来测试发射DRM了…</p>
-<p>目前CNR共使用三个频率测试发射DRM信号，对外公开的参数如下（北京时间）：<br>6030kHz　0425-0205(not Tu.1400-1700)　BEI　Power=30kW　Azimuth=0<br>11695kHz　0900-1700　　　　　　　　　DOF　Power=30kW　Azimuth=41<br>15580kHz　0900-1700　　　　　　　　　DOF　Power=30kW　Azimuth=16</p>
-<p>其中，6030、15580kHz主要面向华北地区发射，11695kHz主要面向华东、华南地区发射。</p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年10月18日消息，中央人民广播电台启用在HFCC注册的DRM短波数字广播频率。<br>2018年10月18日至21日，北京时间每天09:00-17:00不定时测试信号，10月23日正式实验发射。</p><p>同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。<br>反馈邮箱：<a href="mailto:drmrtprc@163.com" target="_blank" rel="noopener">drmrtprc@163.com</a></p><p><a href="https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/89Rang-WnfOv43ZNMjzFOQ</a></p><a id="more"></a><p><strong>频率异动（测试期间信息持续更新）</strong><br>10月31日09:00-09:12，15580kHz停机<br>11月3日15:00-17:00，11695kHz停机</p><hr><p>值得一提的是，大约在2018年8月下旬或9月初，11695kHz在HFCC注册的信息曾经调整过，<br>11695kHz发射地由黑龙江齐齐哈尔(QIQ)调整为海南东方(DOF)，功率由150kW缩减为30kW，方位角由220°调整为41°。</p><p>最近对外公开的HFCC B18的注册信息中，北京发射的6030kHz功率由100kW缩减为30kW，可能是长期用来测试发射DRM了…</p><p>目前CNR共使用三个频率测试发射DRM信号，对外公开的参数如下（北京时间）：<br>6030kHz　0425-0205(not Tu.1400-1700)　BEI　Power=30kW　Azimuth=0<br>11695kHz　0900-1700　　　　　　　　　DOF　Power=30kW　Azimuth=41<br>15580kHz　0900-1700　　　　　　　　　DOF　Power=30kW　Azimuth=16</p><p>其中，6030、15580kHz主要面向华北地区发射，11695kHz主要面向华东、华南地区发射。</p>]]></content>
     
     <summary type="html">
     
@@ -191,43 +130,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-10-01T11:37:51.000Z</published>
     <updated>2018-10-16T14:20:23.787Z</updated>
     
-    <content type="html"><![CDATA[<p>中央广播电视总台4K超高清电视频道（CCTV-4K）于2018年10月1日开播，通过中星6A卫星和全国有线电视干线网向全国传输。</p>
-<p>根据央视网消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：<br>北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威</p>
-<p>（2018年10月1日更新）<br>中数传媒确认，CCTV-4K除在上述提到的省市有线落地之外，今天新增落地以下省（区）、市的有线电视网络：<br>福建、河北、湖北、天津、广西、广州</p>
-<a id="more"></a>
-<p>2018年10月1日下午，CCTV-4K网络直播源出现，以下是通过网络源收看到的CCTV-4K直播信号。</p>
-<blockquote>
-<p>注意：网络源经过转码，分辨率由UHD的3840×2160转码为HD的1920×1080。<br>  视频格式由原始的AVS2/H.265转换为H.264，视频码率较低。</p>
-</blockquote>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K.png" alt="CCTV-4K直播画面" title="">
-                </div>
-                <div class="image-caption">CCTV-4K直播画面</div>
-            </figure>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K-2.png" alt="CCTV-4K网络直播源参数" title="">
-                </div>
-                <div class="image-caption">CCTV-4K网络直播源参数</div>
-            </figure>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://i.loli.net/2018/10/16/5bc5f328da9a2.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">
-                </div>
-                <div class="image-caption">CCTV-4K开播前的测试卡（无台标版）</div>
-            </figure>
-<!--// 码云不支持大小超过1MB图片的外链，外链改用SM.MS图床
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K-UHD-Test-Card.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">
-                </div>
-                <div class="image-caption">CCTV-4K开播前的测试卡（无台标版）</div>
-            </figure>–&gt;-->]]></content>
+    <content type="html"><![CDATA[<p>中央广播电视总台4K超高清电视频道（CCTV-4K）于2018年10月1日开播，通过中星6A卫星和全国有线电视干线网向全国传输。</p><p>根据央视网消息，CCTV-4K计划于2018年10月1日在13个省（区）、市的有线电视网络落地：<br>北京歌华、广东、上海东方、浙江、四川、贵州、重庆、江西、安徽、陕西、江苏、内蒙古和深圳天威</p><p>（2018年10月1日更新）<br>中数传媒确认，CCTV-4K除在上述提到的省市有线落地之外，今天新增落地以下省（区）、市的有线电视网络：<br>福建、河北、湖北、天津、广西、广州</p><a id="more"></a><p>2018年10月1日下午，CCTV-4K网络直播源出现，以下是通过网络源收看到的CCTV-4K直播信号。</p><blockquote><p>注意：网络源经过转码，分辨率由UHD的3840×2160转码为HD的1920×1080。<br>  视频格式由原始的AVS2/H.265转换为H.264，视频码率较低。</p></blockquote><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K.png" alt="CCTV-4K直播画面" title="">                </div>                <div class="image-caption">CCTV-4K直播画面</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K-2.png" alt="CCTV-4K网络直播源参数" title="">                </div>                <div class="image-caption">CCTV-4K网络直播源参数</div>            </figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://i.loli.net/2018/10/16/5bc5f328da9a2.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">                </div>                <div class="image-caption">CCTV-4K开播前的测试卡（无台标版）</div>            </figure><!--// 码云不支持大小超过1MB图片的外链，外链改用SM.MS图床<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-28/CCTV-4K-UHD-Test-Card.jpg" alt="CCTV-4K开播前的测试卡（无台标版）" title="">                </div>                <div class="image-caption">CCTV-4K开播前的测试卡（无台标版）</div>            </figure>–&gt;-->]]></content>
     
     <summary type="html">
     
@@ -249,11 +152,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-09-28T06:45:43.000Z</published>
     <updated>2018-09-28T07:22:36.036Z</updated>
     
-    <content type="html"><![CDATA[<p>（2018年9月28日更新）<br>根据中国交通广播官方消息，中国交通广播湖北高速频率计划于2018年底正式开播。<br>2018年底，中国交通广播将实现在内蒙、山西、陕西、上海、黑龙江、甘肃、宁夏、湖北等地的落地覆盖。<br>预计到2020年年底，中国交通广播将实现全国范围的组网覆盖。<br><a href="https://mp.weixin.qq.com/s/JwkAg1NjsknyUCUo-cGA9A" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/JwkAg1NjsknyUCUo-cGA9A</a></p>
-<p>另据中国交通广播假日节目部主任<a href="https://weibo.com/u/5878825888" target="_blank" rel="noopener">穆胜超</a>消息，中央人民广播电台中国交通广播计划于2018年在上海、内蒙古、新疆采用大区域同频覆盖的方式落地。三地的规划频率分别为：上海市FM95.5、内蒙古自治区FM100.6、新疆维吾尔自治区FM91.7。</p>
-<a id="more"></a>
-<p>截至2018年9月，中国交通广播（CNR 15）在全国的覆盖频率：<br>FM99.6　京津塘，廊坊、张家口<br>FM101.2　河北省大部分城市<br>FM98.8　石家庄市正定县、保定市部分县份<br>FM90.5　湖南全省14市州</p>
-]]></content>
+    <content type="html"><![CDATA[<p>（2018年9月28日更新）<br>根据中国交通广播官方消息，中国交通广播湖北高速频率计划于2018年底正式开播。<br>2018年底，中国交通广播将实现在内蒙、山西、陕西、上海、黑龙江、甘肃、宁夏、湖北等地的落地覆盖。<br>预计到2020年年底，中国交通广播将实现全国范围的组网覆盖。<br><a href="https://mp.weixin.qq.com/s/JwkAg1NjsknyUCUo-cGA9A" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/JwkAg1NjsknyUCUo-cGA9A</a></p><p>另据中国交通广播假日节目部主任<a href="https://weibo.com/u/5878825888" target="_blank" rel="noopener">穆胜超</a>消息，中央人民广播电台中国交通广播计划于2018年在上海、内蒙古、新疆采用大区域同频覆盖的方式落地。三地的规划频率分别为：上海市FM95.5、内蒙古自治区FM100.6、新疆维吾尔自治区FM91.7。</p><a id="more"></a><p>截至2018年9月，中国交通广播（CNR 15）在全国的覆盖频率：<br>FM99.6　京津塘，廊坊、张家口<br>FM101.2　河北省大部分城市<br>FM98.8　石家庄市正定县、保定市部分县份<br>FM90.5　湖南全省14市州</p>]]></content>
     
     <summary type="html">
     
@@ -274,27 +173,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-09-24T02:27:42.000Z</published>
     <updated>2018-10-13T06:21:50.869Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年9月22日，本人在吉林省延边州图们市接收到99.7(99.75)MHz朝鲜中央电视台伴音信号。<br>信号可能在图们江对岸的朝鲜稳城郡南阳劳动者区发射，功率较小，覆盖有限，仅在图们江公园一带可以接收到。</p>
-<a id="more"></a>
-<p>接收视频：<a href="https://youtu.be/piUVELRo5MY" target="_blank" rel="noopener">https://youtu.be/piUVELRo5MY</a><br>接收地点：图们市区图们江公园<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-24/tumen.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-24/tumen-2.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-<p>最后，感谢ly7788提供了重要信息。</p>
-<blockquote>
-<p>99.7MHz可能是99.75MHz<br>  99.75MHz是俄罗斯5频道的电视伴音，朝鲜的电视频道是俄罗斯制式<br>  如果93.25MHz有个载波，那就是5频道电视信号<br>  93.25MHz是视频，99.75MHz是音频</p>
-</blockquote>
-<p>本人在93.2-93.3MHz的确收到了空白载波信号，根据ly7788提供的信息，结合听到的内容，<br>基本确定接收到的99.7(99.75)MHz为朝鲜中央电视台伴音信号。</p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年9月22日，本人在吉林省延边州图们市接收到99.7(99.75)MHz朝鲜中央电视台伴音信号。<br>信号可能在图们江对岸的朝鲜稳城郡南阳劳动者区发射，功率较小，覆盖有限，仅在图们江公园一带可以接收到。</p><a id="more"></a><p>接收视频：<a href="https://youtu.be/piUVELRo5MY" target="_blank" rel="noopener">https://youtu.be/piUVELRo5MY</a><br>接收地点：图们市区图们江公园<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-24/tumen.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-09-24/tumen-2.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>最后，感谢ly7788提供了重要信息。</p><blockquote><p>99.7MHz可能是99.75MHz<br>  99.75MHz是俄罗斯5频道的电视伴音，朝鲜的电视频道是俄罗斯制式<br>  如果93.25MHz有个载波，那就是5频道电视信号<br>  93.25MHz是视频，99.75MHz是音频</p></blockquote><p>本人在93.2-93.3MHz的确收到了空白载波信号，根据ly7788提供的信息，结合听到的内容，<br>基本确定接收到的99.7(99.75)MHz为朝鲜中央电视台伴音信号。</p>]]></content>
     
     <summary type="html">
     
@@ -314,105 +193,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-08-21T17:13:13.000Z</published>
     <updated>2018-10-16T14:24:09.468Z</updated>
     
-    <content type="html"><![CDATA[<p>百色市右江区的DTMB信号2017年下半年已经试播，使用658、754MHz两个频点发射15套节目（市辖区没有自办节目）。<br>实际接收，658MHz频点信号较强，市区大部分区域可接收；754MHz信号较弱，在老城区一些建筑密集的区域无信号。</p>
-<p>两个频点发射的节目如下：<br>658MHz：CCTV-7/9/11、CGTN、广西卫视、广西综艺、百色综合<br>754MHz：CCTV-1/2/4/10/12/13/14/15</p>
-<p>其中，百色综合的音频编码为MPEG-2，其余频道为DRA。<br>所有频道的视频编码均为AVS+。</p>
-<a id="more"></a>
-<hr>
-<p>以下是本人使用带有地面数字电视接收解码功能的机顶盒、九单元八木天线接收到的信号。<br>接收时间：2018年8月21日<br>接收地点：广西百色市右江区百城街道、龙景街道</p>
-<p>658MHz频点（2014年生产的液晶电视机接收）<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv0qgv3vj212i0swwkg.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv0qpc9fj212i0swq7q.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv0qyw2pj212i0swae9.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx4.sinaimg.cn/large/7ae04befgy1fuhv0r6u3uj212i0swwim.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv0q11f8j212i0sw799.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv0q9k8vj212i0swwi9.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv0re833j212i0swgq2.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-<p>754MHz频点（2006年生产的CRT电视机接收）<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv774ol5j212i0swq78.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv780lg1j212i0swn3r.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv78sxb9j212i0swteg.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv79m2umj212i0sw446.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv7ai93pj212i0swn3n.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv7ba2qlj212i0swae2.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv7c3wqgj212i0swwkb.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure><br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx4.sinaimg.cn/large/7ae04befgy1fuhv7cvpkaj212i0swdla.jpg" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-]]></content>
+    <content type="html"><![CDATA[<p>百色市右江区的DTMB信号2017年下半年已经试播，使用658、754MHz两个频点发射15套节目（市辖区没有自办节目）。<br>实际接收，658MHz频点信号较强，市区大部分区域可接收；754MHz信号较弱，在老城区一些建筑密集的区域无信号。</p><p>两个频点发射的节目如下：<br>658MHz：CCTV-7/9/11、CGTN、广西卫视、广西综艺、百色综合<br>754MHz：CCTV-1/2/4/10/12/13/14/15</p><p>其中，百色综合的音频编码为MPEG-2，其余频道为DRA。<br>所有频道的视频编码均为AVS+。</p><a id="more"></a><hr><p>以下是本人使用带有地面数字电视接收解码功能的机顶盒、九单元八木天线接收到的信号。<br>接收时间：2018年8月21日<br>接收地点：广西百色市右江区百城街道、龙景街道</p><p>658MHz频点（2014年生产的液晶电视机接收）<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv0qgv3vj212i0swwkg.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv0qpc9fj212i0swq7q.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv0qyw2pj212i0swae9.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx4.sinaimg.cn/large/7ae04befgy1fuhv0r6u3uj212i0swwim.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv0q11f8j212i0sw799.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv0q9k8vj212i0swwi9.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv0re833j212i0swgq2.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p><p>754MHz频点（2006年生产的CRT电视机接收）<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv774ol5j212i0swq78.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv780lg1j212i0swn3r.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv78sxb9j212i0swteg.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx3.sinaimg.cn/large/7ae04befgy1fuhv79m2umj212i0sw446.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx1.sinaimg.cn/large/7ae04befgy1fuhv7ai93pj212i0swn3n.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv7ba2qlj212i0swae2.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx2.sinaimg.cn/large/7ae04befgy1fuhv7c3wqgj212i0swwkb.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx4.sinaimg.cn/large/7ae04befgy1fuhv7cvpkaj212i0swdla.jpg" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p>]]></content>
     
     <summary type="html">
     
@@ -434,37 +215,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-06-07/96633-changchun-tv-201807
     <published>2018-08-15T05:02:50.000Z</published>
     <updated>2018-11-02T16:14:30.273Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.8.15，本列表为三网融合机顶盒可收看的电视频道列表<br>共传输162套标、高清电视节目信号(含付费频道)<br>74、75、123频道为需要额外付费收看的电视频道，<br>120-122、160频道为广西广电网络测试频道（一说测试频道实际传输一些普通用户无法开通的频道）<br>除右江区之外的各县（市），频道列表中的1频道为当地县级广电自办频道，其余频道往后顺延一位</p>
-<a id="more"></a>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815-fix.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>
-<!--频道变动记录：
-https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.png 
--->
-<h4 id="西塘补充了更详细的信息"><a href="#西塘补充了更详细的信息" class="headerlink" title="西塘补充了更详细的信息"></a><a href="https://weibo.com/u/1623852933" target="_blank" rel="noopener">西塘</a>补充了更详细的信息</h4><p>广西广电城市网148频道是南方卫视，123频道是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p>
-<p>2018年4月16日频道调整后，新增辽宁卫视高清实际是标清信号，足球频道高清右声道没有声音，广西广电网络测试频道减掉2个</p>
-<h4 id="频道异动（2018年起）"><a href="#频道异动（2018年起）" class="headerlink" title="频道异动（2018年起）"></a>频道异动（2018年起）</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月1日，新增湖北卫视HD，频道号146<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视<br>· 2018年4月3日，新增足球频道HD，频道号128<br>· 2018年4月16日，高清频道排序大调整，并新增11套高清频道：</p>
-<blockquote>
-<p>­­6套央视高清频道（CCTV-2 / 4 / 7 / 10 / 12 / 14 HD）<br>  5套卫视高清频道（辽宁卫视HD、江西卫视HD、河北卫视HD、吉林卫视HD、福建东南卫视HD）<br>  -<br>  各卫视高清频道排序大调整，具体如下：<br>  原排序：深圳、广东、黑龙江、江苏、广西、浙江、北京、湖南、东方、山东、安徽、天津、湖北（共13个卫视高清频道）<br>  调整后排序：广西、北京、湖南、东方、江苏、浙江、山东、安徽、深圳、天津、广东、黑龙江、辽宁、江西、湖北、河北、吉林、东南（共18个卫视高清频道）<br>  <a href="https://mp.weixin.qq.com/s/Zj0HLK7eayoA_NJCGwshzA" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/Zj0HLK7eayoA_NJCGwshzA</a><br>  <a href="https://weibo.com/ttarticle/p/show?id=2309404231178449192761" target="_blank" rel="noopener">https://weibo.com/ttarticle/p/show?id=2309404231178449192761</a></p>
-</blockquote>
-<!--· 2018年5月20日，睛彩广西交通频道停播，该频道由于政策原因早已停止在有线电视中传输，只在CMMB和IPTV中传输-->
-<!--· 2018年6月4日，原睛彩广西交通频道部分节目合并至广西移动频道播出-->
-<!--· 2018年6月19日，广西电视台凌晨全台检修后，其官方APP“靓TV”传输的广西影视频道信号调整为16:9画幅播出（据网友反馈，有线电视中还是4:3画幅）-->
-<!--· 2018年6月22日，广西电视台官方APP“靓TV”传输的广西公共、科教、国际、移动四个频道信号调整为16:9画幅播出（有线电视中还是4:3画幅）。至此，“靓TV”传输的所有频道信号均改为16:9画幅-->
-<p>· 2018年6月，26频道环球购物更名“聚鲨环球精选”<br>· 2018年上半年，海南旅游卫视恢复落地，频道号67，之后的频道往后顺延一位<br>· 2018年7月30日，中国3D电视试验频道暂停播出<br>· 2018年7月31日下午，159频道中国3D电视试验频道（7月30日零点停播）替换为CCTV-1 HD<br>· 2018年8月15日，CCTV-9 HD终于落地，替换重复传输的CCTV-4 HD，频道号137<br>· 2018年9月下旬，160频道南方卫视恢复免费收看，目前暂不清楚是临时调整还是长期调整<br>· 2018年9月30日，新增CCTV-4K超高清频道（官方宣布的入网时间为2018年10月11日，但在有线网中早已有传输），由于早期的高清单向、三网融合机顶盒不具备解码4K频道视频格式的条件，该频道只能通过4K机顶盒收看到。但据南宁观众<a href="http://bbs.cnsat.net/thread-248499-1-1.html" target="_blank" rel="noopener">反馈</a>，CCTV-4K也能在高清单向机顶盒中找到，在广播的1频道，只能听频道的伴音，EPG信息完整（包括频道名称和节目表）</p>
-<h3 id="广播频道"><a href="#广播频道" class="headerlink" title="广播频道"></a>广播频道</h3><p>数据更新至2017.7.11（广播频道常年不变，没什么更新的必要了…）<br>共传输21套广播节目信号，央广8套、国际台5套、广西区台7套(含BBR)、市台1套<br>其中8频道“英语综合广播”为CRI EZFM，9频道“流行音乐广播”为CRI HIT FM<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-radio-20170711.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure></p>
-]]></content>
+    <content type="html"><![CDATA[<h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><p>数据更新至2018.8.15，本列表为三网融合机顶盒可收看的电视频道列表<br>共传输162套标、高清电视节目信号(含付费频道)<br>74、75、123频道为需要额外付费收看的电视频道，<br>120-122、160频道为广西广电网络测试频道（一说测试频道实际传输一些普通用户无法开通的频道）<br>除右江区之外的各县（市），频道列表中的1频道为当地县级广电自办频道，其余频道往后顺延一位</p><a id="more"></a><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815-fix.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure><!--频道变动记录：https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.png --><h4 id="西塘补充了更详细的信息"><a href="#西塘补充了更详细的信息" class="headerlink" title="西塘补充了更详细的信息"></a><a href="https://weibo.com/u/1623852933" target="_blank" rel="noopener">西塘</a>补充了更详细的信息</h4><p>广西广电城市网148频道是南方卫视，123频道是珠江台，这两个台可以到营业厅开通收看；119、120频道有可能是凤凰中文和凤凰资讯，121频道画面提示节目源调整，122频道有可能是Star Movies。农村网中的南方卫视列入省级卫视排列内，珠江台也可以申请开通，另外还有一组广东台的一些地面频道和广州台，不过营业厅说没法开通这些频道。</p><p>2018年4月16日频道调整后，新增辽宁卫视高清实际是标清信号，足球频道高清右声道没有声音，广西广电网络测试频道减掉2个</p><h4 id="频道异动（2018年起）"><a href="#频道异动（2018年起）" class="headerlink" title="频道异动（2018年起）"></a>频道异动（2018年起）</h4><p>· 2018年1月中旬，56频道海南旅游卫视替换为时尚购物，但广电网络提供的“时移电视”功能仍提供旅游卫视的节目回放<br>· 2018年2月1日，新增湖北卫视HD，频道号146<br>· 2018年2月上旬，52频道青海卫视调整至63频道（广西新闻回放频道后），原52频道落地延边卫视<br>· 2018年4月3日，新增足球频道HD，频道号128<br>· 2018年4月16日，高清频道排序大调整，并新增11套高清频道：</p><blockquote><p>­­6套央视高清频道（CCTV-2 / 4 / 7 / 10 / 12 / 14 HD）<br>  5套卫视高清频道（辽宁卫视HD、江西卫视HD、河北卫视HD、吉林卫视HD、福建东南卫视HD）<br>  -<br>  各卫视高清频道排序大调整，具体如下：<br>  原排序：深圳、广东、黑龙江、江苏、广西、浙江、北京、湖南、东方、山东、安徽、天津、湖北（共13个卫视高清频道）<br>  调整后排序：广西、北京、湖南、东方、江苏、浙江、山东、安徽、深圳、天津、广东、黑龙江、辽宁、江西、湖北、河北、吉林、东南（共18个卫视高清频道）<br>  <a href="https://mp.weixin.qq.com/s/Zj0HLK7eayoA_NJCGwshzA" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/Zj0HLK7eayoA_NJCGwshzA</a><br>  <a href="https://weibo.com/ttarticle/p/show?id=2309404231178449192761" target="_blank" rel="noopener">https://weibo.com/ttarticle/p/show?id=2309404231178449192761</a></p></blockquote><!--· 2018年5月20日，睛彩广西交通频道停播，该频道由于政策原因早已停止在有线电视中传输，只在CMMB和IPTV中传输--><!--· 2018年6月4日，原睛彩广西交通频道部分节目合并至广西移动频道播出--><!--· 2018年6月19日，广西电视台凌晨全台检修后，其官方APP“靓TV”传输的广西影视频道信号调整为16:9画幅播出（据网友反馈，有线电视中还是4:3画幅）--><!--· 2018年6月22日，广西电视台官方APP“靓TV”传输的广西公共、科教、国际、移动四个频道信号调整为16:9画幅播出（有线电视中还是4:3画幅）。至此，“靓TV”传输的所有频道信号均改为16:9画幅--><p>· 2018年6月，26频道环球购物更名“聚鲨环球精选”<br>· 2018年上半年，海南旅游卫视恢复落地，频道号67，之后的频道往后顺延一位<br>· 2018年7月30日，中国3D电视试验频道暂停播出<br>· 2018年7月31日下午，159频道中国3D电视试验频道（7月30日零点停播）替换为CCTV-1 HD<br>· 2018年8月15日，CCTV-9 HD终于落地，替换重复传输的CCTV-4 HD，频道号137<br>· 2018年9月下旬，160频道南方卫视恢复免费收看，目前暂不清楚是临时调整还是长期调整<br>· 2018年9月30日，新增CCTV-4K超高清频道（官方宣布的入网时间为2018年10月11日，但在有线网中早已有传输），由于早期的高清单向、三网融合机顶盒不具备解码4K频道视频格式的条件，该频道只能通过4K机顶盒收看到。但据南宁观众<a href="http://bbs.cnsat.net/thread-248499-1-1.html" target="_blank" rel="noopener">反馈</a>，CCTV-4K也能在高清单向机顶盒中找到，在广播的1频道，只能听频道的伴音，EPG信息完整（包括频道名称和节目表）</p><h3 id="广播频道"><a href="#广播频道" class="headerlink" title="广播频道"></a>广播频道</h3><p>数据更新至2017.7.11（广播频道常年不变，没什么更新的必要了…）<br>共传输21套广播节目信号，央广8套、国际台5套、广西区台7套(含BBR)、市台1套<br>其中8频道“英语综合广播”为CRI EZFM，9频道“流行音乐广播”为CRI HIT FM<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-radio-20170711.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure></p>]]></content>
     
     <summary type="html">
     
@@ -484,20 +235,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-07-31T15:26:21.000Z</published>
     <updated>2018-11-10T14:10:36.864Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年7月24日，中国之声年内第二次测试发射DRM数字调幅广播。<br>根据官方提供的消息，本次测试使用的频率为6030kHz，发射时间为北京时间04:25-02:05，与原模拟信号的发射时间一致。<br>测试期间，北京时间周二14:00-17:00进行例行停机检修。</p>
-<p>6030kHz原模拟信号功率为100千瓦，与今年1月末第一次测试发射的情况相同，DRM数字调幅广播功率只开30千瓦。<br>主要面向华北地区发射，我国中东部大部分地区可以收到信号。测试期间根据设备调试或测试需要将不定时停机。</p>
-<p>同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。<br>反馈邮箱：<a href="mailto:drmrtprc@163.com" target="_blank" rel="noopener">drmrtprc@163.com</a></p>
-<a id="more"></a>
-<p><strong>频率异动（测试期间信息持续更新）</strong><br>7月25日10:00停机，11:30恢复发射。<br>7月26日09:00开始，调制模式改为64QAM，预计7月27日09:00恢复原模式。<br>7月29日至7月31日，每天08:00-17:00临时停机。<br>7月30日09:30起，测试16QAM，2s长交织模式，带宽10k。<br>8月1日04:25恢复原模式测试播出。<br>10月18日新增11695、15580kHz两个频率实验发射，<br>具体见：<a href="https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html">https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html</a></p>
-<hr>
-<p>6030kHz曾于2018年7月13日09:00-15:00短暂测试发射，发射的内容为民族音乐，以下是当时的接收情况。<br>另外，日本的BCLer于7月23日晚间在6030kHz也收到了中国之声的DRM测试信号，可能是测试工作提前开始了。<br><figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-07-26/6030kHz-CNR-DRM-20180713.jpg" alt="2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）" title="">
-                </div>
-                <div class="image-caption">2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）</div>
-            </figure></p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年7月24日，中国之声年内第二次测试发射DRM数字调幅广播。<br>根据官方提供的消息，本次测试使用的频率为6030kHz，发射时间为北京时间04:25-02:05，与原模拟信号的发射时间一致。<br>测试期间，北京时间周二14:00-17:00进行例行停机检修。</p><p>6030kHz原模拟信号功率为100千瓦，与今年1月末第一次测试发射的情况相同，DRM数字调幅广播功率只开30千瓦。<br>主要面向华北地区发射，我国中东部大部分地区可以收到信号。测试期间根据设备调试或测试需要将不定时停机。</p><p>同时，发射台工作人员欢迎有条件的爱好者收听并记录下详细的接收信息，向官方反馈收听效果，以便改进发射工作。<br>反馈邮箱：<a href="mailto:drmrtprc@163.com" target="_blank" rel="noopener">drmrtprc@163.com</a></p><a id="more"></a><p><strong>频率异动（测试期间信息持续更新）</strong><br>7月25日10:00停机，11:30恢复发射。<br>7月26日09:00开始，调制模式改为64QAM，预计7月27日09:00恢复原模式。<br>7月29日至7月31日，每天08:00-17:00临时停机。<br>7月30日09:30起，测试16QAM，2s长交织模式，带宽10k。<br>8月1日04:25恢复原模式测试播出。<br>10月18日新增11695、15580kHz两个频率实验发射，<br>具体见：<a href="https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html">https://cahcn.github.io/posts/2018-10-18-11695kHz-and-15580kHz-CNR-DRM.html</a></p><hr><p>6030kHz曾于2018年7月13日09:00-15:00短暂测试发射，发射的内容为民族音乐，以下是当时的接收情况。<br>另外，日本的BCLer于7月23日晚间在6030kHz也收到了中国之声的DRM测试信号，可能是测试工作提前开始了。<br><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-07-26/6030kHz-CNR-DRM-20180713.jpg" alt="2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）" title="">                </div>                <div class="image-caption">2018年7月13日接收测试信号（感谢电波之旅微信群的江苏BCLer提供音频文件）</div>            </figure></p>]]></content>
     
     <summary type="html">
     
@@ -519,12 +257,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-07-12T16:36:51.000Z</published>
     <updated>2018-07-12T16:55:58.366Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年7月中旬，中国国际广播电台日语广播网站更新了频率检修公告，在咸阳发射的频率将于7月17日提前完成检修工作。<br>公告同时还提到，在金华发射的频率将于7月19日至8月17日暂时停播，对发射设备进行检修维护。<br><a href="http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html" target="_blank" rel="noopener">http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html</a></p>
-<a id="more"></a>
-<p>6月13日至7月17日暂时停播的频率（北京时间，陕西咸阳发射）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-21:00　11620kHz<br>21:00-22:00　7325kHz<br>22:00-23:00　7395kHz<br>23:00-00:00　9585kHz</p>
-<p>7月19日至8月17日暂时停播的频率（北京时间，浙江金华发射）：<br>06:00-08:00　13640kHz<br>18:00-21:00　7325kHz<br>21:00-00:00　7410kHz</p>
-<p>2017年9月6日至9月30日，CRI日语广播在浙江金华发射的短波频率就曾经进行过设备维护，今年居然分两批次分别检修咸阳和金华发射的频率…</p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年7月中旬，中国国际广播电台日语广播网站更新了频率检修公告，在咸阳发射的频率将于7月17日提前完成检修工作。<br>公告同时还提到，在金华发射的频率将于7月19日至8月17日暂时停播，对发射设备进行检修维护。<br><a href="http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html" target="_blank" rel="noopener">http://japanese.cri.cn/20170925/28a8c0c8-c367-e4d4-3a3d-f737ddd21e82.html</a></p><a id="more"></a><p>6月13日至7月17日暂时停播的频率（北京时间，陕西咸阳发射）：<br>06:00-07:00　9535kHz<br>07:00-08:00　11680kHz<br>18:00-21:00　11620kHz<br>21:00-22:00　7325kHz<br>22:00-23:00　7395kHz<br>23:00-00:00　9585kHz</p><p>7月19日至8月17日暂时停播的频率（北京时间，浙江金华发射）：<br>06:00-08:00　13640kHz<br>18:00-21:00　7325kHz<br>21:00-00:00　7410kHz</p><p>2017年9月6日至9月30日，CRI日语广播在浙江金华发射的短波频率就曾经进行过设备维护，今年居然分两批次分别检修咸阳和金华发射的频率…</p>]]></content>
     
     <summary type="html">
     
@@ -544,20 +277,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-07-09T19:04:32.000Z</published>
     <updated>2018-07-09T19:11:20.501Z</updated>
     
-    <content type="html"><![CDATA[<blockquote>
-<p>页面有限，仅公布最近一次的FMDX记录。<br>  本人2013-2018年的FMDX记录存档（部分在长春近距离DX的记录未收录）：<br>  <a href="https://gitee.com/bcler/fmdx/raw/master/FMDX_List_Cahcn.pdf" target="_blank" rel="noopener">https://gitee.com/bcler/fmdx/raw/master/FMDX_List_Cahcn.pdf</a> （PDF格式，持续更新中…）</p>
-</blockquote>
-<p>收听时间：2018年7月9日 15:26-18:26<br>收听地点：吉林省长春市朝阳区<br>收听设备：德生PL-380</p>
-<a id="more"></a>
-<p>（没有特别标注，76.0-87.0MHz收到的信号均为日本电台）</p>
-<p>15:26-16:07<br>87.20　　音乐之声（南昌）<br>87.50　　黄山新闻综合广播（屯溪区）？<br>87.60　　经济之声（岳阳市汨罗市）<br>87.70　　孝感交通音乐广播？<br>88.20　　安徽城市之声（六安）<br>88.60　　Big Radio（长沙）<br>89.10　　中国之声（南昌）、卖药（两个同频信号）<br>89.30　　湖南音乐之声893汽车音乐电台，15:32播报呼号“893汽车音乐电台”<br>89.50　　安徽音乐广播<br>89.60　　武汉交通广播<br>89.80　　湖南潇湘电影广播电影898<br>90.50　　中国交通广播（湖南段），15:33播报呼号“905交通广播”<br>90.70　　音乐之声（武汉）<br>90.80　　安徽交通广播<br>91.00　　柴桑之声（九江市柴桑区）<br>91.20　　卖药，湖北农村广播？<br>92.10　　卖药台<br>92.50　　925悦电台（长沙市望城区），广告提到0731区号<br>93.00　　卖药，湖南新闻综合频道（衡阳）？<br>93.80　　湖南潇湘之声<br>93.90　　经济之声（南平）<br>94.10　　湖北生活广播（孝感市安陆市） 16:06播报呼号、评书（两个同频信号）<br><strong>94.50　　宁乡人民广播电台 或 濂溪区人民广播电台？</strong><br>94.60<br>94.70　　中国之声（常德）<br>94.80　　中国之声、卖药台（两个同频信号）<br>94.90　　中国之声、温州综合广播（两个同频信号）<br>95.00　　浙江经济广播<br>95.50　　湖南金鹰之声<br>95.60　　宜昌新闻综合广播<br>95.90　　浏阳人民广播电台交通广播？<br>97.20　　荆州之声？<br>97.90　　双辽人民广播电台 广告提到0434区号、中国之声（两个同频信号）<br>98.00　　中国之声、地方台（两个同频信号）<br>98.20　　公益广告<br><strong>98.50　　（两个同频音乐台）</strong><br>98.60　　音乐(非宁波音乐广播)<br>99.80　　卖药台<br>101.7　　长沙城市之声<br>102.1　　湖南音乐之声893汽车音乐电台（常德） 16:00播报呼号“湖南音乐之声汽车音乐电台”、某市市民宣传广告 六安新闻综合广播？（两个同频信号）<br>102.6　　卖药台<br>104.3<br>104.5　　浙江旅游之声女主播电台<br>104.9<br>105.1　　浙江之声（金华市东阳市），16:00播报呼号<br>105.3　　中国之声（安庆）、浙江旅游之声女主播电台（温州）？（两个同频信号）<br>105.7<br>105.9　　音乐<br>107.0　　浙江城市之声私家车107电台<br>107.4　　经济之声（荆州）</p>
-<p>16:08-16:55<br>76.50<br><strong>87.00　　中国之声（宿迁）</strong><br>87.20　　音乐之声（南昌）<br>87.50　　黄山新闻综合广播（屯溪区）？<br>87.60　　经济之声（岳阳市汨罗市）<br>88.30　　江西农村广播绿色之声（上饶市弋阳县）？<br>88.40　　九江交通音乐广播<br>88.60　　Big Radio（长沙）<br>89.10　　中国之声（南昌）<br>89.30　　湖南音乐之声893汽车音乐电台<br>89.50　　××交通广播(非濮阳交通广播)<br>89.60　　浙江之声（杭州市淳安县）<br>89.70　　南昌经济生活广播快乐897？<br>89.80　　湖南潇湘电影广播电影898<br><strong>90.30　　闽南语(疑似台湾电台)</strong><br>90.50　　中国交通广播（湖南段）<br>90.70　　音乐之声（武汉）<br>90.90　　909私家车悦电台（上饶市广丰县）<br>91.00　　柴桑之声（九江市柴桑区）<br>91.20<br>92.10　　（两个同频信号）<br>92.50　　925悦电台（长沙市望城区）<br>93.00　　浙江交通之声，同频还有一个信号<br>93.90　　经济之声（南平）<br>94.10　　湖北生活广播（孝感市安陆市）<br><strong>94.50　　宁乡人民广播电台 或 濂溪区人民广播电台？</strong><br>94.60　　中国之声<br><strong>94.80　　永州之声活力948，16:31播报呼号“永州活力948”</strong><br>94.90　　温州综合广播<br>95.00　　浙江经济广播、中国之声（衡阳）（两个同频信号）<br>95.10　　南昌交通音乐广播？<br>95.90　　浏阳人民广播电台交通广播？<br>96.00　　浙江之声（温州）<br>97.20　　温州综合广播（乐清市）、飞扬972汽车音乐电台（鹰潭市贵溪市）（两个同频信号）<br>97.40　　浙江之声（宁波）？<br>98.10　　中国之声（上饶）<br>98.50　　江西农村广播绿色之声？<br>99.80　　中国之声（南平）、音乐（两个同频信号）<br>100.8<br>101.6　　浙江之声<br><strong>102.5　　1025汽车音乐广播 16:45播报呼号（未知）</strong>、中国之声（两个同频信号）<br>102.9<br>103.0　　浙江旅游之声女主播电台<br>103.6　　安徽之声新闻1036（黄山）？<br>104.4　　金华之声<br>105.0　　湖州综合广播？<br>106.6　　浙江经济广播（台州）<br><strong>106.9　　闽南语，桃园广播电台</strong><br>107.4　　中国之声、音乐（两个同频信号）</p>
-<p>17:01-17:35<br>81.40　　琉球放送？<br>87.20　　音乐之声（南昌）<br>87.60　　经济之声（岳阳市汨罗市）、中国之声（赣州市宁都县）（两个同频信号）<br>88.40　　南康人民广播电台交通广播<br>88.60　　Big Radio（长沙）<br>89.30　　(非湖南音乐之声893汽车音乐电台)<br>89.50　　安徽音乐广播<br>89.60　　浙江之声（杭州市淳安县），17:09播报呼号<br>89.70　　南昌经济生活广播快乐897？<br><strong>90.30　　闽南语(疑似台湾电台)</strong><br>90.50　　中国交通广播（湖南段）<br>90.90　　909私家车悦电台（上饶市广丰县）<br>91.00　　福建新闻广播（三明），17:12提到公众号“FM1036福建新闻广播”<br>　　　　 （该频率总局备案为在沙县发射，实际在三明市区发射）<br>91.20　　中国之声（龙岩市上杭县）<br>92.10　　卖药台<br>92.50　　925悦电台（长沙市望城区）<br>93.00　　浙江交通之声<br>93.90　　经济之声（南平）<br><strong>94.50　　宁乡人民广播电台 或 濂溪区人民广播电台？</strong><br><strong>94.60　　音乐、江西文艺音乐广播（未知地发射）（两个同频信号）</strong><br>94.80<br>94.90　　温州综合广播<br>95.60　　经济之声（景德镇）<br>95.80<br>95.90　　中国之声（赣州）<br>97.20　　飞扬972汽车音乐电台（鹰潭市贵溪市），17:20提到微信号“飞扬972”<br>97.90　　(非经济之声、江西文艺音乐广播)<br>98.00　　中国之声<br>99.80　　中国之声（南平）<br>100.8　　新闻<br><strong>101.7　　浙江城市之声（台州）、长沙城市之声、赣州综合广播 17:31播报呼号</strong><br>　　　　 （一分钟内收到来自不同方向的三个信号，其中赣州综合广播的发射地未知）<br>102.9　　江西综合新闻广播（抚州市南城县）<br>105.1　　福建新闻广播（南平）<br>105.6　　中国之声（台州市临海市）<br>106.9<br>107.6</p>
-<p>17:52-17:57<br>89.50　　福建新闻广播（南平市建阳区）<br>90.50　　中国交通广播（湖南段）<br>90.90　　909私家车悦电台（上饶市广丰县）<br>91.00　　福建新闻广播（三明）？<br>91.20　　中国之声（龙岩市上杭县）？<br>92.10　　卖药台<br>94.80<br>95.60　　中国之声（武汉）<br>96.50</p>
-<p>18:05-18:08<br>79.80<br>97.90　　双辽人民广播电台<br>99.90　　双辽人民广播电台第二套节目</p>
-<p>18:26<br>94.80　　中国之声（沈阳？）</p>
-<p>FM87.0 DX到中国之声的信号，华东方向只有宿迁市区使用这个频率转播中国之声。<br>FM94.6收到江西文艺音乐广播，发射地未知（电台官方和总局表格中均未查到信息）…</p>
-]]></content>
+    <content type="html"><![CDATA[<blockquote><p>页面有限，仅公布最近一次的FMDX记录。<br>  本人2013-2018年的FMDX记录存档（部分在长春近距离DX的记录未收录）：<br>  <a href="https://gitee.com/bcler/fmdx/raw/master/FMDX_List_Cahcn.pdf" target="_blank" rel="noopener">https://gitee.com/bcler/fmdx/raw/master/FMDX_List_Cahcn.pdf</a> （PDF格式，持续更新中…）</p></blockquote><p>收听时间：2018年7月9日 15:26-18:26<br>收听地点：吉林省长春市朝阳区<br>收听设备：德生PL-380</p><a id="more"></a><p>（没有特别标注，76.0-87.0MHz收到的信号均为日本电台）</p><p>15:26-16:07<br>87.20　　音乐之声（南昌）<br>87.50　　黄山新闻综合广播（屯溪区）？<br>87.60　　经济之声（岳阳市汨罗市）<br>87.70　　孝感交通音乐广播？<br>88.20　　安徽城市之声（六安）<br>88.60　　Big Radio（长沙）<br>89.10　　中国之声（南昌）、卖药（两个同频信号）<br>89.30　　湖南音乐之声893汽车音乐电台，15:32播报呼号“893汽车音乐电台”<br>89.50　　安徽音乐广播<br>89.60　　武汉交通广播<br>89.80　　湖南潇湘电影广播电影898<br>90.50　　中国交通广播（湖南段），15:33播报呼号“905交通广播”<br>90.70　　音乐之声（武汉）<br>90.80　　安徽交通广播<br>91.00　　柴桑之声（九江市柴桑区）<br>91.20　　卖药，湖北农村广播？<br>92.10　　卖药台<br>92.50　　925悦电台（长沙市望城区），广告提到0731区号<br>93.00　　卖药，湖南新闻综合频道（衡阳）？<br>93.80　　湖南潇湘之声<br>93.90　　经济之声（南平）<br>94.10　　湖北生活广播（孝感市安陆市） 16:06播报呼号、评书（两个同频信号）<br><strong>94.50　　宁乡人民广播电台 或 濂溪区人民广播电台？</strong><br>94.60<br>94.70　　中国之声（常德）<br>94.80　　中国之声、卖药台（两个同频信号）<br>94.90　　中国之声、温州综合广播（两个同频信号）<br>95.00　　浙江经济广播<br>95.50　　湖南金鹰之声<br>95.60　　宜昌新闻综合广播<br>95.90　　浏阳人民广播电台交通广播？<br>97.20　　荆州之声？<br>97.90　　双辽人民广播电台 广告提到0434区号、中国之声（两个同频信号）<br>98.00　　中国之声、地方台（两个同频信号）<br>98.20　　公益广告<br><strong>98.50　　（两个同频音乐台）</strong><br>98.60　　音乐(非宁波音乐广播)<br>99.80　　卖药台<br>101.7　　长沙城市之声<br>102.1　　湖南音乐之声893汽车音乐电台（常德） 16:00播报呼号“湖南音乐之声汽车音乐电台”、某市市民宣传广告 六安新闻综合广播？（两个同频信号）<br>102.6　　卖药台<br>104.3<br>104.5　　浙江旅游之声女主播电台<br>104.9<br>105.1　　浙江之声（金华市东阳市），16:00播报呼号<br>105.3　　中国之声（安庆）、浙江旅游之声女主播电台（温州）？（两个同频信号）<br>105.7<br>105.9　　音乐<br>107.0　　浙江城市之声私家车107电台<br>107.4　　经济之声（荆州）</p><p>16:08-16:55<br>76.50<br><strong>87.00　　中国之声（宿迁）</strong><br>87.20　　音乐之声（南昌）<br>87.50　　黄山新闻综合广播（屯溪区）？<br>87.60　　经济之声（岳阳市汨罗市）<br>88.30　　江西农村广播绿色之声（上饶市弋阳县）？<br>88.40　　九江交通音乐广播<br>88.60　　Big Radio（长沙）<br>89.10　　中国之声（南昌）<br>89.30　　湖南音乐之声893汽车音乐电台<br>89.50　　××交通广播(非濮阳交通广播)<br>89.60　　浙江之声（杭州市淳安县）<br>89.70　　南昌经济生活广播快乐897？<br>89.80　　湖南潇湘电影广播电影898<br><strong>90.30　　闽南语(疑似台湾电台)</strong><br>90.50　　中国交通广播（湖南段）<br>90.70　　音乐之声（武汉）<br>90.90　　909私家车悦电台（上饶市广丰县）<br>91.00　　柴桑之声（九江市柴桑区）<br>91.20<br>92.10　　（两个同频信号）<br>92.50　　925悦电台（长沙市望城区）<br>93.00　　浙江交通之声，同频还有一个信号<br>93.90　　经济之声（南平）<br>94.10　　湖北生活广播（孝感市安陆市）<br><strong>94.50　　宁乡人民广播电台 或 濂溪区人民广播电台？</strong><br>94.60　　中国之声<br><strong>94.80　　永州之声活力948，16:31播报呼号“永州活力948”</strong><br>94.90　　温州综合广播<br>95.00　　浙江经济广播、中国之声（衡阳）（两个同频信号）<br>95.10　　南昌交通音乐广播？<br>95.90　　浏阳人民广播电台交通广播？<br>96.00　　浙江之声（温州）<br>97.20　　温州综合广播（乐清市）、飞扬972汽车音乐电台（鹰潭市贵溪市）（两个同频信号）<br>97.40　　浙江之声（宁波）？<br>98.10　　中国之声（上饶）<br>98.50　　江西农村广播绿色之声？<br>99.80　　中国之声（南平）、音乐（两个同频信号）<br>100.8<br>101.6　　浙江之声<br><strong>102.5　　1025汽车音乐广播 16:45播报呼号（未知）</strong>、中国之声（两个同频信号）<br>102.9<br>103.0　　浙江旅游之声女主播电台<br>103.6　　安徽之声新闻1036（黄山）？<br>104.4　　金华之声<br>105.0　　湖州综合广播？<br>106.6　　浙江经济广播（台州）<br><strong>106.9　　闽南语，桃园广播电台</strong><br>107.4　　中国之声、音乐（两个同频信号）</p><p>17:01-17:35<br>81.40　　琉球放送？<br>87.20　　音乐之声（南昌）<br>87.60　　经济之声（岳阳市汨罗市）、中国之声（赣州市宁都县）（两个同频信号）<br>88.40　　南康人民广播电台交通广播<br>88.60　　Big Radio（长沙）<br>89.30　　(非湖南音乐之声893汽车音乐电台)<br>89.50　　安徽音乐广播<br>89.60　　浙江之声（杭州市淳安县），17:09播报呼号<br>89.70　　南昌经济生活广播快乐897？<br><strong>90.30　　闽南语(疑似台湾电台)</strong><br>90.50　　中国交通广播（湖南段）<br>90.90　　909私家车悦电台（上饶市广丰县）<br>91.00　　福建新闻广播（三明），17:12提到公众号“FM1036福建新闻广播”<br>　　　　 （该频率总局备案为在沙县发射，实际在三明市区发射）<br>91.20　　中国之声（龙岩市上杭县）<br>92.10　　卖药台<br>92.50　　925悦电台（长沙市望城区）<br>93.00　　浙江交通之声<br>93.90　　经济之声（南平）<br><strong>94.50　　宁乡人民广播电台 或 濂溪区人民广播电台？</strong><br><strong>94.60　　音乐、江西文艺音乐广播（未知地发射）（两个同频信号）</strong><br>94.80<br>94.90　　温州综合广播<br>95.60　　经济之声（景德镇）<br>95.80<br>95.90　　中国之声（赣州）<br>97.20　　飞扬972汽车音乐电台（鹰潭市贵溪市），17:20提到微信号“飞扬972”<br>97.90　　(非经济之声、江西文艺音乐广播)<br>98.00　　中国之声<br>99.80　　中国之声（南平）<br>100.8　　新闻<br><strong>101.7　　浙江城市之声（台州）、长沙城市之声、赣州综合广播 17:31播报呼号</strong><br>　　　　 （一分钟内收到来自不同方向的三个信号，其中赣州综合广播的发射地未知）<br>102.9　　江西综合新闻广播（抚州市南城县）<br>105.1　　福建新闻广播（南平）<br>105.6　　中国之声（台州市临海市）<br>106.9<br>107.6</p><p>17:52-17:57<br>89.50　　福建新闻广播（南平市建阳区）<br>90.50　　中国交通广播（湖南段）<br>90.90　　909私家车悦电台（上饶市广丰县）<br>91.00　　福建新闻广播（三明）？<br>91.20　　中国之声（龙岩市上杭县）？<br>92.10　　卖药台<br>94.80<br>95.60　　中国之声（武汉）<br>96.50</p><p>18:05-18:08<br>79.80<br>97.90　　双辽人民广播电台<br>99.90　　双辽人民广播电台第二套节目</p><p>18:26<br>94.80　　中国之声（沈阳？）</p><p>FM87.0 DX到中国之声的信号，华东方向只有宿迁市区使用这个频率转播中国之声。<br>FM94.6收到江西文艺音乐广播，发射地未知（电台官方和总局表格中均未查到信息）…</p>]]></content>
     
     <summary type="html">
     
@@ -580,36 +300,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-07-04T02:49:04.000Z</published>
     <updated>2018-10-13T06:20:46.478Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出。<br>部分内容如下：</p>
-<blockquote>
-<p>广东影视频道4K超高清试验暂停播出预告：<br>  广东影视频道4K超高清试验，已完成各项任务。现按规定向国家主管部门申请正式播出，<br>  在申报期间（从7月6日起）将暂停试验信号的传送，正式启播时间另行通知。</p>
-</blockquote>
-<p>据公开资料，广东影视频道自2017年12月23日起开始对外试播4K超高清信号，4K超高清版本播出的大部分节目与标清版本不同。<br>从官方对外宣传上看，广东影视频道4K超高清版本为中国大陆地区首个4K超高清频道。</p>
-<a id="more"></a>
-<hr>
-<p>2018年9月11日，国家广播电视总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出。<br>批复内容如下：</p>
-<blockquote>
-<p>近日，总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出，该频道成为全国首个省级电视4K超高清频道。<br>  批复明确，一是广东综艺频道的频道名称、内容定位、呼号、标识、传输方式及覆盖范围保持不变，<br>  其全天所播节目（含广告）应100%符合总局关于4K超高清电视播出的技术标准，并在屏幕右上角标注“4K”字样。<br>  二是广东局要严格按照总局关于4K超高清电视规范发展的各项要求，加强监督检查，确保综艺频道的播出质量。<br>  三是广东广播电视台须加大投入，切实保障综艺频道调整为4K超高清方式播出后所需的节目、设备和经费，<br>  不断提高4K超高清节目的制作能力和播出质量，并逐步增加每日首播时长。<br>  四是有线网络机构须采取有力措施，加快网络数字化双向化升级改造和4K超高清机顶盒的推广安装，做好4K超高清频道的宣传推广。</p>
-</blockquote>
-<p>2018年10月4日，广东广播电视台综艺频道通过屏幕下方的滚动字幕，公告其标清信号即将停止播出，调整为4K超高清信号播出。<br>内容如下：</p>
-<blockquote>
-<p>经国家广播电视总局批准，广东综艺频道将于2018年10月12日14:30起停止播出和传送标清节目，<br>  从2018年10月12日18:00起，广东综艺频道将正式调整为4K超高清技术播出。<br>  请您继续关注和支持广东综艺频道播出的4K超高清节目，谢谢！</p>
-</blockquote>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://wx1.sinaimg.cn/large/62b02b3dgy1fmqzfnwt78j20qo0f0kcm.jpg" alt="截图来自新浪微博@天地英杰Jack" title="">
-                </div>
-                <div class="image-caption">截图来自新浪微博@天地英杰Jack</div>
-            </figure>
-<!--// 微博外链失效内容备份
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-07-04/Guangdong-4K.jpg" alt="截图来自新浪微博@天地英杰Jack" title="">
-                </div>
-                <div class="image-caption">截图来自新浪微博@天地英杰Jack</div>
-            </figure>–&gt;-->]]></content>
+    <content type="html"><![CDATA[<p>2018年7月3日，广东广播电视台影视频道通过屏幕下方的滚动字幕，公告其4K超高清信号将暂停播出。<br>部分内容如下：</p><blockquote><p>广东影视频道4K超高清试验暂停播出预告：<br>  广东影视频道4K超高清试验，已完成各项任务。现按规定向国家主管部门申请正式播出，<br>  在申报期间（从7月6日起）将暂停试验信号的传送，正式启播时间另行通知。</p></blockquote><p>据公开资料，广东影视频道自2017年12月23日起开始对外试播4K超高清信号，4K超高清版本播出的大部分节目与标清版本不同。<br>从官方对外宣传上看，广东影视频道4K超高清版本为中国大陆地区首个4K超高清频道。</p><a id="more"></a><hr><p>2018年9月11日，国家广播电视总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出。<br>批复内容如下：</p><blockquote><p>近日，总局批复同意广东广播电视台综艺频道调整为4K超高清方式播出，该频道成为全国首个省级电视4K超高清频道。<br>  批复明确，一是广东综艺频道的频道名称、内容定位、呼号、标识、传输方式及覆盖范围保持不变，<br>  其全天所播节目（含广告）应100%符合总局关于4K超高清电视播出的技术标准，并在屏幕右上角标注“4K”字样。<br>  二是广东局要严格按照总局关于4K超高清电视规范发展的各项要求，加强监督检查，确保综艺频道的播出质量。<br>  三是广东广播电视台须加大投入，切实保障综艺频道调整为4K超高清方式播出后所需的节目、设备和经费，<br>  不断提高4K超高清节目的制作能力和播出质量，并逐步增加每日首播时长。<br>  四是有线网络机构须采取有力措施，加快网络数字化双向化升级改造和4K超高清机顶盒的推广安装，做好4K超高清频道的宣传推广。</p></blockquote><p>2018年10月4日，广东广播电视台综艺频道通过屏幕下方的滚动字幕，公告其标清信号即将停止播出，调整为4K超高清信号播出。<br>内容如下：</p><blockquote><p>经国家广播电视总局批准，广东综艺频道将于2018年10月12日14:30起停止播出和传送标清节目，<br>  从2018年10月12日18:00起，广东综艺频道将正式调整为4K超高清技术播出。<br>  请您继续关注和支持广东综艺频道播出的4K超高清节目，谢谢！</p></blockquote><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://wx1.sinaimg.cn/large/62b02b3dgy1fmqzfnwt78j20qo0f0kcm.jpg" alt="截图来自新浪微博@天地英杰Jack" title="">                </div>                <div class="image-caption">截图来自新浪微博@天地英杰Jack</div>            </figure><!--// 微博外链失效内容备份<figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-07-04/Guangdong-4K.jpg" alt="截图来自新浪微博@天地英杰Jack" title="">                </div>                <div class="image-caption">截图来自新浪微博@天地英杰Jack</div>            </figure>–&gt;-->]]></content>
     
     <summary type="html">
     
@@ -633,16 +324,15 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-06-01T08:53:23.000Z</published>
     <updated>2018-08-01T08:09:35.417Z</updated>
     
-    <content type="html"><![CDATA[<p>RFA普通话节目也通过SOH在台湾的频率向中国大陆地区发射，2018年5月起部分转播频率有所调整。</p>
-<p>2018年6月1日16:00，通过深圳SDR接收机收听，收到以下频率：<br>9320、9730、10960、12910、14430、14900、15340、16300、17440kHz</p>
-<p>其中，9320、16300、17440kHz同时发射RFA/SOH两个信号。</p>
-<p>6月15日9:45收听，14430kHz也同时发射RFA/SOH两个信号。<br>8月1日16:00收听，12910、13640kHz也同时发射RFA/SOH两个信号。</p>
-]]></content>
+    <content type="html"><![CDATA[<p>RFA普通话节目也通过SOH在台湾的频率向中国大陆地区发射，2018年5月起部分转播频率有所调整。</p><p>2018年6月1日16:00，通过深圳SDR接收机收听，收到以下频率：<br>9320、9730、10960、12910、14430、14900、15340、16300、17440kHz</p><p>其中，9320、16300、17440kHz同时发射RFA/SOH两个信号。</p><p>6月15日9:45收听，14430kHz也同时发射RFA/SOH两个信号。<br>8月1日16:00收听，12910、13640kHz也同时发射RFA/SOH两个信号。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;RFA普通话节目也通过SOH在台湾的频率向中国大陆地区发射，2018年5月起部分转播频率有所调整。&lt;/p&gt;
+      
+      
+        &lt;p&gt;RFA普通话节目也通过SOH在台湾的频率向中国大陆地区发射，2018年5月起部分转播频率有所调整。&lt;/p&gt;
 &lt;p&gt;2018年6月1日16:00，通过深圳SDR接收机收听，收到以下频率：&lt;br&gt;9320、9730、10960、12910、14430、14900、15340、1
+      
     
     </summary>
     
@@ -658,21 +348,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-05-18T13:20:28.000Z</published>
     <updated>2018-05-26T13:40:08.718Z</updated>
     
-    <content type="html"><![CDATA[<p>长春市区夜间可以收到多个日本的中波电台。下表为2015年11月至2017年4月，2018年5月至今本人在长春收到过的日本中波电台。<br>其中，2018年新接收到的信号在表格中用不同底色特别标注出来。表格中所列电台并非每晚都能接收到。</p>
-<p>2018年5月3日下午6点半，在长春市区南部收到1008kHz日语电台，经确认为大阪的ABC朝日放送，同频还有一个国内中波台弱信号。<br>2018年5月18日晚间，确认2015年年底收到的828kHz外语教学节目为NHK 2（大阪发射）、954kHz为TBS Radio（东京发射）。</p>
-<blockquote>
-<p>收听地点：吉林省长春市朝阳区<br>  收听设备：德生PL-380（未使用外接天线）</p>
-</blockquote>
-<a id="more"></a>
-<p>长春本地下午至零点，1017kHz有发射CNR民族之声朝语节目、CRI朝语广播，转换到特定方向可以收到NHK 2的弱信号。<br>冬季中午，在长春市政府门前的友谊湖公园可以收到1593/1602kHz的弱信号。</p>
-<p>873kHz夜间能够同时收到朝鲜中央广播电台和NHK 2（熊本）的信号。<br>其中，傍晚时分至天黑前仅能收到朝鲜中央广播电台的信号，天黑后NHK 2（熊本）的信号比朝鲜中央广播电台好。</p>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/Japan_MW.png" alt="" title="">
-                </div>
-                <div class="image-caption"></div>
-            </figure>]]></content>
+    <content type="html"><![CDATA[<p>长春市区夜间可以收到多个日本的中波电台。下表为2015年11月至2017年4月，2018年5月至今本人在长春收到过的日本中波电台。<br>其中，2018年新接收到的信号在表格中用不同底色特别标注出来。表格中所列电台并非每晚都能接收到。</p><p>2018年5月3日下午6点半，在长春市区南部收到1008kHz日语电台，经确认为大阪的ABC朝日放送，同频还有一个国内中波台弱信号。<br>2018年5月18日晚间，确认2015年年底收到的828kHz外语教学节目为NHK 2（大阪发射）、954kHz为TBS Radio（东京发射）。</p><blockquote><p>收听地点：吉林省长春市朝阳区<br>  收听设备：德生PL-380（未使用外接天线）</p></blockquote><a id="more"></a><p>长春本地下午至零点，1017kHz有发射CNR民族之声朝语节目、CRI朝语广播，转换到特定方向可以收到NHK 2的弱信号。<br>冬季中午，在长春市政府门前的友谊湖公园可以收到1593/1602kHz的弱信号。</p><p>873kHz夜间能够同时收到朝鲜中央广播电台和NHK 2（熊本）的信号。<br>其中，傍晚时分至天黑前仅能收到朝鲜中央广播电台的信号，天黑后NHK 2（熊本）的信号比朝鲜中央广播电台好。</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/Japan_MW.png" alt="" title="">                </div>                <div class="image-caption"></div>            </figure>]]></content>
     
     <summary type="html">
     
@@ -696,14 +372,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-04-17T11:11:27.000Z</published>
     <updated>2018-04-20T13:45:04.487Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年4月17日，中央人民广播电台娱乐广播（CNR 12）发布公告，娱乐广播将于2018年4月19日至5月10日对中波747千赫的发射天线进行调试，频率将暂时停播。747千赫停播期间频率临时更换为1557千赫和6030千赫。这是中央人民广播电台继去年5月老年之声中波1053千赫、中国乡村之声中波720千赫在设备检修期间临时启用短波频率发射之后，央广旗下仅对北京及周边地区播出的节目再次使用短波频率向全国发射。</p>
-<a id="more"></a>
-<blockquote>
-<p>1557kHz（北京发射的实验频率，夜间干扰RTI）<br>  6030kHz（CNR 1短波频率临时代播CNR 12）</p>
-</blockquote>
-<p>2017年6月，在老年之声、中国乡村之声中波频率检修完成前夕，许多听众在两套频率的微博及其它平台上留言，希望老年之声、中国乡村之声在中波频率恢复播出之后，保留短波频率发射，让全国大部分地区的听众通过收音机收听到这两套节目，但国家新闻出版广电总局没有给听众任何答复。</p>
-<p><a href="https://weibo.com/1827332193/GcvbjzLoY" target="_blank" rel="noopener">https://weibo.com/1827332193/GcvbjzLoY</a></p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年4月17日，中央人民广播电台娱乐广播（CNR 12）发布公告，娱乐广播将于2018年4月19日至5月10日对中波747千赫的发射天线进行调试，频率将暂时停播。747千赫停播期间频率临时更换为1557千赫和6030千赫。这是中央人民广播电台继去年5月老年之声中波1053千赫、中国乡村之声中波720千赫在设备检修期间临时启用短波频率发射之后，央广旗下仅对北京及周边地区播出的节目再次使用短波频率向全国发射。</p><a id="more"></a><blockquote><p>1557kHz（北京发射的实验频率，夜间干扰RTI）<br>  6030kHz（CNR 1短波频率临时代播CNR 12）</p></blockquote><p>2017年6月，在老年之声、中国乡村之声中波频率检修完成前夕，许多听众在两套频率的微博及其它平台上留言，希望老年之声、中国乡村之声在中波频率恢复播出之后，保留短波频率发射，让全国大部分地区的听众通过收音机收听到这两套节目，但国家新闻出版广电总局没有给听众任何答复。</p><p><a href="https://weibo.com/1827332193/GcvbjzLoY" target="_blank" rel="noopener">https://weibo.com/1827332193/GcvbjzLoY</a></p>]]></content>
     
     <summary type="html">
     
@@ -723,58 +392,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-04-10T12:58:12.000Z</published>
     <updated>2018-10-13T06:19:12.811Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年3月，具备CDR（Convergent Digital Radio，旧称China Digital Radio）信号接收解码功能的收音机上架中国网购平台。<br>共有两种型号，分别为：海尔HCDR-01型和华音S2型。根据店家报价，两种机型的销售价格为580元、800元。</p>
-<a id="more"></a>
-<p>两种型号CDR收音机的介绍、参数：<br><strong>海尔HCDR-01型（Haier HCDR-01）</strong></p>
-<blockquote>
-<p>海尔HCDR-01型数字音频广播的便携式收音机，采用海尔公司自主开发的Hi5216方案，Hi5216芯片主要面对中高层次数字收音机市场。高集成度设计，系统采用总线式结构，嵌入式软件设计，整机稳定可靠，性能优良。设计有内置重低音扬声器，可接收FM调频广播及CDR数字广播。支持应急广播功能，解决突发事件预警，自然灾害预警等功能，为确保人民群众生命财产安全提供必要的技术手段支持。</p>
-</blockquote>
-<p>主要功能特性：</p>
-<ol>
-<li>CDR数字广播接收</li>
-<li>FM调频广播接收</li>
-<li>音频输入(可作为音箱使用)</li>
-<li>TF卡音乐播放</li>
-<li>重低音效果</li>
-<li>USB数据串口</li>
-<li>电量显示</li>
-<li>全数字按键操作</li>
-<li>音频输出（可接耳机收听广播）</li>
-<li>频道自动搜索</li>
-</ol>
-<p>硬件主要组成部分：<br>主芯片：Hi5216最高频率可达400MHz<br>FLASH（闪存）：4MB<br>DDR SDRAM（内存）：16MB<br>加密芯片：LKT4201N</p>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-04-10/Haier-HCDR-01.jpg" alt="海尔HCDR-01型" title="">
-                </div>
-                <div class="image-caption">海尔HCDR-01型</div>
-            </figure>
-<p><strong>华音S2型（SinoSound S2）</strong></p>
-<blockquote>
-<p>华音S2 CDR接收机是由北京华音科技有限公司开发的国内首款支持CDR(Convergent Digital Radio)数字广播的接收机，外观简洁大方，操作简单，可满足广大用户对高品质数字音频广播收听的需求。</p>
-</blockquote>
-<p>主要功能特性：</p>
-<ol>
-<li>CDR(Convergent Digital Radio)数字广播接收</li>
-<li>调频立体声广播接收(87-108MHz)</li>
-<li>ATS自动搜索并存储电台</li>
-<li>数字键直接输入频率，同时具有键盘锁定功能，防止误操作</li>
-<li>LED数码管显示</li>
-<li>可播放MP3格式音乐文件</li>
-<li>采用优质喇叭，内置低频增幅器</li>
-<li>使用18650型锂电池供电，通过USB口充电，外置供电时自动断开内部电池，专业充电管理，保护电池安全及寿命</li>
-<li>设有音频输入插口，可作为电脑音箱</li>
-</ol>
-<figure class="image-bubble">
-                <div class="img-lightbox">
-                    <div class="overlay"></div>
-                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-04-10/SinoSound-S2.jpg" alt="华音S2型" title="">
-                </div>
-                <div class="image-caption">华音S2型</div>
-            </figure>
-<p>两种型号的CDR收音机均只支持FM和CDR广播信号接收，不支持中波和短波接收，就功能来说似乎不如市面上百元价位的收音机。另外，价格上偏贵，又会有多少人选择购买尝鲜呢？（补充：该店家销售的华音S2型收音机上市初期标价488元，三月末便涨价至800元，原因不明）</p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年3月，具备CDR（Convergent Digital Radio，旧称China Digital Radio）信号接收解码功能的收音机上架中国网购平台。<br>共有两种型号，分别为：海尔HCDR-01型和华音S2型。根据店家报价，两种机型的销售价格为580元、800元。</p><a id="more"></a><p>两种型号CDR收音机的介绍、参数：<br><strong>海尔HCDR-01型（Haier HCDR-01）</strong></p><blockquote><p>海尔HCDR-01型数字音频广播的便携式收音机，采用海尔公司自主开发的Hi5216方案，Hi5216芯片主要面对中高层次数字收音机市场。高集成度设计，系统采用总线式结构，嵌入式软件设计，整机稳定可靠，性能优良。设计有内置重低音扬声器，可接收FM调频广播及CDR数字广播。支持应急广播功能，解决突发事件预警，自然灾害预警等功能，为确保人民群众生命财产安全提供必要的技术手段支持。</p></blockquote><p>主要功能特性：</p><ol><li>CDR数字广播接收</li><li>FM调频广播接收</li><li>音频输入(可作为音箱使用)</li><li>TF卡音乐播放</li><li>重低音效果</li><li>USB数据串口</li><li>电量显示</li><li>全数字按键操作</li><li>音频输出（可接耳机收听广播）</li><li>频道自动搜索</li></ol><p>硬件主要组成部分：<br>主芯片：Hi5216最高频率可达400MHz<br>FLASH（闪存）：4MB<br>DDR SDRAM（内存）：16MB<br>加密芯片：LKT4201N</p><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-04-10/Haier-HCDR-01.jpg" alt="海尔HCDR-01型" title="">                </div>                <div class="image-caption">海尔HCDR-01型</div>            </figure><p><strong>华音S2型（SinoSound S2）</strong></p><blockquote><p>华音S2 CDR接收机是由北京华音科技有限公司开发的国内首款支持CDR(Convergent Digital Radio)数字广播的接收机，外观简洁大方，操作简单，可满足广大用户对高品质数字音频广播收听的需求。</p></blockquote><p>主要功能特性：</p><ol><li>CDR(Convergent Digital Radio)数字广播接收</li><li>调频立体声广播接收(87-108MHz)</li><li>ATS自动搜索并存储电台</li><li>数字键直接输入频率，同时具有键盘锁定功能，防止误操作</li><li>LED数码管显示</li><li>可播放MP3格式音乐文件</li><li>采用优质喇叭，内置低频增幅器</li><li>使用18650型锂电池供电，通过USB口充电，外置供电时自动断开内部电池，专业充电管理，保护电池安全及寿命</li><li>设有音频输入插口，可作为电脑音箱</li></ol><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://gitee.com/bcler/fmdx/raw/master/img/2018-04-10/SinoSound-S2.jpg" alt="华音S2型" title="">                </div>                <div class="image-caption">华音S2型</div>            </figure><p>两种型号的CDR收音机均只支持FM和CDR广播信号接收，不支持中波和短波接收，就功能来说似乎不如市面上百元价位的收音机。另外，价格上偏贵，又会有多少人选择购买尝鲜呢？（补充：该店家销售的华音S2型收音机上市初期标价488元，三月末便涨价至800元，原因不明）</p>]]></content>
     
     <summary type="html">
     
@@ -794,11 +412,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-04-03T15:10:19.000Z</published>
     <updated>2018-04-03T16:26:09.357Z</updated>
     
-    <content type="html"><![CDATA[<p>2018年4月2日，NCC公布了最新的《无线调幅(AM)广播电台频率及发射机位址》文档，与2018年1月2日公布的文档对比，<br>删去了RTI三个中波频率（1206、1359、1503kHz）的备案。<br>其中，1206kHz为RTI民雄分台发射，1359、1503kHz为RTI枋寮分台发射。</p>
-<a id="more"></a>
-<p>RTI官网在A18换频前公布的<a href="http://www.rti.org.tw/upload/material/152160404523536.pdf" target="_blank" rel="noopener">《台湾之音华语网频率表(2018/03/25更新)》</a>文档中也已删去1206、1503kHz两个频率的信息（2017年11月1日更新的频率表仍收录有这两个中波频率）。<br>目前1206、1359、1503kHz三个频率的发射情况未知，因种种原因，中国大陆地区很难收到RTI这三个中波频率的信号。</p>
-<p>（2018年4月4日更新）<br>据RTI粤语节目主播消息，RTI计划今年裁撤位于屏东县的枋寮分台，位于嘉义县的民雄分台精简人事，只保留7名员工。<br>调整后，RTI只剩淡水、褒忠、口湖、民雄4个分台。</p>
-]]></content>
+    <content type="html"><![CDATA[<p>2018年4月2日，NCC公布了最新的《无线调幅(AM)广播电台频率及发射机位址》文档，与2018年1月2日公布的文档对比，<br>删去了RTI三个中波频率（1206、1359、1503kHz）的备案。<br>其中，1206kHz为RTI民雄分台发射，1359、1503kHz为RTI枋寮分台发射。</p><a id="more"></a><p>RTI官网在A18换频前公布的<a href="http://www.rti.org.tw/upload/material/152160404523536.pdf" target="_blank" rel="noopener">《台湾之音华语网频率表(2018/03/25更新)》</a>文档中也已删去1206、1503kHz两个频率的信息（2017年11月1日更新的频率表仍收录有这两个中波频率）。<br>目前1206、1359、1503kHz三个频率的发射情况未知，因种种原因，中国大陆地区很难收到RTI这三个中波频率的信号。</p><p>（2018年4月4日更新）<br>据RTI粤语节目主播消息，RTI计划今年裁撤位于屏东县的枋寮分台，位于嘉义县的民雄分台精简人事，只保留7名员工。<br>调整后，RTI只剩淡水、褒忠、口湖、民雄4个分台。</p>]]></content>
     
     <summary type="html">
     
@@ -818,13 +432,7 @@ https://gitee.com/bcler/fmdx/raw/master/img/2018-02-07/96335-baise-tv-20180815.p
     <published>2018-03-25T09:51:15.000Z</published>
     <updated>2018-05-10T13:16:32.724Z</updated>
     
-    <content type="html"><![CDATA[<p>四川民族广播（金桥之声）目前仍使用6060、7225kHz两个短波频率发射。<br>根据HFCC公布的备案信息，四川民族广播两个短波频率的播出时间为05:55-09:35、18:00-23:15</p>
-<p>实际收听，两个频率下午并不是同时开机发射，<br>7225kHz在17:30或更早的时间便已经开始播出节目，6060kHz直到17:45才开机发射空白载波，18:00播出节目。</p>
-<a id="more"></a>
-<p>短波时段各语种安排：<br>05:55-06:10　6060 7225 汉语、藏语、彝语<br>06:10-08:00　6060 7225 汉语<br>08:00-08:30　6060 7225 藏语(康巴方言)<br>08:30-09:00　6060 7225 藏语<br>09:00-09:35　6060 7225 彝语<br>18:00-18:30　6060 7225 藏语(康巴方言)<br>18:30-21:00　6060 7225 藏语<br>21:00-21:30　6060 7225 藏语(安多方言)<br>21:30-22:00　6060 7225 藏语<br>22:00-23:15　6060 7225 彝语</p>
-<p>短波时段节目表：<br>上午时段<br>05:55-06:10　呼台、民族广播祝福语、开始曲（汉语、藏语、彝语）<br>06:10-06:30　晨间快报（汉语）<br>06:30-07:00　新闻和报纸摘要（汉语）<br>07:00-07:30　天府早新闻（汉语）<br>07:30-08:00　聆听西部（汉语）<br>08:00-08:30　藏语新闻（藏语康巴方言）<br>08:30-09:00　法制明镜（藏语）<br>09:00-09:30　彝语新闻（彝语）<br>09:30-10:00　法制时空（彝语）  //09:35短波停止发射，省内中波、调频转播正常播出<br>下午时段<br>18:00-18:30　藏语新闻（藏语康巴方言）<br>18:30-19:00　咔哇梅朵（藏语）<br>19:00-19:30　全国藏语新闻联播（藏语）<br>19:30-20:00　1+2会客厅（藏语）<br>20:00-20:30　梦想呀啦嗦（藏语）<br>20:30-21:00　雪域风情（藏语）<br>21:00-21:30　藏语新闻（藏语安多方言）<br>21:30-22:00　央视新闻联播（藏语）<br>22:00-23:00　乌萨时间（彝语）<br>23:00-00:00　火把剧场（彝语）  //23:15短波停止发射，省内中波、调频转播正常播出</p>
-<p>四川民族广播官网：<br><a href="http://am954.sctv.com/" target="_blank" rel="noopener">http://am954.sctv.com/</a> （网站为藏文、彝文双语版本）</p>
-]]></content>
+    <content type="html"><![CDATA[<p>四川民族广播（金桥之声）目前仍使用6060、7225kHz两个短波频率发射。<br>根据HFCC公布的备案信息，四川民族广播两个短波频率的播出时间为05:55-09:35、18:00-23:15</p><p>实际收听，两个频率下午并不是同时开机发射，<br>7225kHz在17:30或更早的时间便已经开始播出节目，6060kHz直到17:45才开机发射空白载波，18:00播出节目。</p><a id="more"></a><p>短波时段各语种安排：<br>05:55-06:10　6060 7225 汉语、藏语、彝语<br>06:10-08:00　6060 7225 汉语<br>08:00-08:30　6060 7225 藏语(康巴方言)<br>08:30-09:00　6060 7225 藏语<br>09:00-09:35　6060 7225 彝语<br>18:00-18:30　6060 7225 藏语(康巴方言)<br>18:30-21:00　6060 7225 藏语<br>21:00-21:30　6060 7225 藏语(安多方言)<br>21:30-22:00　6060 7225 藏语<br>22:00-23:15　6060 7225 彝语</p><p>短波时段节目表：<br>上午时段<br>05:55-06:10　呼台、民族广播祝福语、开始曲（汉语、藏语、彝语）<br>06:10-06:30　晨间快报（汉语）<br>06:30-07:00　新闻和报纸摘要（汉语）<br>07:00-07:30　天府早新闻（汉语）<br>07:30-08:00　聆听西部（汉语）<br>08:00-08:30　藏语新闻（藏语康巴方言）<br>08:30-09:00　法制明镜（藏语）<br>09:00-09:30　彝语新闻（彝语）<br>09:30-10:00　法制时空（彝语）  //09:35短波停止发射，省内中波、调频转播正常播出<br>下午时段<br>18:00-18:30　藏语新闻（藏语康巴方言）<br>18:30-19:00　咔哇梅朵（藏语）<br>19:00-19:30　全国藏语新闻联播（藏语）<br>19:30-20:00　1+2会客厅（藏语）<br>20:00-20:30　梦想呀啦嗦（藏语）<br>20:30-21:00　雪域风情（藏语）<br>21:00-21:30　藏语新闻（藏语安多方言）<br>21:30-22:00　央视新闻联播（藏语）<br>22:00-23:00　乌萨时间（彝语）<br>23:00-00:00　火把剧场（彝语）  //23:15短波停止发射，省内中波、调频转播正常播出</p><p>四川民族广播官网：<br><a href="http://am954.sctv.com/" target="_blank" rel="noopener">http://am954.sctv.com/</a> （网站为藏文、彝文双语版本）</p>]]></content>
     
     <summary type="html">
     
