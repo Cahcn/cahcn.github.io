@@ -1,0 +1,75 @@
+# robots.txt generated at https://tool.chinaz.com/robots/
+# Last update: Jun 22, 2021
+
+# Baidu
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Baiduspider-news
+Disallow: /
+
+# Soso & Sogou
+User-agent: Sosospider
+Disallow: /
+
+User-agent: Sogou spider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
+User-agent: Sogou spider2
+Disallow: /
+
+User-agent: Sogou blog
+Disallow: /
+
+User-agent: Sogou News Spider
+Disallow: /
+
+User-agent: Sogou Orion spider
+Disallow: /
+
+# Youdao
+User-agent: YoudaoBot
+Disallow: /
+
+User-agent: YodaoBot
+Disallow: /
+
+# Bing
+User-agent: Bingbot
+Disallow: /
+
+# Yisou
+User-agent: YisouSpider
+Disallow: /
+
+# ByteDance
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ToutiaoSpider
+Disallow: /
+
+# 360
+User-agent: 360Spider
+Disallow: /
+
+# Chinaso
+User-agent: ChinasoSpider
+Disallow: /
+
+# Easou
+User-agent: EasouSpider
+Disallow: /
+
+# Huawei
+User-agent: AspiegelBot
+Disallow: /
