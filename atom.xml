@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cahcn的自留地</title>
+  
+  <subtitle>广播收听、资讯，以及其它感兴趣的东西</subtitle>
+  <link href="https://cahcn.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://cahcn.github.io/"/>
+  <updated>2024-02-18T12:50:05.151Z</updated>
+  <id>https://cahcn.github.io/</id>
+  
+  <author>
+    <name>Cahcn</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1542kHz 不明用途中波电台（死灰复燃）</title>
+    <link href="https://cahcn.github.io/posts/2024-01-05-am1542.html"/>
+    <id>https://cahcn.github.io/posts/2024-01-05-am1542.html</id>
+    <published>2024-01-26T11:59:31.000Z</published>
+    <updated>2024-02-18T12:50:05.151Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年12月，中国沿海地区夜间可以接收到一个不明中波电台信号，该台使用非标准频率1542kHz发射，播出内容为千周（1kHz正弦波）信号，夜间信号覆盖北至俄罗斯远东地区，南至东南亚广大区域，发射地点及运营主体不明。<!--根据日本人的收听记录，1542kHz曾于2021年10月27日至29日短暂发射过测试信号，本次出现信号最早在2023年12月6日--></p><span id="more"></span><p>2024年1月26日，该不明中波电台开始播出卖药广告，播出时间也大幅增加，有消息称改为24小时发射。暂不清楚是私人开设的“黑电台”（这在国内非常罕见），或是某个拥有大功率发射机的中波发射台为了创收开办的“灰电台”，但可以肯定的是，该中波卖药台的出现，未得到广播电视行政部门的批准。</p><p>2024年1月29日，官方证实1542kHz为“江苏省广播电视总台广播发射部”所属发射台站发射，发射台位于南京市，具体参数不详。当天下午，1542kHz停止发射。</p><p>2024年2月3日晚间，1542kHz恢复发射，播出的内容为干扰噪音，也有部分地区反馈收到1kHz正弦波信号。</p><hr><p>以下是一些接收记录：</p><p>2024年1月5日<br>不知道是因为发射设备还是其他原因，该台实际使用1541-1543kHz频率发射1kHz正弦波信号。<br>根据反馈，16:06出现弱信号，17:24开机发射。</p><p>2024年1月6日<br>凌晨接收，1539-1545kHz频段，都有该不明电台的信号，使用台湾及韩国的SDR接收机可以清晰收听。<br>16:58接收，的确能收到弱信号。</p><p>2024年1月7日<br>今天晚间并没有发射，原因不明。</p><p>2024年1月13日<br>晚间恢复发射，使用1539-1543kHz频率。</p><p>2024年1月14日<br>正常发射。</p><p>2024年1月15日<br>今天凌晨正常发射，晚间并没有发射。<br><img src="https://cahcn.github.io/img/img/2024-01-05/am1542-1khz-20240115.png" alt="1542kHz不明电台发射1kHz正弦波信号"></p><p>2024年1月26日<br>该台由发射1kHz正弦波信号改为播出卖药广告，节目中提到的电话号码为400-668-3718，所推销的药品为“钓鱼台国药集团”<strong>（笔者注：这家企业实际并不存在）</strong>生产的“801生物治愈因子”<strong>（笔者注：该药品并未获得市场监督局批准，为假药）</strong>。</p><p>2024年1月27日<br>凌晨接收视频：<br><a href="https://www.bilibili.com/video/BV1h5411k7y1/">https://www.bilibili.com/video/BV1h5411k7y1/</a><br><a href="https://youtu.be/rxyyrKKE6MM">https://youtu.be/rxyyrKKE6MM</a><br>一位不愿意透露姓名的专业人士<!--原写作【济南听友“嘉年华”】，应本人要求，隐去真实信息-->拨打了上述提到的电话号码，2秒钟后被对方挂断，随后一个0519江苏常州区号的电话（0519-83887201）回拨过来，自称是“张老师男性补肾健康热线”，可能为该中波卖药台运营团伙，或药品经销商电话。也有其他听友直接拨打该400电话，对方告知，该药品广告此前曾在江苏新闻综合广播AM702等多家电台投放过。<br><del>根据信号强度，有民间专业人士推测，该中波卖药台可能在河南至山东一带发射，推测是否准确，还需等待广电总局相关单位的监测结果。</del></p><p>2024年1月28日<br>据南京听友实测，白天可接收到该卖药台信号，信号强度接近50dB，推测1542kHz发射台位于南京附近。</p><p>2024年1月29日<br>有网友致电江苏省工业和信息化厅无线电监督检查处询问有关1542kHz的情况，得到的答复是1542kHz为“江苏省广播电视总台广播发射部”所属发射台站发射的测试频率<!--江苏省广播电视总台下属的实验台，即位于江宁区谷里街道的发射台承担中波实验节目发射任务-->，发射台位于南京市，测试发射信号期间“操作不当”将药品广告作为节目对外发射，表示将尽快撤换掉此药品广告。此前0519区号卖药电话提及曾在江苏新闻综合广播AM702投放过广告，这也解释了为何发射台拥有药品广告的音频文件，对于为何使用非标准频率发射、1542kHz的详细参数信息等问题未做更多说明。<br>16点，1542kHz由卖药广告改为播出干扰噪音。<br>17:38，1542kHz信号消失，晚间未恢复发射。</p><p>2024年2月3日<br>晚间1542kHz恢复发射，播出的内容为干扰噪音，也有部分地区反馈收到1kHz正弦波信号。</p><p>2024年2月4日<br>凌晨正常发射，晚间并没有发射，似乎在跟广大听众“打游击”。</p><p>2024年2月6日<br>今天没有发射。</p><p>2024年2月9日<br>凌晨没有发射。</p><p>2024年2月11日<br>晚间1542kHz恢复发射，发射1kHz正弦波和噪声，春节假期也不消停。</p><p>2024年2月12日<br>凌晨正常发射，晚间同样正常。</p><p>2024年2月13日<br>晚间无信号。</p><p>2024年2月18日<br>晚间无信号。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年12月，中国沿海地区夜间可以接收到一个不明中波电台信号，该台使用非标准频率1542kHz发射，播出内容为千周（1kHz正弦波）信号，夜间信号覆盖北至俄罗斯远东地区，南至东南亚广大区域，发射地点及运营主体不明。&lt;!--根据日本人的收听记录，1542kHz曾于2021年10月27日至29日短暂发射过测试信号，本次出现信号最早在2023年12月6日--&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>获总局批复调整呼号的频率频道（2023年）</title>
+    <link href="https://cahcn.github.io/posts/2024-01-16-nrta-data.html"/>
+    <id>https://cahcn.github.io/posts/2024-01-16-nrta-data.html</id>
+    <published>2024-01-16T08:56:04.000Z</published>
+    <updated>2024-01-17T05:05:33.518Z</updated>
+    
+    <content type="html"><![CDATA[<p>下表为2023年获总局批复调整呼号的广播频率、电视频道。</p><span id="more"></span><h3 id="广播频率"><a href="#广播频率" class="headerlink" title="广播频率"></a>广播频率</h3><table><thead><tr><th align="center">省份</th><th align="center">台名</th><th align="center">调整前呼号</th><th align="center">调整后呼号</th><th align="center">备注</th></tr></thead><tbody><tr><td align="center">北京</td><td align="center">北京市门头沟区融媒体中心</td><td align="center"></td><td align="center">综合广播</td><td align="center">增设广播业务</td></tr><tr><td align="center">内蒙古</td><td align="center">鄂尔多斯广播电视台</td><td align="center">曲艺评书广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">辽宁</td><td align="center">沈阳广播电视台</td><td align="center">新闻广播</td><td align="center">新闻综合广播</td><td align="center"></td></tr><tr><td align="center">辽宁</td><td align="center">大连广播电视台</td><td align="center">综合广播</td><td align="center">新闻综合广播</td><td align="center"></td></tr><tr><td align="center">辽宁</td><td align="center">大连广播电视台</td><td align="center">财经广播</td><td align="center">老友之声</td><td align="center"></td></tr><tr><td align="center">黑龙江</td><td align="center">双鸭山广播电视台</td><td align="center">评书音乐广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">黑龙江</td><td align="center">五大连池市融媒体中心<br>（五大连池市广播电视台）</td><td align="center">综合广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">江苏</td><td align="center">扬州广播电视台</td><td align="center">邗江区融媒体中心综合广播</td><td align="center">邗江广播</td><td align="center">播出机构合并</td></tr><tr><td align="center">江苏</td><td align="center">扬州广播电视台</td><td align="center">江都区融媒体中心综合广播</td><td align="center">江都广播</td><td align="center">播出机构合并</td></tr><tr><td align="center">浙江</td><td align="center">宁波人民广播电台</td><td align="center">老年与少儿广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">浙江</td><td align="center">舟山广播电视台</td><td align="center">综合广播</td><td align="center">新闻综合广播</td><td align="center"></td></tr><tr><td align="center">浙江</td><td align="center">舟山广播电视台</td><td align="center">经济广播</td><td align="center">交通音乐广播</td><td align="center"></td></tr><tr><td align="center">浙江</td><td align="center">舟山广播电视台</td><td align="center">文艺广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">浙江</td><td align="center">丽水广播电视台</td><td align="center">新农村广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">浙江</td><td align="center">金华广播电视台</td><td align="center">经济广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">安徽</td><td align="center">合肥广播电视台</td><td align="center">巢湖综合广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">福建</td><td align="center">福建人民广播电台</td><td align="center">文艺广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">江西</td><td align="center">南昌广播电视台</td><td align="center">经济生活广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖北</td><td align="center">湖北广播电视台</td><td align="center">生活广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">广东</td><td align="center">揭阳广播电视台</td><td align="center">农业广播、交通旅游广播</td><td align="center">农业交通广播</td><td align="center">频率整合</td></tr><tr><td align="center">广东</td><td align="center">韶关广播电视台</td><td align="center">交通旅游广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">贵州</td><td align="center">贵州广播电视台</td><td align="center">都市广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">西藏</td><td align="center">西藏广播电视台</td><td align="center">藏语科教广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">兵团</td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">经济广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">兵团</td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">维吾尔语交通音乐广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">昌吉州广播电视台</td><td align="center">综合广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">昌吉州广播电视台</td><td align="center">音乐广播</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">昌吉州广播电视台</td><td align="center">交通广播</td><td align="center">综合广播</td><td align="center"></td></tr></tbody></table><h3 id="电视频道"><a href="#电视频道" class="headerlink" title="电视频道"></a>电视频道</h3><table><thead><tr><th align="center">省份</th><th align="center">台名</th><th align="center">调整前呼号</th><th align="center">调整后呼号</th><th align="center">备注</th></tr></thead><tbody><tr><td align="center">山西</td><td align="center">晋城广播电视台</td><td align="center">公共频道</td><td align="center">文化生活频道</td><td align="center"></td></tr><tr><td align="center">内蒙古</td><td align="center">乌兰察布广播电视台</td><td align="center">生活频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">内蒙古</td><td align="center">鄂尔多斯广播电视台</td><td align="center">城市生活频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">辽宁</td><td align="center">大连广播电视台</td><td align="center">综合影视频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">辽宁</td><td align="center">大连广播电视台</td><td align="center">少儿频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">黑龙江</td><td align="center">哈尔滨广播电视台</td><td align="center">娱乐频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">黑龙江</td><td align="center">哈尔滨广播电视台</td><td align="center">都市资讯频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">黑龙江</td><td align="center">牡丹江广播电视台</td><td align="center">公共频道</td><td align="center">文旅教育频道</td><td align="center"></td></tr><tr><td align="center">黑龙江</td><td align="center">大庆广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">黑龙江</td><td align="center">鸡西广播电视台</td><td align="center">公共频道</td><td align="center">安全·生活频道</td><td align="center"></td></tr><tr><td align="center">黑龙江</td><td align="center">绥化广播电视台</td><td align="center">公共频道</td><td align="center">农业·生活频道</td><td align="center"></td></tr><tr><td align="center">黑龙江</td><td align="center">双鸭山广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">江苏</td><td align="center">江苏电视台</td><td align="center">公共·新闻频道</td><td align="center">新闻频道</td><td align="center"></td></tr><tr><td align="center">江苏</td><td align="center">扬州广播电视台</td><td align="center">邗江区融媒体中心综合频道</td><td align="center">邗江频道</td><td align="center">播出机构合并</td></tr><tr><td align="center">江苏</td><td align="center">扬州广播电视台</td><td align="center">江都区融媒体中心综合频道</td><td align="center">江都频道</td><td align="center">播出机构合并</td></tr><tr><td align="center">浙江</td><td align="center">宁波电视台</td><td align="center">少儿频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">浙江</td><td align="center">台州广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">安徽</td><td align="center">阜阳广播电视台</td><td align="center">公共频道</td><td align="center">生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">马鞍山广播电视台</td><td align="center">公共频道</td><td align="center">科教生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">淮北广播电视台</td><td align="center">公共频道</td><td align="center">经济生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">六安广播电视台</td><td align="center">公共频道</td><td align="center">社会生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">蚌埠广播电视台</td><td align="center">公共频道</td><td align="center">生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">淮南广播电视台</td><td align="center">公共频道</td><td align="center">民生频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">池州广播电视台</td><td align="center">公共频道</td><td align="center">文教生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">宣城广播电视台</td><td align="center">公共频道</td><td align="center">文旅生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">合肥广播电视台</td><td align="center">财经频道</td><td align="center">科创频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">合肥广播电视台</td><td align="center">故事休闲频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">安徽</td><td align="center">合肥广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">安徽</td><td align="center">芜湖广播电视台</td><td align="center">公共频道</td><td align="center">生活频道</td><td align="center"></td></tr><tr><td align="center">安徽</td><td align="center">芜湖广播电视台</td><td align="center">皖江购物频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">江西</td><td align="center">南昌广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">山东</td><td align="center">山东广播电视台</td><td align="center">体育频道</td><td align="center">体育休闲频道</td><td align="center"></td></tr><tr><td align="center">河南</td><td align="center">安阳广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖北</td><td align="center">武汉广播电视台</td><td align="center">少儿频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖南</td><td align="center">长沙广播电视台</td><td align="center">女性频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖南</td><td align="center">长沙广播电视台</td><td align="center">影视频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖南</td><td align="center">长沙广播电视台</td><td align="center"></td><td align="center">文旅频道</td><td align="center">新增</td></tr><tr><td align="center">湖南</td><td align="center">岳阳广播电视台</td><td align="center">科教频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">湖南</td><td align="center">湘潭广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">广东</td><td align="center">广东广播电视台</td><td align="center">大湾区卫视频道</td><td align="center">大湾区卫视频道（内地版）</td><td align="center"></td></tr><tr><td align="center">广东</td><td align="center">广东广播电视台</td><td align="center">国际频道</td><td align="center">大湾区卫视频道（海外版）</td><td align="center"></td></tr><tr><td align="center">广东</td><td align="center">珠海广播电视台</td><td align="center">公共频道</td><td align="center">经济生活频道</td><td align="center"></td></tr><tr><td align="center">广东</td><td align="center">韶关广播电视台</td><td align="center">绿色生活频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">广西</td><td align="center">南宁广播电视台</td><td align="center">都市生活频道</td><td align="center">文旅生活频道</td><td align="center"></td></tr><tr><td align="center">四川</td><td align="center">内江广播电视台</td><td align="center">公共频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">四川</td><td align="center">内江广播电视台</td><td align="center">科教频道</td><td align="center">科教生活频道</td><td align="center"></td></tr><tr><td align="center">四川</td><td align="center">南充广播电视台</td><td align="center">科教频道</td><td align="center">科教生活频道</td><td align="center"></td></tr><tr><td align="center">四川</td><td align="center">绵阳广播电视台</td><td align="center">科技频道</td><td align="center">科教生活频道</td><td align="center"></td></tr><tr><td align="center">云南</td><td align="center">普洱广播电视台</td><td align="center">科教频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">陕西</td><td align="center">西安广播电视台</td><td align="center">影视频道</td><td align="center">戏剧影视频道</td><td align="center"></td></tr><tr><td align="center">甘肃</td><td align="center">兰州广播电视台</td><td align="center">生活经济频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">甘肃</td><td align="center">武威广播电视台</td><td align="center">文化教育频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">甘肃</td><td align="center">张掖广播电视台</td><td align="center">公共频道</td><td align="center">农业·旅游频道</td><td align="center"></td></tr><tr><td align="center">甘肃</td><td align="center">天水广播电视台</td><td align="center">公共频道</td><td align="center">文旅频道</td><td align="center"></td></tr><tr><td align="center">兵团</td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">影视文体频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">兵团</td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">经济生活频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">兵团</td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">教育频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">克拉玛依广播电视台</td><td align="center">维语影视文艺频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">克拉玛依广播电视台</td><td align="center">教育频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">阿克苏地区广播电视台</td><td align="center">生活频道</td><td align="center"></td><td align="center">撤销</td></tr><tr><td align="center">新疆</td><td align="center">哈密市伊州区融媒体中心</td><td align="center">综合频道</td><td align="center"></td><td align="center">撤销</td></tr></tbody></table><h3 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h3><table><thead><tr><th align="center">省份</th><th align="center">台名</th><th align="center">调整前呼号</th><th align="center">调整后呼号</th><th align="center">备注</th></tr></thead><tbody><tr><td align="center">中央</td><td align="center">电影卫星频道节目制作中心</td><td align="center">高清电影</td><td align="center">影迷电影</td><td align="center">付费频道</td></tr><tr><td align="center">江苏</td><td align="center">江苏电视台</td><td align="center"></td><td align="center">江苏动视</td><td align="center">移动电视频道</td></tr><tr><td align="center">江苏</td><td align="center">扬州市邗江区融媒体中心</td><td align="center"></td><td align="center"></td><td align="center">播出机构合并</td></tr><tr><td align="center">江苏</td><td align="center">扬州市江都区融媒体中心</td><td align="center"></td><td align="center"></td><td align="center">播出机构合并</td></tr><tr><td align="center">河南</td><td align="center">洛阳市孟津区广播电视台</td><td align="center"></td><td align="center"></td><td align="center">行政区划调整，<br>原孟津县、吉利区播出机构合并</td></tr><tr><td align="center">陕西</td><td align="center">咸阳教育电视台</td><td align="center"></td><td align="center"></td><td align="center">备案信息消失</td></tr><tr><td align="center">兵团</td><td align="center">石河子市电视台</td><td align="center"></td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">播出机构合并</td></tr><tr><td align="center">兵团</td><td align="center">石河子市人民广播电台</td><td align="center"></td><td align="center">新疆生产建设兵团<br>第八师融媒体中心</td><td align="center">播出机构合并</td></tr></tbody></table><p>历史记录：<br>2022年：<a href="https://cahcn.github.io/posts/2023-01-18-nrta-data.html">https://cahcn.github.io/posts/2023-01-18-nrta-data.html</a> （10-12月）<br>2022年：<a href="https://cahcn.github.io/posts/2022-10-31-nrta-data.html">https://cahcn.github.io/posts/2022-10-31-nrta-data.html</a><br>2021年：<a href="https://cahcn.github.io/posts/2021-10-12-nrta-data.html">https://cahcn.github.io/posts/2021-10-12-nrta-data.html</a><br>2020年：<a href="https://cahcn.github.io/posts/2020-10-23-nrta-data.html">https://cahcn.github.io/posts/2020-10-23-nrta-data.html</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;下表为2023年获总局批复调整呼号的广播频率、电视频道。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>侵权提醒</title>
+    <link href="https://cahcn.github.io/posts/2024-01-01-warning.html"/>
+    <id>https://cahcn.github.io/posts/2024-01-01-warning.html</id>
+    <published>2024-01-01T12:30:52.000Z</published>
+    <updated>2024-02-18T12:52:05.203Z</updated>
+    
+    <content type="html"><![CDATA[<p>2022年下半年开始，发现一位来自黑龙江大庆的网友将本人博客的原创文章复制发布到Bilibili、百度贴吧等平台，初期还知道注明来源，后期不但不标注来源，还恶意篡改原文，加入一些自己意淫的内容，已经严重侵犯本人的著作权。</p><p>在此，本人要求侵权者30个自然日内将侵权文章删除（涉及链接见本人博客），并给予书面道歉，否则将采取措施维权。</p><p>此人近一个月访问本人博客使用的IP地址：</p><blockquote><p>2023年12月<br>  60.218.27.248<br>  113.1.166.144<br>  113.1.166.151<br>  122.158.10.242<br>  221.209.246.74<br>  <!--换行占位--><br>  2024年1月<br>  113.1.166.175<br>  113.1.166.204<br>  113.1.166.225<br>  113.1.166.235<br>  <!--换行占位--><br>  2024年2月<br>  60.218.31.39</p></blockquote><p>（黑龙江省 大庆市 肇州县  联通）</p><hr><p>涉及侵权的部分文章链接：<br><a href="https://tieba.baidu.com/p/8764017116">https://tieba.baidu.com/p/8764017116</a> （本人发布的<a href="https://cahcn.github.io/posts/2023-11-30-changshu.html">文章链接</a>）<br><a href="https://www.bilibili.com/read/cv22971418/">https://www.bilibili.com/read/cv22971418/</a> （本人发布的<a href="https://cahcn.github.io/posts/2023-01-21-Voice-of-Strait.html">文章链接</a>）<br><a href="https://www.bilibili.com/opus/887424313046597657">https://www.bilibili.com/opus/887424313046597657</a> （本人发布的<a href="https://weibo.com/2061519855/NC7uezYY1">文章链接</a>）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2022年下半年开始，发现一位来自黑龙江大庆的网友将本人博客的原创文章复制发布到Bilibili、百度贴吧等平台，初期还知道注明来源，后期不但不标注来源，还恶意篡改原文，加入一些自己意淫的内容，已经严重侵犯本人的著作权。&lt;/p&gt;
+&lt;p&gt;在此，本人要求侵权者30个自然日内将侵</summary>
+      
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>年末小吐槽</title>
+    <link href="https://cahcn.github.io/posts/2023-12-31.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-31.html</id>
+    <published>2023-12-31T09:02:28.000Z</published>
+    <updated>2023-12-31T11:08:44.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年末小吐槽，不针对任何人（笑）</p><span id="more"></span><h3 id="广西北部湾之声功率问题"><a href="#广西北部湾之声功率问题" class="headerlink" title="广西北部湾之声功率问题"></a>广西北部湾之声功率问题</h3><p>有网友提及广西北部湾之声的功率情况，根据笔者掌握的资料，目前广西北部湾之声5050、9820kHz两个频率发射功率均为50kW，相关资料如下：</p><blockquote><p>1996年，广西对外广播电台播出呼号为“广西广播电台”，使用1台15千瓦短波发射机发射广播信号，发射频率为5050千赫，主要覆盖越南河内以北地区。<br>  1998年11月，经国家广电总局批准，广西对外广播电台增加1部50千瓦短波发射机，发射频率为9820千赫，信号延伸覆盖到越南南部、柬埔寨、老挝、泰国、马来西亚等国家和地区。当年年底工程建成并投入使用，发射功率与扩容前相比扩大了3倍，发射频率也从1个增加到2个。<br>  2005年年底，经国家广电总局批准的对外广播扩大广播覆盖工程建成并投入使用。5050千赫发射机发射功率从15千瓦扩大到50千瓦，大大改善了对外广播节目信号对越南北方地区的覆盖效果。</p></blockquote><h3 id="甘南广播电视台短波节目问题"><a href="#甘南广播电视台短波节目问题" class="headerlink" title="甘南广播电视台短波节目问题"></a>甘南广播电视台短波节目问题</h3><p>甘南台短波3990、5970kHz仅发射汉语节目，早已没有藏语节目。<br>2016年8月，甘南人民广播电台开办第二套节目安多藏语广播，将原在综合广播（汉语）播出的藏语节目移至安多藏语广播播出，短波3990、5970kHz发射第一套节目甘南综合广播（汉语）。</p><p>甘南广播电视台两套广播节目使用的频率：<br>综合广播（汉语）　FM101.7、AM1332、SW3990 5970<br>安多藏语广播　　　FM100.6、AM1197</p><p>笔者2018年4月11日实际接收确认了以上情况。<br>详见：<a href="/posts/2018-04-11-Gannan.html">《甘南人民广播电台A18频率及节目时间表》</a></p><hr><p>某些国内的广播爱好者，每个季度都准时照搬Aoki频率表的数据，不加思考的引用，也未做核实，笔者认为这样整理的频率表没意思。（滑稽）</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年末小吐槽，不针对任何人（笑）&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>海峡之声广播电台延长播出时间</title>
+    <link href="https://cahcn.github.io/posts/2023-12-21-voice-of-strait.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-21-voice-of-strait.html</id>
+    <published>2023-12-21T13:42:24.000Z</published>
+    <updated>2023-12-25T16:27:08.976Z</updated>
+    
+    <content type="html"><![CDATA[<p>在<a href="/posts/2023-01-21-Voice-of-Strait.html">大幅削减自办节目、频率</a>近一年之后，2023年12月21日，海峡之声广播电台再次调整节目表，播出时间由11:55-23:00延长至6:25-0:00。</p><span id="more"></span><p>实际收听，算上开始曲和节目预告，首播节目的时长仅为6小时30分钟，其余时段均为重播，首播节目时长仅占全天节目时长约37%，不到一半，节目制作能力仍未恢复到今年年初以前的水平。</p><p>此次调整节目表，并没有恢复播出闽南语节目，全天节目仍使用普通话播出。</p><hr><p><strong>海峡之声广播电台收听频率</strong><br>中波：666、783、1269kHz<br>短波：4900kHz<br>调频：90.6MHz（福州）、99.6MHz（福州）、97.9MHz（厦门）</p><p><strong>海峡之声广播电台节目表</strong>（2023年12月21日起）<br>06:25-06:30　开始曲、节目预告<br>06:30-07:30　你的故事我的歌<br>07:30-08:00　半熟“知”士<br>08:00-08:15　晓峰天天读（周一至周五）、东部军情快递（周末）<br>08:15-09:00　台海风云汇（重播）<br>09:00-10:00　太平洋的风（周一至周五）、慢生活快乐播（周末）<br>10:00-10:35　只讲故事不讲道理<br>10:35-10:55　国乐风<br>10:55-11:00　台湾海峡渔业气象海况预报（周一至周五）、国乐风（周末）<br>11:00-12:00　读史立体声<br>12:00-12:35　台海点兵（周一至周五）、稍息立正报告（周末）<br>12:35-12:55　国乐风<br>12:55-13:00　台湾海峡渔业气象海况预报（周一至周五）、国乐风（周末）<br>13:00-13:30　卿谈（重播）<br>13:30-14:00　半熟“知”士（重播）<br>14:00-15:00　太平洋的风（重播）（周一至周五）、慢生活快乐播（周末）<br>15:00-16:00　读史立体声（重播）<br>16:00-16:30　台海点兵（重播）（周一至周五）、稍息立正报告（周末）<br>16:30-17:00　只讲故事不讲道理（重播）<br>17:00-17:15　正点快报（周一至周五）、东部军情快递（周末）<br>17:15-18:00　台海风云汇<br>18:00-18:30　卿谈<br>18:30-19:00　半熟“知”士（重播）<br>19:00-19:30　台海点兵（重播）（周一至周五）、稍息立正报告（周末）<br>19:30-20:00　你的故事我的歌（重播）<br>20:00-21:00　读史立体声（重播）<br>21:00-21:50　台海风云汇（重播）<br>21:50-22:00　国乐风<br>22:00-22:30　卿谈（重播）<br>22:30-23:00　只讲故事不讲道理（重播）<br>23:00-00:00　太平洋的风（重播）（周一至周五）、慢生活快乐播（周末）<br>00:00　全天播音结束</p><p>备注：</p><ol><li>周三上午停机检修，11:55开始播音。</li><li>8:00-23:00整点报时之后播出五分钟的《政策小贴士》宣传节目。</li><li>《只讲故事不讲理》节目，节目片花提到名称为《只讲故事不讲道理》。</li><li>《卿谈》节目，18:00首播，22:00、次日13:00重播。</li></ol><p>海峡之声广播电台官方网站：<a href="https://www.vos.com.cn/">https://www.vos.com.cn/</a><br>海峡之声广播电台在线收听：<a href="https://www.qingting.fm/radios/1744">https://www.qingting.fm/radios/1744</a></p><p>（2023年12月25日更新）<br>海峡之声广播电台今天终于更新官网的节目单，部分时段周末与工作日播出不同的节目。<br><a href="https://www.vos.com.cn/haixiagaikuang.shtml?num=1">https://www.vos.com.cn/haixiagaikuang.shtml?num=1</a></p><hr><p>2023年12月21日，回听发现，实际归属于海峡之声广播电台管理的“中国华艺广播公司”，8:24-8:56毫无征兆的突然播出有声小说节目，持续半小时后停止播出，原因不明，该台并未跟随海峡之声广播电台调整播出时间，仍为11:55-23:00播出。</p><p>此外，根据Internet Archive（互联网档案馆）网站保存的网页历史快照，中国华艺广播公司官方网站“华广网”（<a href="http://www.chbcnet.com/">http://www.chbcnet.com</a> ）大约在2022年8月关闭访问。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;在&lt;a href=&quot;/posts/2023-01-21-Voice-of-Strait.html&quot;&gt;大幅削减自办节目、频率&lt;/a&gt;近一年之后，2023年12月21日，海峡之声广播电台再次调整节目表，播出时间由11:55-23:00延长至6:25-0:00。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>国内地面数字电视拟调整音频编码格式</title>
+    <link href="https://cahcn.github.io/posts/2023-12-20-dtmb.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-20-dtmb.html</id>
+    <published>2023-12-20T13:42:58.000Z</published>
+    <updated>2023-12-22T16:24:30.017Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据湖南省广播电视局的<a href="https://gbdsj.hunan.gov.cn/gsdat/iframe_detail.html?id=1ade8f8d2fe445458a941d356841dd87">答复</a>，国家广播电视总局计划明年（2024年）更改中央无线地面数字节目的音频编码格式，采用MPEG-2格式替换DRA格式。经调查，市面上电视机基本支持对MPEG-2音频格式的解码。</p><span id="more"></span><p>DRA（Digital Rise Audio）音频格式，为广州广晟数码技术有限公司开发的数字音频编码技术，是国内地面数字电视伴音主要编码格式（也有部分发射台站采用MPEG-2或AC3编码格式）。</p><p>2018年，国家知识产权局专利复审委员会<a href="https://www.cnipa.gov.cn/art/2018/3/15/art_2650_167106.html">宣布</a>广州广晟数码技术有限公司持有的DRA音频格式专利权利全部无效。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;根据湖南省广播电视局的&lt;a href=&quot;https://gbdsj.hunan.gov.cn/gsdat/iframe_detail.html?id=1ade8f8d2fe445458a941d356841dd87&quot;&gt;答复&lt;/a&gt;，国家广播电视总局计划明年（2024年）更改中央无线地面数字节目的音频编码格式，采用MPEG-2格式替换DRA格式。经调查，市面上电视机基本支持对MPEG-2音频格式的解码。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>福建文艺广播FM88.3停播</title>
+    <link href="https://cahcn.github.io/posts/2023-12-20-fujian-fm88.3.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-20-fujian-fm88.3.html</id>
+    <published>2023-12-20T09:19:19.000Z</published>
+    <updated>2023-12-22T16:58:43.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据小奕@<a href="https://weibo.com/3479787421/Ny08WDScR">卡尔放送</a> 消息，福建文艺广播FM88.3将于2023年12月31日停止播出，停播公告2023年12月20日起在该频率播出。</p><span id="more"></span><p>停播公告如下：</p><blockquote><p>关于撤销福建人民广播电台文艺广播的公告<br>  <!--换行占位--><br>  广大听众朋友：<br>  为优化资源配置，加快媒体融合发展，经上级有关部门批准，福建人民广播电台文艺广播决定于2023年12月31日零时起正式停播。<br>  感谢广大听众朋友的真情相伴，感恩一路有您。</p></blockquote><p>福建文艺广播2016年10月试播，2017年1月正式开播。<br>笔者认为，该频率开播“动机不纯”，试播初期即使用“汽车娱乐883”和“福建汽车娱乐广播”的呼号，似乎有意淡化文艺广播的备案呼号，开播又一套音乐频率。</p><p>同时，福建文艺广播也成为<a href="/posts/2021-12-25-Guangxi-Radio-and-Television.html">广西旅游广播</a>之后，又一个省级广播“短命”频率。</p><hr><p>根据该听众发布的<a href="https://weibo.com/3479787421/NxYgyhnNf">另一条微博</a>，2023年12月18日，福建都市生活广播FM98.7改版为“民生987”，有意放弃原有“987私家车广播”的呼号，增加民生类节目播出时长。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;根据小奕@&lt;a href=&quot;https://weibo.com/3479787421/Ny08WDScR&quot;&gt;卡尔放送&lt;/a&gt; 消息，福建文艺广播FM88.3将于2023年12月31日停止播出，停播公告2023年12月20日起在该频率播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>四川交通广播（四川应急广播）FM101.7</title>
+    <link href="https://cahcn.github.io/posts/2023-12-16-sichuan-emergency-broadcasting.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-16-sichuan-emergency-broadcasting.html</id>
+    <published>2023-12-16T10:26:15.000Z</published>
+    <updated>2023-12-19T15:35:53.116Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年11月1日，国家广播电视总局批复同意四川广播电视台交通广播呼号变更，增加“四川应急广播”呼号。</p><span id="more"></span><p>根据国家广电总局下发的广电审〔2023〕725号文件，四川交通广播在两种情况下播报“四川广播电视台交通广播、四川应急广播”呼号。</p><ol><li>平时每天7:00、12:00、18:00三个整点呼“四川广播电视台交通广播、四川应急广播”呼号</li><li>应急响应启动时全天呼“四川广播电视台交通广播、四川应急广播”呼号</li></ol><p><img src="https://cahcn.github.io/img/img/2023-12-16/2023-725.jpg" alt="批复文件"></p><hr><!--近年来，国家广电总局不断推进全国应急广播体系建设，2022年5月印发实施[《全国应急广播体系建设“十四五”发展规划》](https://www.nrta.gov.cn/art/2022/5/20/art_114_60494.html)（全文未公开），各地广电行政部门先后建设完成覆盖省、市、县、乡、村五级的应急广播平台。--><p>截至2023年12月中旬，宣布获得国家广电总局批准，在现有呼号基础上增加“应急广播”或“应急频道”的广播电视播出机构共有5家（甘肃“两台”合并尚未获总局批复），具体如下。</p><p><strong>甘肃电视台</strong><br>甘肃公共应急频道<br>2020年2月7日批复，2020年4月20日更名</p><p><strong>海南广播电视台</strong><br>海南新闻广播（海南应急广播）FM88.6、海南新闻频道（海南应急频道）<br>2021年2月批复</p><p><strong>汕头广播电视台</strong><br>汕头综合广播（汕头应急广播）FM107.2<br>2021年12月批复，2021年12月30日正式开播</p><p><strong>甘肃人民广播电台</strong><br>甘肃交通广播（甘肃应急广播）FM103.5<br>2023年8月11日批复，2023年9月26日正式开播</p><p><strong>四川广播电视台</strong><br>四川交通广播（四川应急广播）FM101.7<br>2023年11月1日批复</p><!--参考：https://mp.weixin.qq.com/s/Tm1qyCysSpBhVRvfHF5qIQhttps://mp.weixin.qq.com/s/HX8C4jUc5bKX3FJdVZQP3g-->]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年11月1日，国家广播电视总局批复同意四川广播电视台交通广播呼号变更，增加“四川应急广播”呼号。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>合肥广播电视台巢湖综合广播FM93.8停播</title>
+    <link href="https://cahcn.github.io/posts/2023-12-06-hefei-fm93.8.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-06-hefei-fm93.8.html</id>
+    <published>2023-12-06T08:13:14.000Z</published>
+    <updated>2023-12-11T03:35:01.655Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据合肥广播电视台发布的<a href="https://www.hfbtv.com/fccommon/Home/detail?site_id=57&detail_type=1&cid=18649">停播公告</a>，合肥广播电视台FM93.8巢湖综合广播、故事休闲频道将于2023年12月10日24时（2023年12月11日0时）停止播出。</p><span id="more"></span><p>停播公告如下：</p><blockquote><p>公告<br>  为了更好地适应媒体融合发展要求，经国家广播电视总局批准，合肥市广播电视台将于2023年12月10日24时起，正式停播合肥故事休闲频道和巢湖综合广播。<br>  感谢广大朋友一直以来的真情相伴。欢迎大家继续关注我台其他频道频率的节目。<br>  特此公告。<br>  <!--换行占位--><br>  合肥市广播电视台<br>  2023年12月4日</p></blockquote><p>一个月前，合肥公共频道（原巢湖电视台公共频道）已于2023年11月13日<a href="https://www.hfbtv.com/fccommon/Home/detail?site_id=57&detail_type=1&cid=18412">停止播出</a>。<br>至此，原地级巢湖市人民广播电台、巢湖电视台所开办的频率频道均已停播。</p><p>合肥广播电视台巢湖综合广播，前身为开播于2005年的地级巢湖市人民广播电台交通生活城市之声，后更名为巢湖城市交通广播。<br>2011年8月，国务院批准撤销地级巢湖市，2012年原巢湖人民广播电台、巢湖电视台并入合肥广播电视台，FM93.8更名为合肥新城交通音乐广播，后使用过巢湖之声、巢湖综合广播等呼号。</p><hr><p>2021-2023年，合肥广播电视台共三次精简频率频道，关停三套广播频率、四套电视频道。</p><p>2021年8月31日关停</p><ul><li>FM88.1合肥资讯广播（原巢湖人民广播电台新闻综合广播）</li><li>FM94.7合肥徽商广播</li><li>合肥影院频道</li><li>合肥文体博览频道（原巢湖电视台新闻综合频道）</li></ul><p>2023年11月13日关停</p><ul><li>合肥公共频道（原巢湖电视台公共频道）</li></ul><p>2023年12月11日关停</p><ul><li>FM93.8合肥巢湖综合广播（原巢湖人民广播电台城市交通广播）</li><li>合肥故事休闲频道</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;根据合肥广播电视台发布的&lt;a href=&quot;https://www.hfbtv.com/fccommon/Home/detail?site_id=57&amp;detail_type=1&amp;cid=18649&quot;&gt;停播公告&lt;/a&gt;，合肥广播电视台FM93.8巢湖综合广播、故事休闲频道将于2023年12月10日24时（2023年12月11日0时）停止播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>青岛市黄岛区广播电视台FM95.7停播</title>
+    <link href="https://cahcn.github.io/posts/2023-12-01-huangdao-fm95.7.html"/>
+    <id>https://cahcn.github.io/posts/2023-12-01-huangdao-fm95.7.html</id>
+    <published>2023-12-01T05:10:49.000Z</published>
+    <updated>2023-12-01T05:15:22.897Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年12月1日，青岛市黄岛区广播电视台FM92.6、FM95.7整合为一套节目，保留FM92.6一套频率，FM95.7停止播出。</p><span id="more"></span><p>停播当天，官方才发布<a href="https://mp.weixin.qq.com/s/Jikwy4_xhA502BgllLAmXw">频率整合公告</a>。</p><blockquote><p>广大市民朋友：<br>  根据国家广播电视总局和山东省广播电视局相关文件精神要求，青岛西海岸新区融媒体中心对广播频率进行优化调整，于2023年12月1日将FM957和FM926并机播出，统一采用调频92.6MHZ播出和发射。<br>  同时拟成立“爱上西海岸”西海岸融媒体文创中心，为建设美丽新区继续发挥融媒力量。<br>  感谢广大市民朋友和社会各界一直以来对融媒体工作的关心和支持！<br>  <!--换行占位--><br>  青岛西海岸新区融媒体中心<br>  2023年12月1日</p></blockquote><p>根据笔者2023年8月的收听记录，停播前，FM92.6、FM95.7均使用“黄岛区广播电视台综合广播”的呼号播出，两个频率实际播出的节目不同。</p><p>FM92.6前身为青岛开发区人民广播电台，<!--1994年12月31日正式开机试播，-->2006年9月14日更名为“青岛开发区人民广播电台西海岸城市生活广播”。<br>FM95.7前身为胶南人民广播电台，<!--FM95.7前身为胶南县有线广播站，1957年3月25日正式播音，后更名为“胶南人民广播电台”，2003年停播，-->2009年10月26日恢复播出。</p><p>2012年9月，国务院批准撤销青岛市黄岛区、县级胶南市，合并设立新的黄岛区。<br>原青岛市广播电视台黄岛广播电视中心、胶南市广播电视台整合设立黄岛区广播电视台，开办两套广播节目。</p><hr><p>根据官方资料，青岛市黄岛区与青岛西海岸新区合署办公，青岛市黄岛区广播电视台的全称为“青岛市黄岛区广播电视台（青岛西海岸新区广播电视台）（青岛西海岸新区融媒体中心）”。</p><p>套娃是吧（笑）</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年12月1日，青岛市黄岛区广播电视台FM92.6、FM95.7整合为一套节目，保留FM92.6一套频率，FM95.7停止播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>常熟市融媒体中心综合广播停止中波频率发射</title>
+    <link href="https://cahcn.github.io/posts/2023-11-30-changshu.html"/>
+    <id>https://cahcn.github.io/posts/2023-11-30-changshu.html</id>
+    <published>2023-11-30T00:46:09.000Z</published>
+    <updated>2023-11-30T17:46:55.771Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年12月1日，常熟市融媒体中心综合广播中波频率AM1116、AM747停止发射。</p><span id="more"></span><p>停播前一天，常熟市融媒体中心才发布<a href="https://mp.weixin.qq.com/s/6-Wdazewey-JQLXRarHNCA">停止使用中波频率的通告</a>，显得有些仓促。<br>通告内容如下：</p><blockquote><p>关于停止使用中波频率的通告<br>  <!--换行占位--><br>  全市广大听众朋友：<br>  根据上级批复精神，我中心将于2023年12月1日起停止使用中波广播频率747千赫和1116千赫，欢迎听众朋友使用调频100.8兆赫或在手机上通过“看常熟App”收听常熟市融媒体中心综合广播。<br>  特此通告。<br>  <!--换行占位--><br>  常熟市融媒体中心<br>  2023年11月30日</p></blockquote><hr><p>常熟市融媒体中心（原常熟市广播电视台）是目前国内为数不多仍在使用中波进行传输覆盖的县级广播电视播出机构，使用中波频率AM1116的历史可追溯至35年前。</p><p>1988年12月15日，常熟人民广播电台中波广播开播，播出频率为1116千赫。<br>2000-2015年前后，常熟人民广播电台曾开办三套节目，均为中波、调频双频覆盖，具备较强自办节目的能力。</p><ul><li>常熟新闻广播（新闻综合频率）　FM99.6、AM1116</li><li>常熟交通广播（交通音乐频率）　FM100.8、AM747</li><li>常熟音乐广播（经济服务频率）　FM91.9、AM927</li></ul><p>2016年起，随着国家广电总局规范频率频道设置，整顿清理广播电视私开频率频道工作的推进，常熟人民广播电台将三套节目逐渐整合为一套节目，呼号为“常熟新闻交通广播”，官方公布的频率为：FM100.8、AM1116，调频FM99.6、FM91.9关停，但并未提及中波AM747、AM927两个频率是否仍在发射。<br>2021年10月8日，常熟新闻交通广播更名为“常熟广播声动1008”。<br>（呼号改为“常熟市融媒体中心综合广播”的时间不详）</p><hr><p>常熟人民广播电台曾开办过官方网站“常熟广播网”，域名为：<a href="http://www.am1116.com/">http://www.am1116.com/</a> ，目前已关闭访问。<br>Internet Archive（互联网档案馆）网站保存有常熟广播网2001-2023年的历史快照，最后一次保存网页快照时间是2023年8月30日。<br><a href="http://web.archive.org/web/20230830232519/https://www.am1116.com/">http://web.archive.org/web/20230830232519/https://www.am1116.com/</a></p><p><strong>意外发现</strong><br>在Internet Archive查找常熟广播网历史页面时，偶然发现张家港人民广播电台也曾开办过官方网站，同样是用中波频率命名，域名为：<a href="http://www.am1098.com/">http://www.am1098.com/</a> 。<br>根据历史记录，张家港人民广播电台“1098服务网”网站2001年开办，2016年关闭访问。</p><p>张家港市和常熟市同为苏州市代管的县级市。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年12月1日，常熟市融媒体中心综合广播中波频率AM1116、AM747停止发射。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>宁波老年与少儿广播FM90.4/AM1251停播</title>
+    <link href="https://cahcn.github.io/posts/2023-11-26-ningbo-fm90.4-am1251.html"/>
+    <id>https://cahcn.github.io/posts/2023-11-26-ningbo-fm90.4-am1251.html</id>
+    <published>2023-11-26T07:58:08.000Z</published>
+    <updated>2023-11-27T14:44:11.088Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据宁波广播电视集团发布的停播公告，宁波老年与少儿广播FM90.4&#x2F;AM1251将于2023年12月1日停止播出。</p><span id="more"></span><p>通过在线直播收听发现，宁波老少广播每个整点报时之后都会播出停播公告，但并未在宁波广播电视集团官网及新媒体账号发布停播公告的文字稿。</p><p>公告内容如下：</p><blockquote><p>关于宁波人民广播电台老年与少儿广播停播的公告<br>  <!--换行占位--><br>  广大听众朋友，为了更好地适应媒体融合发展需求，进一步加强广播频率管理。<br>  经上级有关部门批准，宁波人民广播电台老年与少儿广播FM90.4自2023年12月1日起停止播出，原老年与少儿广播部分节目调整至宁波人民广播电台其他频率播出。<br>  感谢广大听众朋友的真情相伴，欢迎继续收听关注宁波人民广播电台其他广播节目。<br>  <!--换行占位--><br>  宁波广播电视集团<br>  2023年11月8日</p></blockquote><p>宁波老年与少儿广播，又称“宁波老少广播阳光调频”，为全国首家面向老年人和少年儿童的专业广播频率，2006年5月试播，2007年1月正式开播。</p><p>在线收听：<br><a href="https://www.ncmc.nbtv.cn/gbds/folder8458/FM904/index.shtml">https://www.ncmc.nbtv.cn/gbds/folder8458/FM904/index.shtml</a> （宁波台官网）<br><a href="https://www.qingting.fm/radios/1141">https://www.qingting.fm/radios/1141</a> （蜻蜓FM，可回听节目）</p><hr><p>根据国家广电总局本周更新的《播出机构名录》，除宁波老年与少儿广播之外，浙江省内的丽水新农村广播FM88.3、金华经济广播FM101.4也已向国家广电总局申请关停，并获得批复，目前尚未停播，计划停播时间不详。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;根据宁波广播电视集团发布的停播公告，宁波老年与少儿广播FM90.4&amp;#x2F;AM1251将于2023年12月1日停止播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>（11/22更新）石河子广播电视台FM103.5经济广播、FM91.5交通音乐广播停播</title>
+    <link href="https://cahcn.github.io/posts/2023-11-06-shihezi.html"/>
+    <id>https://cahcn.github.io/posts/2023-11-06-shihezi.html</id>
+    <published>2023-11-06T12:32:15.000Z</published>
+    <updated>2023-11-29T17:14:57.771Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年11月6日，石河子市融媒体中心发布<a href="https://mp.weixin.qq.com/s/3XK5kq0H_TW53bBTmbqnQQ">公告</a>，宣布将于2023年11月13日关停FM103.5经济广播、FM91.5交通音乐广播（维吾尔语交通音乐广播）、影视文体频道、经济生活频道、教育频道等五套频率频道，广播仅保留FM89.3综合广播，电视仅保留综合频道。</p><span id="more"></span><hr><p>公告如下：</p><blockquote><p>广大市民朋友：<br>  根据国家广播电视总局广电审〔2023〕683号文件精神，八师石河子市融媒体中心将对石河子广播电视台频率、频道进行优化调整，定于11月13日关停石河子广播电视台经济广播、交通音乐广播。保留综合广播，综合广播播出频率：调频89.3MHZ、CDR89.3MHZ并机播出。关停石河子广播电视台影视文体频道、经济生活频道、教育频道，保留综合频道。<br>  <!--换行占位--><br>  八师石河子市融媒体中心<br>  2023年11月6日</p></blockquote><p><em>（笔者注：石河子综合广播89.3MHz，通过模拟调频广播、CDR数字广播同时传输信号。）</em></p><p>整合力度之大，前所未见。<del>石河子市融媒体中心属地市级广播电视播出机构</del>，参照其他省广播电视行政部门有关文件要求，县级台仅可保留一套广播节目和一套电视节目，未对地市台如何精简频率频道作出明确要求。石河子市融媒体中心此次整合频率频道，参照了县级台整合的做法，笔者猜测可能与自办节目能力较弱有关，目前石河子综合广播FM89.3部分节目由乌鲁木齐搏宇广声传媒有限责任公司制作。</p><p>一点小细节：</p><ol><li>石河子交通音乐广播FM91.5停播前在国家广电总局的备案呼号为“石河子人民广播电台维吾尔语交通音乐广播”，实际不仅播出维吾尔语节目，也播出汉语节目。</li><li>石河子电视台影视文体频道、经济生活频道、教育频道三个电视频道停播前均已完成高清化改造，并在有线电视网络传输。</li></ol><hr><p>（2023年11月20日更新）<br>石河子广播电视台并没有按照公告的时间关停频率频道，距离原定的停播时间一周之后，2023年11月20日，石河子影视文体频道、经济生活频道、教育频道停止播出。<br>但石河子经济广播、交通音乐广播仍在正常播出，石河子经济广播凌晨还有提前录制有主持人的节目播出。</p><!--均为石河子新闻网收听链接，带key可能随时失效// https://www.shznews.com/listenRadio.html--><p>在线收听地址：<br>石河子综合广播，<a href="http://living.muzhifm.com/muzhifm/shihezi_fm893.m3u8?auth_key=1729922540-0-0-0874d67745c79caa829217c54df09666">http://living.muzhifm.com/muzhifm/shihezi_fm893.m3u8?auth_key=1729922540-0-0-0874d67745c79caa829217c54df09666</a><br>石河子经济广播，<a href="http://living.muzhifm.com/muzhifm/shihezi_fm1035.m3u8?auth_key=1729922540-0-0-52a186d3a01e43e7385a19593b0adbe0">http://living.muzhifm.com/muzhifm/shihezi_fm1035.m3u8?auth_key=1729922540-0-0-52a186d3a01e43e7385a19593b0adbe0</a><br>石河子交通音乐广播，<a href="http://living.muzhifm.com/muzhifm/shihezi_am603.m3u8?auth_key=1729922540-0-0-84eb3105e6554dddb2ca98ffdd899181">http://living.muzhifm.com/muzhifm/shihezi_am603.m3u8?auth_key=1729922540-0-0-84eb3105e6554dddb2ca98ffdd899181</a></p><p>（2023年11月22日更新）<br>根据国家广电总局今日更新的《播出机构名录》，石河子市“两台”合并获批，石河子市人民广播电台、石河子市电视台合并组建“新疆生产建设兵团第八师融媒体中心”，机构级别由地级台（特设）降为县级台。</p><hr><p><strong>题外话</strong><br>石河子市的管理体制十分特殊，1975年建市，名义上为新疆维吾尔自治区直辖的县级市，实际归属新疆生产建设兵团管理，与新疆生产建设兵团第八师合署办公，全称“新疆生产建设兵团第八师石河子市”。<br>石河子市在部分领域仍享受地级市的待遇。<del>如石河子市融媒体中心（国家广电总局并未批复石河子市“两台”合并，备案机构名称仍为“石河子市人民广播电台”、“石河子市电视台”）为地市级广播电视播出机构，与兵团其他县级城市的播出机构级别不同。</del><br>另外，在石河子市办理牌照的机动车辆拥有独立的车牌号段“新C·XXXXX”，新疆两所“211工程”高校之一——石河子大学，也位于石河子市。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年11月6日，石河子市融媒体中心发布&lt;a href=&quot;https://mp.weixin.qq.com/s/3XK5kq0H_TW53bBTmbqnQQ&quot;&gt;公告&lt;/a&gt;，宣布将于2023年11月13日关停FM103.5经济广播、FM91.5交通音乐广播（维吾尔语交通音乐广播）、影视文体频道、经济生活频道、教育频道等五套频率频道，广播仅保留FM89.3综合广播，电视仅保留综合频道。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>菏泽广播电视台疑似停止中波频率发射</title>
+    <link href="https://cahcn.github.io/posts/2023-10-31-heze.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-31-heze.html</id>
+    <published>2023-10-31T13:02:11.000Z</published>
+    <updated>2023-10-31T14:24:44.397Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据听友2023年10月31日下午在菏泽市区实地收听测试，菏泽新闻广播中波频率AM1197、菏泽交通广播中波频率AM1323无信号，疑似停止发射。</p><span id="more"></span><p>目前尚不清楚是发射台设备检修暂停发射，还是彻底停止中波频率发射，有待进一步确认。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;根据听友2023年10月31日下午在菏泽市区实地收听测试，菏泽新闻广播中波频率AM1197、菏泽交通广播中波频率AM1323无信号，疑似停止发射。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中国国际广播电台南海之声普通话节目B23频率</title>
+    <link href="https://cahcn.github.io/posts/2023-10-31-cri-voice-of-the-south-china-sea.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-31-cri-voice-of-the-south-china-sea.html</id>
+    <published>2023-10-31T08:23:49.000Z</published>
+    <updated>2023-10-31T08:45:35.510Z</updated>
+    
+    <content type="html"><![CDATA[<p>根据中国国际广播电台公开的<a href="https://mp.weixin.qq.com/s/MoYgEwANDewdtWTTEKH1kA">频率信息</a>，南海之声普通话节目B23季短波使用频率为：<br>1700-1800　9880、11895kHz</p><span id="more"></span><p>两个频率均在南宁发射，与A23季使用频率一致，似乎已成为固定频率。</p><hr><p>此外，中央人民广播电台B23季短波频率也已发布。<br>详见：<a href="https://mp.weixin.qq.com/s/W9Lb9aLmHxQflW1cor8HUA">https://mp.weixin.qq.com/s/W9Lb9aLmHxQflW1cor8HUA</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;根据中国国际广播电台公开的&lt;a href=&quot;https://mp.weixin.qq.com/s/MoYgEwANDewdtWTTEKH1kA&quot;&gt;频率信息&lt;/a&gt;，南海之声普通话节目B23季短波使用频率为：&lt;br&gt;1700-1800　9880、11895kHz&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>BBR广西北部湾之声B23节目时间表</title>
+    <link href="https://cahcn.github.io/posts/2023-10-30-beibu-bay-radio.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-30-beibu-bay-radio.html</id>
+    <published>2023-10-30T04:10:05.000Z</published>
+    <updated>2023-10-30T09:07:51.897Z</updated>
+    
+    <content type="html"><![CDATA[<p>B23季，广西北部湾之声继续削减自办节目。<br>粤语节目《华人世界》《粤语金曲》取消，英语节目《一词一世界（英语时刻）》换了新主持人。</p><p>本季17:45短波频率开机的节目改为《经典音乐》（普通话），广西台似乎在用低成本、有主持人的音乐节目来填充时段。<br>另外，公益广告播出次数较之前有所增加，似乎也只是用来填充时段。</p><span id="more"></span><hr><p>短波时段节目表：<br>17:00-18:00　经典音乐<br>17:45　短波开始发射<br>18:00-18:30　习语译播、文墨中国、美在广西、东盟风情<br>18:30-19:00　CRI环球资讯广播《老外看点》节目（录播）<br>19:00-20:00　CRI越南语节目<br>20:00-20:30　越南语节目▲<br>20:30-21:00　习语译播、Văn hóa Trung Quốc（中国文化，越南语）、越南语节目▲、音乐<br>21:00-21:20　习语译播、崇左广播电视台制作节目《贝侬》（壮语南部方言-左江土语）<br>21:20-21:40　美在广西、东盟风情<br>21:40-22:00　习语译播、一词一世界（周一柬埔寨语，周二老挝语，周三缅甸语，周四泰语，周五越南语，周六、周日节目语言不固定）、文墨中国、城市惠生活<br>22:00-22:10　音乐<br>22:10-22:20　CRI华语环球广播《全景中国》节目（录播）<br>22:20-22:50　音乐<br>22:50-23:00　东盟风情<br>23:00-23:10　习语译播、音乐<br>23:10-23:15　一词一世界（英语时刻）<br>23:15-23:20　音乐、习语译播<br>23:25-23:45　魅力中国（泰语）<br>23:45-00:00　东盟歌曲大串烧<br>00:00　全天播音结束<br>00:03　短波结束发射<br>06:48-07:00　测试音乐<br>07:00-08:00　CNR大湾区之声《华夏原创金曲榜》节目（录播，汉语、粤语）<br>08:00-08:05　音乐<br>08:05-08:10　一词一世界（周一柬埔寨语，周二老挝语，周三缅甸语，周四泰语，周五越南语，周六、周日节目语言不固定）<br>08:10-09:00　CNR文艺之声《民歌风行》节目（录播）<br>09:00-09:02　天气预报（周一至周五，越南语）<br>09:00-09:02　音乐（周六、周日）<br>09:02　短波结束发射</p><p>▲ 外语水平有限，无法听懂节目名称，已向广西北部湾之声官方咨询节目名称，但并未收到任何答复。</p><p>《一词一世界》不同语种节目名称：<br>英语节目时段名称为《一词一世界（英语时刻）》<br>缅甸语节目时段名称为《一词一世界（缅语时刻）》<br>老挝语节目时段名称为《一词一世界（老挝语时刻）》<br>越南语节目时段名称为《一词一世界（越南语时刻）》<br>柬埔寨语节目时段名称为《一词一世界（柬埔寨语时刻）》<br>泰语节目时段未播报节目名称</p><p>BBR广西北部湾之声在线收听：<br><a href="https://stream.bbrtv.com/?channelId=32">https://stream.bbrtv.com/?channelId=32</a></p><hr><p>A23节目时间表：<a href="https://cahcn.github.io/posts/2023-03-26-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2023-03-26-Beibu-Bay-Radio.html</a><br>B22节目时间表：<a href="https://cahcn.github.io/posts/2022-10-27-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2022-10-27-Beibu-Bay-Radio.html</a><br>A22节目时间表：<a href="https://cahcn.github.io/posts/2022-03-27-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2022-03-27-Beibu-Bay-Radio.html</a><br>B21节目时间表：<a href="https://cahcn.github.io/posts/2021-11-15-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2021-11-15-Beibu-Bay-Radio.html</a><br>A21节目时间表：<a href="https://cahcn.github.io/posts/2021-07-18-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2021-07-18-Beibu-Bay-Radio.html</a> （2021.7.12起）<br>A21节目时间表：<a href="https://cahcn.github.io/posts/2021-03-28-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2021-03-28-Beibu-Bay-Radio.html</a><br>B20节目时间表：<a href="https://cahcn.github.io/posts/2020-10-25-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2020-10-25-Beibu-Bay-Radio.html</a><br>A20节目时间表：<a href="https://cahcn.github.io/posts/2020-04-08-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2020-04-08-Beibu-Bay-Radio.html</a><br>B19节目时间表：<a href="https://cahcn.github.io/posts/2019-10-31-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2019-10-31-Beibu-Bay-Radio.html</a><br>B17节目时间表：<a href="https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html">https://cahcn.github.io/posts/2017-11-27-Beibu-Bay-Radio.html</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;B23季，广西北部湾之声继续削减自办节目。&lt;br&gt;粤语节目《华人世界》《粤语金曲》取消，英语节目《一词一世界（英语时刻）》换了新主持人。&lt;/p&gt;
+&lt;p&gt;本季17:45短波频率开机的节目改为《经典音乐》（普通话），广西台似乎在用低成本、有主持人的音乐节目来填充时段。&lt;br&gt;另外，公益广告播出次数较之前有所增加，似乎也只是用来填充时段。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>贵州都市广播FM106.2停播</title>
+    <link href="https://cahcn.github.io/posts/2023-10-26-guizhou-radio-and-tv-station.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-26-guizhou-radio-and-tv-station.html</id>
+    <published>2023-10-26T12:52:17.000Z</published>
+    <updated>2023-12-29T16:18:00.025Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年10月24日，贵州都市广播FM106.2停止播出。</p><span id="more"></span><p>据贵州广播电视台<a href="https://mp.weixin.qq.com/s/88uq8UHKKmuG2XFgK3V9qQ">介绍</a>，贵州都市广播前身为贵州健康广播，成立于1998年。<br>2005年7月更名为贵州都市广播。<br>2011年11月，原贵州人民广播电台、贵州电视台合并重组为贵州广播电视台后，更名为贵州广播电视台都市广播。</p><p>笔者补充：<br>2012年8月改版为贵州都市调频汽车音乐广播（V-FM106.2）。</p><hr><p>此外，综合<a href="https://mp.weixin.qq.com/s/-w3Scn5nFMHtqJ9tnjnKKw">中数传媒</a>和<a href="https://mp.weixin.qq.com/s/88uq8UHKKmuG2XFgK3V9qQ">贵州台</a>发布的消息，<br>由贵州广播电视台开办的付费电视天元围棋频道标清信号、摄影频道将于2024年1月1日停播，并终止卫星信号传输。</p><p>（2023年12月29日更新）<br>根据中数传媒最新发布的<a href="https://mp.weixin.qq.com/s/lmIjvINE8QjNvczGWrKQbg">通知</a>，天元围棋标清、摄影频道2024年1月3日停播。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年10月24日，贵州都市广播FM106.2停止播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2022年中国大陆各省（区、市）IPTV用户数</title>
+    <link href="https://cahcn.github.io/posts/2023-10-23-iptv.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-23-iptv.html</id>
+    <published>2023-10-23T04:10:33.000Z</published>
+    <updated>2023-10-24T14:02:28.309Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年9月27日，工业和信息化部在官网公开《2022年通信业年度统计数据》，统计数据公开了上一年度各省IPTV用户数据。</p><span id="more"></span><p>按照地区划分，2022年IPTV（网络电视）用户分省情况如下：<br>（单位：万户）</p><table><thead><tr><th align="center"></th><th align="center">2022年用户数</th><th align="center">2021年用户数</th><th align="center">比2021年增减</th></tr></thead><tbody><tr><td align="center">全国总计</td><td align="center">38043.7</td><td align="center">34851.5</td><td align="center">3192.2</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">东部地区</td><td align="center">15191.6</td><td align="center">14055.6</td><td align="center">1136.0</td></tr><tr><td align="center">北京</td><td align="center">406.6</td><td align="center">374.8</td><td align="center">31.8</td></tr><tr><td align="center">天津</td><td align="center">415.0</td><td align="center">388.5</td><td align="center">26.5</td></tr><tr><td align="center">河北</td><td align="center">1836.9</td><td align="center">1815.5</td><td align="center">21.5</td></tr><tr><td align="center">上海</td><td align="center">579.0</td><td align="center">559.5</td><td align="center">19.5</td></tr><tr><td align="center">江苏</td><td align="center">2817.8</td><td align="center">2494.3</td><td align="center">323.5</td></tr><tr><td align="center">浙江</td><td align="center">1920.2</td><td align="center">1716.3</td><td align="center">204.0</td></tr><tr><td align="center">福建</td><td align="center">1247.3</td><td align="center">1182.0</td><td align="center">65.2</td></tr><tr><td align="center">山东</td><td align="center">2665.0</td><td align="center">2464.9</td><td align="center">200.1</td></tr><tr><td align="center">广东</td><td align="center">2990.1</td><td align="center">2788.1</td><td align="center">202.0</td></tr><tr><td align="center">海南</td><td align="center">313.7</td><td align="center">271.9</td><td align="center">41.9</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">中部地区</td><td align="center">9274.2</td><td align="center">8546.6</td><td align="center">727.6</td></tr><tr><td align="center">山西</td><td align="center">817.5</td><td align="center">745.1</td><td align="center">72.4</td></tr><tr><td align="center">安徽</td><td align="center">1784.6</td><td align="center">1627.0</td><td align="center">157.5</td></tr><tr><td align="center">江西</td><td align="center">1380.2</td><td align="center">1249.2</td><td align="center">131.0</td></tr><tr><td align="center">河南</td><td align="center">2015.2</td><td align="center">1923.4</td><td align="center">91.8</td></tr><tr><td align="center">湖北</td><td align="center">1546.8</td><td align="center">1395.4</td><td align="center">151.4</td></tr><tr><td align="center">湖南</td><td align="center">1730.0</td><td align="center">1606.4</td><td align="center">123.5</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">西部地区</td><td align="center">11737.0</td><td align="center">10587.2</td><td align="center">1149.8</td></tr><tr><td align="center">内蒙古</td><td align="center">594.2</td><td align="center">543.7</td><td align="center">50.5</td></tr><tr><td align="center">广西</td><td align="center">1291.4</td><td align="center">1148.0</td><td align="center">143.4</td></tr><tr><td align="center">重庆</td><td align="center">1027.0</td><td align="center">953.4</td><td align="center">73.6</td></tr><tr><td align="center">四川</td><td align="center">3186.1</td><td align="center">2924.4</td><td align="center">261.7</td></tr><tr><td align="center">贵州</td><td align="center">956.2</td><td align="center">813.1</td><td align="center">143.1</td></tr><tr><td align="center">云南</td><td align="center">1148.1</td><td align="center">980.0</td><td align="center">168.2</td></tr><tr><td align="center">西藏</td><td align="center">76.9</td><td align="center">58.4</td><td align="center">18.5</td></tr><tr><td align="center">陕西</td><td align="center">1290.4</td><td align="center">1142.6</td><td align="center">147.8</td></tr><tr><td align="center">甘肃</td><td align="center">726.8</td><td align="center">704.2</td><td align="center">22.6</td></tr><tr><td align="center">青海</td><td align="center">174.2</td><td align="center">151.3</td><td align="center">23.0</td></tr><tr><td align="center">宁夏</td><td align="center">276.8</td><td align="center">256.3</td><td align="center">20.5</td></tr><tr><td align="center">新疆</td><td align="center">988.8</td><td align="center">911.9</td><td align="center">76.9</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">东北地区</td><td align="center">1841.0</td><td align="center">1662.1</td><td align="center">178.9</td></tr><tr><td align="center">辽宁</td><td align="center">808.6</td><td align="center">745.7</td><td align="center">62.9</td></tr><tr><td align="center">吉林</td><td align="center">395.4</td><td align="center">361.9</td><td align="center">33.5</td></tr><tr><td align="center">黑龙江</td><td align="center">637.0</td><td align="center">554.5</td><td align="center">82.4</td></tr></tbody></table><p><em>注：部分省份数据因四舍五入的原因，存在着与分项合计不等的情况。</em></p><hr><p>2019-2022四年数据：</p><table><thead><tr><th align="center"></th><th align="center">2022年用户数</th><th align="center">2021年用户数</th><th align="center">2020年用户数</th><th align="center">2019年用户数</th></tr></thead><tbody><tr><td align="center">全国总计</td><td align="center">38043.7</td><td align="center">34851.5</td><td align="center">31515.2</td><td align="center">29395.6</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">东部地区</td><td align="center">15191.6</td><td align="center">14055.6</td><td align="center">12759</td><td align="center">12168.2</td></tr><tr><td align="center">北京</td><td align="center">406.6</td><td align="center">374.8</td><td align="center">326.6</td><td align="center">311.3</td></tr><tr><td align="center">天津</td><td align="center">415.0</td><td align="center">388.5</td><td align="center">344.5</td><td align="center">311.5</td></tr><tr><td align="center">河北</td><td align="center">1836.9</td><td align="center">1815.5</td><td align="center">1680.1</td><td align="center">1643.3</td></tr><tr><td align="center">上海</td><td align="center">579.0</td><td align="center">559.5</td><td align="center">565.0</td><td align="center">560.6</td></tr><tr><td align="center">江苏</td><td align="center">2817.8</td><td align="center">2494.3</td><td align="center">2285.2</td><td align="center">2191.9</td></tr><tr><td align="center">浙江</td><td align="center">1920.2</td><td align="center">1716.3</td><td align="center">1550.3</td><td align="center">1528.6</td></tr><tr><td align="center">福建</td><td align="center">1247.3</td><td align="center">1182.0</td><td align="center">1115.0</td><td align="center">1094.3</td></tr><tr><td align="center">山东</td><td align="center">2665.0</td><td align="center">2464.9</td><td align="center">2262.9</td><td align="center">2161.8</td></tr><tr><td align="center">广东</td><td align="center">2990.1</td><td align="center">2788.1</td><td align="center">2408.7</td><td align="center">2159.7</td></tr><tr><td align="center">海南</td><td align="center">313.7</td><td align="center">271.9</td><td align="center">220.6</td><td align="center">205.0</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">中部地区</td><td align="center">9274.2</td><td align="center">8546.6</td><td align="center">7890.8</td><td align="center">7281.6</td></tr><tr><td align="center">山西</td><td align="center">817.5</td><td align="center">745.1</td><td align="center">662.4</td><td align="center">658.3</td></tr><tr><td align="center">安徽</td><td align="center">1784.6</td><td align="center">1627.0</td><td align="center">1584.5</td><td align="center">1380.9</td></tr><tr><td align="center">江西</td><td align="center">1380.2</td><td align="center">1249.2</td><td align="center">1115.6</td><td align="center">1054.9</td></tr><tr><td align="center">河南</td><td align="center">2015.2</td><td align="center">1923.4</td><td align="center">1868.0</td><td align="center">1775.2</td></tr><tr><td align="center">湖北</td><td align="center">1546.8</td><td align="center">1395.4</td><td align="center">1216.2</td><td align="center">1110.9</td></tr><tr><td align="center">湖南</td><td align="center">1730.0</td><td align="center">1606.4</td><td align="center">1444.1</td><td align="center">1301.5</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">西部地区</td><td align="center">11737.0</td><td align="center">10587.2</td><td align="center">9430.8</td><td align="center">8616.4</td></tr><tr><td align="center">内蒙古</td><td align="center">594.2</td><td align="center">543.7</td><td align="center">467.4</td><td align="center">434.5</td></tr><tr><td align="center">广西</td><td align="center">1291.4</td><td align="center">1148.0</td><td align="center">1004.2</td><td align="center">861.1</td></tr><tr><td align="center">重庆</td><td align="center">1027.0</td><td align="center">953.4</td><td align="center">885.6</td><td align="center">855.7</td></tr><tr><td align="center">四川</td><td align="center">3186.1</td><td align="center">2924.4</td><td align="center">2777.6</td><td align="center">2691.7</td></tr><tr><td align="center">贵州</td><td align="center">956.2</td><td align="center">813.1</td><td align="center">688.1</td><td align="center">607.3</td></tr><tr><td align="center">云南</td><td align="center">1148.1</td><td align="center">980.0</td><td align="center">814.4</td><td align="center">668.1</td></tr><tr><td align="center">西藏</td><td align="center">76.9</td><td align="center">58.4</td><td align="center">49.8</td><td align="center">56.3</td></tr><tr><td align="center">陕西</td><td align="center">1290.4</td><td align="center">1142.6</td><td align="center">994.1</td><td align="center">857.0</td></tr><tr><td align="center">甘肃</td><td align="center">726.8</td><td align="center">704.2</td><td align="center">644.8</td><td align="center">612.0</td></tr><tr><td align="center">青海</td><td align="center">174.2</td><td align="center">151.3</td><td align="center">125.4</td><td align="center">119.1</td></tr><tr><td align="center">宁夏</td><td align="center">276.8</td><td align="center">256.3</td><td align="center">232.8</td><td align="center">214.1</td></tr><tr><td align="center">新疆</td><td align="center">988.8</td><td align="center">911.9</td><td align="center">746.7</td><td align="center">639.8</td></tr><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center">东北地区</td><td align="center">1841.0</td><td align="center">1662.1</td><td align="center">1434.7</td><td align="center">1329.4</td></tr><tr><td align="center">辽宁</td><td align="center">808.6</td><td align="center">745.7</td><td align="center">648.1</td><td align="center">588.2</td></tr><tr><td align="center">吉林</td><td align="center">395.4</td><td align="center">361.9</td><td align="center">319.4</td><td align="center">283.8</td></tr><tr><td align="center">黑龙江</td><td align="center">637.0</td><td align="center">554.5</td><td align="center">467.2</td><td align="center">457.4</td></tr></tbody></table><!--工信部《2022年通信行业年度统计数据》https://www.miit.gov.cn/gxsj/tjfx/txy/index.htmlhttps://www.miit.gov.cn/txnj2022/tx_index.html-->]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年9月27日，工业和信息化部在官网公开《2022年通信业年度统计数据》，统计数据公开了上一年度各省IPTV用户数据。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>鄂尔多斯曲艺评书广播FM97.3停播</title>
+    <link href="https://cahcn.github.io/posts/2023-10-23-ordosrt.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-23-ordosrt.html</id>
+    <published>2023-10-23T03:41:57.000Z</published>
+    <updated>2023-10-29T17:33:21.536Z</updated>
+    
+    <content type="html"><![CDATA[<p>2023年10月23日，鄂尔多斯广播电视台曲艺评书广播FM97.3、城市生活频道停止播出。</p><span id="more"></span><p>停播前，鄂尔多斯广播电视台仅通过四个电视频道发布了城市生活频道的停播公告，并未提及曲艺评书广播是否停播。<br>根据本人2023年10月23日上午收听，鄂尔多斯曲艺评书广播在线直播信号处于静音状态，节目已经终止播出。</p><p>（补充）停播前几日，鄂尔多斯曲艺评书广播曾在部分广告时段播出停播公告，宣布将于2023年10月23日停播。</p><hr><p>鄂尔多斯曲艺评书广播FM97.3开播于2009年8月18日，曾使用过“鄂尔多斯综艺广播快乐973”的呼号。<br>2017年4月12日，鄂尔多斯广播电视台宣布曲艺评书广播实现全市同频覆盖（实际仍有部分发射台使用其他频率发射，与官方发布信息不符）。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2023年10月23日，鄂尔多斯广播电视台曲艺评书广播FM97.3、城市生活频道停止播出。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>杂谈·关于2023年10月铁路调图</title>
+    <link href="https://cahcn.github.io/posts/2023-10-10-railway.html"/>
+    <id>https://cahcn.github.io/posts/2023-10-10-railway.html</id>
+    <published>2023-10-10T09:52:08.000Z</published>
+    <updated>2023-10-12T11:33:38.576Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请再试一次。" data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="4ca21fc43a31af77efab278992d88bc92fec4e674ea4b894274b9d2e7e555cc7">1076646a9f049f87b2013f8dcace212722d8fc98c751350f1e588ba7eb197316b9133780a27649b371447e406044cf40d71cead2222687f8548683eb581b5fb67912d6aa595b1c80f3f792613d6b8bf8a3474a0523915fc96d91e8bd0631a065942c83ea7ea042fb9933ba71ac5e94e9e07cf41288229ed70a6e69180d0506f2a412aa417e32bdbb8acd18f9fb111f5a856007cfb8ca7fd5945c7ff45626567d79475f38498999e1b9bfc9ecd84081da6509a3af758be19ec3f473c74e2f30121613e8025023e4cb72605c3beb55c75dc334583c00b2c4f29a186bdceb95c0097435d9156f7cb2da7d84f6c9706eea4251d3c24537e8f652b231ae62f64b8a105d18abd4cdacf23f48e38d18202a58b260e27998a222df8ab0f51410dc09d4ec1eabd7f19b1322f2d0a6b8931930f0b6ca3174392385d0fb1d51fbe91e17ffde2840fd317ab72c664d2778f599b1381a24d40553530a05c6af739d36c02b9c833b2af7ede21ac473e588f35ad0a42f7d7028b6d632a6b8974004ceba8b4eb350c4efc5bdcc577190d0e7f62b966bfd535d7156e9505ecbbb062c1abf47d197ba3fe08ecb21fe504366b12495b0e4f8254b8abdfc1f624fdeb5f729dd2ae4e21c0271011c85d6f25cc82ec26d62e8267acfa0e95186ffacbd5a79f05fd89921d0908d53ed54c576151aa6c8006b52ff575478bf55d96d69d27b5e972c11a9d84a0bad20d33d3a3195770d78d2c3d81e8a7a537c77f6801a66c73bd7eaca4665fefc1aca01bc25fce0b0b534ac3f1631dcd9b9c8fddfb513266a8c302c4d2020ddb6c9e6b656f652283ada2273711ae8e488c9cf37b753afe0e750a1cb1816a68f562bd3ad0aeb854a82f1d42fd6bde8d525c0b0d427192c13bdb1352ecfc815005f4fc01c874125be29b4181931e9cfb661e05506ffb04b7efac59e7d9a4b31466579aed4b96672bd141bdf2be2872e8d8a63e0c1d93d2876193de5e807090089aa65a8dc255f7bef8e26cc24a14771c338ec52335d0d733d6ca753737bfc9652dc0f10cafb6284583a3ff305b68ef440190ccef5868d8435aee3b2a0c5068df0fc9be0d8f66c998e75a0774576b4a487208e7ea5b11cab5312acf3496500a85a67857f28e445a7818f1d30b279110a9084232228d5f4ca96503b561d3d5dd4573fcdb8c2321e3ef5698c49cb9652161850166dc776f1dec331fc914668951f124df97f9d445dbcbda4fe0802ba032f370be636cbd78302ba3b5a8119a74a1385f6954485d7b10dca823ce12e397e57e8eb6d690def52364bc15514a66828e527f81cc87250dcd72269d4b1a6a360298038bcc25dae0b59b2dbce8ab486af1958</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码查看</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Nothing</summary>
+    
+    
+    
+    <category term="other" scheme="https://cahcn.github.io/categories/other/"/>
+    
+    
+  </entry>
+  
+</feed>
