@@ -1,0 +1,215 @@
+# Last update: Jul 2, 2025
+
+# Baidu
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: Baiduspider-news
+Disallow: /
+
+User-agent: Baiduspider-video
+Disallow: /
+
+User-agent: Baiduspider-mobile
+Disallow: /
+
+
+
+# Soso & Sogou
+# See: https://help.sogou.com/spider.html
+User-agent: Sosospider
+Disallow: /
+
+User-agent: Sogou spider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
+User-agent: Sogou spider2
+Disallow: /
+
+User-agent: Sogou blog
+Disallow: /
+
+User-agent: Sogou News Spider
+Disallow: /
+
+User-agent: Sogou Orion spider
+Disallow: /
+
+
+
+# Youdao
+User-agent: YoudaoBot
+Disallow: /
+
+User-agent: YodaoBot
+Disallow: /
+
+
+
+# Bing
+User-agent: Bingbot
+Disallow: /
+
+
+
+# Yisou
+User-agent: YisouSpider
+Disallow: /
+
+
+
+# ByteDance
+# See: https://zhanzhang.toutiao.com/docs/intro/26899
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ToutiaoSpider
+Disallow: /
+
+
+
+# 360
+# See: https://www.so.com/help/spider_ip.html
+User-agent: 360Spider
+Disallow: /
+
+User-agent: 360Spider-Image
+Disallow: /
+
+User-agent: 360Spider-Video
+Disallow: /
+
+User-agent: HaosouSpider
+Disallow: /
+
+
+
+# Chinaso
+User-agent: ChinasoSpider
+Disallow: /
+
+
+
+# Easou
+User-agent: EasouSpider
+Disallow: /
+
+
+
+# Huawei
+# See: https://aspiegel.com/petalbot
+User-agent: PetalBot
+Disallow: /
+
+User-agent: AspiegelBot
+Disallow: /
+
+
+
+# OpenAI
+# See: https://platform.openai.com/docs/bots
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+
+
+# Claude
+User-agent: ClaudeBot
+Disallow: /
+
+
+
+# Apple
+User-agent: Applebot
+Disallow: /
+
+
+
+# Jike
+User-agent: JikeSpider
+Disallow: /
+
+
+
+# Etao
+User-agent: EtaoSpider
+Disallow: /
+
+
+
+# SemrushBot
+# See: https://www.semrush.com/bot/
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+User-agent: SemrushBot-OCOB
+Disallow: /
+
+User-agent: SemrushBot-FT
+Disallow: /
+
+
+
+# Amazon
+# See: https://developer.amazon.com/support/amazonbot
+User-agent: Amazonbot
+Disallow: /
+
+
+
+# Ahrefs
+# See: https://ahrefs.com/robot/#verification-and-ip-lists
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AhrefsSiteAudit
+Disallow: /
+
+
+
+# Cốc Cốc
+# See: https://coccoc.com/search/console/en/robots.txt
+User-agent: coccocbot
+Disallow: /
+ 
+User-agent: coccocbot-web
+Disallow: /
+
+User-agent: coccocbot-image
+Disallow: /
+
+
+
+# Barkrowler
+User-agent: barkrowler
+Disallow: /
