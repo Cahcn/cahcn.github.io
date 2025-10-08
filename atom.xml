@@ -6,7 +6,7 @@
   <link href="https://cahcn.github.io/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2025-09-25T06:03:07.395Z</updated>
+  <updated>2025-10-07T11:13:04.605Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -17,13 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>9645、9675kHz DRM测试信号</title>
+    <link href="https://cahcn.github.io/posts/2025-10-07-drm-test.html"/>
+    <id>https://cahcn.github.io/posts/2025-10-07-drm-test.html</id>
+    <published>2025-10-07T10:10:38.000Z</published>
+    <updated>2025-10-07T11:13:04.605Z</updated>
+    
+    <content type="html"><![CDATA[<p>2025年10月7日下午，国内某发射台使用9645、9675kHz频率，发射DRM短波数字广播测试信号。</p><span id="more"></span><p>两个测试频率均使用xHE-AAC编码，同时传输有一路NewsService Journaline（新闻志）数据，但无法解码出内容。</p><p>收听过程中，发现一个小细节。</p><ul><li>16:37，9675kHz数字信号停止发射。</li><li>16:39，9675kHz恢复发射，并改为模拟信号。</li><li>16:40，播出几秒中国之声节目，随后信号消失。</li></ul><p><img src="https://cahcn.github.io/img/img/2025-10-07/9645khz_drm_test_20251007_1605.png" alt="9645kHz"><br><img src="https://cahcn.github.io/img/img/2025-10-07/9675khz_drm_test_20251007_1635.png" alt="9675kHz"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2025年10月7日下午，国内某发射台使用9645、9675kHz频率，发射DRM短波数字广播测试信号。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>中国国际广播电台新增临时短波频率</title>
     <link href="https://cahcn.github.io/posts/2025-09-25-the-grand-gathering-for-xinjiang&#39;s-70th-founding-anniversary.html"/>
     <id>https://cahcn.github.io/posts/2025-09-25-the-grand-gathering-for-xinjiang&#39;s-70th-founding-anniversary.html</id>
     <published>2025-09-25T05:46:42.000Z</published>
-    <updated>2025-09-25T06:03:07.395Z</updated>
+    <updated>2025-09-25T06:13:37.693Z</updated>
     
-    <content type="html"><![CDATA[<p>2025年9月25日，中国国际广播电台新增八个临时短波频率，用于向国内外现场直播新疆维吾尔自治区成立70周年庆祝大会。</p><span id="more"></span><p>频率如下（北京时间）：</p><p>英语实时同传（CRI英语资讯广播，又称“CGTN Radio”）<br>10:00-11:00　15110kHz（喀什，100kW）<br>10:00-12:00　17740kHz（北京，500kW）</p><p>普通话现场原声（CRI华语环球广播）<br>10:00-12:00　15140kHz（北京，150kW）<br>10:00-12:00　17510kHz（昆明，500kW）<br>10:00-12:00　17520kHz（乌鲁木齐，500kW）<br>10:00-12:00　17690kHz（西安，500kW）<br>10:00-12:00　17700kHz（乌鲁木齐，500kW）<br>10:00-12:00　17710kHz（喀什，500kW）</p><p><img src="https://cahcn.github.io/img/img/2025-09-25/17740khz-cri-english-xinjiang-70th-20250925-1.png" alt="笔者11:00接收17740kHz信号"><br><img src="https://cahcn.github.io/img/img/2025-09-25/17740khz-cri-english-xinjiang-70th-20250925-2.png" alt="北京时间11:34，17740kHz信号短暂中断，原因不明。"><br><img src="https://cahcn.github.io/img/img/2025-09-25/15140khz-cri-chinese-xinjiang-70th-20250925.png" alt="北京时间11:57，15140kHz临时频率播出结束，信号停止发射。"></p>]]></content>
+    <content type="html"><![CDATA[<p>2025年9月25日，中国国际广播电台新增八个临时短波频率，用于向国内外现场直播新疆维吾尔自治区成立70周年庆祝大会。</p><span id="more"></span><p>频率如下（北京时间）：</p><p>英语实时同传（CRI英语资讯广播，又称“CGTN Radio”）<br>10:00-11:00　15110kHz（喀什，100kW）<br>10:00-12:00　17740kHz（北京，500kW）</p><p>普通话现场原声（CRI华语环球广播）<br>10:00-12:00　15140kHz（北京，150kW）<br>10:00-12:00　17510kHz（昆明，500kW）<br>10:00-12:00　17520kHz（乌鲁木齐，500kW）<br>10:00-12:00　17690kHz（西安，500kW）<br>10:00-12:00　17700kHz（乌鲁木齐，500kW）<br>10:00-12:00　17710kHz（喀什，500kW）</p><p>临时频率仅在2025年9月25日10:00-12:00使用。</p><p><img src="https://cahcn.github.io/img/img/2025-09-25/17740khz-cri-english-xinjiang-70th-20250925-1.png" alt="笔者11:00接收17740kHz信号"><br><img src="https://cahcn.github.io/img/img/2025-09-25/17740khz-cri-english-xinjiang-70th-20250925-2.png" alt="北京时间11:34，17740kHz信号短暂中断，原因不明。"><br><img src="https://cahcn.github.io/img/img/2025-09-25/15140khz-cri-chinese-xinjiang-70th-20250925.png" alt="北京时间11:57，15140kHz临时频率播出结束，信号停止发射。"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;2025年9月25日，中国国际广播电台新增八个临时短波频率，用于向国内外现场直播新疆维吾尔自治区成立70周年庆祝大会。&lt;/p&gt;</summary>
@@ -59,9 +78,9 @@
     <link href="https://cahcn.github.io/posts/2025-09-04-radio-exterior-de-espana.html"/>
     <id>https://cahcn.github.io/posts/2025-09-04-radio-exterior-de-espana.html</id>
     <published>2025-09-14T03:22:37.000Z</published>
-    <updated>2025-09-14T10:07:37.764Z</updated>
+    <updated>2025-09-14T10:09:46.642Z</updated>
     
-    <content type="html"><![CDATA[<p>2025年8月30日，西班牙对外广播电台开设中文节目《Conexión China》（中文名为《中国连线》）。</p><span id="more"></span><p>根据介绍，西班牙对外广播电台（西班牙国家广播电台对外广播部分）开设中文节目，旨在加强西班牙与世界各地华人之间的理解与交流，节目每周播出一期，由北京大学西班牙语语言文学专业的毕业生Song Zhang主持，每周六8:30、周一12:30和22:30（西班牙时间）播出。</p><p>中文节目似乎也通过短波播出，但未提及具体频率。</p><hr><p>官方发布的新闻稿（西班牙语）<br><a href="https://www.rtve.es/rtve/20250828/radio-exterior-espana-rne-estrena-nueva-temporada-llevando-nuestro-pais-a-cinco-continentes/16709602.shtml">https://www.rtve.es/rtve/20250828/radio-exterior-espana-rne-estrena-nueva-temporada-llevando-nuestro-pais-a-cinco-continentes/16709602.shtml</a></p><p>节目可在RTVE网站回听，网址：<br><a href="https://www.rtve.es/play/audios/emision-en-chino/">https://www.rtve.es/play/audios/emision-en-chino/</a></p><p>中国外交部也发布了驻西班牙大使姚敬参加节目录制的消息。<br><a href="https://www.mfa.gov.cn/zwbd_673032/gzhd_673042/202507/t20250712_11669974.shtml">https://www.mfa.gov.cn/zwbd_673032/gzhd_673042/202507/t20250712_11669974.shtml</a></p>]]></content>
+    <content type="html"><![CDATA[<p>2025年8月30日，西班牙对外广播电台开设中文节目《Conexión China》（中文名为《中国连线》）。</p><span id="more"></span><p>根据介绍，西班牙对外广播电台（西班牙国家广播电台对外广播部分）开设中文节目，旨在加强西班牙与世界各地华人之间的理解与交流，节目每周播出一期，由北京大学西班牙语语言文学专业的毕业生Song Zhang主持，每周六8:30、周一12:30和22:30（西班牙时间，夏令时）播出。</p><p>换算为UTC时间，每周六6:30、周一10:30和20:30播出。</p><p>中文节目似乎也通过短波播出，但未提及具体频率。</p><hr><p>官方发布的新闻稿（西班牙语）<br><a href="https://www.rtve.es/rtve/20250828/radio-exterior-espana-rne-estrena-nueva-temporada-llevando-nuestro-pais-a-cinco-continentes/16709602.shtml">https://www.rtve.es/rtve/20250828/radio-exterior-espana-rne-estrena-nueva-temporada-llevando-nuestro-pais-a-cinco-continentes/16709602.shtml</a></p><p>节目可在RTVE网站回听，网址：<br><a href="https://www.rtve.es/play/audios/emision-en-chino/">https://www.rtve.es/play/audios/emision-en-chino/</a></p><p>中国外交部也发布了驻西班牙大使姚敬参加节目录制的消息。<br><a href="https://www.mfa.gov.cn/zwbd_673032/gzhd_673042/202507/t20250712_11669974.shtml">https://www.mfa.gov.cn/zwbd_673032/gzhd_673042/202507/t20250712_11669974.shtml</a></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;2025年8月30日，西班牙对外广播电台开设中文节目《Conexión China》（中文名为《中国连线》）。&lt;/p&gt;</summary>
@@ -369,25 +388,6 @@
     
     
     <summary type="html">&lt;p&gt;根据浙江听友提供的消息，2025年6月23日、6月24日，中国境内某发射台分别使用19000、25730kHz两个频率播出测试信号，用途不明。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>1377kHz DRM测试信号（河南郑州）</title>
-    <link href="https://cahcn.github.io/posts/2025-06-11-1377khz-drm.html"/>
-    <id>https://cahcn.github.io/posts/2025-06-11-1377khz-drm.html</id>
-    <published>2025-06-11T13:58:22.000Z</published>
-    <updated>2025-06-12T16:28:41.091Z</updated>
-    
-    <content type="html"><![CDATA[<p>根据“元芳天线”微信群听友Happiness提供的消息，2025年6月11日21时，河南省郑州市<!--荥阳554台-->使用1377kHz频率测试发射DRM信号，21时39分，DRM测试信号停止发射。</p><span id="more"></span><p>近两年，广东、江苏、云南、辽宁等省的部分中波发射台试验发射过中波DRM信号，不过都集中在1557kHz频率，用于干扰对岸RTI的信号。<br>此次郑州<!--荥阳554台（国家广播电视总局直属台站）-->使用1377kHz频率测试发射DRM信号，是否意味着部分中波常规频率也将改为DRM广播？有待进一步观察。</p><hr><p><strong>相关文件</strong></p><p>2023年，国家广播电视总局曾经联合工业和信息化部、国家市场监督管理总局等部门制定并发布<a href="https://www.nrta.gov.cn/art/2023/9/14/art_113_65535.html">《关于进一步加强车载音视频管理的通知》</a>（广电发〔2023〕32号）。</p><p>《通知》涉及数字调幅广播（DRM）的内容如下：</p><blockquote><p>一、规范车载无线广播接收终端管理</p>  <!--换行占位--><p>  （一）加大无线广播接收终端普及力度。积极引导推动在国内市场生产、销售的所有国产汽车和进口汽车的车载终端设备配置无线广播接收模块。无线广播接收模块应当符合《车载音视频系统通用技术条件》《车载音视频设备电磁兼容性要求和测量方法》等国家标准和相关行业标准的要求，无线广播频率使用应当遵守《中华人民共和国无线电频率划分规定》。推动车企配置数字调幅广播（DRM）、调频数字音频广播（CDR）等数字无线广播接收模块，加大技术研发力度，丰富无线数字广播产品形态，提高产品质量，提升车载广播收视体验。<br>  <!--换行占位--><br>  （二）加快推进无线数字广播覆盖网建设。鼓励各地无线广播发射台站建设数字调幅广播（DRM）、调频数字音频广播（CDR）等无线数字广播发射系统，构建技术先进、传输快捷、覆盖广泛、安全可靠的无线数字广播覆盖网，提升公共服务节目的传输发射数量和信号质量，为广大人民群众提供高质量的数字广播服务。分区域分节目分阶段推进无线广播发射台站模数同播和等效覆盖，逐步推进扩大数字广播覆盖范围，实现模拟广播覆盖网向数字广播覆盖网的转型。</p></blockquote><p>此次测试发射，笔者猜测，可能与落实文件要求有关。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;根据“元芳天线”微信群听友Happiness提供的消息，2025年6月11日21时，河南省郑州市&lt;!--荥阳554台--&gt;使用1377kHz频率测试发射DRM信号，21时39分，DRM测试信号停止发射。&lt;/p&gt;</summary>
     
     
     
