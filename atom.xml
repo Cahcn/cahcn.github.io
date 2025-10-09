@@ -6,7 +6,7 @@
   <link href="https://cahcn.github.io/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2025-10-07T11:13:04.605Z</updated>
+  <updated>2025-10-09T16:17:38.793Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://cahcn.github.io/posts/2025-10-07-drm-test.html"/>
     <id>https://cahcn.github.io/posts/2025-10-07-drm-test.html</id>
     <published>2025-10-07T10:10:38.000Z</published>
-    <updated>2025-10-07T11:13:04.605Z</updated>
+    <updated>2025-10-09T16:17:38.793Z</updated>
     
-    <content type="html"><![CDATA[<p>2025年10月7日下午，国内某发射台使用9645、9675kHz频率，发射DRM短波数字广播测试信号。</p><span id="more"></span><p>两个测试频率均使用xHE-AAC编码，同时传输有一路NewsService Journaline（新闻志）数据，但无法解码出内容。</p><p>收听过程中，发现一个小细节。</p><ul><li>16:37，9675kHz数字信号停止发射。</li><li>16:39，9675kHz恢复发射，并改为模拟信号。</li><li>16:40，播出几秒中国之声节目，随后信号消失。</li></ul><p><img src="https://cahcn.github.io/img/img/2025-10-07/9645khz_drm_test_20251007_1605.png" alt="9645kHz"><br><img src="https://cahcn.github.io/img/img/2025-10-07/9675khz_drm_test_20251007_1635.png" alt="9675kHz"></p>]]></content>
+    <content type="html"><![CDATA[<p>2025年10月7日下午，国内某发射台使用9645、9675kHz频率，发射DRM短波数字广播测试信号。</p><span id="more"></span><p>两个测试频率均使用xHE-AAC编码，同时传输有一路幻灯片数据，但无法解码出内容。</p><p>收听过程中，发现一个小细节。</p><ul><li>16:37，9675kHz数字信号停止发射。</li><li>16:39，9675kHz恢复发射，并改为模拟信号。</li><li>16:40，播出几秒中国之声节目，随后信号消失。</li></ul><p><img src="https://cahcn.github.io/img/img/2025-10-07/9645khz_drm_test_20251007_1605.png" alt="9645kHz"><br><img src="https://cahcn.github.io/img/img/2025-10-07/9675khz_drm_test_20251007_1635.png" alt="9675kHz"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;2025年10月7日下午，国内某发射台使用9645、9675kHz频率，发射DRM短波数字广播测试信号。&lt;/p&gt;</summary>
