@@ -6,7 +6,7 @@
   <link href="https://cahcn.github.io/atom.xml" rel="self"/>
   
   <link href="https://cahcn.github.io/"/>
-  <updated>2025-10-09T16:17:38.793Z</updated>
+  <updated>2025-10-18T13:34:13.070Z</updated>
   <id>https://cahcn.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>666kHz 海峡之声广播电台DRM测试信号</title>
+    <link href="https://cahcn.github.io/posts/2025-10-18-666khz-drm.html"/>
+    <id>https://cahcn.github.io/posts/2025-10-18-666khz-drm.html</id>
+    <published>2025-10-18T13:27:50.000Z</published>
+    <updated>2025-10-18T13:34:13.070Z</updated>
+    
+    <content type="html"><![CDATA[<p>2025年10月18日晚间，海峡之声广播电台使用中波频率666kHz，发射DRM短波数字广播测试信号。</p><span id="more"></span><p>测试信号使用xHE-AAC编码，同时传输有新闻志、幻灯片两路数据，解码幻灯片一路数据，无内容传送。</p><p><img src="https://cahcn.github.io/img/img/2025-10-18/666kHz-1.png"><br><img src="https://cahcn.github.io/img/img/2025-10-18/666kHz-2.png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;2025年10月18日晚间，海峡之声广播电台使用中波频率666kHz，发射DRM短波数字广播测试信号。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>9645、9675kHz DRM测试信号</title>
@@ -369,25 +388,6 @@
     
     
     <summary type="html">&lt;p&gt;本周，广东、广州、湖南三家广播电视台相继对外发布系统性变革实施方案。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>19000、25730kHz 中国民乐台</title>
-    <link href="https://cahcn.github.io/posts/2025-06-24-test.html"/>
-    <id>https://cahcn.github.io/posts/2025-06-24-test.html</id>
-    <published>2025-06-24T10:15:38.000Z</published>
-    <updated>2025-08-17T02:14:41.870Z</updated>
-    
-    <content type="html"><![CDATA[<p>根据浙江听友提供的消息，2025年6月23日、6月24日，中国境内某发射台分别使用19000、25730kHz两个频率播出测试信号，用途不明。</p><span id="more"></span><p>2025年6月23日上午，19000kHz出现测试用的中国民乐台，持续约一个小时。<br>接收视频：<a href="https://www.bilibili.com/video/BV1FVK8zmEt4/">https://www.bilibili.com/video/BV1FVK8zmEt4/</a></p><p>2025年6月24日下午，测试信号出现在25730kHz，罕见的使用11米波段发射测试信号。<br>接收视频：<a href="https://www.bilibili.com/video/BV1BpK3zZEyw/">https://www.bilibili.com/video/BV1BpK3zZEyw/</a></p><p>测试信号播出的中国民乐，有别于中波、短波干扰某些特定境外电台的使用的民乐曲目，显然并不是用于干扰目的。</p><hr><p>（2025年8月2日更新）<br>根据听友反馈，2025年8月2日14:30左右，19000kHz再次出现中国民乐台的测试信号。</p><p>（2025年8月17日更新）<br>根据日本听友反馈，2025年8月3日16:50左右、8月16日12:00-13:00，25730kHz两次出现中国民乐台的测试信号。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;根据浙江听友提供的消息，2025年6月23日、6月24日，中国境内某发射台分别使用19000、25730kHz两个频率播出测试信号，用途不明。&lt;/p&gt;</summary>
     
     
     
