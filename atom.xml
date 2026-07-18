@@ -34,6 +34,23 @@
     </author>
     <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
     <content>
+      <![CDATA[<p>2026年7月1日，中国国际广播电台临时增加多个短波频率发射，播出特别节目。</p><span id="more"></span><p>频率及播出时间如下：</p><p><strong>普通话</strong><br>08:30-09:00　15160kHz（500kW，金华，59°）<br>08:30-11:30　15400kHz（500kW，乌鲁木齐，270°）<br>08:30-11:30　17710kHz（500kW，喀什，308°）<br>08:30-11:30　17730kHz（500kW，乌鲁木齐，212°）<br>08:30-11:30　17820kHz（500kW，昆明，280°）<br>10:00-11:30　17690kHz（500kW，西安，135°）</p><p><strong>英语</strong><br>08:30-10:00　15110kHz（100kW，喀什，174°）<br>10:00-11:30　17740kHz（500kW，西安，200°）</p>]]>
+    </content>
+    <id>https://cahcn.github.io/posts/2026-07-06-cri.html</id>
+    <link href="https://cahcn.github.io/posts/2026-07-06-cri.html"/>
+    <published>2026-07-06T02:54:01.000Z</published>
+    <summary>
+      <![CDATA[<p>2026年7月1日，中国国际广播电台临时增加多个短波频率发射，播出特别节目。</p>]]>
+    </summary>
+    <title>中国国际广播电台新增短波频率（7月1日）</title>
+    <updated>2026-07-06T03:18:53.431Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Cahcn</name>
+    </author>
+    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
+    <content>
       <![CDATA[<p>2026年7月1日，西藏广播电视台都市生活广播FM98.0呼号调整为“交通文旅广播”。</p><span id="more"></span><p><a href="https://mp.weixin.qq.com/s/rwF-cqbdOUaQnGgdiyr-4Q">https://mp.weixin.qq.com/s/rwF-cqbdOUaQnGgdiyr-4Q</a><br><a href="http://media.tibet.cn/video/news/20260701/1782892029677.shtml">http://media.tibet.cn/video/news/20260701/1782892029677.shtml</a></p><p>呼号调整前，西藏广播电视台是国内唯一一个没有开办交通广播的省级广播电视台。</p>]]>
     </content>
     <id>https://cahcn.github.io/posts/2026-07-06-xizang-fm98.0.html</id>
@@ -334,22 +351,5 @@
     </summary>
     <title>21605kHz 世界无线电日DRM特别广播</title>
     <updated>2026-02-14T16:07:23.766Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Cahcn</name>
-    </author>
-    <category term="radio" scheme="https://cahcn.github.io/categories/radio/"/>
-    <content>
-      <![CDATA[<p>根据马来西亚网友Philip Yong的消息，2026年2月3日，马来西亚广播电视台（Radio Televisyen Malaysia，简称“RTM”）在雪兰莪州加影，使用15295、11885kHz两个频率，测试发射短波信号。</p><span id="more"></span><p>其中：<br>15295kHz 播出 Sabah V FM<br>11885kHz 播出 Nasional FM</p><p><a href="https://philipdxinglog.blogspot.com/2026/02/Rtm-shortwave-test-15295kHz-and-11885kHz.html">https://philipdxinglog.blogspot.com/2026/02/Rtm-shortwave-test-15295kHz-and-11885kHz.html</a></p><p><em>笔者注：15295、11885kHz两个短波频率，曾用于发射Voice of Malaysia（马来西亚之声）。</em></p><hr><p>另据该网友消息，Sabah V FM广播，每天09:00-12:00（北京时间）播出中文节目，12:00-15:00播出英语节目。</p><p>广播时间表，详见：<br><a href="https://philipdxinglog.blogspot.com/2026/02/SabahVFM-broadcast-schedule-shortwave-UTC.html">https://philipdxinglog.blogspot.com/2026/02/SabahVFM-broadcast-schedule-shortwave-UTC.html</a></p><hr><p>笔者查阅青木表，发现马来西亚广播电视台近几年曾使用三个短波频率发射对内广播，部分频率目前是否仍在发射，情况未知。</p><ul><li>6050kHz　RTM Asyik FM</li><li>9835kHz　RTM Sarawak FM</li><li>11665kHz　RTM Wai &#x2F; Limbang FM</li></ul><p>2025年9月，曾有爱好者在11665kHz频率上收到RTM Wai FM的信号，并收到官方发送的e-QSL卡。<br><a href="https://petersdxcorner.nl/malaysia/qsl-rtm-wai-fm-11665-khz/">https://petersdxcorner.nl/malaysia/qsl-rtm-wai-fm-11665-khz/</a></p>]]>
-    </content>
-    <id>https://cahcn.github.io/posts/2026-02-07-radio-televisyen-malaysia.html</id>
-    <link href="https://cahcn.github.io/posts/2026-02-07-radio-televisyen-malaysia.html"/>
-    <published>2026-02-07T13:06:40.000Z</published>
-    <summary>
-      <![CDATA[<p>根据马来西亚网友Philip Yong的消息，2026年2月3日，马来西亚广播电视台（Radio Televisyen Malaysia，简称“RTM”）在雪兰莪州加影，使用15295、11885kHz两个频率，测试发射短波信号。</p>]]>
-    </summary>
-    <title>马来西亚RTM使用15295、11885kHz测试发射信号</title>
-    <updated>2026-02-08T00:04:01.460Z</updated>
   </entry>
 </feed>
